@@ -59,3 +59,6 @@ A lógica de execução do script `ticketmedio.py` foi estruturada da seguinte f
 * `ticketmedio.py`: Script principal contendo o código fonte em Python.
 * `relatorio_vendas_lanchonete.csv`: Base de dados original com o histórico de vendas.
 * `relatorio_vendas_atualizado.csv`: Base de dados gerada pelo script contendo a nova coluna de classificação.
+
+## ATENÇÂO: 
+Todos os dados manipulados são ficticios. 
