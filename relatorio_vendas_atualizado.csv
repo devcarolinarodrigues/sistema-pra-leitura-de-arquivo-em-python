@@ -1,0 +1,1891 @@
+data,hora,Número do pedido,Produto,Valor total de itens,forma de pagamento,comparacao_ticket
+"01/05/2026,18:02:02,745,""X-Tudo (Artesanal 150g),2xX-Tudo (Artesanal 150g),X-Tudo (Padrão)"",86.6,Cartão de Crédito,Acima da média"
+"01/05/2026,18:08:23,241,""X-Completo (Padrão),Filé bacon"",42.8,Cartão de Crédito,Abaixo da média"
+"01/05/2026,18:13:20,67,""X-Tudo (Artesanal 150g),Frango completo,Molho de alho"",49.7,Dinheiro,Abaixo da média"
+"01/05/2026,18:14:53,770,""X-Tudo (Artesanal 150g),Frango salada"",39.8,Cartão de Débito,Abaixo da média"
+"01/05/2026,18:20:03,618,""X-Completo (Artesanal 150g),Lombo completo"",50.8,Cartão de Crédito,Acima da média"
+01/05/2026,18:29:53,13,Molho da casa,1.9,Cartão de Débito,Abaixo da média
+"01/05/2026,18:33:05,863,""2xMolho da casa,Filé Completo,Frango salada"",49.6,Cartão de Débito,Abaixo da média"
+01/05/2026,18:46:26,28,Lombo bacon,15.9,Cartão de Débito,Abaixo da média
+"01/05/2026,18:47:39,418,""Filé salada,X-Bacon (Padrão),Lombo bacon,Cerveja Lata"",58.6,Cartão de Débito,Acima da média"
+"01/05/2026,19:03:57,534,""Lombo bacon,Batata frita grande,3xFrango completo"",103.5,Cartão de Débito,Acima da média"
+01/05/2026,19:04:15,835,3xFrango salada,50.7,Pix,Acima da média
+"01/05/2026,19:09:33,521,""X-Salada (Artesanal 150g),2xFrango completo"",78.7,Cartão de Débito,Acima da média"
+"01/05/2026,19:21:12,637,""Batata frita grande,X-Completo (Padrão),Lombo salada"",54.7,Cartão de Débito,Acima da média"
+01/05/2026,19:23:11,122,Lombo tudo,17.9,Cartão de Crédito,Abaixo da média
+"01/05/2026,19:23:32,13,""X-Bacon (Padrão),2xLombo salada,Filé bacon,Molho de alho"",69.5,Dinheiro,Acima da média"
+"01/05/2026,19:28:46,505,""Refrigerante lata,X-Salada (Artesanal 150g),Lombo completo"",57.7,Cartão de Crédito,Acima da média"
+"01/05/2026,19:30:43,112,""Frango tudo,Lombo completo"",42.8,Pix,Abaixo da média"
+"01/05/2026,19:41:59,861,""X-Completo (Artesanal 150g),Filé Completo,Molho de alho,Frango completo"",81.6,Pix,Acima da média"
+"01/05/2026,19:47:30,423,""X-Salada (Artesanal 150g),X-Salada (Padrão)"",45.8,Pix,Abaixo da média"
+"01/05/2026,20:03:14,431,""X-Bacon (Padrão),Filé tudo,X-Salada (Artesanal 150g),Batata frita pequena"",74.6,Cartão de Crédito,Acima da média"
+"01/05/2026,20:04:37,762,""Filé Completo,X-Tudo (Padrão)"",46.8,Cartão de Débito,Abaixo da média"
+"01/05/2026,20:11:03,973,""Frango bacon,Lombo tudo,Molho da casa,Molho da casa"",37.6,Pix,Abaixo da média"
+01/05/2026,20:11:33,344,2xX-Bacon (Artesanal 150g),41.8,Pix,Abaixo da média
+"01/05/2026,20:15:18,518,""Filé salada,X-Completo (Padrão),Molho da casa"",46.7,Cartão de Débito,Abaixo da média"
+"01/05/2026,20:18:10,10,""Filé tudo,Batata frita pequena"",29.8,Pix,Abaixo da média"
+"01/05/2026,20:19:40,856,""X-Tudo (Artesanal 150g),Frango salada"",39.8,Pix,Abaixo da média"
+"01/05/2026,20:21:32,128,""Frango salada,Lombo bacon,Refrigerante lata"",36.7,Cartão de Crédito,Abaixo da média"
+"01/05/2026,20:22:12,335,""Lombo bacon,Molho da casa"",17.8,Cartão de Débito,Abaixo da média"
+"01/05/2026,20:24:51,841,""Batata frita pequena,X-Completo (Artesanal 150g),X-Bacon (Padrão)"",50.7,Cartão de Débito,Acima da média"
+"01/05/2026,20:27:51,276,""Lombo tudo,X-Tudo (Artesanal 150g),Molho de alho,Frango completo"",67.6,Pix,Acima da média"
+"01/05/2026,20:29:39,274,""Molho da casa,X-Bacon (Artesanal 150g)"",22.8,Pix,Abaixo da média"
+"01/05/2026,20:31:34,819,""Lombo bacon,Cerveja Lata,X-Completo (Padrão)"",47.7,Pix,Abaixo da média"
+01/05/2026,20:33:32,208,Lombo bacon,15.9,Dinheiro,Abaixo da média
+"01/05/2026,20:35:02,747,""Refrigerante lata,Frango bacon"",19.8,Cartão de Crédito,Abaixo da média"
+01/05/2026,20:40:30,527,Lombo bacon,15.9,Cartão de Débito,Abaixo da média
+01/05/2026,20:42:30,125,2xRefrigerante litro,15.8,Pix,Abaixo da média
+01/05/2026,20:44:28,859,X-Bacon (Artesanal 150g),20.9,Cartão de Débito,Abaixo da média
+01/05/2026,20:46:53,590,Filé bacon,17.9,Dinheiro,Abaixo da média
+"01/05/2026,20:51:18,669,""Batata frita grande,Frango tudo,Filé bacon,X-Tudo (Artesanal 150g)"",71.6,Pix,Acima da média"
+"01/05/2026,20:51:20,839,""X-Salada (Artesanal 150g),Frango completo,3xFilé Completo"",140.5,Cartão de Débito,Acima da média"
+"01/05/2026,20:53:51,602,""Lombo tudo,X-Completo (Padrão),Lombo salada,Lombo bacon"",75.6,Cartão de Crédito,Acima da média"
+01/05/2026,21:05:38,32,Cerveja Lata,6.9,Pix,Abaixo da média
+01/05/2026,21:05:43,193,Filé Completo,28.9,Cartão de Débito,Abaixo da média
+01/05/2026,21:12:58,203,Batata frita pequena,8.9,Cartão de Débito,Abaixo da média
+"01/05/2026,21:18:30,43,""X-Bacon (Padrão),Cerveja Lata,X-Salada (Padrão),Filé bacon"",57.6,Pix,Acima da média"
+"01/05/2026,21:20:13,271,""X-Bacon (Artesanal 150g),2xRefrigerante litro"",36.7,Cartão de Crédito,Abaixo da média"
+"01/05/2026,21:29:58,137,""Molho da casa,2xX-Tudo (Artesanal 150g)"",47.7,Dinheiro,Abaixo da média"
+"01/05/2026,21:44:07,418,""Lombo salada,Lombo tudo"",34.8,Pix,Abaixo da média"
+01/05/2026,21:44:11,931,2xFrango completo,49.8,Cartão de Crédito,Acima da média
+"01/05/2026,22:02:03,455,""X-Salada (Padrão),Filé tudo,Frango completo"",62.7,Dinheiro,Acima da média"
+"01/05/2026,22:09:25,649,""Lombo completo,X-Tudo (Artesanal 150g)"",47.8,Dinheiro,Abaixo da média"
+"01/05/2026,22:22:37,596,""2xFrango salada,Lombo bacon"",49.7,Cartão de Crédito,Abaixo da média"
+01/05/2026,22:28:46,391,X-Tudo (Padrão),17.9,Cartão de Débito,Abaixo da média
+01/05/2026,22:34:38,389,Batata frita pequena,8.9,Pix,Abaixo da média
+"01/05/2026,22:40:26,772,""X-Tudo (Artesanal 150g),Cerveja Lata"",29.8,Cartão de Crédito,Abaixo da média"
+"01/05/2026,22:43:55,525,""X-Salada (Artesanal 150g),Lombo tudo"",46.8,Cartão de Crédito,Abaixo da média"
+01/05/2026,22:44:43,308,Batata frita pequena,8.9,Pix,Abaixo da média
+"01/05/2026,22:55:53,627,""Filé bacon,Frango completo,Filé tudo"",63.7,Dinheiro,Acima da média"
+"01/05/2026,22:56:42,882,""2xRefrigerante litro,X-Bacon (Artesanal 150g)"",36.7,Dinheiro,Abaixo da média"
+01/05/2026,22:58:52,812,X-Tudo (Padrão),17.9,Cartão de Crédito,Abaixo da média
+"01/05/2026,23:07:05,312,""X-Completo (Artesanal 150g),X-Tudo (Artesanal 150g),Frango salada"",65.7,Cartão de Crédito,Acima da média"
+"01/05/2026,23:16:49,331,""Filé Completo,Refrigerante litro,2xBatata frita grande,3xFrango bacon"",110.3,Pix,Acima da média"
+"01/05/2026,23:22:51,810,""X-Bacon (Artesanal 150g),Batata frita grande"",33.8,Pix,Abaixo da média"
+"01/05/2026,23:24:30,119,""3xX-Bacon (Padrão),X-Salada (Padrão),Lombo tudo"",82.5,Pix,Acima da média"
+"01/05/2026,23:44:27,416,""Batata frita pequena,Frango completo,X-Tudo (Artesanal 150g)"",56.7,Cartão de Crédito,Acima da média"
+"01/05/2026,23:49:17,38,""Lombo completo,X-Salada (Artesanal 150g),Refrigerante lata,Filé Completo"",86.6,Cartão de Crédito,Acima da média"
+01/05/2026,23:51:49,620,Refrigerante lata,3.9,Pix,Abaixo da média
+"01/05/2026,23:52:55,602,""X-Tudo (Artesanal 150g),Frango tudo,X-Tudo (Padrão),X-Tudo (Artesanal 150g)"",81.6,Cartão de Débito,Acima da média"
+"01/05/2026,23:55:10,17,""Lombo salada,X-Tudo (Padrão)"",34.8,Cartão de Crédito,Abaixo da média"
+"01/05/2026,23:55:52,107,""X-Tudo (Padrão),2xX-Tudo (Artesanal 150g),2xX-Completo (Artesanal 150g)"",115.5,Cartão de Crédito,Acima da média"
+"02/05/2026,18:03:23,647,""Lombo tudo,Filé Completo,Molho de alho"",48.7,Cartão de Débito,Abaixo da média"
+"02/05/2026,18:04:35,569,""Refrigerante litro,Molho da casa"",9.8,Cartão de Débito,Abaixo da média"
+02/05/2026,18:06:10,601,2xFilé salada,39.8,Cartão de Débito,Abaixo da média
+"02/05/2026,18:08:30,843,""Refrigerante lata,Lombo salada"",20.8,Pix,Abaixo da média"
+"02/05/2026,18:21:25,677,""2xFrango completo,2xMolho de alho,2xX-Salada (Padrão)"",87.4,Dinheiro,Acima da média"
+"02/05/2026,18:24:11,442,""X-Salada (Padrão),Frango salada"",33.8,Cartão de Débito,Abaixo da média"
+"02/05/2026,18:29:20,180,""Refrigerante lata,Lombo tudo"",21.8,Cartão de Débito,Abaixo da média"
+02/05/2026,19:03:20,183,Lombo salada,16.9,Cartão de Crédito,Abaixo da média
+"02/05/2026,19:06:42,975,""X-Completo (Padrão),Lombo salada,2xLombo completo,Frango tudo"",109.5,Cartão de Crédito,Acima da média"
+"02/05/2026,19:08:02,99,""X-Salada (Padrão),Batata frita grande,Filé tudo"",50.7,Cartão de Crédito,Acima da média"
+"02/05/2026,19:17:02,557,""Batata frita grande,2xRefrigerante litro"",28.7,Pix,Abaixo da média"
+"02/05/2026,19:29:55,384,""Lombo salada,Cerveja Lata,Frango salada"",40.7,Pix,Abaixo da média"
+"02/05/2026,19:31:17,98,""X-Tudo (Artesanal 150g),Molho da casa,Filé bacon"",42.7,Cartão de Crédito,Abaixo da média"
+"02/05/2026,19:34:34,463,""X-Salada (Padrão),Lombo tudo,Filé Completo"",63.7,Cartão de Débito,Acima da média"
+"02/05/2026,19:43:01,18,""X-Completo (Artesanal 150g),X-Tudo (Padrão)"",43.8,Cartão de Débito,Abaixo da média"
+"02/05/2026,19:47:08,539,""Frango tudo,2xBatata frita grande,2xX-Bacon (Artesanal 150g)"",85.5,Cartão de Crédito,Acima da média"
+"02/05/2026,19:55:28,430,""X-Salada (Artesanal 150g),2xFilé tudo"",70.7,Pix,Acima da média"
+"02/05/2026,19:56:03,570,""Molho de alho,Refrigerante litro,Batata frita pequena"",18.7,Cartão de Débito,Abaixo da média"
+02/05/2026,20:08:21,111,Lombo tudo,17.9,Cartão de Débito,Abaixo da média
+02/05/2026,20:09:06,414,Refrigerante litro,7.9,Pix,Abaixo da média
+"02/05/2026,20:12:25,847,""Cerveja Lata,2xRefrigerante lata,2xRefrigerante litro,3xFrango tudo"",84.2,Pix,Acima da média"
+"02/05/2026,20:17:55,375,""Lombo tudo,X-Completo (Padrão),Frango salada"",59.7,Cartão de Crédito,Acima da média"
+"02/05/2026,20:18:57,177,""Lombo salada,Molho de alho,X-Completo (Padrão),Lombo tudo"",61.6,Cartão de Crédito,Acima da média"
+"02/05/2026,20:21:04,757,""Refrigerante litro,X-Salada (Padrão),X-Salada (Artesanal 150g),X-Salada (Artesanal 150g)"",82.6,Pix,Acima da média"
+"02/05/2026,20:23:43,875,""Lombo bacon,2xLombo bacon,Filé Completo,Refrigerante litro"",84.5,Pix,Acima da média"
+02/05/2026,20:31:49,426,X-Salada (Artesanal 150g),28.9,Pix,Abaixo da média
+"02/05/2026,20:39:31,675,""Lombo completo,X-Bacon (Artesanal 150g)"",45.8,Pix,Abaixo da média"
+"02/05/2026,20:58:28,56,""Lombo completo,Molho de alho"",26.8,Cartão de Crédito,Abaixo da média"
+02/05/2026,21:11:10,166,Frango bacon,15.9,Dinheiro,Abaixo da média
+"02/05/2026,21:29:38,560,""Lombo bacon,Frango tudo"",33.8,Pix,Abaixo da média"
+"02/05/2026,21:51:17,653,""X-Tudo (Artesanal 150g),Filé Completo,Frango tudo"",69.7,Cartão de Crédito,Acima da média"
+"02/05/2026,21:54:38,562,""Batata frita grande,Filé bacon,Lombo tudo"",48.7,Pix,Abaixo da média"
+02/05/2026,21:57:16,429,Molho de alho,1.9,Cartão de Crédito,Abaixo da média
+"02/05/2026,22:09:11,193,""X-Tudo (Padrão),2xFrango tudo"",53.7,Cartão de Débito,Acima da média"
+02/05/2026,22:12:27,44,Frango bacon,15.9,Cartão de Débito,Abaixo da média
+"02/05/2026,22:17:06,242,""X-Salada (Padrão),2xLombo salada,3xX-Bacon (Artesanal 150g),Frango bacon"",129.3,Cartão de Débito,Acima da média"
+"02/05/2026,22:29:37,865,""Frango salada,Molho de alho,X-Completo (Artesanal 150g),Molho de alho"",46.6,Pix,Abaixo da média"
+"02/05/2026,22:33:58,115,""X-Tudo (Padrão),Frango bacon,Frango salada"",50.7,Cartão de Débito,Acima da média"
+02/05/2026,22:43:58,447,Refrigerante lata,3.9,Cartão de Crédito,Abaixo da média
+"02/05/2026,23:01:17,138,""X-Tudo (Padrão),Refrigerante litro"",25.8,Cartão de Crédito,Abaixo da média"
+02/05/2026,23:03:38,729,Molho de alho,1.9,Pix,Abaixo da média
+02/05/2026,23:07:49,383,X-Completo (Padrão),24.9,Dinheiro,Abaixo da média
+02/05/2026,23:10:09,420,Lombo salada,16.9,Dinheiro,Abaixo da média
+"02/05/2026,23:12:41,811,""Lombo completo,Lombo salada,Lombo completo,X-Tudo (Padrão)"",84.6,Cartão de Crédito,Acima da média"
+"02/05/2026,23:19:08,853,""Cerveja Lata,X-Tudo (Artesanal 150g),X-Completo (Padrão),Lombo tudo"",72.6,Cartão de Crédito,Acima da média"
+"02/05/2026,23:20:43,168,""Molho de alho,2xX-Salada (Artesanal 150g),Refrigerante litro"",67.6,Pix,Acima da média"
+"02/05/2026,23:22:08,526,""Refrigerante lata,Frango tudo,Frango tudo,3xFilé Completo"",126.4,Pix,Acima da média"
+"02/05/2026,23:26:22,761,""2xRefrigerante litro,Filé salada"",35.7,Pix,Abaixo da média"
+"02/05/2026,23:37:06,213,""Batata frita pequena,Lombo salada"",25.8,Cartão de Débito,Abaixo da média"
+"02/05/2026,23:49:51,231,""Refrigerante lata,X-Tudo (Artesanal 150g),Frango salada"",43.7,Cartão de Débito,Abaixo da média"
+"02/05/2026,23:50:59,427,""Filé bacon,Batata frita grande,X-Salada (Artesanal 150g)"",59.7,Pix,Acima da média"
+"02/05/2026,23:52:28,466,""Frango completo,Lombo salada"",41.8,Pix,Abaixo da média"
+03/05/2026,18:06:14,883,X-Bacon (Artesanal 150g),20.9,Pix,Abaixo da média
+"03/05/2026,18:09:01,97,""Batata frita pequena,Lombo completo,X-Bacon (Padrão),X-Salada (Padrão)"",66.6,Pix,Acima da média"
+"03/05/2026,18:19:33,224,""2xX-Salada (Padrão),X-Tudo (Padrão),2xBatata frita pequena,X-Completo (Padrão)"",94.4,Cartão de Débito,Acima da média"
+"03/05/2026,18:20:33,251,""Refrigerante litro,Filé Completo,Lombo bacon"",52.7,Cartão de Débito,Acima da média"
+"03/05/2026,18:33:07,245,""3xMolho de alho,X-Salada (Artesanal 150g)"",34.6,Cartão de Débito,Abaixo da média"
+03/05/2026,18:36:14,949,Frango tudo,17.9,Cartão de Crédito,Abaixo da média
+"03/05/2026,18:39:09,163,""Filé Completo,X-Bacon (Artesanal 150g),Refrigerante litro"",57.7,Dinheiro,Acima da média"
+"03/05/2026,18:39:28,298,""Lombo bacon,Filé tudo"",36.8,Dinheiro,Abaixo da média"
+"03/05/2026,18:42:03,850,""Frango completo,Frango tudo,Filé bacon,2xX-Bacon (Padrão)"",92.5,Cartão de Crédito,Acima da média"
+"03/05/2026,18:51:49,835,""2xX-Completo (Artesanal 150g),Filé bacon,Batata frita grande,2xBatata frita pequena"",100.4,Cartão de Crédito,Acima da média"
+03/05/2026,18:54:08,406,Filé salada,19.9,Dinheiro,Abaixo da média
+"03/05/2026,19:05:20,147,""X-Tudo (Padrão),X-Tudo (Padrão),X-Tudo (Padrão),Filé tudo"",74.6,Pix,Acima da média"
+03/05/2026,19:05:45,806,X-Tudo (Artesanal 150g),22.9,Cartão de Crédito,Abaixo da média
+"03/05/2026,19:12:12,174,""2xFilé salada,Filé tudo"",60.7,Cartão de Crédito,Acima da média"
+03/05/2026,19:14:00,612,Frango completo,24.9,Pix,Abaixo da média
+03/05/2026,19:18:11,110,X-Tudo (Padrão),17.9,Cartão de Crédito,Abaixo da média
+"03/05/2026,19:44:05,944,""3xFilé Completo,Refrigerante litro,Frango salada"",111.5,Cartão de Débito,Acima da média"
+"03/05/2026,19:47:05,410,""X-Bacon (Padrão),Lombo completo,X-Bacon (Artesanal 150g)"",61.7,Cartão de Crédito,Acima da média"
+03/05/2026,19:47:44,572,Molho da casa,1.9,Cartão de Crédito,Abaixo da média
+03/05/2026,19:50:47,492,Batata frita pequena,8.9,Cartão de Débito,Abaixo da média
+"03/05/2026,19:56:57,805,""Molho da casa,2xFrango completo,Molho da casa"",53.6,Cartão de Débito,Acima da média"
+03/05/2026,20:07:30,823,X-Tudo (Padrão),17.9,Pix,Abaixo da média
+"03/05/2026,20:07:32,228,""Refrigerante litro,Frango bacon"",23.8,Cartão de Débito,Abaixo da média"
+"03/05/2026,20:10:35,387,""Frango salada,2xMolho da casa,X-Salada (Artesanal 150g),Refrigerante lata"",53.5,Cartão de Débito,Acima da média"
+03/05/2026,20:12:01,556,Refrigerante lata,3.9,Dinheiro,Abaixo da média
+03/05/2026,20:21:48,974,X-Salada (Padrão),16.9,Cartão de Crédito,Abaixo da média
+"03/05/2026,20:53:14,763,""Molho de alho,Lombo completo,Lombo salada"",43.7,Pix,Abaixo da média"
+"03/05/2026,20:55:20,655,""Lombo bacon,Molho de alho"",17.8,Pix,Abaixo da média"
+03/05/2026,21:01:35,218,2xBatata frita grande,25.8,Cartão de Crédito,Abaixo da média
+"03/05/2026,21:04:16,184,""Refrigerante lata,Filé salada,X-Bacon (Artesanal 150g)"",44.7,Pix,Abaixo da média"
+"03/05/2026,21:04:55,272,""Lombo completo,Lombo salada,Frango completo"",66.7,Cartão de Crédito,Acima da média"
+"03/05/2026,21:05:05,895,""Refrigerante litro,Lombo completo"",32.8,Pix,Abaixo da média"
+"03/05/2026,21:06:33,869,""Frango salada,Filé Completo,Filé tudo,Filé bacon"",84.6,Cartão de Débito,Acima da média"
+"03/05/2026,21:08:19,314,""Filé salada,X-Salada (Artesanal 150g),Lombo tudo,2xLombo tudo"",102.5,Dinheiro,Acima da média"
+"03/05/2026,21:08:39,321,""Lombo salada,Molho da casa,X-Salada (Padrão)"",35.7,Cartão de Crédito,Abaixo da média"
+"03/05/2026,21:12:04,707,""2xFilé bacon,Lombo bacon,Frango tudo"",69.6,Cartão de Crédito,Acima da média"
+"03/05/2026,21:16:58,788,""Filé tudo,X-Tudo (Padrão),X-Tudo (Artesanal 150g)"",61.7,Cartão de Débito,Acima da média"
+"03/05/2026,21:20:58,587,""Refrigerante lata,Frango tudo"",21.8,Dinheiro,Abaixo da média"
+"03/05/2026,21:37:32,23,""Frango bacon,3xLombo salada,Frango bacon,2xFrango bacon"",114.3,Pix,Acima da média"
+"03/05/2026,21:39:26,726,""Lombo completo,X-Bacon (Padrão),Refrigerante lata"",44.7,Cartão de Débito,Abaixo da média"
+"03/05/2026,21:41:30,832,""X-Salada (Padrão),Refrigerante lata,Refrigerante litro"",28.7,Pix,Abaixo da média"
+03/05/2026,21:52:24,769,Frango completo,24.9,Cartão de Crédito,Abaixo da média
+03/05/2026,22:11:38,151,3xFilé bacon,53.7,Pix,Acima da média
+"03/05/2026,22:13:49,94,""Refrigerante lata,Lombo salada,Filé Completo"",49.7,Cartão de Crédito,Abaixo da média"
+"03/05/2026,22:18:54,731,""Molho da casa,Filé tudo,Molho da casa"",24.7,Cartão de Crédito,Abaixo da média"
+"03/05/2026,22:23:35,335,""Refrigerante lata,Frango tudo"",21.8,Dinheiro,Abaixo da média"
+"03/05/2026,22:29:33,401,""X-Tudo (Padrão),X-Tudo (Padrão)"",35.8,Pix,Abaixo da média"
+03/05/2026,22:29:50,275,X-Salada (Padrão),16.9,Dinheiro,Abaixo da média
+"03/05/2026,22:40:03,277,""2xBatata frita grande,Batata frita grande,Filé tudo"",59.6,Pix,Acima da média"
+"03/05/2026,22:45:01,935,""Refrigerante litro,Molho da casa"",9.8,Pix,Abaixo da média"
+"03/05/2026,22:47:51,35,""Lombo bacon,2xRefrigerante litro"",31.7,Cartão de Crédito,Abaixo da média"
+"03/05/2026,22:54:08,390,""2xLombo bacon,2xX-Salada (Artesanal 150g),X-Bacon (Padrão)"",105.5,Pix,Acima da média"
+03/05/2026,22:58:28,468,X-Completo (Padrão),24.9,Dinheiro,Abaixo da média
+03/05/2026,23:07:44,385,X-Bacon (Padrão),15.9,Cartão de Débito,Abaixo da média
+"03/05/2026,23:08:49,199,""Filé salada,Frango tudo"",37.8,Cartão de Débito,Abaixo da média"
+03/05/2026,23:13:35,246,Molho da casa,1.9,Cartão de Débito,Abaixo da média
+"03/05/2026,23:18:24,848,""X-Tudo (Padrão),Batata frita grande,Lombo tudo,Molho da casa"",50.6,Cartão de Débito,Acima da média"
+03/05/2026,23:23:27,395,X-Completo (Artesanal 150g),25.9,Pix,Abaixo da média
+"03/05/2026,23:25:40,46,""Molho de alho,Batata frita grande,Cerveja Lata,Cerveja Lata"",28.6,Cartão de Crédito,Abaixo da média"
+03/05/2026,23:33:42,499,Filé tudo,20.9,Cartão de Débito,Abaixo da média
+"04/05/2026,18:07:57,74,""2xLombo tudo,Frango completo,2xX-Tudo (Artesanal 150g)"",106.5,Cartão de Débito,Acima da média"
+"04/05/2026,18:12:01,785,""Cerveja Lata,Lombo bacon"",22.8,Cartão de Crédito,Abaixo da média"
+"04/05/2026,18:26:19,186,""X-Salada (Artesanal 150g),Cerveja Lata"",35.8,Cartão de Crédito,Abaixo da média"
+"04/05/2026,18:30:30,543,""Lombo bacon,Frango salada,X-Completo (Padrão),Refrigerante lata"",61.6,Pix,Acima da média"
+04/05/2026,18:32:22,617,2xFilé tudo,41.8,Pix,Abaixo da média
+04/05/2026,18:59:00,220,Filé tudo,20.9,Cartão de Débito,Abaixo da média
+"04/05/2026,18:59:19,420,""Molho da casa,Filé Completo,Lombo salada"",47.7,Cartão de Débito,Abaixo da média"
+"04/05/2026,19:00:19,654,""Molho de alho,Frango tudo,Lombo tudo"",37.7,Pix,Abaixo da média"
+"04/05/2026,19:00:25,544,""Cerveja Lata,Frango bacon,Frango tudo"",40.7,Pix,Abaixo da média"
+"04/05/2026,19:03:56,171,""Frango tudo,Filé salada"",37.8,Pix,Abaixo da média"
+"04/05/2026,19:18:24,226,""X-Salada (Artesanal 150g),2xX-Bacon (Padrão)"",60.7,Pix,Acima da média"
+04/05/2026,19:19:35,241,Refrigerante lata,3.9,Pix,Abaixo da média
+"04/05/2026,19:20:07,141,""Frango bacon,Frango tudo"",33.8,Cartão de Crédito,Abaixo da média"
+"04/05/2026,19:23:57,282,""Frango completo,2xLombo completo"",74.7,Cartão de Débito,Acima da média"
+"04/05/2026,19:26:24,341,""Frango tudo,Frango salada,Cerveja Lata,Refrigerante litro"",49.6,Cartão de Crédito,Abaixo da média"
+04/05/2026,19:27:59,757,3xFrango salada,50.7,Cartão de Débito,Acima da média
+"04/05/2026,19:32:30,787,""Filé bacon,Frango salada,Filé Completo"",63.7,Cartão de Crédito,Acima da média"
+"04/05/2026,19:38:45,190,""Refrigerante litro,Lombo completo,X-Completo (Artesanal 150g),Refrigerante litro"",66.6,Pix,Acima da média"
+"04/05/2026,19:46:38,792,""Batata frita pequena,2xCerveja Lata,Frango bacon"",38.6,Cartão de Crédito,Abaixo da média"
+"04/05/2026,19:53:02,940,""Refrigerante litro,2xFrango salada"",41.7,Cartão de Crédito,Abaixo da média"
+"04/05/2026,19:55:15,768,""Molho da casa,Refrigerante lata,Lombo bacon"",21.7,Cartão de Débito,Abaixo da média"
+"04/05/2026,19:57:24,178,""X-Bacon (Artesanal 150g),Batata frita grande,X-Completo (Artesanal 150g)"",59.7,Pix,Acima da média"
+"04/05/2026,20:01:29,417,""Frango bacon,Refrigerante lata,X-Completo (Padrão)"",44.7,Pix,Abaixo da média"
+"04/05/2026,20:03:54,381,""Refrigerante litro,Filé tudo,X-Tudo (Artesanal 150g),Batata frita grande"",64.6,Pix,Acima da média"
+04/05/2026,20:06:43,85,X-Completo (Padrão),24.9,Cartão de Débito,Abaixo da média
+04/05/2026,20:08:29,58,Refrigerante litro,7.9,Cartão de Crédito,Abaixo da média
+"04/05/2026,20:33:42,673,""Refrigerante lata,X-Completo (Padrão),X-Completo (Artesanal 150g)"",54.7,Cartão de Débito,Acima da média"
+"04/05/2026,20:34:52,18,""Filé salada,Frango salada"",36.8,Cartão de Débito,Abaixo da média"
+"04/05/2026,20:37:41,932,""Cerveja Lata,X-Tudo (Padrão),Cerveja Lata"",31.7,Cartão de Crédito,Abaixo da média"
+"04/05/2026,20:45:52,647,""Cerveja Lata,X-Salada (Padrão)"",23.8,Cartão de Crédito,Abaixo da média"
+"04/05/2026,20:51:59,530,""3xX-Completo (Artesanal 150g),Molho da casa"",79.6,Cartão de Crédito,Acima da média"
+"04/05/2026,20:56:58,400,""X-Completo (Padrão),2xMolho da casa"",28.7,Cartão de Débito,Abaixo da média"
+"04/05/2026,20:57:11,404,""Molho de alho,Frango salada,2xCerveja Lata,Frango bacon"",48.5,Cartão de Crédito,Abaixo da média"
+"04/05/2026,20:58:33,805,""3xX-Bacon (Artesanal 150g),X-Tudo (Artesanal 150g),Lombo salada,Lombo salada"",119.4,Cartão de Crédito,Acima da média"
+04/05/2026,21:01:22,945,2xRefrigerante litro,15.8,Cartão de Débito,Abaixo da média
+"04/05/2026,21:29:12,751,""X-Salada (Artesanal 150g),Frango bacon,X-Salada (Artesanal 150g)"",73.7,Cartão de Crédito,Acima da média"
+04/05/2026,21:54:19,221,2xFrango bacon,31.8,Dinheiro,Abaixo da média
+"04/05/2026,22:03:52,160,""X-Completo (Artesanal 150g),Molho da casa,Filé tudo,Filé bacon"",66.6,Pix,Acima da média"
+"04/05/2026,22:04:51,292,""2xBatata frita grande,X-Bacon (Artesanal 150g)"",46.7,Pix,Abaixo da média"
+04/05/2026,22:14:04,122,Filé tudo,20.9,Cartão de Débito,Abaixo da média
+"04/05/2026,22:27:20,266,""Lombo completo,Lombo salada"",41.8,Cartão de Crédito,Abaixo da média"
+"04/05/2026,22:39:39,430,""X-Salada (Artesanal 150g),Frango bacon,Filé salada,Lombo completo"",89.6,Cartão de Débito,Acima da média"
+"04/05/2026,22:41:48,442,""Refrigerante litro,Frango salada,2xX-Salada (Padrão),Frango bacon"",74.5,Cartão de Débito,Acima da média"
+04/05/2026,22:43:06,296,Cerveja Lata,6.9,Cartão de Débito,Abaixo da média
+"04/05/2026,23:03:42,662,""Refrigerante lata,Batata frita grande,Frango salada"",33.7,Pix,Abaixo da média"
+"04/05/2026,23:05:46,212,""X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g),2xX-Completo (Padrão)"",101.6,Cartão de Crédito,Acima da média"
+"04/05/2026,23:14:35,586,""Lombo tudo,Batata frita grande,3xBatata frita pequena"",57.5,Pix,Acima da média"
+04/05/2026,23:20:14,229,Lombo salada,16.9,Cartão de Crédito,Abaixo da média
+"04/05/2026,23:24:59,819,""Frango salada,Cerveja Lata"",23.8,Cartão de Débito,Abaixo da média"
+"04/05/2026,23:34:09,575,""X-Bacon (Artesanal 150g),X-Completo (Artesanal 150g),2xFilé Completo,2xX-Tudo (Padrão)"",140.4,Dinheiro,Acima da média"
+"04/05/2026,23:57:45,870,""X-Tudo (Padrão),2xFrango salada,Molho de alho,Lombo completo"",78.5,Cartão de Crédito,Acima da média"
+"05/05/2026,18:05:21,678,""X-Tudo (Padrão),X-Salada (Padrão),X-Salada (Artesanal 150g)"",63.7,Dinheiro,Acima da média"
+"05/05/2026,18:06:43,216,""2xX-Completo (Padrão),X-Tudo (Artesanal 150g),Filé Completo,Lombo completo"",126.5,Pix,Acima da média"
+05/05/2026,18:13:10,181,X-Tudo (Padrão),17.9,Cartão de Crédito,Abaixo da média
+"05/05/2026,18:20:05,200,""Molho da casa,Refrigerante litro"",9.8,Cartão de Crédito,Abaixo da média"
+05/05/2026,18:30:03,207,Frango bacon,15.9,Pix,Abaixo da média
+"05/05/2026,18:38:02,987,""Frango bacon,Lombo salada,Frango tudo,Frango salada"",67.6,Pix,Acima da média"
+"05/05/2026,18:55:21,531,""X-Completo (Artesanal 150g),Frango bacon,Filé bacon,3xX-Tudo (Artesanal 150g)"",128.4,Cartão de Crédito,Acima da média"
+"05/05/2026,19:07:17,546,""Filé salada,Batata frita pequena,Frango salada,Batata frita pequena"",54.6,Pix,Acima da média"
+05/05/2026,19:07:33,81,Molho da casa,1.9,Cartão de Crédito,Abaixo da média
+"05/05/2026,19:10:46,225,""Frango tudo,3xLombo tudo"",71.6,Pix,Acima da média"
+05/05/2026,19:11:09,95,Molho da casa,1.9,Cartão de Crédito,Abaixo da média
+05/05/2026,19:22:11,865,Cerveja Lata,6.9,Pix,Abaixo da média
+"05/05/2026,19:24:45,652,""Frango salada,X-Salada (Padrão),X-Salada (Padrão),Refrigerante litro"",58.6,Dinheiro,Acima da média"
+05/05/2026,19:29:14,139,Lombo tudo,17.9,Cartão de Crédito,Abaixo da média
+"05/05/2026,19:49:26,320,""2xFrango tudo,Batata frita grande"",48.7,Pix,Abaixo da média"
+"05/05/2026,19:53:13,292,""X-Completo (Artesanal 150g),Batata frita grande,2xX-Completo (Padrão)"",88.6,Pix,Acima da média"
+"05/05/2026,19:53:47,31,""X-Completo (Padrão),Filé bacon,Filé salada,2xMolho de alho"",66.5,Pix,Acima da média"
+05/05/2026,19:53:49,258,Filé salada,19.9,Cartão de Crédito,Abaixo da média
+05/05/2026,20:04:35,441,Cerveja Lata,6.9,Cartão de Débito,Abaixo da média
+"05/05/2026,20:28:11,923,""X-Salada (Artesanal 150g),X-Completo (Padrão),Frango completo,2xX-Tudo (Padrão)"",114.5,Cartão de Débito,Acima da média"
+"05/05/2026,20:28:34,113,""2xX-Bacon (Artesanal 150g),Filé Completo,Frango tudo,Lombo tudo"",106.5,Cartão de Débito,Acima da média"
+"05/05/2026,20:41:30,495,""X-Completo (Artesanal 150g),Refrigerante litro"",33.8,Pix,Abaixo da média"
+"05/05/2026,20:43:50,485,""X-Bacon (Padrão),Frango bacon,Lombo completo"",56.7,Cartão de Débito,Acima da média"
+05/05/2026,20:45:02,75,Frango tudo,17.9,Cartão de Crédito,Abaixo da média
+05/05/2026,20:48:51,325,X-Completo (Artesanal 150g),25.9,Cartão de Crédito,Abaixo da média
+"05/05/2026,20:48:56,361,""2xFilé Completo,2xFrango bacon"",89.6,Pix,Acima da média"
+"05/05/2026,20:49:26,17,""X-Salada (Padrão),Molho da casa"",18.8,Cartão de Débito,Abaixo da média"
+"05/05/2026,21:00:18,48,""X-Tudo (Padrão),X-Completo (Artesanal 150g),3xBatata frita grande,Lombo salada"",99.4,Pix,Acima da média"
+05/05/2026,21:00:32,153,Lombo bacon,15.9,Pix,Abaixo da média
+05/05/2026,21:09:45,577,Refrigerante litro,7.9,Cartão de Débito,Abaixo da média
+"05/05/2026,21:17:31,283,""Filé salada,X-Tudo (Artesanal 150g),Molho da casa,Molho de alho"",46.6,Dinheiro,Abaixo da média"
+"05/05/2026,21:20:27,234,""Frango completo,X-Tudo (Padrão),Refrigerante lata"",46.7,Pix,Abaixo da média"
+"05/05/2026,21:31:07,525,""X-Salada (Artesanal 150g),Batata frita grande,Lombo completo,X-Completo (Artesanal 150g)"",92.6,Dinheiro,Acima da média"
+"05/05/2026,21:38:41,69,""2xFilé tudo,Lombo tudo,Filé bacon,Cerveja Lata"",84.5,Dinheiro,Acima da média"
+"05/05/2026,21:48:00,571,""Refrigerante litro,Refrigerante lata,X-Bacon (Padrão),Frango salada"",44.6,Pix,Abaixo da média"
+"05/05/2026,21:49:21,817,""Refrigerante lata,2xBatata frita grande,Molho da casa,Batata frita pequena"",40.5,Cartão de Débito,Abaixo da média"
+"05/05/2026,21:49:27,951,""Molho de alho,Filé tudo,X-Tudo (Padrão),Frango completo"",65.6,Cartão de Débito,Acima da média"
+"05/05/2026,21:54:41,121,""Lombo salada,Molho da casa"",18.8,Cartão de Crédito,Abaixo da média"
+"05/05/2026,21:54:55,638,""X-Tudo (Padrão),2xX-Tudo (Artesanal 150g),Batata frita pequena,X-Bacon (Artesanal 150g)"",93.5,Pix,Acima da média"
+"05/05/2026,21:55:21,351,""Frango completo,2xX-Salada (Artesanal 150g),X-Salada (Artesanal 150g)"",111.6,Pix,Acima da média"
+05/05/2026,21:56:17,251,Batata frita pequena,8.9,Pix,Abaixo da média
+"05/05/2026,22:07:02,435,""Lombo salada,Molho da casa"",18.8,Cartão de Crédito,Abaixo da média"
+"05/05/2026,22:10:29,398,""Filé bacon,Frango completo,Frango salada"",59.7,Pix,Acima da média"
+"05/05/2026,22:11:57,9,""Frango tudo,Molho de alho,X-Salada (Padrão)"",36.7,Cartão de Crédito,Abaixo da média"
+"05/05/2026,22:12:22,679,""Lombo bacon,Filé Completo,2xFilé bacon,2xBatata frita pequena"",98.4,Cartão de Crédito,Acima da média"
+"05/05/2026,22:28:46,230,""X-Completo (Padrão),Filé salada"",44.8,Cartão de Débito,Abaixo da média"
+"05/05/2026,22:40:29,67,""Lombo bacon,X-Tudo (Artesanal 150g)"",38.8,Cartão de Débito,Abaixo da média"
+05/05/2026,22:42:59,659,Frango completo,24.9,Dinheiro,Abaixo da média
+"05/05/2026,22:54:17,359,""2xX-Completo (Padrão),Filé salada,Lombo salada,Batata frita pequena"",95.5,Pix,Acima da média"
+05/05/2026,22:57:13,198,X-Bacon (Artesanal 150g),20.9,Cartão de Débito,Abaixo da média
+"05/05/2026,22:58:54,106,""X-Tudo (Padrão),X-Bacon (Padrão),Lombo salada"",50.7,Cartão de Débito,Acima da média"
+"05/05/2026,23:04:20,530,""X-Salada (Artesanal 150g),X-Completo (Artesanal 150g),Filé Completo"",83.7,Cartão de Crédito,Acima da média"
+"05/05/2026,23:06:51,709,""X-Completo (Artesanal 150g),Molho da casa"",27.8,Cartão de Débito,Abaixo da média"
+05/05/2026,23:09:29,308,Frango tudo,17.9,Pix,Abaixo da média
+05/05/2026,23:16:52,593,Filé salada,19.9,Cartão de Crédito,Abaixo da média
+05/05/2026,23:26:25,597,X-Tudo (Artesanal 150g),22.9,Cartão de Débito,Abaixo da média
+"05/05/2026,23:26:29,323,""X-Tudo (Artesanal 150g),2xFilé tudo,Frango tudo"",82.6,Cartão de Crédito,Acima da média"
+"05/05/2026,23:35:20,702,""Cerveja Lata,Lombo bacon,Filé Completo"",51.7,Pix,Acima da média"
+05/05/2026,23:42:57,481,Lombo tudo,17.9,Pix,Abaixo da média
+"05/05/2026,23:57:56,933,""3xX-Salada (Artesanal 150g),X-Salada (Padrão),Cerveja Lata,Filé bacon"",128.4,Dinheiro,Acima da média"
+06/05/2026,18:20:09,450,Cerveja Lata,6.9,Pix,Abaixo da média
+"06/05/2026,18:22:44,783,""Molho da casa,X-Tudo (Padrão)"",19.8,Pix,Abaixo da média"
+"06/05/2026,18:22:44,690,""Refrigerante lata,Filé salada,Lombo salada"",40.7,Pix,Abaixo da média"
+"06/05/2026,18:30:15,986,""Batata frita pequena,Lombo completo,2xX-Completo (Artesanal 150g)"",85.6,Pix,Acima da média"
+"06/05/2026,18:40:08,3,""Lombo completo,X-Completo (Padrão),X-Completo (Artesanal 150g)"",75.7,Cartão de Débito,Acima da média"
+"06/05/2026,18:44:01,22,""Cerveja Lata,X-Salada (Padrão),X-Tudo (Artesanal 150g)"",46.7,Pix,Abaixo da média"
+"06/05/2026,18:47:19,711,""Filé Completo,X-Completo (Artesanal 150g),Refrigerante litro,Refrigerante litro"",70.6,Cartão de Crédito,Acima da média"
+"06/05/2026,18:54:05,373,""X-Bacon (Padrão),Lombo tudo,2xFrango bacon,Batata frita pequena"",74.5,Pix,Acima da média"
+"06/05/2026,19:05:26,97,""Refrigerante litro,Molho da casa"",9.8,Cartão de Débito,Abaixo da média"
+06/05/2026,19:09:06,336,Frango bacon,15.9,Cartão de Débito,Abaixo da média
+"06/05/2026,19:09:29,804,""Frango tudo,Frango tudo"",35.8,Pix,Abaixo da média"
+"06/05/2026,19:23:01,460,""Lombo bacon,Lombo salada"",32.8,Pix,Abaixo da média"
+"06/05/2026,19:37:33,453,""2xFilé tudo,Filé tudo,Refrigerante litro"",70.6,Pix,Acima da média"
+06/05/2026,19:40:23,866,Filé Completo,28.9,Cartão de Débito,Abaixo da média
+"06/05/2026,19:55:21,533,""2xX-Bacon (Artesanal 150g),X-Salada (Padrão)"",58.7,Dinheiro,Acima da média"
+"06/05/2026,19:59:21,551,""2xFrango salada,Batata frita grande,Cerveja Lata"",53.6,Cartão de Débito,Acima da média"
+06/05/2026,20:01:23,827,X-Tudo (Artesanal 150g),22.9,Pix,Abaixo da média
+"06/05/2026,20:02:19,958,""X-Completo (Padrão),Frango completo"",49.8,Pix,Acima da média"
+06/05/2026,20:14:25,351,2xX-Completo (Artesanal 150g),51.8,Cartão de Débito,Acima da média
+"06/05/2026,20:24:17,627,""Lombo tudo,Cerveja Lata,X-Bacon (Artesanal 150g)"",45.7,Pix,Abaixo da média"
+"06/05/2026,20:44:57,400,""2xX-Tudo (Artesanal 150g),Filé Completo,Filé salada"",94.6,Cartão de Crédito,Acima da média"
+"06/05/2026,20:49:26,152,""X-Salada (Artesanal 150g),Frango completo"",53.8,Cartão de Crédito,Acima da média"
+06/05/2026,21:01:49,758,Lombo tudo,17.9,Cartão de Crédito,Abaixo da média
+06/05/2026,21:13:09,5,Frango bacon,15.9,Dinheiro,Abaixo da média
+"06/05/2026,21:21:04,38,""3xX-Tudo (Artesanal 150g),Frango completo"",93.6,Cartão de Crédito,Acima da média"
+06/05/2026,21:34:22,313,Frango bacon,15.9,Cartão de Crédito,Abaixo da média
+06/05/2026,21:43:17,280,Frango bacon,15.9,Cartão de Débito,Abaixo da média
+"06/05/2026,21:43:47,580,""Frango salada,Molho de alho"",18.8,Pix,Abaixo da média"
+06/05/2026,22:07:59,144,Lombo tudo,17.9,Dinheiro,Abaixo da média
+06/05/2026,22:17:49,971,Batata frita pequena,8.9,Pix,Abaixo da média
+"06/05/2026,22:20:25,331,""Batata frita pequena,Lombo bacon"",24.8,Dinheiro,Abaixo da média"
+"06/05/2026,22:26:11,622,""Cerveja Lata,2xFilé tudo,X-Bacon (Padrão)"",64.6,Cartão de Débito,Acima da média"
+"06/05/2026,22:30:56,880,""X-Bacon (Padrão),X-Bacon (Padrão),2xX-Salada (Padrão)"",65.6,Cartão de Débito,Acima da média"
+"06/05/2026,22:31:21,734,""X-Salada (Padrão),X-Tudo (Artesanal 150g)"",39.8,Cartão de Débito,Abaixo da média"
+"06/05/2026,22:42:00,555,""Lombo bacon,X-Tudo (Padrão),Molho de alho,Refrigerante lata"",39.6,Cartão de Crédito,Abaixo da média"
+"06/05/2026,22:42:32,574,""2xFrango salada,Lombo completo"",58.7,Pix,Acima da média"
+"06/05/2026,22:49:17,61,""Refrigerante lata,X-Salada (Artesanal 150g)"",32.8,Cartão de Crédito,Abaixo da média"
+"06/05/2026,23:06:20,605,""X-Tudo (Artesanal 150g),Refrigerante litro,2xLombo bacon,Filé Completo"",91.5,Cartão de Débito,Acima da média"
+"06/05/2026,23:08:59,119,""2xBatata frita grande,Filé salada,2xFrango salada"",79.5,Cartão de Débito,Acima da média"
+06/05/2026,23:12:27,454,2xBatata frita grande,25.8,Cartão de Crédito,Abaixo da média
+"06/05/2026,23:13:17,688,""Lombo salada,2xX-Completo (Artesanal 150g)"",68.7,Cartão de Débito,Acima da média"
+"06/05/2026,23:19:34,41,""Refrigerante lata,Lombo salada,X-Bacon (Artesanal 150g),Filé tudo"",62.6,Cartão de Crédito,Acima da média"
+06/05/2026,23:22:21,357,Filé tudo,20.9,Cartão de Crédito,Abaixo da média
+"06/05/2026,23:27:15,417,""Frango salada,Batata frita pequena,X-Completo (Padrão),Molho da casa"",52.6,Pix,Acima da média"
+"06/05/2026,23:28:09,297,""X-Completo (Padrão),Molho de alho"",26.8,Pix,Abaixo da média"
+"06/05/2026,23:38:05,866,""2xBatata frita pequena,Molho de alho,X-Tudo (Artesanal 150g)"",42.6,Cartão de Crédito,Abaixo da média"
+"06/05/2026,23:41:23,445,""2xFilé bacon,Lombo bacon,2xMolho da casa"",55.5,Cartão de Débito,Acima da média"
+"07/05/2026,18:08:58,254,""Lombo salada,Frango completo"",41.8,Cartão de Crédito,Abaixo da média"
+"07/05/2026,18:12:04,408,""Lombo tudo,Frango salada,Batata frita grande"",47.7,Cartão de Débito,Abaixo da média"
+"07/05/2026,18:15:53,851,""X-Bacon (Artesanal 150g),Molho de alho"",22.8,Cartão de Débito,Abaixo da média"
+"07/05/2026,18:19:18,326,""3xFilé bacon,Filé tudo"",74.6,Cartão de Crédito,Acima da média"
+"07/05/2026,18:22:23,712,""Lombo tudo,2xFrango bacon,2xMolho da casa"",53.5,Pix,Acima da média"
+"07/05/2026,18:29:11,491,""Lombo salada,2xLombo completo"",66.7,Pix,Acima da média"
+07/05/2026,18:29:17,291,Frango completo,24.9,Pix,Abaixo da média
+"07/05/2026,18:38:32,868,""2xMolho de alho,3xBatata frita grande,X-Salada (Padrão)"",59.4,Dinheiro,Acima da média"
+"07/05/2026,18:38:41,360,""Molho da casa,X-Tudo (Artesanal 150g),Refrigerante litro"",32.7,Cartão de Crédito,Abaixo da média"
+"07/05/2026,18:40:30,816,""2xCerveja Lata,Filé bacon,Batata frita grande,X-Tudo (Artesanal 150g)"",67.5,Cartão de Débito,Acima da média"
+"07/05/2026,18:50:45,202,""Lombo completo,Lombo salada,Frango salada,Refrigerante lata"",62.6,Cartão de Crédito,Acima da média"
+"07/05/2026,18:58:50,201,""Filé Completo,X-Tudo (Padrão),Refrigerante lata,2xX-Completo (Padrão)"",100.5,Pix,Acima da média"
+"07/05/2026,19:09:20,84,""Lombo bacon,Lombo tudo,X-Completo (Padrão),Frango completo"",83.6,Cartão de Débito,Acima da média"
+"07/05/2026,19:19:52,718,""X-Tudo (Artesanal 150g),Filé bacon,Filé tudo,Lombo salada"",78.6,Cartão de Crédito,Acima da média"
+"07/05/2026,19:22:22,268,""Refrigerante litro,Lombo salada"",24.8,Pix,Abaixo da média"
+"07/05/2026,19:25:47,900,""Frango bacon,3xX-Salada (Padrão),Batata frita pequena,Filé Completo"",104.4,Cartão de Débito,Acima da média"
+"07/05/2026,19:32:17,367,""2xFrango completo,X-Completo (Padrão),X-Salada (Padrão),X-Bacon (Artesanal 150g)"",112.5,Pix,Acima da média"
+"07/05/2026,19:34:33,155,""2xFrango tudo,2xMolho da casa"",39.6,Pix,Abaixo da média"
+07/05/2026,19:35:53,558,Frango salada,16.9,Cartão de Débito,Abaixo da média
+"07/05/2026,19:39:53,886,""Lombo bacon,X-Completo (Artesanal 150g),Filé Completo,Batata frita grande"",83.6,Cartão de Crédito,Acima da média"
+"07/05/2026,19:40:13,214,""2xFilé tudo,Refrigerante litro,Lombo completo"",74.6,Pix,Acima da média"
+"07/05/2026,19:47:04,477,""Filé tudo,Molho de alho"",22.8,Pix,Abaixo da média"
+"07/05/2026,19:55:15,397,""X-Tudo (Artesanal 150g),Batata frita pequena,Frango bacon,Lombo tudo"",65.6,Cartão de Crédito,Acima da média"
+"07/05/2026,20:04:28,837,""Lombo salada,X-Completo (Padrão),Lombo tudo,Batata frita grande"",72.6,Cartão de Débito,Acima da média"
+"07/05/2026,20:06:33,764,""Frango salada,X-Completo (Padrão)"",41.8,Cartão de Débito,Abaixo da média"
+07/05/2026,20:23:02,328,Frango bacon,15.9,Dinheiro,Abaixo da média
+"07/05/2026,20:25:42,639,""Refrigerante lata,Molho da casa"",5.8,Cartão de Débito,Abaixo da média"
+"07/05/2026,20:30:07,73,""Lombo completo,Refrigerante litro,X-Bacon (Padrão),Filé salada"",68.6,Pix,Acima da média"
+"07/05/2026,20:40:18,61,""X-Bacon (Artesanal 150g),Molho de alho,Frango tudo"",40.7,Cartão de Débito,Abaixo da média"
+"07/05/2026,20:44:35,746,""3xX-Completo (Padrão),Refrigerante lata"",78.6,Cartão de Débito,Acima da média"
+07/05/2026,20:53:22,565,Frango salada,16.9,Cartão de Crédito,Abaixo da média
+"07/05/2026,21:01:44,681,""X-Bacon (Artesanal 150g),Molho de alho"",22.8,Cartão de Débito,Abaixo da média"
+"07/05/2026,21:10:34,45,""X-Salada (Padrão),Filé tudo"",37.8,Pix,Abaixo da média"
+"07/05/2026,21:18:39,547,""2xFrango salada,X-Salada (Artesanal 150g)"",62.7,Cartão de Crédito,Acima da média"
+"07/05/2026,21:20:00,838,""Batata frita pequena,3xLombo bacon,X-Completo (Artesanal 150g),Filé salada"",102.4,Pix,Acima da média"
+"07/05/2026,21:20:10,877,""Molho de alho,Molho da casa,Filé Completo"",32.7,Cartão de Crédito,Abaixo da média"
+07/05/2026,21:27:49,474,Batata frita grande,12.9,Pix,Abaixo da média
+"07/05/2026,21:30:47,535,""2xLombo salada,Frango salada,Frango completo,Batata frita pequena"",84.5,Dinheiro,Acima da média"
+"07/05/2026,21:38:25,722,""2xLombo bacon,Filé tudo,Lombo salada,X-Completo (Padrão)"",94.5,Cartão de Crédito,Acima da média"
+"07/05/2026,21:44:08,770,""2xX-Tudo (Padrão),Molho de alho,Lombo tudo,Lombo completo"",80.5,Dinheiro,Acima da média"
+"07/05/2026,21:44:29,290,""Filé salada,Filé tudo"",40.8,Cartão de Crédito,Abaixo da média"
+"07/05/2026,21:47:24,878,""Refrigerante litro,Refrigerante litro,X-Tudo (Padrão),Molho de alho"",35.6,Pix,Abaixo da média"
+"07/05/2026,21:51:41,87,""2xBatata frita pequena,Filé Completo,Batata frita pequena,X-Salada (Artesanal 150g)"",84.5,Pix,Acima da média"
+"07/05/2026,21:51:46,771,""Refrigerante lata,Refrigerante lata,Frango tudo"",25.7,Cartão de Débito,Abaixo da média"
+"07/05/2026,21:52:50,43,""Frango bacon,Cerveja Lata"",22.8,Dinheiro,Abaixo da média"
+"07/05/2026,22:00:08,926,""Lombo completo,Frango tudo"",42.8,Pix,Abaixo da média"
+"07/05/2026,22:02:54,615,""Molho da casa,2xX-Completo (Padrão),X-Tudo (Artesanal 150g),Refrigerante lata"",78.5,Cartão de Débito,Acima da média"
+"07/05/2026,22:09:41,942,""Molho da casa,2xFilé salada,3xX-Bacon (Artesanal 150g)"",104.4,Pix,Acima da média"
+"07/05/2026,22:13:12,133,""Lombo completo,Cerveja Lata,Frango bacon,3xFrango bacon"",95.4,Pix,Acima da média"
+07/05/2026,22:17:14,363,Frango tudo,17.9,Cartão de Crédito,Abaixo da média
+"07/05/2026,22:33:24,559,""Molho de alho,Batata frita pequena,2xRefrigerante litro"",26.6,Cartão de Débito,Abaixo da média"
+07/05/2026,22:33:26,456,X-Tudo (Padrão),17.9,Pix,Abaixo da média
+"07/05/2026,22:37:05,516,""2xFilé tudo,Filé Completo"",70.7,Cartão de Crédito,Acima da média"
+"07/05/2026,22:44:32,934,""X-Bacon (Artesanal 150g),Refrigerante lata,Lombo completo,Refrigerante lata"",53.6,Cartão de Débito,Acima da média"
+07/05/2026,22:53:31,790,Cerveja Lata,6.9,Cartão de Crédito,Abaixo da média
+"07/05/2026,23:03:29,614,""X-Completo (Padrão),2xBatata frita grande,Lombo tudo"",68.6,Cartão de Débito,Acima da média"
+"07/05/2026,23:05:07,756,""Batata frita pequena,Batata frita grande,2xX-Salada (Artesanal 150g),2xFilé tudo"",121.4,Pix,Acima da média"
+"07/05/2026,23:24:13,421,""Lombo tudo,2xBatata frita grande,Lombo tudo"",61.6,Dinheiro,Acima da média"
+"07/05/2026,23:32:15,165,""Molho de alho,Lombo bacon,X-Completo (Padrão),Refrigerante litro"",50.6,Dinheiro,Acima da média"
+"07/05/2026,23:32:19,631,""2xX-Completo (Artesanal 150g),X-Bacon (Artesanal 150g)"",72.7,Pix,Acima da média"
+07/05/2026,23:42:29,882,2xMolho de alho,3.8,Pix,Abaixo da média
+"07/05/2026,23:56:03,568,""Lombo salada,Frango tudo"",34.8,Cartão de Crédito,Abaixo da média"
+"08/05/2026,18:04:15,586,""Molho da casa,Lombo bacon,X-Tudo (Artesanal 150g),3xX-Salada (Artesanal 150g)"",127.4,Pix,Acima da média"
+"08/05/2026,18:17:08,264,""Filé tudo,Frango salada,2xX-Bacon (Artesanal 150g),Batata frita pequena"",88.5,Cartão de Débito,Acima da média"
+"08/05/2026,18:24:45,70,""Lombo completo,X-Salada (Padrão),2xFrango salada"",75.6,Cartão de Crédito,Acima da média"
+08/05/2026,18:28:22,885,Refrigerante litro,7.9,Cartão de Débito,Abaixo da média
+"08/05/2026,18:29:34,818,""Cerveja Lata,X-Salada (Artesanal 150g),Refrigerante litro,Filé salada"",63.6,Pix,Acima da média"
+"08/05/2026,18:43:24,797,""Lombo tudo,Refrigerante lata"",21.8,Cartão de Crédito,Abaixo da média"
+08/05/2026,19:01:53,809,Batata frita grande,12.9,Cartão de Débito,Abaixo da média
+"08/05/2026,19:02:41,379,""Refrigerante litro,Frango bacon,Cerveja Lata"",30.7,Pix,Abaixo da média"
+"08/05/2026,19:05:18,259,""Refrigerante lata,2xBatata frita grande"",29.7,Pix,Abaixo da média"
+08/05/2026,19:06:48,472,Refrigerante lata,3.9,Cartão de Débito,Abaixo da média
+"08/05/2026,19:08:16,540,""Lombo completo,X-Bacon (Artesanal 150g),Frango tudo"",63.7,Cartão de Débito,Acima da média"
+"08/05/2026,19:12:45,852,""Filé salada,Frango completo,Frango bacon,X-Tudo (Artesanal 150g)"",83.6,Pix,Acima da média"
+"08/05/2026,19:16:12,368,""2xFrango salada,Lombo salada"",50.7,Pix,Acima da média"
+"08/05/2026,19:16:51,596,""X-Tudo (Artesanal 150g),Lombo bacon"",38.8,Cartão de Crédito,Abaixo da média"
+"08/05/2026,19:35:40,436,""Frango salada,Molho de alho,Filé tudo,Lombo completo"",64.6,Pix,Acima da média"
+08/05/2026,19:40:02,626,Batata frita grande,12.9,Cartão de Crédito,Abaixo da média
+"08/05/2026,19:42:57,189,""Batata frita grande,Molho da casa,2xFrango tudo,Frango completo"",75.5,Cartão de Débito,Acima da média"
+"08/05/2026,19:43:23,722,""Filé bacon,Refrigerante lata,Refrigerante litro,Refrigerante lata"",33.6,Cartão de Débito,Abaixo da média"
+"08/05/2026,19:49:38,681,""3xX-Salada (Artesanal 150g),X-Tudo (Artesanal 150g)"",109.6,Pix,Acima da média"
+"08/05/2026,19:50:36,125,""X-Completo (Padrão),2xX-Completo (Padrão)"",74.7,Pix,Acima da média"
+"08/05/2026,19:50:57,135,""Frango bacon,Refrigerante lata,Refrigerante lata"",23.7,Cartão de Débito,Abaixo da média"
+"08/05/2026,19:53:24,78,""Lombo tudo,X-Bacon (Artesanal 150g),Molho da casa,Frango tudo"",58.6,Pix,Acima da média"
+08/05/2026,19:53:51,748,Frango completo,24.9,Cartão de Crédito,Abaixo da média
+"08/05/2026,19:55:16,173,""2xFrango bacon,Molho da casa"",33.7,Cartão de Crédito,Abaixo da média"
+"08/05/2026,20:02:21,641,""Lombo bacon,Cerveja Lata,Molho da casa,Cerveja Lata"",31.6,Pix,Abaixo da média"
+"08/05/2026,20:02:51,524,""Batata frita grande,Filé bacon,X-Completo (Padrão),X-Completo (Padrão)"",80.6,Cartão de Crédito,Acima da média"
+"08/05/2026,20:10:43,66,""2xX-Completo (Padrão),Frango bacon,Lombo tudo,X-Salada (Padrão)"",100.5,Cartão de Crédito,Acima da média"
+"08/05/2026,20:11:38,306,""2xFilé Completo,3xX-Bacon (Padrão),Batata frita pequena,Filé bacon"",132.3,Pix,Acima da média"
+"08/05/2026,20:19:03,783,""Lombo salada,Cerveja Lata,2xMolho de alho"",27.6,Dinheiro,Abaixo da média"
+"08/05/2026,20:34:36,437,""Refrigerante lata,Molho da casa"",5.8,Cartão de Débito,Abaixo da média"
+"08/05/2026,20:46:26,173,""X-Bacon (Padrão),X-Salada (Artesanal 150g),Filé tudo,Filé salada"",85.6,Cartão de Débito,Acima da média"
+"08/05/2026,20:47:34,507,""X-Salada (Artesanal 150g),X-Completo (Padrão),2xX-Tudo (Padrão)"",89.6,Pix,Acima da média"
+"08/05/2026,20:52:51,503,""2xLombo salada,X-Tudo (Padrão),X-Salada (Padrão),2xMolho da casa"",72.4,Pix,Acima da média"
+"08/05/2026,20:58:19,120,""Frango bacon,Lombo bacon"",31.8,Pix,Abaixo da média"
+"08/05/2026,20:59:28,294,""2xX-Bacon (Padrão),X-Tudo (Padrão)"",49.7,Pix,Abaixo da média"
+08/05/2026,21:15:19,326,Frango completo,24.9,Cartão de Débito,Abaixo da média
+"08/05/2026,21:17:11,778,""2xLombo salada,X-Salada (Artesanal 150g),Frango tudo"",80.6,Pix,Acima da média"
+08/05/2026,21:21:38,676,X-Bacon (Padrão),15.9,Pix,Abaixo da média
+"08/05/2026,21:24:14,111,""Filé bacon,X-Salada (Artesanal 150g),2xRefrigerante litro,Frango tudo"",80.5,Pix,Acima da média"
+08/05/2026,21:33:33,786,2xCerveja Lata,13.8,Dinheiro,Abaixo da média
+"08/05/2026,21:36:16,367,""Batata frita pequena,2xX-Bacon (Padrão),Refrigerante litro,Cerveja Lata"",55.5,Pix,Acima da média"
+"08/05/2026,21:41:51,698,""Molho de alho,Frango salada"",18.8,Cartão de Crédito,Abaixo da média"
+"08/05/2026,21:48:36,435,""2xFrango salada,2xMolho da casa"",37.6,Cartão de Débito,Abaixo da média"
+08/05/2026,21:55:26,725,Frango tudo,17.9,Cartão de Débito,Abaixo da média
+"08/05/2026,21:55:46,247,""2xX-Salada (Artesanal 150g),X-Salada (Artesanal 150g),Batata frita grande,Filé Completo"",128.5,Cartão de Débito,Acima da média"
+"08/05/2026,21:58:11,914,""Molho da casa,Batata frita grande,Lombo completo"",39.7,Cartão de Débito,Abaixo da média"
+08/05/2026,22:01:52,116,Frango tudo,17.9,Dinheiro,Abaixo da média
+"08/05/2026,22:04:13,218,""Frango bacon,Frango tudo,Molho da casa"",35.7,Pix,Abaixo da média"
+"08/05/2026,22:18:27,564,""Lombo bacon,Batata frita pequena,Filé salada,Batata frita grande"",57.6,Cartão de Crédito,Acima da média"
+08/05/2026,22:24:28,552,Lombo tudo,17.9,Cartão de Crédito,Abaixo da média
+"08/05/2026,22:28:34,152,""X-Tudo (Padrão),Filé Completo,Lombo tudo,2xFrango completo"",114.5,Pix,Acima da média"
+"08/05/2026,22:29:28,181,""Frango bacon,Lombo bacon,X-Salada (Padrão)"",48.7,Pix,Abaixo da média"
+"08/05/2026,22:33:36,412,""X-Bacon (Artesanal 150g),Filé bacon,Filé tudo,2xRefrigerante litro"",75.5,Pix,Acima da média"
+08/05/2026,22:41:02,989,Lombo tudo,17.9,Pix,Abaixo da média
+08/05/2026,22:56:49,424,Batata frita grande,12.9,Cartão de Crédito,Abaixo da média
+"08/05/2026,22:58:19,159,""Frango bacon,X-Bacon (Padrão),Lombo tudo"",49.7,Dinheiro,Abaixo da média"
+"08/05/2026,23:02:30,526,""Molho de alho,X-Tudo (Padrão),Filé salada,X-Bacon (Artesanal 150g)"",60.6,Dinheiro,Acima da média"
+08/05/2026,23:03:13,303,2xCerveja Lata,13.8,Cartão de Débito,Abaixo da média
+08/05/2026,23:07:13,735,2xFrango bacon,31.8,Pix,Abaixo da média
+08/05/2026,23:08:22,138,2xFilé Completo,57.8,Pix,Acima da média
+"08/05/2026,23:15:36,204,""Batata frita pequena,X-Completo (Padrão)"",33.8,Cartão de Crédito,Abaixo da média"
+"08/05/2026,23:15:51,456,""Batata frita pequena,Filé tudo,X-Bacon (Artesanal 150g)"",50.7,Pix,Acima da média"
+"08/05/2026,23:18:00,664,""X-Completo (Padrão),Frango bacon,X-Tudo (Padrão),X-Bacon (Artesanal 150g)"",79.6,Pix,Acima da média"
+08/05/2026,23:21:01,848,X-Bacon (Padrão),15.9,Cartão de Crédito,Abaixo da média
+"08/05/2026,23:29:16,737,""Batata frita pequena,Filé salada,X-Bacon (Artesanal 150g)"",49.7,Pix,Abaixo da média"
+"08/05/2026,23:35:03,72,""2xX-Completo (Artesanal 150g),X-Salada (Artesanal 150g)"",80.7,Pix,Acima da média"
+"09/05/2026,18:07:00,40,""Refrigerante litro,Filé Completo,2xRefrigerante litro"",52.6,Pix,Acima da média"
+09/05/2026,18:16:37,687,Lombo salada,16.9,Pix,Abaixo da média
+"09/05/2026,18:17:20,959,""3xFilé Completo,X-Completo (Padrão),Filé Completo,Lombo salada"",157.4,Cartão de Débito,Acima da média"
+"09/05/2026,18:26:20,432,""Cerveja Lata,Refrigerante litro,Lombo bacon,Filé salada"",50.6,Cartão de Crédito,Acima da média"
+"09/05/2026,18:33:42,65,""X-Salada (Padrão),Filé tudo"",37.8,Dinheiro,Abaixo da média"
+"09/05/2026,18:38:23,91,""Batata frita grande,Frango completo"",37.8,Pix,Abaixo da média"
+"09/05/2026,18:44:09,301,""Frango completo,Cerveja Lata"",31.8,Cartão de Crédito,Abaixo da média"
+"09/05/2026,18:45:30,287,""3xX-Salada (Padrão),Frango tudo"",68.6,Cartão de Crédito,Acima da média"
+"09/05/2026,18:47:49,545,""Frango bacon,Frango completo"",40.8,Cartão de Crédito,Abaixo da média"
+"09/05/2026,18:52:07,961,""2xBatata frita pequena,Filé salada,Refrigerante lata"",41.6,Pix,Abaixo da média"
+"09/05/2026,18:54:19,54,""2xBatata frita grande,X-Bacon (Padrão)"",41.7,Pix,Abaixo da média"
+"09/05/2026,18:57:51,369,""Molho de alho,Cerveja Lata"",8.8,Dinheiro,Abaixo da média"
+"09/05/2026,19:04:41,204,""2xX-Salada (Padrão),2xLombo tudo"",69.6,Dinheiro,Acima da média"
+"09/05/2026,19:07:42,877,""X-Completo (Padrão),X-Completo (Artesanal 150g),2xFrango salada,Lombo completo"",109.5,Pix,Acima da média"
+"09/05/2026,19:19:36,538,""Lombo salada,Molho da casa"",18.8,Dinheiro,Abaixo da média"
+"09/05/2026,19:24:20,521,""Filé tudo,X-Bacon (Artesanal 150g)"",41.8,Cartão de Crédito,Abaixo da média"
+"09/05/2026,19:26:41,823,""X-Bacon (Padrão),Molho da casa"",17.8,Cartão de Débito,Abaixo da média"
+"09/05/2026,19:28:03,337,""Filé salada,Lombo bacon,X-Bacon (Artesanal 150g)"",56.7,Cartão de Débito,Acima da média"
+"09/05/2026,19:28:43,232,""Filé bacon,Batata frita grande,X-Salada (Padrão),Lombo tudo"",65.6,Cartão de Crédito,Acima da média"
+09/05/2026,19:29:59,88,X-Completo (Padrão),24.9,Cartão de Débito,Abaixo da média
+"09/05/2026,19:30:44,453,""X-Tudo (Padrão),X-Bacon (Artesanal 150g)"",38.8,Pix,Abaixo da média"
+"09/05/2026,19:50:16,196,""X-Bacon (Artesanal 150g),X-Completo (Artesanal 150g),Frango tudo"",64.7,Cartão de Crédito,Acima da média"
+"09/05/2026,19:52:18,772,""X-Completo (Artesanal 150g),Batata frita pequena,2xFilé Completo,Batata frita grande"",105.5,Pix,Acima da média"
+"09/05/2026,19:56:42,753,""3xCerveja Lata,Batata frita grande,Filé salada,X-Tudo (Artesanal 150g)"",76.4,Pix,Acima da média"
+"09/05/2026,19:58:13,238,""Frango salada,Molho da casa,X-Tudo (Artesanal 150g)"",41.7,Pix,Abaixo da média"
+"09/05/2026,20:02:18,411,""X-Bacon (Artesanal 150g),Lombo bacon,X-Salada (Padrão),X-Salada (Padrão)"",70.6,Cartão de Crédito,Acima da média"
+"09/05/2026,20:11:27,366,""Filé salada,2xCerveja Lata,Frango salada,X-Completo (Artesanal 150g)"",76.5,Pix,Acima da média"
+"09/05/2026,20:13:54,711,""Frango bacon,2xX-Completo (Padrão)"",65.7,Pix,Acima da média"
+"09/05/2026,20:23:21,766,""Lombo completo,Batata frita grande,Frango completo,Cerveja Lata"",69.6,Pix,Acima da média"
+"09/05/2026,20:24:29,370,""Filé salada,Frango bacon"",35.8,Cartão de Crédito,Abaixo da média"
+"09/05/2026,20:39:10,393,""2xRefrigerante lata,3xFrango tudo,Molho de alho"",63.4,Dinheiro,Acima da média"
+"09/05/2026,20:40:14,64,""X-Bacon (Padrão),Frango tudo"",33.8,Cartão de Débito,Abaixo da média"
+09/05/2026,20:40:52,616,Frango tudo,17.9,Pix,Abaixo da média
+"09/05/2026,20:45:44,140,""X-Salada (Padrão),2xCerveja Lata"",30.7,Cartão de Crédito,Abaixo da média"
+"09/05/2026,20:46:42,680,""X-Bacon (Padrão),Lombo completo,2xFilé tudo,Filé salada"",102.5,Cartão de Crédito,Acima da média"
+"09/05/2026,21:11:58,175,""Filé bacon,Frango bacon"",33.8,Cartão de Crédito,Abaixo da média"
+"09/05/2026,21:19:25,812,""X-Tudo (Padrão),2xX-Bacon (Artesanal 150g),Batata frita grande"",72.6,Cartão de Débito,Acima da média"
+"09/05/2026,21:28:20,73,""Batata frita grande,X-Salada (Artesanal 150g),Refrigerante litro,X-Bacon (Artesanal 150g)"",70.6,Dinheiro,Acima da média"
+"09/05/2026,21:31:55,956,""Molho da casa,X-Bacon (Artesanal 150g),Lombo completo"",47.7,Cartão de Crédito,Abaixo da média"
+"09/05/2026,21:41:40,692,""Refrigerante litro,Lombo completo,X-Tudo (Artesanal 150g)"",55.7,Cartão de Crédito,Acima da média"
+"09/05/2026,21:43:36,595,""2xBatata frita pequena,X-Tudo (Padrão)"",35.7,Cartão de Débito,Abaixo da média"
+09/05/2026,21:46:14,789,Filé tudo,20.9,Pix,Abaixo da média
+"09/05/2026,22:04:09,746,""Batata frita grande,Lombo bacon,X-Completo (Artesanal 150g),Lombo bacon"",70.6,Cartão de Débito,Acima da média"
+"09/05/2026,22:04:41,228,""Frango tudo,X-Salada (Artesanal 150g)"",46.8,Cartão de Débito,Abaixo da média"
+"09/05/2026,22:10:13,658,""Refrigerante lata,Lombo completo,2xFrango tudo"",64.6,Cartão de Débito,Acima da média"
+"09/05/2026,22:12:40,300,""Cerveja Lata,2xBatata frita pequena,Frango completo,X-Tudo (Padrão)"",67.5,Pix,Acima da média"
+"09/05/2026,22:16:57,240,""X-Salada (Padrão),X-Completo (Padrão),Frango salada"",58.7,Cartão de Crédito,Acima da média"
+"09/05/2026,22:17:42,501,""Batata frita pequena,Filé Completo"",37.8,Cartão de Débito,Abaixo da média"
+"09/05/2026,22:19:21,938,""2xFilé salada,Filé tudo"",60.7,Cartão de Crédito,Acima da média"
+"09/05/2026,22:25:54,844,""Filé Completo,Filé tudo"",49.8,Cartão de Crédito,Acima da média"
+"09/05/2026,22:35:05,796,""Frango salada,Filé bacon"",34.8,Pix,Abaixo da média"
+09/05/2026,22:56:05,359,Molho de alho,1.9,Pix,Abaixo da média
+"09/05/2026,23:00:18,338,""Lombo salada,Frango completo,2xX-Tudo (Artesanal 150g),2xX-Salada (Padrão)"",121.4,Pix,Acima da média"
+"09/05/2026,23:01:21,671,""X-Tudo (Padrão),Refrigerante lata,2xX-Salada (Padrão),Batata frita grande"",68.5,Cartão de Crédito,Acima da média"
+09/05/2026,23:10:12,542,X-Salada (Padrão),16.9,Cartão de Débito,Abaixo da média
+"09/05/2026,23:22:18,434,""Filé tudo,3xLombo salada,Lombo bacon,Filé tudo"",108.4,Pix,Acima da média"
+"09/05/2026,23:47:33,342,""Frango tudo,X-Completo (Padrão)"",42.8,Dinheiro,Abaixo da média"
+"09/05/2026,23:49:10,774,""Lombo salada,Frango salada,Lombo completo"",58.7,Cartão de Crédito,Acima da média"
+09/05/2026,23:49:25,387,X-Completo (Padrão),24.9,Cartão de Crédito,Abaixo da média
+"09/05/2026,23:51:42,800,""2xFrango completo,Filé bacon,Frango salada"",84.6,Dinheiro,Acima da média"
+09/05/2026,23:52:10,777,Frango completo,24.9,Cartão de Crédito,Abaixo da média
+09/05/2026,23:53:28,693,X-Salada (Padrão),16.9,Cartão de Crédito,Abaixo da média
+"09/05/2026,23:54:49,393,""Molho da casa,2xX-Completo (Padrão),Molho da casa,Frango salada"",70.5,Pix,Acima da média"
+"09/05/2026,23:56:33,520,""3xMolho da casa,3xFrango bacon,Refrigerante lata,2xMolho da casa"",61.1,Cartão de Débito,Acima da média"
+"10/05/2026,18:10:16,663,""Molho da casa,X-Bacon (Artesanal 150g)"",22.8,Pix,Abaixo da média"
+"10/05/2026,18:22:28,224,""Lombo salada,X-Salada (Padrão),Frango tudo,3xX-Completo (Artesanal 150g)"",129.4,Cartão de Crédito,Acima da média"
+"10/05/2026,18:22:47,147,""X-Tudo (Padrão),Molho da casa"",19.8,Cartão de Crédito,Abaixo da média"
+"10/05/2026,18:30:04,715,""Filé bacon,X-Bacon (Artesanal 150g)"",38.8,Cartão de Débito,Abaixo da média"
+"10/05/2026,18:37:11,686,""2xLombo bacon,Filé salada"",51.7,Pix,Acima da média"
+10/05/2026,18:43:44,878,2xFrango bacon,31.8,Cartão de Crédito,Abaixo da média
+"10/05/2026,18:47:13,796,""2xX-Tudo (Padrão),X-Salada (Padrão)"",52.7,Cartão de Crédito,Acima da média"
+"10/05/2026,19:05:49,887,""X-Bacon (Padrão),Filé Completo"",44.8,Pix,Abaixo da média"
+"10/05/2026,19:10:42,513,""Molho de alho,Lombo salada,X-Completo (Padrão)"",43.7,Cartão de Crédito,Abaixo da média"
+"10/05/2026,19:11:06,815,""Batata frita pequena,X-Bacon (Padrão)"",24.8,Pix,Abaixo da média"
+10/05/2026,19:12:04,180,Molho da casa,1.9,Cartão de Débito,Abaixo da média
+10/05/2026,19:15:45,211,Filé bacon,17.9,Cartão de Crédito,Abaixo da média
+"10/05/2026,19:16:24,338,""Batata frita pequena,X-Salada (Padrão),X-Tudo (Artesanal 150g)"",48.7,Dinheiro,Abaixo da média"
+"10/05/2026,19:22:29,706,""Batata frita grande,Frango completo"",37.8,Pix,Abaixo da média"
+"10/05/2026,19:23:06,482,""2xX-Completo (Artesanal 150g),2xX-Completo (Padrão),X-Bacon (Artesanal 150g),Lombo tudo"",140.4,Pix,Acima da média"
+10/05/2026,19:24:01,807,Lombo salada,16.9,Pix,Abaixo da média
+"10/05/2026,19:48:41,504,""2xLombo tudo,Lombo tudo"",53.7,Pix,Acima da média"
+"10/05/2026,19:49:02,508,""Frango salada,Frango salada"",33.8,Pix,Abaixo da média"
+"10/05/2026,19:50:30,268,""Molho de alho,X-Tudo (Padrão),Refrigerante litro,X-Tudo (Artesanal 150g)"",50.6,Cartão de Crédito,Acima da média"
+"10/05/2026,19:53:32,239,""Frango tudo,X-Bacon (Artesanal 150g)"",38.8,Cartão de Débito,Abaixo da média"
+10/05/2026,19:56:34,129,2xFrango bacon,31.8,Cartão de Débito,Abaixo da média
+"10/05/2026,20:02:24,398,""Frango bacon,2xX-Bacon (Padrão),Filé salada,Filé salada"",87.5,Cartão de Débito,Acima da média"
+"10/05/2026,20:07:12,278,""2xFrango tudo,Cerveja Lata,Cerveja Lata"",49.6,Pix,Abaixo da média"
+"10/05/2026,20:08:08,740,""Lombo completo,Lombo bacon,Lombo tudo"",58.7,Dinheiro,Acima da média"
+"10/05/2026,20:10:40,101,""X-Bacon (Padrão),Frango tudo,Filé salada"",53.7,Cartão de Crédito,Acima da média"
+"10/05/2026,20:19:57,725,""Filé salada,Filé Completo,X-Bacon (Artesanal 150g),X-Bacon (Artesanal 150g)"",90.6,Cartão de Crédito,Acima da média"
+"10/05/2026,20:22:28,522,""X-Bacon (Artesanal 150g),Frango tudo,Filé Completo,Refrigerante lata"",71.6,Pix,Acima da média"
+"10/05/2026,20:30:23,422,""3xFrango completo,Refrigerante lata"",78.6,Cartão de Crédito,Acima da média"
+"10/05/2026,20:38:01,960,""Filé salada,X-Salada (Artesanal 150g),2xFilé bacon"",84.6,Cartão de Crédito,Acima da média"
+10/05/2026,20:39:34,76,Lombo salada,16.9,Pix,Abaixo da média
+10/05/2026,20:40:05,156,Molho da casa,1.9,Cartão de Débito,Abaixo da média
+"10/05/2026,20:46:03,808,""Frango tudo,X-Tudo (Padrão),Refrigerante litro,Lombo completo"",68.6,Cartão de Crédito,Acima da média"
+"10/05/2026,20:51:55,965,""Filé bacon,X-Completo (Artesanal 150g),Frango salada"",60.7,Cartão de Crédito,Acima da média"
+"10/05/2026,20:54:19,76,""Lombo completo,Frango tudo,Lombo salada,Lombo bacon"",75.6,Cartão de Débito,Acima da média"
+10/05/2026,20:56:36,135,X-Completo (Padrão),24.9,Cartão de Débito,Abaixo da média
+10/05/2026,20:57:22,532,Lombo tudo,17.9,Cartão de Débito,Abaixo da média
+"10/05/2026,20:58:29,977,""Refrigerante litro,Lombo bacon"",23.8,Cartão de Crédito,Abaixo da média"
+10/05/2026,21:11:05,154,X-Salada (Artesanal 150g),28.9,Dinheiro,Abaixo da média
+"10/05/2026,21:14:24,838,""Lombo tudo,2xFilé Completo"",75.7,Dinheiro,Acima da média"
+10/05/2026,21:17:14,511,Lombo completo,24.9,Cartão de Crédito,Abaixo da média
+"10/05/2026,21:17:37,652,""Frango salada,Frango completo,X-Tudo (Artesanal 150g)"",64.7,Cartão de Crédito,Acima da média"
+"10/05/2026,21:18:23,406,""Molho de alho,2xX-Salada (Artesanal 150g),X-Bacon (Artesanal 150g)"",80.6,Pix,Acima da média"
+"10/05/2026,21:36:33,386,""Frango salada,Filé Completo"",45.8,Dinheiro,Abaixo da média"
+"10/05/2026,21:38:09,606,""Filé salada,2xX-Bacon (Padrão),3xLombo bacon"",99.4,Pix,Acima da média"
+"10/05/2026,21:38:12,921,""X-Completo (Artesanal 150g),X-Completo (Artesanal 150g),X-Completo (Artesanal 150g)"",77.7,Dinheiro,Acima da média"
+"10/05/2026,21:40:54,773,""X-Bacon (Artesanal 150g),Frango completo"",45.8,Cartão de Crédito,Abaixo da média"
+"10/05/2026,21:41:20,609,""X-Completo (Artesanal 150g),Filé Completo,Frango completo,X-Completo (Artesanal 150g)"",105.6,Cartão de Crédito,Acima da média"
+"10/05/2026,22:09:39,372,""2xFilé salada,X-Bacon (Artesanal 150g)"",60.7,Cartão de Crédito,Acima da média"
+"10/05/2026,22:29:10,380,""Filé tudo,X-Bacon (Padrão)"",36.8,Dinheiro,Abaixo da média"
+"10/05/2026,22:32:34,579,""Molho de alho,X-Completo (Padrão),Molho da casa,2xX-Completo (Padrão)"",78.5,Pix,Acima da média"
+"10/05/2026,22:38:02,490,""X-Salada (Padrão),Batata frita pequena,Batata frita grande,2xLombo tudo"",74.5,Pix,Acima da média"
+"10/05/2026,22:45:21,370,""2xFrango completo,Lombo completo"",74.7,Cartão de Débito,Acima da média"
+"10/05/2026,22:48:20,795,""X-Salada (Artesanal 150g),Lombo salada,Frango bacon"",61.7,Cartão de Débito,Acima da média"
+"10/05/2026,22:56:13,137,""Molho de alho,2xBatata frita pequena,X-Tudo (Artesanal 150g)"",42.6,Pix,Abaixo da média"
+10/05/2026,22:59:38,708,Lombo completo,24.9,Cartão de Crédito,Abaixo da média
+"10/05/2026,23:01:00,289,""X-Completo (Artesanal 150g),Refrigerante lata"",29.8,Cartão de Crédito,Abaixo da média"
+"10/05/2026,23:07:50,462,""Lombo salada,2xMolho da casa,X-Bacon (Padrão),X-Salada (Artesanal 150g)"",65.5,Cartão de Crédito,Acima da média"
+10/05/2026,23:12:01,150,X-Salada (Padrão),16.9,Cartão de Crédito,Abaixo da média
+10/05/2026,23:12:47,254,Filé bacon,17.9,Pix,Abaixo da média
+10/05/2026,23:16:35,713,X-Tudo (Padrão),17.9,Cartão de Crédito,Abaixo da média
+10/05/2026,23:22:16,624,X-Tudo (Artesanal 150g),22.9,Cartão de Débito,Abaixo da média
+10/05/2026,23:36:47,188,Filé Completo,28.9,Dinheiro,Abaixo da média
+"10/05/2026,23:37:16,142,""Lombo tudo,X-Tudo (Padrão),Filé Completo,2xX-Bacon (Artesanal 150g)"",106.5,Pix,Acima da média"
+"10/05/2026,23:41:00,364,""Filé bacon,X-Completo (Padrão)"",42.8,Pix,Abaixo da média"
+"10/05/2026,23:43:32,896,""Cerveja Lata,Frango bacon,Frango bacon,2xCerveja Lata"",52.5,Cartão de Crédito,Acima da média"
+"10/05/2026,23:45:40,249,""Molho de alho,Lombo completo,X-Salada (Artesanal 150g)"",55.7,Dinheiro,Acima da média"
+"10/05/2026,23:49:31,179,""2xFilé bacon,X-Tudo (Artesanal 150g),Filé bacon,2xFilé salada"",116.4,Dinheiro,Acima da média"
+"10/05/2026,23:53:03,824,""Refrigerante litro,Filé bacon,X-Bacon (Padrão)"",41.7,Cartão de Débito,Abaixo da média"
+"11/05/2026,18:01:40,671,""Frango completo,Refrigerante litro,X-Bacon (Padrão)"",48.7,Cartão de Crédito,Abaixo da média"
+11/05/2026,18:07:43,479,Frango bacon,15.9,Cartão de Crédito,Abaixo da média
+"11/05/2026,18:12:38,163,""Frango completo,X-Completo (Artesanal 150g),X-Salada (Padrão)"",67.7,Pix,Acima da média"
+"11/05/2026,18:18:28,357,""X-Salada (Artesanal 150g),X-Salada (Artesanal 150g),Batata frita pequena,Molho da casa"",68.6,Pix,Acima da média"
+"11/05/2026,18:20:50,6,""Refrigerante litro,Frango bacon"",23.8,Dinheiro,Abaixo da média"
+11/05/2026,18:28:13,689,Lombo bacon,15.9,Pix,Abaixo da média
+"11/05/2026,18:33:38,109,""Filé salada,Batata frita pequena,Refrigerante lata"",32.7,Pix,Abaixo da média"
+11/05/2026,18:35:37,9,Filé tudo,20.9,Dinheiro,Abaixo da média
+"11/05/2026,18:38:12,529,""Frango salada,Lombo bacon,X-Bacon (Artesanal 150g)"",53.7,Pix,Acima da média"
+11/05/2026,18:39:22,885,X-Salada (Artesanal 150g),28.9,Pix,Abaixo da média
+"11/05/2026,18:41:10,858,""Batata frita pequena,Lombo completo"",33.8,Pix,Abaixo da média"
+"11/05/2026,18:44:08,266,""Filé bacon,3xBatata frita pequena,X-Completo (Padrão),X-Salada (Artesanal 150g)"",98.4,Dinheiro,Acima da média"
+11/05/2026,18:44:25,99,Filé tudo,20.9,Cartão de Débito,Abaixo da média
+"11/05/2026,18:50:06,703,""X-Bacon (Artesanal 150g),Molho de alho,Lombo salada"",39.7,Cartão de Crédito,Abaixo da média"
+"11/05/2026,18:55:45,58,""Lombo completo,Lombo salada,Frango completo"",66.7,Cartão de Débito,Acima da média"
+"11/05/2026,19:09:26,617,""X-Bacon (Padrão),Filé tudo"",36.8,Cartão de Crédito,Abaixo da média"
+"11/05/2026,19:10:34,487,""Filé salada,Molho de alho"",21.8,Cartão de Débito,Abaixo da média"
+11/05/2026,19:11:19,538,Lombo salada,16.9,Cartão de Crédito,Abaixo da média
+"11/05/2026,19:13:54,821,""Molho de alho,Filé Completo"",30.8,Pix,Abaixo da média"
+"11/05/2026,19:17:50,849,""Lombo salada,Filé bacon"",34.8,Cartão de Débito,Abaixo da média"
+11/05/2026,19:21:59,641,X-Salada (Artesanal 150g),28.9,Cartão de Débito,Abaixo da média
+"11/05/2026,19:24:47,553,""Frango tudo,X-Bacon (Artesanal 150g),Lombo completo,Cerveja Lata"",70.6,Cartão de Débito,Acima da média"
+"11/05/2026,19:33:51,392,""Filé tudo,Lombo salada"",37.8,Cartão de Crédito,Abaixo da média"
+11/05/2026,19:34:33,194,X-Salada (Padrão),16.9,Pix,Abaixo da média
+11/05/2026,19:46:40,126,Refrigerante litro,7.9,Cartão de Crédito,Abaixo da média
+"11/05/2026,20:01:59,293,""2xMolho da casa,2xX-Bacon (Artesanal 150g)"",45.6,Dinheiro,Abaixo da média"
+11/05/2026,20:02:18,94,X-Completo (Padrão),24.9,Pix,Abaixo da média
+"11/05/2026,20:05:57,693,""Lombo tudo,Refrigerante lata,X-Salada (Padrão),2xMolho da casa"",42.5,Pix,Abaixo da média"
+11/05/2026,20:13:05,635,Frango bacon,15.9,Cartão de Débito,Abaixo da média
+11/05/2026,20:17:39,937,2xFilé tudo,41.8,Cartão de Crédito,Abaixo da média
+"11/05/2026,20:25:29,120,""Batata frita grande,Cerveja Lata"",19.8,Cartão de Débito,Abaixo da média"
+11/05/2026,20:32:04,629,Filé bacon,17.9,Pix,Abaixo da média
+"11/05/2026,20:33:21,71,""Frango salada,X-Completo (Artesanal 150g),Refrigerante lata"",46.7,Pix,Abaixo da média"
+11/05/2026,20:44:03,68,X-Bacon (Padrão),15.9,Dinheiro,Abaixo da média
+"11/05/2026,20:44:55,469,""Batata frita grande,X-Bacon (Padrão),Refrigerante lata"",32.7,Dinheiro,Abaixo da média"
+"11/05/2026,20:56:39,702,""2xMolho de alho,Frango salada,2xFrango bacon,Frango bacon"",68.4,Cartão de Crédito,Acima da média"
+"11/05/2026,20:56:45,724,""Filé bacon,Batata frita grande,Refrigerante litro,Lombo bacon"",54.6,Cartão de Débito,Acima da média"
+"11/05/2026,20:57:15,890,""X-Completo (Artesanal 150g),Cerveja Lata,X-Tudo (Padrão)"",50.7,Cartão de Débito,Acima da média"
+11/05/2026,20:57:40,803,Lombo bacon,15.9,Dinheiro,Abaixo da média
+"11/05/2026,21:07:46,101,""Filé salada,Filé bacon"",37.8,Pix,Abaixo da média"
+"11/05/2026,21:19:52,232,""Cerveja Lata,Cerveja Lata"",13.8,Cartão de Débito,Abaixo da média"
+"11/05/2026,21:36:15,656,""Filé Completo,Batata frita grande"",41.8,Pix,Abaixo da média"
+"11/05/2026,21:37:23,457,""X-Salada (Artesanal 150g),Molho de alho,Lombo salada"",47.7,Dinheiro,Abaixo da média"
+"11/05/2026,21:38:09,774,""2xLombo completo,X-Completo (Artesanal 150g),2xX-Tudo (Padrão)"",111.5,Cartão de Crédito,Acima da média"
+"11/05/2026,21:39:29,474,""X-Salada (Padrão),X-Tudo (Padrão)"",34.8,Pix,Abaixo da média"
+"11/05/2026,21:44:06,273,""Refrigerante lata,2xFrango salada,X-Completo (Artesanal 150g)"",63.6,Pix,Acima da média"
+"11/05/2026,21:56:26,988,""X-Salada (Padrão),Filé Completo,3xX-Salada (Artesanal 150g)"",132.5,Pix,Acima da média"
+"11/05/2026,21:58:34,150,""X-Bacon (Artesanal 150g),X-Tudo (Padrão),Batata frita grande"",51.7,Pix,Acima da média"
+11/05/2026,22:00:38,470,Filé bacon,17.9,Pix,Abaixo da média
+"11/05/2026,22:00:58,906,""Filé Completo,3xFilé Completo"",115.6,Pix,Acima da média"
+"11/05/2026,22:07:54,683,""X-Completo (Artesanal 150g),Cerveja Lata"",32.8,Cartão de Débito,Abaixo da média"
+"11/05/2026,22:15:50,37,""Frango bacon,Molho da casa"",17.8,Pix,Abaixo da média"
+"11/05/2026,22:20:14,10,""2xX-Completo (Padrão),Filé Completo"",78.7,Cartão de Crédito,Acima da média"
+"11/05/2026,22:40:42,550,""3xX-Tudo (Padrão),X-Bacon (Artesanal 150g),Molho da casa"",76.5,Pix,Acima da média"
+"11/05/2026,22:46:44,867,""X-Completo (Padrão),2xX-Bacon (Artesanal 150g)"",66.7,Cartão de Débito,Acima da média"
+"11/05/2026,22:56:27,871,""Lombo completo,Cerveja Lata,Frango bacon"",47.7,Cartão de Crédito,Abaixo da média"
+"11/05/2026,23:01:35,95,""2xBatata frita grande,2xFrango salada,X-Completo (Padrão),Refrigerante litro"",92.4,Cartão de Crédito,Acima da média"
+"11/05/2026,23:06:30,678,""X-Completo (Artesanal 150g),Filé bacon"",43.8,Cartão de Débito,Abaixo da média"
+11/05/2026,23:07:08,798,X-Bacon (Artesanal 150g),20.9,Cartão de Crédito,Abaixo da média
+11/05/2026,23:11:12,888,Filé bacon,17.9,Cartão de Débito,Abaixo da média
+"11/05/2026,23:23:44,619,""X-Bacon (Artesanal 150g),Refrigerante lata,Refrigerante lata,Filé Completo"",57.6,Cartão de Débito,Acima da média"
+"11/05/2026,23:27:56,646,""X-Tudo (Artesanal 150g),Frango completo,X-Bacon (Padrão),X-Completo (Padrão)"",88.6,Cartão de Débito,Acima da média"
+11/05/2026,23:27:58,444,Frango completo,24.9,Pix,Abaixo da média
+11/05/2026,23:38:11,886,Batata frita grande,12.9,Cartão de Crédito,Abaixo da média
+"11/05/2026,23:52:24,160,""Filé bacon,Lombo salada,Filé bacon,Refrigerante litro"",60.6,Cartão de Débito,Acima da média"
+"12/05/2026,18:03:25,379,""Lombo bacon,X-Completo (Padrão),3xLombo completo,2xFrango tudo"",151.3,Pix,Acima da média"
+"12/05/2026,18:04:59,817,""2xX-Tudo (Padrão),Batata frita grande"",48.7,Cartão de Débito,Abaixo da média"
+"12/05/2026,18:12:45,872,""X-Salada (Padrão),X-Bacon (Padrão)"",32.8,Pix,Abaixo da média"
+"12/05/2026,18:15:33,801,""Batata frita pequena,Batata frita grande"",21.8,Dinheiro,Abaixo da média"
+12/05/2026,18:17:02,978,Lombo completo,24.9,Cartão de Crédito,Abaixo da média
+"12/05/2026,18:18:01,519,""Molho da casa,Filé Completo"",30.8,Pix,Abaixo da média"
+12/05/2026,18:22:19,215,Lombo completo,24.9,Cartão de Crédito,Abaixo da média
+12/05/2026,18:28:31,519,Frango salada,16.9,Pix,Abaixo da média
+"12/05/2026,18:30:10,552,""Filé Completo,2xLombo salada,X-Bacon (Artesanal 150g)"",83.6,Pix,Acima da média"
+"12/05/2026,18:31:35,443,""Cerveja Lata,Frango bacon"",22.8,Dinheiro,Abaixo da média"
+"12/05/2026,18:34:14,307,""2xFilé salada,Filé salada,X-Tudo (Padrão)"",77.6,Pix,Acima da média"
+"12/05/2026,18:34:19,717,""X-Salada (Artesanal 150g),Frango tudo,Refrigerante litro,Frango bacon"",70.6,Cartão de Crédito,Acima da média"
+"12/05/2026,18:36:53,577,""X-Salada (Artesanal 150g),X-Salada (Artesanal 150g),Frango tudo,Filé tudo"",96.6,Pix,Acima da média"
+"12/05/2026,18:41:29,148,""X-Bacon (Artesanal 150g),Refrigerante lata,Frango bacon"",40.7,Cartão de Crédito,Abaixo da média"
+12/05/2026,18:44:49,339,Refrigerante lata,3.9,Pix,Abaixo da média
+"12/05/2026,18:47:02,87,""Frango tudo,Frango tudo,X-Salada (Artesanal 150g),X-Salada (Artesanal 150g)"",93.6,Cartão de Débito,Acima da média"
+"12/05/2026,18:50:45,46,""Molho da casa,Batata frita grande"",14.8,Pix,Abaixo da média"
+"12/05/2026,19:00:35,884,""Batata frita pequena,X-Tudo (Padrão),Filé salada"",46.7,Cartão de Crédito,Abaixo da média"
+"12/05/2026,19:04:04,697,""X-Salada (Padrão),2xFilé salada,Frango salada,Filé bacon"",91.5,Cartão de Débito,Acima da média"
+"12/05/2026,19:13:15,419,""Molho da casa,Refrigerante lata"",5.8,Dinheiro,Abaixo da média"
+"12/05/2026,19:16:12,315,""X-Salada (Artesanal 150g),2xX-Completo (Padrão),Lombo bacon"",94.6,Cartão de Débito,Acima da média"
+"12/05/2026,19:38:12,33,""Molho de alho,Lombo completo,Lombo salada"",43.7,Dinheiro,Abaixo da média"
+12/05/2026,19:47:34,640,Batata frita pequena,8.9,Pix,Abaixo da média
+"12/05/2026,19:48:46,545,""Lombo completo,Batata frita grande,X-Bacon (Padrão),Molho da casa"",55.6,Cartão de Crédito,Acima da média"
+"12/05/2026,19:48:50,761,""X-Tudo (Artesanal 150g),Batata frita pequena,2xFilé bacon,2xLombo completo"",117.4,Pix,Acima da média"
+12/05/2026,19:54:11,216,Frango bacon,15.9,Dinheiro,Abaixo da média
+"12/05/2026,19:56:44,919,""X-Bacon (Padrão),Filé bacon"",33.8,Cartão de Crédito,Abaixo da média"
+"12/05/2026,19:57:29,795,""2xX-Bacon (Artesanal 150g),Batata frita pequena,Batata frita grande"",63.6,Cartão de Crédito,Acima da média"
+"12/05/2026,20:13:01,449,""2xFilé Completo,Molho de alho,Lombo tudo"",77.6,Pix,Acima da média"
+"12/05/2026,20:15:38,409,""Lombo tudo,Frango bacon,Frango tudo,Refrigerante lata"",55.6,Pix,Acima da média"
+12/05/2026,20:20:33,424,Lombo completo,24.9,Cartão de Crédito,Abaixo da média
+"12/05/2026,20:30:17,171,""Lombo tudo,Batata frita pequena,Lombo bacon"",42.7,Cartão de Crédito,Abaixo da média"
+"12/05/2026,20:33:24,24,""X-Tudo (Padrão),X-Bacon (Artesanal 150g),Lombo salada,Lombo tudo"",73.6,Cartão de Crédito,Acima da média"
+"12/05/2026,20:35:17,354,""2xRefrigerante litro,Frango completo,Batata frita pequena,2xCerveja Lata"",63.4,Cartão de Débito,Acima da média"
+"12/05/2026,20:39:35,897,""Frango tudo,Filé Completo,Lombo tudo,Refrigerante lata"",68.6,Cartão de Débito,Acima da média"
+"12/05/2026,20:42:16,685,""Lombo tudo,Filé tudo"",38.8,Pix,Abaixo da média"
+12/05/2026,20:58:54,237,Filé tudo,20.9,Cartão de Crédito,Abaixo da média
+"12/05/2026,21:02:24,110,""2xFilé salada,3xX-Bacon (Artesanal 150g),Molho de alho"",104.4,Pix,Acima da média"
+"12/05/2026,21:04:32,713,""Molho de alho,Refrigerante lata,Frango salada,X-Tudo (Padrão)"",40.6,Pix,Abaixo da média"
+12/05/2026,21:10:40,486,X-Salada (Artesanal 150g),28.9,Cartão de Crédito,Abaixo da média
+"12/05/2026,21:12:39,57,""Filé salada,X-Completo (Artesanal 150g),3xX-Completo (Padrão),Frango completo"",145.4,Pix,Acima da média"
+"12/05/2026,21:14:24,42,""Filé tudo,X-Bacon (Artesanal 150g),2xLombo salada"",75.6,Pix,Acima da média"
+12/05/2026,21:24:29,179,Molho da casa,1.9,Pix,Abaixo da média
+"12/05/2026,21:41:28,394,""Frango tudo,Molho de alho,Filé Completo,Refrigerante lata"",52.6,Pix,Acima da média"
+"12/05/2026,21:49:13,433,""Frango salada,Filé salada"",36.8,Cartão de Débito,Abaixo da média"
+"12/05/2026,21:49:34,146,""3xX-Completo (Artesanal 150g),Lombo salada,X-Bacon (Padrão),X-Salada (Artesanal 150g)"",139.4,Cartão de Crédito,Acima da média"
+12/05/2026,21:51:25,91,Frango completo,24.9,Cartão de Crédito,Abaixo da média
+12/05/2026,21:53:59,252,3xFilé bacon,53.7,Cartão de Débito,Acima da média
+"12/05/2026,21:58:42,633,""2xFilé salada,Filé salada,2xX-Completo (Artesanal 150g)"",111.5,Cartão de Débito,Acima da média"
+12/05/2026,22:04:21,793,Lombo tudo,17.9,Cartão de Débito,Abaixo da média
+"12/05/2026,22:04:59,35,""X-Bacon (Padrão),Frango completo,Filé tudo"",61.7,Pix,Acima da média"
+"12/05/2026,22:10:24,632,""2xFrango tudo,Filé Completo,X-Tudo (Artesanal 150g)"",87.6,Cartão de Crédito,Acima da média"
+"12/05/2026,22:16:55,354,""2xBatata frita grande,Lombo completo,X-Tudo (Padrão)"",68.6,Pix,Acima da média"
+"12/05/2026,22:27:21,855,""Cerveja Lata,Lombo completo,Frango completo,X-Tudo (Artesanal 150g)"",79.6,Pix,Acima da média"
+"12/05/2026,22:27:58,455,""X-Completo (Artesanal 150g),Frango salada,Frango tudo,2xMolho de alho"",64.5,Pix,Acima da média"
+"12/05/2026,22:31:30,860,""X-Completo (Artesanal 150g),X-Salada (Artesanal 150g),Refrigerante litro"",62.7,Pix,Acima da média"
+12/05/2026,22:38:38,75,Lombo salada,16.9,Dinheiro,Abaixo da média
+"12/05/2026,22:43:50,480,""2xX-Tudo (Artesanal 150g),Lombo bacon,X-Salada (Padrão),X-Bacon (Artesanal 150g)"",99.5,Cartão de Crédito,Acima da média"
+"12/05/2026,22:53:34,380,""Molho da casa,Batata frita grande,Molho de alho"",16.7,Pix,Abaixo da média"
+"12/05/2026,22:53:42,361,""2xX-Tudo (Padrão),2xFrango tudo"",71.6,Cartão de Crédito,Acima da média"
+12/05/2026,22:56:38,744,Lombo bacon,15.9,Pix,Abaixo da média
+12/05/2026,23:10:19,905,2xLombo salada,33.8,Pix,Abaixo da média
+"12/05/2026,23:11:23,629,""X-Salada (Padrão),X-Salada (Artesanal 150g),Molho da casa"",47.7,Pix,Abaixo da média"
+12/05/2026,23:25:00,797,Frango salada,16.9,Cartão de Crédito,Abaixo da média
+"12/05/2026,23:44:40,747,""Lombo tudo,X-Salada (Artesanal 150g),Lombo bacon"",62.7,Cartão de Crédito,Acima da média"
+"12/05/2026,23:45:51,567,""X-Completo (Padrão),Filé bacon,X-Bacon (Padrão),Frango bacon"",74.6,Cartão de Débito,Acima da média"
+"12/05/2026,23:45:56,996,""X-Tudo (Artesanal 150g),X-Tudo (Padrão),Filé bacon"",58.7,Pix,Acima da média"
+12/05/2026,23:50:33,82,Lombo bacon,15.9,Cartão de Débito,Abaixo da média
+"12/05/2026,23:58:47,832,""Filé Completo,Frango completo"",53.8,Pix,Acima da média"
+"13/05/2026,18:14:02,492,""Filé Completo,2xFilé tudo"",70.7,Pix,Acima da média"
+"13/05/2026,18:14:36,211,""Batata frita pequena,Lombo bacon,Lombo completo,Filé Completo"",78.6,Pix,Acima da média"
+"13/05/2026,18:16:20,743,""Filé Completo,Refrigerante litro,X-Salada (Artesanal 150g),X-Completo (Padrão)"",90.6,Cartão de Débito,Acima da média"
+13/05/2026,18:20:53,762,Refrigerante litro,7.9,Pix,Abaixo da média
+"13/05/2026,18:23:41,760,""2xFilé tudo,Filé bacon,Filé tudo"",80.6,Pix,Acima da média"
+"13/05/2026,18:41:00,334,""Cerveja Lata,Lombo completo,Molho da casa"",33.7,Cartão de Crédito,Abaixo da média"
+"13/05/2026,18:42:54,665,""Filé Completo,X-Bacon (Artesanal 150g)"",49.8,Cartão de Crédito,Acima da média"
+"13/05/2026,18:43:02,550,""Filé bacon,Refrigerante lata,X-Tudo (Padrão),Filé Completo"",68.6,Dinheiro,Acima da média"
+"13/05/2026,18:48:00,126,""2xFilé tudo,Lombo tudo,2xBatata frita grande,Lombo bacon"",101.4,Cartão de Débito,Acima da média"
+"13/05/2026,19:00:48,259,""Cerveja Lata,2xX-Bacon (Artesanal 150g),Lombo completo,Frango completo"",98.5,Cartão de Crédito,Acima da média"
+"13/05/2026,19:01:14,395,""Filé bacon,Batata frita pequena,Lombo completo"",51.7,Cartão de Débito,Acima da média"
+"13/05/2026,19:07:55,188,""2xX-Bacon (Artesanal 150g),Lombo tudo"",59.7,Cartão de Crédito,Acima da média"
+"13/05/2026,19:29:50,894,""3xRefrigerante litro,Batata frita pequena,Refrigerante lata"",36.5,Pix,Abaixo da média"
+13/05/2026,19:33:25,98,Refrigerante litro,7.9,Pix,Abaixo da média
+"13/05/2026,19:52:09,71,""2xX-Bacon (Artesanal 150g),X-Completo (Padrão),Frango salada"",83.6,Cartão de Débito,Acima da média"
+13/05/2026,19:53:22,169,Lombo tudo,17.9,Pix,Abaixo da média
+"13/05/2026,19:56:20,765,""Filé Completo,2xFilé tudo,2xFilé salada,Frango bacon"",126.4,Cartão de Débito,Acima da média"
+"13/05/2026,19:58:40,922,""Filé bacon,2xFrango tudo,Filé Completo,Refrigerante lata"",86.5,Pix,Acima da média"
+13/05/2026,20:10:26,612,Batata frita grande,12.9,Cartão de Crédito,Abaixo da média
+"13/05/2026,20:17:27,511,""Filé salada,Frango bacon,Refrigerante lata"",39.7,Pix,Abaixo da média"
+"13/05/2026,20:21:06,660,""Cerveja Lata,X-Completo (Padrão)"",31.8,Cartão de Débito,Abaixo da média"
+"13/05/2026,20:21:49,304,""Frango bacon,X-Completo (Artesanal 150g),X-Tudo (Artesanal 150g)"",64.7,Dinheiro,Acima da média"
+"13/05/2026,20:35:36,924,""2xBatata frita grande,X-Completo (Padrão)"",50.7,Pix,Acima da média"
+"13/05/2026,20:39:01,611,""Frango salada,X-Salada (Padrão)"",33.8,Pix,Abaixo da média"
+"13/05/2026,20:42:22,603,""Refrigerante lata,Refrigerante litro,Frango salada"",28.7,Cartão de Débito,Abaixo da média"
+"13/05/2026,20:49:07,262,""X-Salada (Artesanal 150g),2xRefrigerante litro,Refrigerante lata"",48.6,Dinheiro,Abaixo da média"
+"13/05/2026,21:01:22,563,""X-Bacon (Artesanal 150g),Frango salada"",37.8,Pix,Abaixo da média"
+13/05/2026,21:02:58,348,Lombo bacon,15.9,Dinheiro,Abaixo da média
+"13/05/2026,21:06:39,976,""Frango completo,Cerveja Lata,X-Tudo (Padrão)"",49.7,Pix,Abaixo da média"
+"13/05/2026,21:19:28,426,""Frango completo,Lombo completo,X-Completo (Artesanal 150g),X-Bacon (Artesanal 150g)"",96.6,Pix,Acima da média"
+"13/05/2026,21:22:17,431,""2xRefrigerante litro,Molho da casa"",17.7,Dinheiro,Abaixo da média"
+"13/05/2026,21:22:46,320,""Lombo tudo,2xX-Tudo (Padrão),Frango salada"",70.6,Cartão de Crédito,Acima da média"
+13/05/2026,21:29:49,600,Molho da casa,1.9,Pix,Abaixo da média
+"13/05/2026,21:40:47,454,""3xMolho da casa,Frango completo"",30.6,Dinheiro,Abaixo da média"
+13/05/2026,21:41:31,471,X-Completo (Artesanal 150g),25.9,Pix,Abaixo da média
+"13/05/2026,21:41:39,670,""Molho da casa,3xFilé tudo,Lombo completo,Batata frita pequena"",98.4,Cartão de Débito,Acima da média"
+"13/05/2026,21:41:50,777,""X-Salada (Artesanal 150g),Frango tudo"",46.8,Pix,Abaixo da média"
+"13/05/2026,21:44:00,220,""X-Tudo (Padrão),Refrigerante litro"",25.8,Cartão de Débito,Abaixo da média"
+"13/05/2026,21:45:32,588,""Lombo bacon,2xX-Salada (Padrão)"",49.7,Pix,Abaixo da média"
+"13/05/2026,21:46:21,127,""Filé salada,X-Completo (Padrão),X-Salada (Padrão)"",61.7,Cartão de Crédito,Acima da média"
+"13/05/2026,21:46:35,7,""Batata frita pequena,X-Salada (Artesanal 150g),X-Completo (Padrão),Molho de alho"",64.6,Pix,Acima da média"
+13/05/2026,21:46:55,121,X-Salada (Artesanal 150g),28.9,Pix,Abaixo da média
+13/05/2026,22:01:22,195,Refrigerante lata,3.9,Cartão de Crédito,Abaixo da média
+"13/05/2026,22:07:10,651,""X-Completo (Padrão),X-Completo (Artesanal 150g),Frango completo,Batata frita grande"",88.6,Dinheiro,Acima da média"
+"13/05/2026,22:20:01,82,""Lombo tudo,Batata frita pequena,Lombo bacon,X-Salada (Padrão)"",59.6,Cartão de Crédito,Acima da média"
+"13/05/2026,22:32:53,83,""Filé bacon,X-Salada (Padrão),3xCerveja Lata"",55.5,Cartão de Débito,Acima da média"
+"13/05/2026,22:36:44,733,""Frango bacon,X-Bacon (Padrão),Filé salada,Frango tudo"",69.6,Cartão de Crédito,Acima da média"
+13/05/2026,22:38:34,551,Cerveja Lata,6.9,Pix,Abaixo da média
+"13/05/2026,22:52:34,531,""Frango tudo,X-Bacon (Padrão),3xFilé bacon,X-Tudo (Padrão)"",105.4,Cartão de Débito,Acima da média"
+13/05/2026,23:03:25,348,Filé tudo,20.9,Cartão de Crédito,Abaixo da média
+13/05/2026,23:05:29,278,2xX-Completo (Padrão),49.8,Pix,Acima da média
+"13/05/2026,23:10:28,408,""2xMolho da casa,Frango salada,Lombo tudo"",38.6,Cartão de Crédito,Abaixo da média"
+"13/05/2026,23:17:37,534,""Frango salada,Refrigerante litro,X-Bacon (Padrão),X-Bacon (Padrão)"",56.6,Cartão de Crédito,Acima da média"
+13/05/2026,23:20:39,80,X-Tudo (Artesanal 150g),22.9,Cartão de Débito,Abaixo da média
+"13/05/2026,23:23:42,968,""Frango completo,X-Bacon (Padrão),Cerveja Lata"",47.7,Pix,Abaixo da média"
+"13/05/2026,23:26:47,201,""Lombo completo,X-Bacon (Artesanal 150g),Lombo completo,Molho de alho"",72.6,Cartão de Crédito,Acima da média"
+"13/05/2026,23:29:03,279,""Frango tudo,Frango bacon"",33.8,Cartão de Crédito,Abaixo da média"
+13/05/2026,23:33:05,311,X-Completo (Padrão),24.9,Cartão de Débito,Abaixo da média
+"13/05/2026,23:38:04,706,""X-Bacon (Artesanal 150g),Filé tudo,X-Bacon (Artesanal 150g)"",62.7,Dinheiro,Acima da média"
+"13/05/2026,23:39:40,117,""Frango tudo,2xCerveja Lata,Refrigerante lata"",35.6,Cartão de Crédito,Abaixo da média"
+"13/05/2026,23:40:12,736,""2xFilé bacon,2xRefrigerante lata,Lombo tudo,Batata frita pequena"",70.4,Cartão de Débito,Acima da média"
+"13/05/2026,23:41:51,787,""X-Tudo (Artesanal 150g),Lombo tudo,Refrigerante litro,X-Tudo (Padrão)"",66.6,Dinheiro,Acima da média"
+"13/05/2026,23:57:40,459,""3xX-Completo (Padrão),Frango salada"",91.6,Cartão de Débito,Acima da média"
+"14/05/2026,18:00:57,363,""Refrigerante litro,Frango bacon"",23.8,Dinheiro,Abaixo da média"
+14/05/2026,18:01:02,225,2xX-Tudo (Artesanal 150g),45.8,Cartão de Débito,Abaixo da média
+"14/05/2026,18:02:36,300,""X-Bacon (Padrão),Refrigerante lata,Frango completo,3xLombo bacon"",92.4,Pix,Acima da média"
+"14/05/2026,18:09:17,177,""X-Completo (Padrão),X-Bacon (Artesanal 150g)"",45.8,Cartão de Crédito,Abaixo da média"
+"14/05/2026,18:09:22,170,""Frango completo,Molho da casa,Molho de alho"",28.7,Cartão de Crédito,Abaixo da média"
+"14/05/2026,18:13:46,113,""X-Salada (Artesanal 150g),Refrigerante lata,Lombo bacon"",48.7,Cartão de Crédito,Abaixo da média"
+"14/05/2026,18:17:49,473,""Filé bacon,Batata frita pequena"",26.8,Cartão de Crédito,Abaixo da média"
+"14/05/2026,18:18:11,936,""Filé Completo,Batata frita grande,X-Bacon (Artesanal 150g)"",62.7,Pix,Acima da média"
+14/05/2026,18:28:53,187,Refrigerante lata,3.9,Cartão de Crédito,Abaixo da média
+"14/05/2026,18:28:54,548,""Batata frita pequena,X-Bacon (Artesanal 150g),2xFilé salada,X-Bacon (Artesanal 150g)"",90.5,Pix,Acima da média"
+"14/05/2026,18:39:44,731,""Batata frita grande,2xLombo bacon,X-Completo (Padrão)"",69.6,Pix,Acima da média"
+"14/05/2026,18:40:49,317,""Refrigerante lata,Refrigerante lata,Frango tudo"",25.7,Pix,Abaixo da média"
+"14/05/2026,18:42:26,592,""X-Salada (Padrão),Refrigerante lata,Filé tudo"",41.7,Pix,Abaixo da média"
+"14/05/2026,18:42:31,219,""Batata frita pequena,Filé bacon"",26.8,Dinheiro,Abaixo da média"
+"14/05/2026,18:43:02,873,""2xLombo bacon,Molho da casa"",33.7,Dinheiro,Abaixo da média"
+"14/05/2026,18:51:09,460,""X-Salada (Artesanal 150g),X-Bacon (Artesanal 150g),X-Completo (Padrão)"",74.7,Dinheiro,Acima da média"
+"14/05/2026,19:08:26,784,""Cerveja Lata,Frango bacon,Batata frita grande"",35.7,Cartão de Débito,Abaixo da média"
+"14/05/2026,19:28:31,1000,""2xFilé bacon,X-Bacon (Artesanal 150g)"",56.7,Pix,Acima da média"
+"14/05/2026,19:34:10,833,""Cerveja Lata,Filé Completo"",35.8,Cartão de Crédito,Abaixo da média"
+"14/05/2026,19:40:27,589,""Lombo salada,Batata frita grande"",29.8,Pix,Abaixo da média"
+"14/05/2026,20:04:00,578,""X-Completo (Artesanal 150g),X-Completo (Padrão)"",50.8,Cartão de Crédito,Acima da média"
+"14/05/2026,20:10:58,256,""Batata frita pequena,Frango tudo"",26.8,Cartão de Débito,Abaixo da média"
+14/05/2026,20:15:54,580,2xX-Salada (Padrão),33.8,Cartão de Crédito,Abaixo da média
+14/05/2026,20:22:25,743,2xMolho da casa,3.8,Pix,Abaixo da média
+"14/05/2026,20:43:25,775,""Filé Completo,Lombo completo,Lombo tudo,X-Bacon (Padrão)"",87.6,Cartão de Crédito,Acima da média"
+"14/05/2026,20:46:26,825,""Lombo completo,X-Tudo (Padrão)"",42.8,Cartão de Crédito,Abaixo da média"
+"14/05/2026,20:52:15,834,""2xFilé Completo,2xCerveja Lata,X-Bacon (Padrão),X-Salada (Artesanal 150g)"",116.4,Dinheiro,Acima da média"
+"14/05/2026,21:08:35,893,""Frango salada,X-Completo (Padrão),Lombo salada"",58.7,Cartão de Débito,Acima da média"
+"14/05/2026,21:16:40,303,""Frango tudo,3xFilé bacon,Filé bacon"",89.5,Pix,Acima da média"
+14/05/2026,21:24:27,793,Filé bacon,17.9,Pix,Abaixo da média
+"14/05/2026,21:29:37,369,""X-Completo (Padrão),2xX-Tudo (Artesanal 150g)"",70.7,Cartão de Débito,Acima da média"
+"14/05/2026,21:41:49,928,""Filé salada,Filé tudo"",40.8,Dinheiro,Abaixo da média"
+14/05/2026,21:43:25,12,X-Salada (Padrão),16.9,Cartão de Crédito,Abaixo da média
+"14/05/2026,21:51:22,465,""Lombo salada,2xLombo salada,Frango tudo"",68.6,Pix,Acima da média"
+"14/05/2026,22:03:45,947,""Frango bacon,Molho da casa"",17.8,Pix,Abaixo da média"
+"14/05/2026,22:04:27,898,""X-Completo (Artesanal 150g),X-Bacon (Artesanal 150g),Filé salada"",66.7,Cartão de Débito,Acima da média"
+14/05/2026,22:05:52,831,Refrigerante litro,7.9,Cartão de Débito,Abaixo da média
+"14/05/2026,22:10:30,165,""X-Completo (Padrão),X-Completo (Padrão),X-Bacon (Artesanal 150g)"",70.7,Cartão de Débito,Acima da média"
+"14/05/2026,22:19:22,415,""Cerveja Lata,2xFilé salada"",46.7,Dinheiro,Abaixo da média"
+"14/05/2026,22:20:42,497,""Refrigerante lata,Refrigerante lata,2xFrango salada,Filé salada"",61.5,Pix,Acima da média"
+"14/05/2026,22:25:19,298,""Lombo bacon,Frango bacon,Lombo completo,X-Completo (Artesanal 150g)"",82.6,Pix,Acima da média"
+"14/05/2026,22:25:37,494,""Lombo bacon,Lombo completo"",40.8,Pix,Abaixo da média"
+14/05/2026,22:25:56,102,Frango completo,24.9,Cartão de Débito,Abaixo da média
+14/05/2026,22:26:46,929,X-Bacon (Artesanal 150g),20.9,Pix,Abaixo da média
+"14/05/2026,22:38:27,643,""X-Completo (Padrão),Lombo salada"",41.8,Cartão de Crédito,Abaixo da média"
+"14/05/2026,22:42:39,214,""X-Completo (Padrão),Lombo completo,Batata frita grande"",62.7,Dinheiro,Acima da média"
+"14/05/2026,22:44:36,50,""3xFrango completo,Filé bacon,Lombo completo,Cerveja Lata"",124.4,Cartão de Crédito,Acima da média"
+"14/05/2026,22:58:38,650,""Filé salada,Frango salada,Frango tudo,Batata frita grande"",67.6,Dinheiro,Acima da média"
+"14/05/2026,23:01:42,279,""Batata frita pequena,Cerveja Lata,Filé salada,Frango bacon"",51.6,Cartão de Débito,Acima da média"
+"14/05/2026,23:02:00,806,""Frango tudo,Filé tudo,X-Bacon (Padrão),Molho da casa"",56.6,Cartão de Crédito,Acima da média"
+"14/05/2026,23:10:11,407,""X-Tudo (Artesanal 150g),Filé salada,Filé salada,2xFilé bacon"",98.5,Pix,Acima da média"
+14/05/2026,23:11:52,318,Refrigerante lata,3.9,Pix,Abaixo da média
+14/05/2026,23:18:16,920,X-Tudo (Padrão),17.9,Cartão de Crédito,Abaixo da média
+"14/05/2026,23:21:08,732,""Molho de alho,Filé tudo"",22.8,Cartão de Débito,Abaixo da média"
+"14/05/2026,23:33:18,814,""X-Completo (Artesanal 150g),Molho da casa"",27.8,Pix,Abaixo da média"
+"14/05/2026,23:50:40,803,""X-Salada (Artesanal 150g),Frango salada"",45.8,Cartão de Débito,Abaixo da média"
+"14/05/2026,23:55:02,662,""Frango tudo,Frango completo"",42.8,Dinheiro,Abaixo da média"
+"15/05/2026,18:01:33,634,""X-Bacon (Artesanal 150g),Frango salada"",37.8,Pix,Abaixo da média"
+"15/05/2026,18:16:09,3,""Refrigerante lata,Lombo bacon"",19.8,Cartão de Crédito,Abaixo da média"
+"15/05/2026,18:19:39,981,""2xLombo salada,Molho da casa,Lombo tudo,X-Tudo (Padrão)"",71.5,Pix,Acima da média"
+"15/05/2026,18:26:38,604,""X-Tudo (Padrão),3xFrango salada"",68.6,Cartão de Crédito,Acima da média"
+"15/05/2026,18:29:39,281,""X-Bacon (Padrão),X-Bacon (Padrão),X-Bacon (Padrão),Molho de alho"",49.6,Cartão de Débito,Abaixo da média"
+"15/05/2026,18:42:48,628,""Frango completo,Refrigerante litro,X-Tudo (Padrão),Lombo completo"",75.6,Cartão de Débito,Acima da média"
+15/05/2026,18:51:10,19,X-Bacon (Artesanal 150g),20.9,Cartão de Débito,Abaixo da média
+"15/05/2026,18:57:34,250,""Lombo tudo,X-Bacon (Artesanal 150g),Frango tudo"",56.7,Pix,Acima da média"
+"15/05/2026,18:59:44,779,""Molho de alho,Frango completo"",26.8,Pix,Abaixo da média"
+"15/05/2026,19:03:19,536,""Lombo completo,X-Completo (Artesanal 150g),X-Tudo (Artesanal 150g)"",73.7,Pix,Acima da média"
+"15/05/2026,19:06:34,756,""X-Bacon (Padrão),Lombo completo,Lombo bacon"",56.7,Pix,Acima da média"
+"15/05/2026,19:13:36,24,""2xFrango tudo,Lombo bacon"",51.7,Pix,Acima da média"
+"15/05/2026,19:16:59,723,""Lombo tudo,2xFrango completo"",67.7,Dinheiro,Acima da média"
+"15/05/2026,19:20:13,299,""Batata frita grande,X-Bacon (Artesanal 150g)"",33.8,Dinheiro,Abaixo da média"
+"15/05/2026,19:36:26,821,""3xRefrigerante litro,X-Tudo (Artesanal 150g)"",46.6,Pix,Abaixo da média"
+"15/05/2026,19:37:55,745,""Refrigerante lata,X-Tudo (Padrão),X-Salada (Padrão),Filé salada"",58.6,Cartão de Débito,Acima da média"
+"15/05/2026,19:48:11,520,""X-Bacon (Artesanal 150g),Molho da casa"",22.8,Pix,Abaixo da média"
+"15/05/2026,19:52:06,74,""Filé tudo,Frango tudo,Filé Completo"",67.7,Pix,Acima da média"
+"15/05/2026,19:53:43,854,""X-Salada (Padrão),Filé tudo,Lombo completo"",62.7,Pix,Acima da média"
+"15/05/2026,20:15:43,840,""2xX-Completo (Artesanal 150g),Lombo completo,X-Completo (Padrão)"",101.6,Cartão de Débito,Acima da média"
+"15/05/2026,21:07:59,535,""X-Completo (Artesanal 150g),X-Salada (Artesanal 150g),Filé salada,Filé tudo"",95.6,Pix,Acima da média"
+"15/05/2026,21:12:29,794,""X-Completo (Artesanal 150g),Filé Completo,3xCerveja Lata"",75.5,Cartão de Crédito,Acima da média"
+"15/05/2026,21:13:45,79,""Molho da casa,Lombo completo,X-Tudo (Padrão)"",44.7,Pix,Abaixo da média"
+"15/05/2026,21:19:17,347,""Filé tudo,Batata frita grande,Filé tudo"",54.7,Cartão de Crédito,Acima da média"
+15/05/2026,21:52:49,874,Batata frita pequena,8.9,Pix,Abaixo da média
+"15/05/2026,21:56:30,271,""Lombo salada,Lombo completo,X-Completo (Artesanal 150g),Frango tudo"",85.6,Pix,Acima da média"
+15/05/2026,21:57:52,630,X-Tudo (Padrão),17.9,Pix,Abaixo da média
+"15/05/2026,22:08:03,377,""Filé bacon,Batata frita grande,Refrigerante litro"",38.7,Pix,Abaixo da média"
+"15/05/2026,22:14:57,730,""2xLombo tudo,Filé salada,X-Salada (Artesanal 150g)"",84.6,Pix,Acima da média"
+15/05/2026,22:21:12,466,2xLombo bacon,31.8,Cartão de Débito,Abaixo da média
+15/05/2026,22:22:17,384,Lombo completo,24.9,Cartão de Débito,Abaixo da média
+"15/05/2026,22:26:05,515,""Frango completo,X-Tudo (Padrão),Batata frita grande"",55.7,Pix,Acima da média"
+"15/05/2026,22:41:40,993,""Batata frita pequena,3xFrango completo,X-Tudo (Padrão),Lombo salada"",118.4,Cartão de Crédito,Acima da média"
+15/05/2026,22:44:04,941,Lombo tudo,17.9,Cartão de Débito,Abaixo da média
+"15/05/2026,22:47:48,755,""2xX-Tudo (Padrão),X-Salada (Artesanal 150g),Lombo completo,Lombo completo"",114.5,Pix,Acima da média"
+"15/05/2026,22:56:57,712,""Filé tudo,Lombo completo,X-Bacon (Padrão),2xFrango bacon"",93.5,Cartão de Crédito,Acima da média"
+"15/05/2026,22:58:00,523,""Filé salada,X-Completo (Padrão),X-Salada (Padrão)"",61.7,Pix,Acima da média"
+"15/05/2026,22:58:15,81,""X-Salada (Artesanal 150g),X-Completo (Artesanal 150g)"",54.8,Cartão de Crédito,Acima da média"
+"15/05/2026,23:16:25,358,""2xLombo salada,Cerveja Lata"",40.7,Pix,Abaixo da média"
+"15/05/2026,23:17:07,871,""Refrigerante lata,Molho de alho"",5.8,Pix,Abaixo da média"
+"15/05/2026,23:19:37,131,""X-Bacon (Padrão),Filé salada"",35.8,Cartão de Crédito,Abaixo da média"
+"15/05/2026,23:28:52,89,""X-Bacon (Artesanal 150g),3xMolho de alho,Filé bacon,Refrigerante litro"",52.4,Dinheiro,Acima da média"
+15/05/2026,23:35:55,827,Molho da casa,1.9,Cartão de Débito,Abaixo da média
+15/05/2026,23:38:36,607,Frango tudo,17.9,Cartão de Crédito,Abaixo da média
+"15/05/2026,23:42:41,727,""Lombo tudo,Batata frita grande,Refrigerante lata,Lombo completo"",59.6,Cartão de Crédito,Acima da média"
+"15/05/2026,23:43:21,392,""Frango completo,X-Bacon (Padrão),X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g)"",92.6,Cartão de Crédito,Acima da média"
+"15/05/2026,23:43:37,613,""Lombo salada,Lombo bacon,X-Bacon (Artesanal 150g),X-Completo (Artesanal 150g)"",79.6,Cartão de Crédito,Acima da média"
+"15/05/2026,23:45:56,324,""Frango salada,Refrigerante litro,Filé Completo,Filé salada"",73.6,Dinheiro,Acima da média"
+"15/05/2026,23:49:40,140,""Refrigerante lata,Filé salada,Lombo salada,Cerveja Lata"",47.6,Dinheiro,Abaixo da média"
+"15/05/2026,23:57:12,828,""Batata frita pequena,X-Completo (Padrão)"",33.8,Pix,Abaixo da média"
+"16/05/2026,18:00:03,139,""Frango bacon,X-Completo (Artesanal 150g)"",41.8,Cartão de Débito,Abaixo da média"
+16/05/2026,18:05:56,285,Refrigerante litro,7.9,Pix,Abaixo da média
+16/05/2026,18:06:07,458,Filé salada,19.9,Pix,Abaixo da média
+"16/05/2026,18:09:08,682,""Frango completo,X-Completo (Padrão),Frango tudo,Filé Completo"",96.6,Pix,Acima da média"
+"16/05/2026,18:10:01,378,""Refrigerante litro,Molho de alho,X-Bacon (Artesanal 150g)"",30.7,Cartão de Débito,Abaixo da média"
+16/05/2026,18:16:20,256,X-Completo (Padrão),24.9,Cartão de Débito,Abaixo da média
+"16/05/2026,18:29:45,374,""Batata frita pequena,X-Completo (Artesanal 150g)"",34.8,Cartão de Crédito,Abaixo da média"
+"16/05/2026,18:37:08,295,""Molho de alho,3xX-Bacon (Artesanal 150g),Molho da casa"",66.5,Cartão de Crédito,Acima da média"
+16/05/2026,18:42:36,870,2xRefrigerante lata,7.8,Pix,Abaixo da média
+16/05/2026,18:45:32,390,Frango salada,16.9,Cartão de Crédito,Abaixo da média
+"16/05/2026,18:51:42,364,""X-Salada (Artesanal 150g),2xLombo tudo,X-Tudo (Artesanal 150g),Batata frita grande"",100.5,Cartão de Débito,Acima da média"
+"16/05/2026,18:53:29,779,""Filé Completo,X-Bacon (Padrão)"",44.8,Pix,Abaixo da média"
+16/05/2026,18:53:50,425,X-Bacon (Padrão),15.9,Dinheiro,Abaixo da média
+16/05/2026,19:06:59,506,Lombo tudo,17.9,Pix,Abaixo da média
+"16/05/2026,19:13:53,694,""X-Tudo (Artesanal 150g),Cerveja Lata,X-Completo (Artesanal 150g)"",55.7,Pix,Acima da média"
+"16/05/2026,19:14:38,131,""Refrigerante litro,Cerveja Lata"",14.8,Cartão de Crédito,Abaixo da média"
+"16/05/2026,19:18:23,233,""Lombo bacon,X-Completo (Padrão),Batata frita grande,Frango completo"",78.6,Pix,Acima da média"
+16/05/2026,19:22:23,726,X-Salada (Artesanal 150g),28.9,Cartão de Crédito,Abaixo da média
+"16/05/2026,19:26:29,28,""X-Salada (Artesanal 150g),Batata frita pequena,Lombo bacon"",53.7,Cartão de Débito,Acima da média"
+"16/05/2026,19:42:52,6,""X-Bacon (Padrão),X-Completo (Padrão),Frango bacon"",56.7,Cartão de Débito,Acima da média"
+"16/05/2026,19:44:22,804,""X-Tudo (Padrão),Lombo bacon,X-Tudo (Artesanal 150g)"",56.7,Cartão de Crédito,Acima da média"
+"16/05/2026,19:52:07,664,""Molho da casa,X-Bacon (Padrão)"",17.8,Cartão de Débito,Abaixo da média"
+"16/05/2026,19:59:02,684,""Filé Completo,Lombo bacon,Frango tudo"",62.7,Dinheiro,Acima da média"
+"16/05/2026,20:07:13,65,""Filé tudo,2xX-Bacon (Artesanal 150g)"",62.7,Cartão de Débito,Acima da média"
+16/05/2026,20:14:16,26,Filé bacon,17.9,Cartão de Débito,Abaixo da média
+"16/05/2026,20:16:51,117,""2xX-Bacon (Padrão),3xMolho de alho,X-Completo (Artesanal 150g),2xX-Completo (Padrão)"",113.2,Cartão de Crédito,Acima da média"
+"16/05/2026,20:17:13,410,""Frango salada,X-Bacon (Artesanal 150g)"",37.8,Cartão de Débito,Abaixo da média"
+"16/05/2026,20:17:51,799,""Frango completo,Frango completo"",49.8,Dinheiro,Acima da média"
+16/05/2026,20:18:25,606,Filé tudo,20.9,Dinheiro,Abaixo da média
+16/05/2026,20:19:18,868,2xX-Completo (Artesanal 150g),51.8,Pix,Acima da média
+16/05/2026,20:47:16,789,X-Bacon (Padrão),15.9,Pix,Abaixo da média
+16/05/2026,20:50:49,324,Batata frita pequena,8.9,Pix,Abaixo da média
+"16/05/2026,20:56:07,738,""Frango completo,Lombo tudo,Lombo salada"",59.7,Cartão de Crédito,Acima da média"
+"16/05/2026,21:02:51,443,""Batata frita grande,Refrigerante litro,Lombo completo"",45.7,Cartão de Débito,Abaixo da média"
+"16/05/2026,21:06:47,353,""2xLombo tudo,Lombo bacon"",51.7,Cartão de Débito,Acima da média"
+"16/05/2026,21:07:05,127,""2xLombo completo,Filé salada,Lombo completo"",94.6,Pix,Acima da média"
+16/05/2026,21:14:17,11,X-Salada (Padrão),16.9,Cartão de Crédito,Abaixo da média
+"16/05/2026,21:14:19,337,""Cerveja Lata,Refrigerante lata"",10.8,Cartão de Débito,Abaixo da média"
+"16/05/2026,21:18:37,349,""X-Tudo (Artesanal 150g),Refrigerante lata,Frango tudo,Lombo salada"",61.6,Cartão de Débito,Acima da média"
+"16/05/2026,21:20:44,304,""X-Salada (Padrão),Molho da casa,Refrigerante lata"",22.7,Pix,Abaixo da média"
+"16/05/2026,21:26:22,541,""X-Tudo (Artesanal 150g),2xX-Salada (Padrão),Lombo bacon"",72.6,Cartão de Débito,Acima da média"
+16/05/2026,21:29:29,524,Molho de alho,1.9,Pix,Abaixo da média
+"16/05/2026,21:33:38,172,""Molho de alho,Frango bacon,X-Salada (Artesanal 150g),Frango tudo"",64.6,Dinheiro,Acima da média"
+"16/05/2026,21:36:30,341,""Lombo tudo,Cerveja Lata,Molho de alho,Molho de alho"",28.6,Dinheiro,Abaixo da média"
+"16/05/2026,21:46:53,541,""Molho da casa,Frango completo"",26.8,Pix,Abaixo da média"
+"16/05/2026,21:55:50,394,""Filé tudo,Lombo completo"",45.8,Cartão de Débito,Abaixo da média"
+16/05/2026,22:06:29,189,Molho de alho,1.9,Cartão de Crédito,Abaixo da média
+16/05/2026,22:07:48,645,Lombo salada,16.9,Cartão de Débito,Abaixo da média
+"16/05/2026,22:10:10,700,""Filé salada,Frango salada,Batata frita pequena,Batata frita grande"",58.6,Pix,Acima da média"
+16/05/2026,22:14:38,766,2xBatata frita pequena,17.8,Pix,Abaixo da média
+"16/05/2026,22:14:53,16,""Filé Completo,Batata frita grande,Filé bacon,Lombo tudo"",77.6,Cartão de Crédito,Acima da média"
+"16/05/2026,22:19:31,299,""Cerveja Lata,X-Completo (Artesanal 150g),Batata frita grande,Batata frita grande"",58.6,Pix,Acima da média"
+"16/05/2026,22:23:40,697,""Batata frita grande,X-Completo (Padrão),Molho de alho"",39.7,Cartão de Crédito,Abaixo da média"
+"16/05/2026,22:25:46,59,""2xBatata frita pequena,2xX-Bacon (Padrão),Lombo bacon,Frango bacon"",81.4,Cartão de Crédito,Acima da média"
+16/05/2026,22:36:41,339,X-Tudo (Artesanal 150g),22.9,Cartão de Crédito,Abaixo da média
+"16/05/2026,22:42:20,327,""Refrigerante lata,2xLombo completo,Frango salada"",70.6,Cartão de Débito,Acima da média"
+"16/05/2026,22:50:35,464,""Lombo tudo,X-Completo (Artesanal 150g),Batata frita pequena,2xX-Completo (Artesanal 150g)"",104.5,Cartão de Crédito,Acima da média"
+"16/05/2026,23:00:38,307,""Batata frita pequena,Frango bacon,Filé Completo,Frango bacon"",69.6,Cartão de Débito,Acima da média"
+16/05/2026,23:01:01,562,2xLombo tudo,35.8,Cartão de Débito,Abaixo da média
+"16/05/2026,23:13:18,846,""2xX-Completo (Artesanal 150g),Refrigerante lata,2xX-Completo (Artesanal 150g),Molho da casa"",109.4,Pix,Acima da média"
+"16/05/2026,23:15:27,710,""Lombo salada,2xFilé salada"",56.7,Pix,Acima da média"
+16/05/2026,23:23:37,999,Molho da casa,1.9,Pix,Abaixo da média
+"16/05/2026,23:25:31,675,""2xMolho da casa,2xRefrigerante litro"",19.6,Pix,Abaixo da média"
+"16/05/2026,23:29:26,282,""Frango completo,Frango completo"",49.8,Cartão de Débito,Acima da média"
+16/05/2026,23:30:11,222,Batata frita grande,12.9,Pix,Abaixo da média
+16/05/2026,23:37:05,587,X-Salada (Padrão),16.9,Cartão de Crédito,Abaixo da média
+"16/05/2026,23:45:42,864,""Frango tudo,Lombo completo"",42.8,Cartão de Crédito,Abaixo da média"
+"16/05/2026,23:45:50,272,""Lombo completo,X-Bacon (Padrão)"",40.8,Pix,Abaixo da média"
+"16/05/2026,23:51:05,234,""Lombo salada,2xX-Completo (Padrão),Lombo tudo,Cerveja Lata"",91.5,Pix,Acima da média"
+"16/05/2026,23:57:31,554,""X-Completo (Padrão),Molho de alho"",26.8,Pix,Abaixo da média"
+17/05/2026,18:04:03,680,X-Salada (Artesanal 150g),28.9,Cartão de Crédito,Abaixo da média
+"17/05/2026,18:04:30,901,""Refrigerante lata,Lombo bacon,Filé salada,Lombo salada"",56.6,Pix,Acima da média"
+"17/05/2026,18:16:13,727,""Batata frita grande,X-Completo (Artesanal 150g),X-Tudo (Padrão),Lombo bacon"",72.6,Cartão de Crédito,Acima da média"
+"17/05/2026,18:27:42,874,""X-Tudo (Padrão),2xFilé salada"",57.7,Pix,Acima da média"
+"17/05/2026,18:28:07,496,""Frango salada,Lombo tudo"",34.8,Pix,Abaixo da média"
+17/05/2026,18:31:27,528,Frango tudo,17.9,Pix,Abaixo da média
+"17/05/2026,18:40:27,294,""X-Salada (Padrão),Refrigerante lata,3xLombo salada,Frango completo"",96.4,Pix,Acima da média"
+"17/05/2026,19:08:33,815,""Molho da casa,Refrigerante litro,Batata frita pequena,3xFilé salada"",78.4,Pix,Acima da média"
+"17/05/2026,19:17:43,151,""Filé bacon,2xBatata frita grande,X-Completo (Artesanal 150g),Lombo bacon"",85.5,Cartão de Débito,Acima da média"
+"17/05/2026,19:20:34,167,""2xFrango salada,Refrigerante litro,2xBatata frita pequena,Molho da casa"",61.4,Cartão de Débito,Acima da média"
+"17/05/2026,19:23:35,413,""X-Salada (Padrão),Frango tudo,Refrigerante litro,Lombo salada"",59.6,Cartão de Crédito,Acima da média"
+"17/05/2026,19:25:59,355,""Frango bacon,Batata frita grande,Batata frita pequena"",37.7,Cartão de Crédito,Abaixo da média"
+"17/05/2026,19:29:37,892,""Filé Completo,2xRefrigerante litro"",44.7,Cartão de Débito,Abaixo da média"
+17/05/2026,19:31:31,473,2xFilé Completo,57.8,Cartão de Crédito,Acima da média
+"17/05/2026,19:35:18,639,""Lombo completo,2xFrango completo"",74.7,Cartão de Crédito,Acima da média"
+"17/05/2026,19:37:56,105,""2xMolho de alho,Molho de alho,X-Bacon (Padrão),Molho da casa"",23.5,Pix,Abaixo da média"
+"17/05/2026,19:42:37,32,""Filé tudo,2xFrango tudo"",56.7,Pix,Acima da média"
+"17/05/2026,19:52:58,109,""Filé tudo,Frango tudo,Lombo bacon,Lombo completo"",79.6,Cartão de Crédito,Acima da média"
+17/05/2026,20:25:13,69,X-Tudo (Artesanal 150g),22.9,Pix,Abaixo da média
+17/05/2026,20:34:06,855,Lombo bacon,15.9,Cartão de Débito,Abaixo da média
+"17/05/2026,20:46:21,840,""Refrigerante lata,Frango completo,Batata frita pequena"",37.7,Pix,Abaixo da média"
+17/05/2026,20:50:58,668,2xRefrigerante litro,15.8,Cartão de Débito,Abaixo da média
+"17/05/2026,20:51:52,192,""Lombo salada,2xFilé salada,3xFrango salada,X-Tudo (Padrão)"",125.3,Pix,Acima da média"
+"17/05/2026,20:53:37,482,""2xX-Bacon (Artesanal 150g),X-Salada (Padrão),Batata frita grande"",71.6,Cartão de Crédito,Acima da média"
+"17/05/2026,21:04:11,661,""Lombo bacon,Frango bacon"",31.8,Cartão de Crédito,Abaixo da média"
+"17/05/2026,21:08:42,161,""Frango completo,Frango salada"",41.8,Cartão de Débito,Abaixo da média"
+"17/05/2026,21:10:24,316,""Filé salada,Lombo bacon"",35.8,Cartão de Débito,Abaixo da média"
+"17/05/2026,21:20:34,284,""X-Salada (Artesanal 150g),3xRefrigerante litro,Frango completo"",77.5,Pix,Acima da média"
+"17/05/2026,21:21:59,555,""Cerveja Lata,Refrigerante lata,Frango salada,X-Completo (Artesanal 150g)"",53.6,Cartão de Débito,Acima da média"
+"17/05/2026,21:52:51,737,""X-Salada (Artesanal 150g),3xFrango completo"",103.6,Pix,Acima da média"
+"17/05/2026,21:56:08,332,""Lombo salada,2xX-Bacon (Padrão)"",48.7,Cartão de Crédito,Abaixo da média"
+"17/05/2026,22:03:10,14,""X-Bacon (Padrão),Filé tudo"",36.8,Pix,Abaixo da média"
+"17/05/2026,22:15:25,705,""2xBatata frita grande,X-Salada (Artesanal 150g),X-Completo (Artesanal 150g),X-Salada (Artesanal 150g)"",109.5,Cartão de Crédito,Acima da média"
+"17/05/2026,22:15:44,212,""Frango salada,Molho de alho,Batata frita pequena"",27.7,Pix,Abaixo da média"
+17/05/2026,22:17:16,635,Batata frita pequena,8.9,Pix,Abaixo da média
+17/05/2026,22:24:39,362,X-Completo (Padrão),24.9,Cartão de Crédito,Abaixo da média
+17/05/2026,22:29:11,561,Refrigerante lata,3.9,Cartão de Débito,Abaixo da média
+"17/05/2026,22:29:32,134,""Lombo salada,X-Completo (Artesanal 150g),Batata frita pequena"",51.7,Cartão de Débito,Acima da média"
+17/05/2026,22:36:24,205,Molho de alho,1.9,Cartão de Crédito,Abaixo da média
+"17/05/2026,22:36:39,788,""Cerveja Lata,Filé tudo,X-Salada (Artesanal 150g)"",56.7,Cartão de Crédito,Acima da média"
+"17/05/2026,22:39:43,623,""Lombo salada,Frango salada"",33.8,Cartão de Débito,Abaixo da média"
+"17/05/2026,22:45:42,185,""2xLombo tudo,Filé bacon,2xBatata frita grande"",79.5,Cartão de Débito,Acima da média"
+17/05/2026,22:51:16,415,Refrigerante lata,3.9,Cartão de Débito,Abaixo da média
+17/05/2026,22:53:13,467,X-Completo (Padrão),24.9,Pix,Abaixo da média
+"17/05/2026,22:58:51,114,""3xX-Bacon (Padrão),Filé Completo,Refrigerante lata,2xX-Completo (Padrão)"",130.3,Pix,Acima da média"
+"17/05/2026,23:00:10,319,""X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g)"",51.8,Cartão de Débito,Acima da média"
+17/05/2026,23:02:27,527,2xX-Salada (Padrão),33.8,Cartão de Crédito,Abaixo da média
+17/05/2026,23:02:41,227,X-Salada (Artesanal 150g),28.9,Cartão de Débito,Abaixo da média
+"17/05/2026,23:02:59,672,""Filé tudo,Frango completo,X-Tudo (Artesanal 150g),Refrigerante litro"",76.6,Cartão de Crédito,Acima da média"
+"17/05/2026,23:11:41,594,""3xCerveja Lata,Cerveja Lata,Molho da casa"",29.5,Cartão de Crédito,Abaixo da média"
+"17/05/2026,23:14:39,980,""Filé tudo,Cerveja Lata,Lombo tudo"",45.7,Pix,Abaixo da média"
+17/05/2026,23:17:30,144,Lombo bacon,15.9,Pix,Abaixo da média
+17/05/2026,23:23:26,828,2xX-Salada (Padrão),33.8,Pix,Abaixo da média
+"17/05/2026,23:36:18,559,""X-Salada (Padrão),X-Completo (Padrão)"",41.8,Cartão de Débito,Abaixo da média"
+"17/05/2026,23:42:17,842,""X-Salada (Padrão),Batata frita pequena,X-Salada (Artesanal 150g)"",54.7,Pix,Acima da média"
+17/05/2026,23:42:54,146,Cerveja Lata,6.9,Cartão de Débito,Abaixo da média
+17/05/2026,23:53:16,714,Frango bacon,15.9,Pix,Abaixo da média
+"17/05/2026,23:55:11,860,""Filé Completo,Lombo tudo,Batata frita grande"",59.7,Cartão de Débito,Acima da média"
+"17/05/2026,23:55:11,267,""3xX-Salada (Artesanal 150g),Filé bacon,Frango tudo,X-Salada (Artesanal 150g)"",151.4,Cartão de Crédito,Acima da média"
+"17/05/2026,23:55:47,634,""Filé salada,3xFrango bacon"",67.6,Pix,Acima da média"
+"17/05/2026,23:56:44,515,""X-Bacon (Padrão),X-Completo (Padrão),Refrigerante litro"",48.7,Dinheiro,Abaixo da média"
+"18/05/2026,18:08:34,995,""2xFilé Completo,X-Tudo (Artesanal 150g)"",80.7,Cartão de Crédito,Acima da média"
+"18/05/2026,18:22:57,449,""X-Salada (Artesanal 150g),X-Bacon (Padrão),Molho da casa"",46.7,Cartão de Crédito,Abaixo da média"
+18/05/2026,18:24:11,172,3xFrango completo,74.7,Dinheiro,Acima da média
+18/05/2026,18:30:04,244,X-Bacon (Padrão),15.9,Cartão de Crédito,Abaixo da média
+"18/05/2026,18:34:51,858,""Molho da casa,X-Bacon (Padrão),X-Completo (Padrão)"",42.7,Pix,Abaixo da média"
+"18/05/2026,18:41:25,230,""X-Tudo (Padrão),X-Salada (Artesanal 150g)"",46.8,Pix,Abaixo da média"
+"18/05/2026,18:50:46,436,""X-Bacon (Artesanal 150g),Filé Completo"",49.8,Cartão de Débito,Acima da média"
+"18/05/2026,18:51:50,480,""Filé salada,2xMolho de alho"",23.7,Cartão de Débito,Abaixo da média"
+"18/05/2026,18:52:58,236,""X-Bacon (Padrão),Molho de alho,Lombo tudo,2xX-Salada (Padrão)"",69.5,Cartão de Crédito,Acima da média"
+18/05/2026,19:21:29,2,Filé bacon,17.9,Dinheiro,Abaixo da média
+"18/05/2026,19:24:13,136,""Refrigerante lata,X-Tudo (Artesanal 150g),Frango salada,Lombo tudo"",61.6,Cartão de Crédito,Acima da média"
+"18/05/2026,19:24:46,209,""X-Salada (Artesanal 150g),Molho de alho,Refrigerante litro"",38.7,Pix,Abaixo da média"
+"18/05/2026,19:25:44,47,""Lombo bacon,Frango tudo,2xLombo tudo"",69.6,Cartão de Crédito,Acima da média"
+"18/05/2026,19:30:53,302,""Cerveja Lata,Filé bacon,Lombo bacon"",40.7,Pix,Abaixo da média"
+18/05/2026,19:42:01,632,Frango tudo,17.9,Cartão de Débito,Abaixo da média
+18/05/2026,19:47:11,655,Cerveja Lata,6.9,Pix,Abaixo da média
+"18/05/2026,19:59:00,200,""Lombo salada,Lombo bacon,Frango completo,X-Tudo (Padrão)"",75.6,Cartão de Débito,Acima da média"
+"18/05/2026,19:59:47,429,""Lombo completo,Filé bacon"",42.8,Cartão de Crédito,Abaixo da média"
+"18/05/2026,20:06:12,404,""Lombo salada,X-Completo (Artesanal 150g),Frango completo"",67.7,Pix,Acima da média"
+"18/05/2026,20:09:00,33,""Batata frita pequena,Molho de alho,2xMolho da casa"",14.6,Cartão de Crédito,Abaixo da média"
+18/05/2026,20:14:23,575,3xCerveja Lata,20.7,Cartão de Débito,Abaixo da média
+"18/05/2026,20:22:58,582,""Filé bacon,X-Bacon (Artesanal 150g),Lombo completo"",63.7,Cartão de Débito,Acima da média"
+"18/05/2026,20:31:28,459,""Cerveja Lata,Molho de alho,Refrigerante litro"",16.7,Pix,Abaixo da média"
+"18/05/2026,20:52:46,168,""Lombo bacon,Frango completo,Molho da casa"",42.7,Cartão de Crédito,Abaixo da média"
+"18/05/2026,20:54:23,155,""2xLombo bacon,Frango bacon,Batata frita pequena,X-Bacon (Padrão)"",72.5,Cartão de Crédito,Acima da média"
+"18/05/2026,21:02:14,566,""Refrigerante litro,Frango bacon,Molho da casa"",25.7,Cartão de Débito,Abaixo da média"
+"18/05/2026,21:10:24,342,""Batata frita grande,Lombo bacon,Batata frita pequena,2xX-Tudo (Artesanal 150g)"",83.5,Pix,Acima da média"
+"18/05/2026,21:12:05,560,""Lombo tudo,Frango tudo,Batata frita pequena"",44.7,Cartão de Crédito,Abaixo da média"
+"18/05/2026,21:29:37,221,""X-Tudo (Padrão),2xX-Bacon (Artesanal 150g),X-Tudo (Artesanal 150g)"",82.6,Pix,Acima da média"
+"18/05/2026,21:31:06,396,""X-Salada (Padrão),Cerveja Lata,Lombo bacon,Frango tudo"",57.6,Pix,Acima da média"
+"18/05/2026,21:38:09,701,""Frango tudo,Filé salada,2xX-Bacon (Artesanal 150g)"",79.6,Pix,Acima da média"
+"18/05/2026,21:43:08,27,""Molho de alho,2xMolho da casa,Lombo salada,X-Bacon (Artesanal 150g)"",43.5,Pix,Abaixo da média"
+"18/05/2026,21:45:28,537,""Filé salada,X-Tudo (Artesanal 150g)"",42.8,Cartão de Débito,Abaixo da média"
+"18/05/2026,22:14:15,497,""Frango bacon,Lombo tudo"",33.8,Cartão de Débito,Abaixo da média"
+"18/05/2026,22:15:26,590,""Lombo salada,Lombo completo,Frango salada,X-Completo (Padrão)"",83.6,Pix,Acima da média"
+"18/05/2026,22:27:21,845,""Lombo salada,X-Completo (Artesanal 150g),Batata frita grande,Molho de alho"",57.6,Cartão de Débito,Acima da média"
+18/05/2026,22:31:39,563,Molho da casa,1.9,Cartão de Débito,Abaixo da média
+"18/05/2026,22:38:01,616,""Refrigerante lata,Frango tudo"",21.8,Pix,Abaixo da média"
+"18/05/2026,22:40:20,528,""Lombo bacon,X-Tudo (Padrão),Frango completo,X-Completo (Artesanal 150g)"",84.6,Pix,Acima da média"
+18/05/2026,22:46:17,826,X-Tudo (Padrão),17.9,Cartão de Débito,Abaixo da média
+"18/05/2026,22:48:58,513,""Lombo bacon,X-Salada (Artesanal 150g),X-Bacon (Padrão),Filé salada"",80.6,Cartão de Crédito,Acima da média"
+"18/05/2026,23:04:50,636,""Filé Completo,Lombo salada,Lombo tudo,X-Salada (Artesanal 150g)"",92.6,Pix,Acima da média"
+"18/05/2026,23:05:06,799,""2xFrango tudo,Refrigerante litro"",43.7,Pix,Abaixo da média"
+18/05/2026,23:20:55,336,Lombo completo,24.9,Cartão de Crédito,Abaixo da média
+"18/05/2026,23:30:01,267,""Lombo tudo,2xFilé Completo"",75.7,Cartão de Débito,Acima da média"
+"18/05/2026,23:30:39,489,""Frango salada,2xRefrigerante litro,X-Tudo (Artesanal 150g),Lombo salada"",72.5,Pix,Acima da média"
+"18/05/2026,23:37:29,80,""Filé Completo,Frango bacon,Frango bacon,Molho de alho"",62.6,Cartão de Débito,Acima da média"
+18/05/2026,23:45:31,128,Lombo salada,16.9,Pix,Abaixo da média
+18/05/2026,23:47:00,215,X-Tudo (Artesanal 150g),22.9,Pix,Abaixo da média
+18/05/2026,23:49:09,568,X-Tudo (Padrão),17.9,Dinheiro,Abaixo da média
+"18/05/2026,23:52:40,683,""Batata frita grande,2xLombo bacon,Refrigerante litro"",52.6,Cartão de Débito,Acima da média"
+"18/05/2026,23:57:59,4,""Molho da casa,Lombo tudo,Filé Completo,Refrigerante litro"",56.6,Pix,Acima da média"
+"19/05/2026,18:02:33,197,""X-Completo (Padrão),Filé bacon"",42.8,Pix,Abaixo da média"
+"19/05/2026,18:03:49,688,""Molho da casa,Lombo bacon,Lombo bacon,Frango completo"",58.6,Pix,Acima da média"
+"19/05/2026,18:09:11,841,""Lombo salada,Filé tudo,X-Salada (Padrão),Filé tudo"",75.6,Cartão de Débito,Acima da média"
+"19/05/2026,18:12:04,452,""2xRefrigerante lata,Lombo bacon"",23.7,Pix,Abaixo da média"
+"19/05/2026,18:14:10,700,""Molho de alho,Lombo bacon,X-Tudo (Artesanal 150g)"",40.7,Cartão de Crédito,Abaixo da média"
+19/05/2026,18:16:03,248,3xCerveja Lata,20.7,Dinheiro,Abaixo da média
+19/05/2026,18:17:43,29,2xRefrigerante lata,7.8,Dinheiro,Abaixo da média
+"19/05/2026,18:20:38,161,""X-Salada (Artesanal 150g),X-Salada (Padrão),Lombo bacon,Filé salada"",81.6,Pix,Acima da média"
+"19/05/2026,18:23:59,997,""Molho da casa,Lombo completo"",26.8,Dinheiro,Abaixo da média"
+19/05/2026,18:36:30,197,Lombo completo,24.9,Cartão de Débito,Abaixo da média
+19/05/2026,18:49:09,792,Refrigerante lata,3.9,Pix,Abaixo da média
+19/05/2026,19:12:01,537,Molho da casa,1.9,Pix,Abaixo da média
+19/05/2026,19:17:38,483,Refrigerante lata,3.9,Cartão de Crédito,Abaixo da média
+"19/05/2026,19:19:17,105,""Frango bacon,X-Tudo (Padrão),Frango tudo"",51.7,Pix,Acima da média"
+"19/05/2026,19:23:30,696,""Refrigerante lata,3xLombo salada"",54.6,Cartão de Débito,Acima da média"
+19/05/2026,19:34:00,365,Filé salada,19.9,Cartão de Crédito,Abaixo da média
+"19/05/2026,19:38:40,500,""2xFrango salada,Filé salada,X-Salada (Artesanal 150g),Filé bacon"",100.5,Dinheiro,Acima da média"
+"19/05/2026,19:54:09,721,""Lombo bacon,Lombo completo"",40.8,Cartão de Crédito,Abaixo da média"
+19/05/2026,20:18:11,446,Lombo tudo,17.9,Cartão de Crédito,Abaixo da média
+"19/05/2026,20:22:09,628,""Frango bacon,Molho da casa,Molho da casa"",19.7,Cartão de Débito,Abaixo da média"
+19/05/2026,20:28:25,859,Lombo completo,24.9,Pix,Abaixo da média
+"19/05/2026,20:32:44,767,""Frango tudo,2xCerveja Lata,Batata frita pequena,Batata frita grande"",53.5,Cartão de Crédito,Acima da média"
+19/05/2026,20:32:52,59,X-Completo (Padrão),24.9,Cartão de Crédito,Abaixo da média
+19/05/2026,20:43:44,649,Molho da casa,1.9,Dinheiro,Abaixo da média
+"19/05/2026,20:51:01,434,""3xBatata frita pequena,Frango tudo"",44.6,Cartão de Crédito,Abaixo da média"
+"19/05/2026,20:52:11,494,""Filé tudo,3xMolho de alho,X-Salada (Artesanal 150g)"",55.5,Cartão de Crédito,Acima da média"
+19/05/2026,20:59:20,716,X-Salada (Padrão),16.9,Pix,Abaixo da média
+"19/05/2026,21:00:22,569,""2xFilé bacon,Lombo bacon,Lombo tudo"",69.6,Pix,Acima da média"
+"19/05/2026,21:06:57,206,""2xX-Completo (Artesanal 150g),X-Tudo (Artesanal 150g),Refrigerante lata"",78.6,Cartão de Crédito,Acima da média"
+"19/05/2026,21:15:27,857,""Batata frita grande,2xX-Bacon (Artesanal 150g),Frango completo"",79.6,Cartão de Crédito,Acima da média"
+"19/05/2026,21:20:38,495,""X-Bacon (Padrão),X-Bacon (Padrão)"",31.8,Cartão de Crédito,Abaixo da média"
+19/05/2026,21:24:07,741,Frango bacon,15.9,Dinheiro,Abaixo da média
+"19/05/2026,21:25:02,93,""Batata frita pequena,Refrigerante lata"",12.8,Pix,Abaixo da média"
+"19/05/2026,21:27:51,669,""X-Salada (Artesanal 150g),X-Salada (Padrão),Molho de alho"",47.7,Cartão de Débito,Abaixo da média"
+"19/05/2026,21:38:47,164,""Batata frita grande,Molho da casa"",14.8,Pix,Abaixo da média"
+"19/05/2026,21:38:59,439,""Lombo salada,X-Completo (Artesanal 150g)"",42.8,Cartão de Crédito,Abaixo da média"
+"19/05/2026,21:53:06,444,""Batata frita pequena,Filé salada"",28.8,Cartão de Débito,Abaixo da média"
+"19/05/2026,21:53:40,423,""X-Tudo (Artesanal 150g),2xX-Tudo (Artesanal 150g)"",68.7,Dinheiro,Acima da média"
+"19/05/2026,22:00:11,953,""Refrigerante litro,Frango completo,Molho de alho,Frango completo"",59.6,Cartão de Débito,Acima da média"
+"19/05/2026,22:06:59,585,""Lombo completo,2xRefrigerante litro"",40.7,Cartão de Crédito,Abaixo da média"
+"19/05/2026,22:08:27,648,""Lombo completo,Molho de alho"",26.8,Cartão de Crédito,Abaixo da média"
+"19/05/2026,22:12:41,689,""X-Salada (Padrão),Lombo bacon,2xLombo completo,Lombo salada"",99.5,Cartão de Débito,Acima da média"
+"19/05/2026,22:14:42,405,""X-Salada (Artesanal 150g),Refrigerante litro"",36.8,Dinheiro,Abaixo da média"
+19/05/2026,22:14:46,776,X-Bacon (Artesanal 150g),20.9,Cartão de Débito,Abaixo da média
+19/05/2026,22:18:50,355,X-Salada (Padrão),16.9,Pix,Abaixo da média
+"19/05/2026,22:25:44,591,""Lombo salada,Refrigerante lata"",20.8,Cartão de Crédito,Abaixo da média"
+"19/05/2026,22:26:13,478,""X-Bacon (Artesanal 150g),2xX-Tudo (Artesanal 150g),Molho de alho"",68.6,Pix,Acima da média"
+"19/05/2026,22:40:35,92,""X-Salada (Padrão),Batata frita pequena,2xFilé Completo"",83.6,Pix,Acima da média"
+19/05/2026,22:42:13,542,X-Tudo (Padrão),17.9,Cartão de Débito,Abaixo da média
+"19/05/2026,22:42:19,695,""Batata frita pequena,Lombo tudo"",26.8,Pix,Abaixo da média"
+"19/05/2026,22:50:50,648,""2xFilé salada,Molho da casa,X-Bacon (Padrão)"",57.6,Pix,Acima da média"
+"19/05/2026,22:51:02,679,""Filé salada,X-Completo (Artesanal 150g),Cerveja Lata,Frango salada"",69.6,Cartão de Débito,Acima da média"
+"19/05/2026,22:51:13,850,""Batata frita pequena,X-Bacon (Padrão)"",24.8,Pix,Abaixo da média"
+"19/05/2026,22:56:12,721,""Cerveja Lata,Refrigerante litro,X-Bacon (Padrão),Frango tudo"",48.6,Pix,Abaixo da média"
+"19/05/2026,22:56:44,62,""Filé salada,X-Completo (Padrão)"",44.8,Pix,Abaixo da média"
+"19/05/2026,22:59:23,381,""Lombo completo,3xX-Tudo (Artesanal 150g),X-Completo (Padrão)"",118.5,Cartão de Débito,Acima da média"
+"19/05/2026,23:06:24,667,""2xX-Bacon (Artesanal 150g),X-Bacon (Artesanal 150g),Lombo tudo,Molho de alho"",82.5,Cartão de Crédito,Acima da média"
+"19/05/2026,23:07:15,644,""Batata frita pequena,Refrigerante lata"",12.8,Cartão de Débito,Abaixo da média"
+"19/05/2026,23:11:08,157,""Frango completo,Cerveja Lata,X-Salada (Padrão),Frango tudo"",66.6,Pix,Acima da média"
+"19/05/2026,23:16:45,289,""Frango completo,Frango bacon,Cerveja Lata"",47.7,Pix,Abaixo da média"
+"19/05/2026,23:29:28,329,""Lombo completo,Lombo salada,Filé Completo,2xFrango bacon"",102.5,Pix,Acima da média"
+"19/05/2026,23:31:09,360,""Filé bacon,Frango bacon"",33.8,Dinheiro,Abaixo da média"
+"19/05/2026,23:33:30,227,""Refrigerante lata,Filé salada,3xLombo salada,Filé salada"",94.4,Dinheiro,Acima da média"
+"19/05/2026,23:37:01,820,""Molho da casa,X-Salada (Artesanal 150g),Refrigerante litro,X-Completo (Artesanal 150g)"",64.6,Cartão de Débito,Acima da média"
+19/05/2026,23:50:21,439,Molho da casa,1.9,Pix,Abaixo da média
+"19/05/2026,23:50:55,581,""X-Tudo (Artesanal 150g),Filé salada,Batata frita grande"",55.7,Cartão de Débito,Acima da média"
+"19/05/2026,23:53:32,253,""X-Tudo (Artesanal 150g),X-Completo (Artesanal 150g),Frango tudo"",66.7,Cartão de Crédito,Acima da média"
+"20/05/2026,18:06:01,544,""Molho de alho,Lombo bacon,Frango salada"",34.7,Cartão de Crédito,Abaixo da média"
+"20/05/2026,18:09:19,23,""Refrigerante litro,Molho da casa"",9.8,Dinheiro,Abaixo da média"
+"20/05/2026,18:27:59,780,""Filé bacon,2xLombo completo"",67.7,Cartão de Crédito,Acima da média"
+"20/05/2026,18:35:00,162,""Filé tudo,Filé salada"",40.8,Pix,Abaixo da média"
+20/05/2026,18:59:35,506,Refrigerante lata,3.9,Pix,Abaixo da média
+"20/05/2026,19:02:34,674,""Filé bacon,Filé Completo,Batata frita grande,Lombo salada"",76.6,Cartão de Crédito,Acima da média"
+"20/05/2026,19:13:46,96,""X-Salada (Padrão),Refrigerante litro,Filé bacon,Batata frita pequena"",51.6,Cartão de Crédito,Acima da média"
+"20/05/2026,19:14:55,603,""X-Completo (Padrão),X-Bacon (Artesanal 150g)"",45.8,Cartão de Crédito,Abaixo da média"
+"20/05/2026,19:15:31,598,""X-Completo (Artesanal 150g),X-Completo (Artesanal 150g),Frango tudo,X-Salada (Padrão)"",86.6,Cartão de Crédito,Acima da média"
+"20/05/2026,19:24:00,807,""X-Completo (Artesanal 150g),Filé salada,Refrigerante litro"",53.7,Dinheiro,Acima da média"
+"20/05/2026,19:39:41,86,""Filé bacon,Lombo bacon"",33.8,Cartão de Crédito,Abaixo da média"
+20/05/2026,19:48:12,623,X-Salada (Artesanal 150g),28.9,Cartão de Crédito,Abaixo da média
+"20/05/2026,19:57:46,704,""X-Tudo (Padrão),Frango bacon"",33.8,Pix,Abaixo da média"
+"20/05/2026,20:03:20,305,""Batata frita grande,Frango salada,Filé bacon"",47.7,Pix,Abaixo da média"
+"20/05/2026,20:04:06,191,""X-Bacon (Padrão),Frango tudo,2xX-Bacon (Padrão),Refrigerante lata"",69.5,Cartão de Crédito,Acima da média"
+20/05/2026,20:07:33,235,Frango completo,24.9,Cartão de Crédito,Abaixo da média
+"20/05/2026,20:36:02,330,""Lombo salada,Lombo bacon,Batata frita pequena"",41.7,Cartão de Débito,Abaixo da média"
+"20/05/2026,20:36:52,829,""Lombo salada,Lombo salada,Filé Completo"",62.7,Cartão de Débito,Acima da média"
+"20/05/2026,20:44:05,759,""Frango completo,2xFilé salada"",64.7,Pix,Acima da média"
+20/05/2026,20:47:13,471,Filé tudo,20.9,Cartão de Débito,Abaixo da média
+20/05/2026,20:47:51,581,Refrigerante lata,3.9,Pix,Abaixo da média
+"20/05/2026,20:58:43,185,""Frango completo,X-Tudo (Padrão)"",42.8,Cartão de Crédito,Abaixo da média"
+"20/05/2026,21:03:05,862,""X-Tudo (Padrão),Lombo bacon"",33.8,Cartão de Débito,Abaixo da média"
+"20/05/2026,21:05:38,472,""X-Salada (Artesanal 150g),Filé salada"",48.8,Cartão de Crédito,Abaixo da média"
+20/05/2026,21:06:37,248,Molho de alho,1.9,Cartão de Débito,Abaixo da média
+"20/05/2026,21:08:59,399,""Frango salada,3xLombo tudo,X-Bacon (Artesanal 150g)"",91.5,Cartão de Crédito,Acima da média"
+20/05/2026,21:10:10,107,Filé Completo,28.9,Pix,Abaixo da média
+"20/05/2026,21:12:46,523,""Frango completo,Filé salada,Lombo tudo"",62.7,Pix,Acima da média"
+"20/05/2026,21:17:15,345,""Frango bacon,Lombo tudo,Filé bacon,X-Bacon (Padrão)"",67.6,Cartão de Crédito,Acima da média"
+"20/05/2026,21:19:41,255,""X-Completo (Artesanal 150g),X-Salada (Padrão),Frango salada,Cerveja Lata"",66.6,Cartão de Crédito,Acima da média"
+"20/05/2026,21:20:07,890,""2xLombo completo,Cerveja Lata,Filé salada,X-Tudo (Artesanal 150g)"",99.5,Cartão de Crédito,Acima da média"
+20/05/2026,21:23:10,464,2xX-Salada (Padrão),33.8,Cartão de Débito,Abaixo da média
+20/05/2026,21:23:41,438,2xFilé tudo,41.8,Cartão de Crédito,Abaixo da média
+"20/05/2026,21:25:30,740,""Filé salada,Refrigerante litro"",27.8,Cartão de Débito,Abaixo da média"
+"20/05/2026,21:28:27,736,""X-Salada (Artesanal 150g),2xFrango bacon,Filé salada"",80.6,Cartão de Crédito,Acima da média"
+"20/05/2026,21:29:46,576,""Filé bacon,Molho da casa,Filé bacon"",37.7,Pix,Abaixo da média"
+"20/05/2026,21:32:18,786,""X-Bacon (Padrão),3xCerveja Lata,Frango completo"",61.5,Cartão de Crédito,Acima da média"
+"20/05/2026,21:42:55,516,""X-Bacon (Artesanal 150g),Frango bacon"",36.8,Cartão de Débito,Abaixo da média"
+"20/05/2026,21:43:09,477,""Frango salada,X-Salada (Padrão)"",33.8,Cartão de Crédito,Abaixo da média"
+"20/05/2026,21:45:43,939,""Filé bacon,X-Tudo (Padrão),Filé salada,2xFrango salada"",89.5,Cartão de Débito,Acima da média"
+20/05/2026,21:55:47,668,X-Tudo (Padrão),17.9,Cartão de Crédito,Abaixo da média
+"20/05/2026,21:58:06,741,""2xX-Completo (Padrão),Lombo tudo"",67.7,Pix,Acima da média"
+20/05/2026,22:08:56,510,Frango salada,16.9,Cartão de Crédito,Abaixo da média
+"20/05/2026,22:18:01,158,""3xX-Bacon (Padrão),X-Bacon (Artesanal 150g),Frango tudo,Refrigerante litro"",94.4,Cartão de Débito,Acima da média"
+"20/05/2026,22:20:23,604,""Lombo tudo,X-Tudo (Artesanal 150g),X-Tudo (Padrão),X-Bacon (Padrão)"",74.6,Cartão de Débito,Acima da média"
+"20/05/2026,22:22:24,236,""Lombo completo,Molho de alho,Cerveja Lata,X-Tudo (Artesanal 150g)"",56.6,Pix,Acima da média"
+20/05/2026,22:22:25,824,2xFilé Completo,57.8,Dinheiro,Acima da média
+"20/05/2026,22:32:35,758,""X-Completo (Artesanal 150g),Filé salada,Cerveja Lata,Frango tudo"",70.6,Cartão de Crédito,Acima da média"
+20/05/2026,22:33:47,186,Batata frita grande,12.9,Cartão de Débito,Abaixo da média
+20/05/2026,22:42:06,317,X-Bacon (Padrão),15.9,Cartão de Débito,Abaixo da média
+"20/05/2026,22:46:19,37,""Filé bacon,3xFilé tudo"",80.6,Pix,Acima da média"
+"20/05/2026,22:53:53,260,""Molho da casa,Frango completo,Lombo completo,Lombo bacon"",67.6,Pix,Acima da média"
+"20/05/2026,23:09:41,447,""Filé bacon,Filé salada,X-Salada (Artesanal 150g),X-Completo (Padrão)"",91.6,Cartão de Crédito,Acima da média"
+20/05/2026,23:14:12,252,X-Salada (Artesanal 150g),28.9,Cartão de Crédito,Abaixo da média
+"20/05/2026,23:23:05,808,""Lombo completo,Lombo bacon,X-Completo (Artesanal 150g),Molho da casa"",68.6,Cartão de Débito,Acima da média"
+"20/05/2026,23:32:40,572,""Molho da casa,X-Salada (Padrão),X-Salada (Padrão),X-Completo (Artesanal 150g)"",61.6,Cartão de Crédito,Acima da média"
+"20/05/2026,23:32:58,983,""Cerveja Lata,Frango tudo,Frango salada,X-Completo (Artesanal 150g)"",67.6,Cartão de Crédito,Acima da média"
+"21/05/2026,18:16:46,849,""X-Salada (Padrão),Cerveja Lata,X-Tudo (Artesanal 150g)"",46.7,Cartão de Débito,Abaixo da média"
+21/05/2026,18:23:55,421,Cerveja Lata,6.9,Cartão de Crédito,Abaixo da média
+21/05/2026,18:34:28,448,Filé tudo,20.9,Cartão de Débito,Abaixo da média
+"21/05/2026,18:42:36,239,""Lombo bacon,Frango tudo,X-Bacon (Padrão)"",49.7,Pix,Abaixo da média"
+21/05/2026,18:58:30,764,Lombo salada,16.9,Pix,Abaixo da média
+21/05/2026,19:05:46,719,X-Salada (Artesanal 150g),28.9,Cartão de Débito,Abaixo da média
+"21/05/2026,19:16:48,309,""Lombo salada,Batata frita pequena,Cerveja Lata,Molho de alho"",34.6,Cartão de Débito,Abaixo da média"
+"21/05/2026,19:16:56,334,""X-Salada (Artesanal 150g),Frango completo,Filé salada,2xMolho da casa"",77.5,Cartão de Débito,Acima da média"
+"21/05/2026,19:17:30,585,""Molho de alho,2xX-Completo (Artesanal 150g),2xX-Completo (Artesanal 150g)"",105.5,Cartão de Débito,Acima da média"
+"21/05/2026,19:21:14,490,""Refrigerante litro,2xFilé salada"",47.7,Pix,Abaixo da média"
+"21/05/2026,19:21:54,985,""Lombo salada,Frango tudo,Refrigerante lata"",38.7,Dinheiro,Abaixo da média"
+"21/05/2026,19:24:42,96,""Frango salada,Molho da casa"",18.8,Cartão de Crédito,Abaixo da média"
+21/05/2026,19:27:36,598,X-Completo (Padrão),24.9,Cartão de Débito,Abaixo da média
+"21/05/2026,19:30:46,422,""Cerveja Lata,Lombo tudo,2xFrango salada"",58.6,Pix,Acima da média"
+"21/05/2026,19:33:19,917,""2xFilé Completo,X-Completo (Padrão),2xX-Bacon (Artesanal 150g),X-Bacon (Padrão)"",140.4,Cartão de Crédito,Acima da média"
+"21/05/2026,19:39:00,425,""Frango bacon,X-Bacon (Padrão),2xLombo tudo"",67.6,Cartão de Crédito,Acima da média"
+"21/05/2026,19:47:07,723,""X-Bacon (Artesanal 150g),X-Tudo (Artesanal 150g),X-Bacon (Padrão),X-Tudo (Artesanal 150g)"",82.6,Cartão de Crédito,Acima da média"
+"21/05/2026,19:55:05,64,""Batata frita pequena,Lombo salada,X-Bacon (Artesanal 150g)"",46.7,Cartão de Crédito,Abaixo da média"
+"21/05/2026,20:02:41,754,""2xX-Tudo (Padrão),Filé Completo"",64.7,Dinheiro,Acima da média"
+"21/05/2026,20:05:14,691,""2xFilé salada,X-Tudo (Padrão),Cerveja Lata,Molho de alho"",66.5,Dinheiro,Acima da média"
+21/05/2026,20:07:30,690,Lombo bacon,15.9,Dinheiro,Abaixo da média
+21/05/2026,20:23:42,30,Lombo tudo,17.9,Dinheiro,Abaixo da média
+"21/05/2026,20:24:07,719,""Frango completo,X-Salada (Artesanal 150g),2xX-Tudo (Padrão)"",89.6,Cartão de Crédito,Acima da média"
+"21/05/2026,20:27:34,625,""Molho da casa,Refrigerante lata,X-Bacon (Artesanal 150g)"",26.7,Pix,Abaixo da média"
+"21/05/2026,20:30:40,667,""Lombo tudo,3xLombo bacon,X-Tudo (Padrão),X-Completo (Artesanal 150g)"",109.4,Pix,Acima da média"
+"21/05/2026,20:37:09,476,""Batata frita grande,Frango salada,2xMolho de alho,X-Tudo (Padrão)"",51.5,Cartão de Crédito,Acima da média"
+21/05/2026,20:44:53,195,Refrigerante lata,3.9,Cartão de Crédito,Abaixo da média
+21/05/2026,20:47:20,330,2xX-Salada (Padrão),33.8,Pix,Abaixo da média
+"21/05/2026,20:48:44,663,""Refrigerante lata,X-Completo (Artesanal 150g),X-Salada (Padrão)"",46.7,Cartão de Débito,Abaixo da média"
+"21/05/2026,20:49:28,31,""Refrigerante litro,Refrigerante litro"",15.8,Pix,Abaixo da média"
+"21/05/2026,21:00:33,589,""3xX-Completo (Artesanal 150g),Filé salada,Filé tudo,X-Tudo (Padrão)"",136.4,Cartão de Crédito,Acima da média"
+"21/05/2026,21:01:25,615,""2xFilé tudo,Frango salada,Filé salada,2xFrango bacon"",110.4,Cartão de Débito,Acima da média"
+"21/05/2026,21:02:29,913,""2xRefrigerante litro,Frango completo"",40.7,Cartão de Crédito,Abaixo da média"
+"21/05/2026,21:12:22,5,""X-Salada (Artesanal 150g),Batata frita grande"",41.8,Pix,Abaixo da média"
+"21/05/2026,21:21:36,887,""X-Completo (Artesanal 150g),Cerveja Lata,2xRefrigerante litro,Frango salada"",65.5,Dinheiro,Acima da média"
+21/05/2026,21:32:38,954,2xX-Bacon (Padrão),31.8,Pix,Abaixo da média
+21/05/2026,22:04:29,213,X-Tudo (Artesanal 150g),22.9,Dinheiro,Abaixo da média
+21/05/2026,22:05:02,687,Filé tudo,20.9,Cartão de Débito,Abaixo da média
+"21/05/2026,22:25:55,260,""Batata frita pequena,2xBatata frita pequena,X-Bacon (Artesanal 150g),2xX-Bacon (Artesanal 150g)"",89.4,Pix,Acima da média"
+"21/05/2026,22:47:45,749,""2xBatata frita pequena,X-Bacon (Artesanal 150g),3xBatata frita pequena"",65.4,Cartão de Débito,Acima da média"
+21/05/2026,22:48:28,843,Lombo salada,16.9,Pix,Abaixo da média
+"21/05/2026,22:52:12,780,""Frango salada,2xX-Salada (Artesanal 150g),Molho da casa,X-Bacon (Padrão)"",92.5,Dinheiro,Acima da média"
+"21/05/2026,22:52:40,286,""X-Tudo (Artesanal 150g),Frango tudo,2xBatata frita pequena"",58.6,Cartão de Débito,Acima da média"
+21/05/2026,22:53:42,502,Filé bacon,17.9,Cartão de Crédito,Abaixo da média
+"21/05/2026,22:56:20,631,""2xFilé tudo,Frango salada,Molho de alho"",60.6,Cartão de Crédito,Acima da média"
+"21/05/2026,23:00:45,174,""Frango tudo,Lombo completo"",42.8,Pix,Abaixo da média"
+21/05/2026,23:02:29,157,2xFrango completo,49.8,Cartão de Crédito,Acima da média
+"21/05/2026,23:06:54,158,""Lombo tudo,X-Completo (Artesanal 150g),Filé bacon,3xFilé tudo"",124.4,Cartão de Débito,Acima da média"
+21/05/2026,23:09:39,129,Refrigerante lata,3.9,Pix,Abaixo da média
+"21/05/2026,23:13:54,730,""Lombo bacon,Refrigerante litro"",23.8,Pix,Abaixo da média"
+"21/05/2026,23:22:10,416,""Filé tudo,X-Bacon (Padrão)"",36.8,Cartão de Crédito,Abaixo da média"
+"21/05/2026,23:23:58,164,""2xMolho de alho,Molho de alho"",5.7,Cartão de Débito,Abaixo da média"
+"21/05/2026,23:25:17,124,""X-Bacon (Padrão),2xRefrigerante litro,Molho de alho,X-Completo (Artesanal 150g)"",59.5,Pix,Acima da média"
+"21/05/2026,23:30:23,880,""X-Salada (Artesanal 150g),X-Salada (Padrão)"",45.8,Pix,Abaixo da média"
+"21/05/2026,23:37:52,217,""Filé tudo,Frango completo"",45.8,Cartão de Débito,Abaixo da média"
+"21/05/2026,23:38:16,199,""Frango salada,Batata frita pequena"",25.8,Pix,Abaixo da média"
+"21/05/2026,23:46:13,771,""Frango bacon,Molho de alho,Frango tudo"",35.7,Cartão de Crédito,Abaixo da média"
+"22/05/2026,18:03:59,403,""Filé tudo,X-Tudo (Padrão),Filé bacon"",56.7,Pix,Acima da média"
+22/05/2026,18:06:15,946,Molho de alho,1.9,Pix,Abaixo da média
+22/05/2026,18:09:35,143,2xLombo tudo,35.8,Pix,Abaixo da média
+"22/05/2026,18:21:51,162,""Lombo salada,Molho de alho,Cerveja Lata,X-Tudo (Artesanal 150g)"",48.6,Dinheiro,Abaixo da média"
+"22/05/2026,18:23:01,352,""X-Completo (Artesanal 150g),X-Salada (Artesanal 150g),Batata frita pequena"",63.7,Cartão de Débito,Acima da média"
+"22/05/2026,18:28:52,782,""Cerveja Lata,Molho de alho,Refrigerante lata,X-Salada (Padrão)"",29.6,Pix,Abaixo da média"
+"22/05/2026,18:29:46,856,""Batata frita grande,2xLombo completo,Filé tudo,Lombo tudo"",101.5,Cartão de Débito,Acima da média"
+"22/05/2026,19:00:05,754,""X-Tudo (Padrão),Frango completo,Frango completo,2xLombo bacon"",99.5,Cartão de Crédito,Acima da média"
+"22/05/2026,19:00:39,536,""2xX-Bacon (Padrão),2xFrango bacon,2xFrango bacon,X-Tudo (Artesanal 150g)"",118.3,Cartão de Débito,Acima da média"
+22/05/2026,19:06:20,396,X-Tudo (Artesanal 150g),22.9,Cartão de Débito,Abaixo da média
+"22/05/2026,19:06:52,170,""Filé Completo,X-Tudo (Artesanal 150g),Batata frita pequena"",60.7,Pix,Acima da média"
+22/05/2026,19:17:51,925,Frango tudo,17.9,Pix,Abaixo da média
+22/05/2026,19:22:40,510,X-Tudo (Padrão),17.9,Cartão de Crédito,Abaixo da média
+"22/05/2026,19:28:30,182,""X-Bacon (Padrão),Filé salada,X-Completo (Padrão)"",60.7,Cartão de Crédito,Acima da média"
+"22/05/2026,19:31:59,879,""Cerveja Lata,Lombo tudo"",24.8,Pix,Abaixo da média"
+"22/05/2026,19:33:21,794,""Filé bacon,Refrigerante litro,2xFrango completo,3xBatata frita grande"",114.3,Cartão de Débito,Acima da média"
+22/05/2026,19:45:00,145,X-Bacon (Artesanal 150g),20.9,Pix,Abaixo da média
+"22/05/2026,19:46:07,593,""X-Bacon (Artesanal 150g),Filé Completo,Lombo salada"",66.7,Pix,Acima da média"
+"22/05/2026,19:46:34,677,""X-Salada (Artesanal 150g),Lombo tudo,3xFilé Completo,X-Tudo (Artesanal 150g)"",156.4,Cartão de Crédito,Acima da média"
+"22/05/2026,19:50:59,548,""Frango tudo,Frango tudo"",35.8,Pix,Abaixo da média"
+"22/05/2026,19:54:44,851,""Molho da casa,Lombo completo,Refrigerante litro"",34.7,Cartão de Débito,Abaixo da média"
+22/05/2026,20:05:59,315,Cerveja Lata,6.9,Dinheiro,Abaixo da média
+"22/05/2026,20:17:02,607,""X-Completo (Padrão),Molho da casa,Cerveja Lata,X-Completo (Artesanal 150g)"",59.6,Cartão de Crédito,Acima da média"
+22/05/2026,20:28:21,323,Filé bacon,17.9,Pix,Abaixo da média
+"22/05/2026,20:28:36,399,""Lombo bacon,3xCerveja Lata,Frango tudo,Batata frita grande"",67.4,Pix,Acima da média"
+22/05/2026,20:30:19,265,X-Salada (Padrão),16.9,Pix,Abaixo da média
+"22/05/2026,20:37:10,752,""Filé tudo,X-Tudo (Padrão),Molho da casa"",40.7,Pix,Abaixo da média"
+22/05/2026,20:42:42,346,Frango completo,24.9,Dinheiro,Abaixo da média
+"22/05/2026,20:44:21,318,""Filé salada,Filé tudo,Cerveja Lata"",47.7,Pix,Abaixo da média"
+"22/05/2026,20:53:00,196,""Refrigerante lata,Filé Completo,Frango salada,Batata frita grande"",62.6,Cartão de Crédito,Acima da média"
+"22/05/2026,20:55:14,407,""X-Completo (Artesanal 150g),2xRefrigerante litro,X-Bacon (Artesanal 150g),Frango salada"",79.5,Cartão de Débito,Acima da média"
+"22/05/2026,21:05:48,487,""Frango bacon,2xBatata frita grande"",41.7,Cartão de Crédito,Abaixo da média"
+22/05/2026,21:06:27,798,Lombo tudo,17.9,Pix,Abaixo da média
+"22/05/2026,21:07:13,751,""2xLombo completo,Lombo salada,Batata frita pequena,X-Completo (Artesanal 150g)"",101.5,Cartão de Crédito,Acima da média"
+22/05/2026,21:08:53,263,X-Salada (Padrão),16.9,Cartão de Crédito,Abaixo da média
+"22/05/2026,21:10:23,287,""2xFrango salada,X-Bacon (Padrão)"",49.7,Pix,Abaixo da média"
+"22/05/2026,21:16:18,233,""Frango salada,Frango tudo,2xX-Completo (Padrão),Lombo tudo"",102.5,Cartão de Débito,Acima da média"
+"22/05/2026,21:21:11,327,""Lombo salada,Filé salada"",36.8,Cartão de Débito,Abaixo da média"
+22/05/2026,21:23:14,269,Frango bacon,15.9,Pix,Abaixo da média
+"22/05/2026,21:25:25,156,""X-Completo (Padrão),Filé salada,X-Tudo (Padrão),Frango tudo"",80.6,Pix,Acima da média"
+"22/05/2026,21:27:47,685,""Molho de alho,Refrigerante litro,Molho da casa"",11.7,Dinheiro,Abaixo da média"
+22/05/2026,21:32:51,610,3xX-Tudo (Padrão),53.7,Cartão de Débito,Acima da média
+"22/05/2026,21:34:49,540,""Lombo salada,Filé Completo,Frango bacon,Lombo tudo"",79.6,Dinheiro,Acima da média"
+"22/05/2026,21:52:27,861,""Lombo tudo,X-Tudo (Artesanal 150g)"",40.8,Cartão de Débito,Abaixo da média"
+22/05/2026,21:54:16,505,Refrigerante lata,3.9,Pix,Abaixo da média
+"22/05/2026,21:55:05,714,""X-Tudo (Padrão),X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g),X-Completo (Padrão)"",94.6,Pix,Acima da média"
+"22/05/2026,21:56:08,373,""Batata frita grande,X-Completo (Artesanal 150g),X-Salada (Artesanal 150g),X-Bacon (Artesanal 150g)"",88.6,Cartão de Crédito,Acima da média"
+"22/05/2026,21:58:09,321,""Molho da casa,X-Bacon (Padrão),2xFilé bacon"",53.6,Cartão de Crédito,Acima da média"
+22/05/2026,22:04:20,476,Batata frita grande,12.9,Cartão de Débito,Abaixo da média
+22/05/2026,22:06:35,765,Lombo salada,16.9,Cartão de Débito,Abaixo da média
+"22/05/2026,22:15:14,549,""Frango salada,X-Completo (Padrão)"",41.8,Cartão de Débito,Abaixo da média"
+"22/05/2026,22:16:56,952,""Frango salada,X-Tudo (Artesanal 150g),Batata frita pequena"",48.7,Pix,Abaixo da média"
+"22/05/2026,22:42:50,102,""Molho da casa,Filé tudo,Frango completo,Filé salada"",67.6,Pix,Acima da média"
+"22/05/2026,22:48:34,296,""Filé Completo,Filé salada,Molho de alho,2xBatata frita grande"",76.5,Pix,Acima da média"
+"22/05/2026,22:50:06,378,""Molho de alho,X-Salada (Padrão)"",18.8,Pix,Abaixo da média"
+"22/05/2026,23:03:10,412,""2xFilé Completo,Filé Completo,2xFilé Completo"",144.5,Pix,Acima da média"
+22/05/2026,23:09:37,691,Frango salada,16.9,Cartão de Crédito,Abaixo da média
+"22/05/2026,23:12:29,811,""Filé bacon,X-Bacon (Padrão),Lombo bacon"",49.7,Pix,Abaixo da média"
+22/05/2026,23:15:13,930,Batata frita grande,12.9,Pix,Abaixo da média
+"22/05/2026,23:30:40,509,""Frango bacon,Refrigerante litro,Refrigerante lata,Filé bacon"",45.6,Cartão de Débito,Abaixo da média"
+"22/05/2026,23:35:15,876,""X-Tudo (Padrão),X-Tudo (Padrão),Filé tudo"",56.7,Cartão de Débito,Acima da média"
+"22/05/2026,23:39:38,790,""X-Completo (Artesanal 150g),Filé salada,2xFilé tudo,Filé tudo"",108.5,Pix,Acima da média"
+"22/05/2026,23:48:43,270,""Frango bacon,Cerveja Lata,Lombo bacon"",38.7,Dinheiro,Abaixo da média"
+"22/05/2026,23:50:35,763,""Frango salada,Filé salada,X-Completo (Artesanal 150g)"",62.7,Cartão de Crédito,Acima da média"
+"22/05/2026,23:51:14,53,""X-Bacon (Padrão),Lombo salada"",32.8,Cartão de Débito,Abaixo da média"
+"23/05/2026,18:00:53,458,""2xBatata frita pequena,X-Completo (Padrão),Frango completo,3xX-Tudo (Padrão)"",121.3,Cartão de Crédito,Acima da média"
+"23/05/2026,18:05:01,130,""Filé bacon,Lombo salada,Molho de alho"",36.7,Cartão de Crédito,Abaixo da média"
+"23/05/2026,18:16:47,235,""Frango bacon,Filé salada,X-Salada (Artesanal 150g)"",64.7,Pix,Acima da média"
+"23/05/2026,18:30:45,36,""Lombo bacon,Frango completo,Lombo tudo,X-Salada (Artesanal 150g)"",87.6,Dinheiro,Acima da média"
+"23/05/2026,18:36:10,493,""Molho de alho,X-Completo (Artesanal 150g),2xX-Tudo (Padrão),X-Completo (Padrão)"",88.5,Cartão de Crédito,Acima da média"
+"23/05/2026,18:44:11,833,""X-Tudo (Padrão),Molho da casa"",19.8,Cartão de Crédito,Abaixo da média"
+"23/05/2026,18:45:29,909,""2xLombo tudo,X-Salada (Padrão),Frango tudo,X-Completo (Padrão)"",95.5,Cartão de Débito,Acima da média"
+23/05/2026,18:52:19,724,Filé bacon,17.9,Pix,Abaixo da média
+"23/05/2026,18:57:44,154,""X-Bacon (Padrão),Frango bacon,3xLombo tudo,X-Tudo (Artesanal 150g)"",108.4,Pix,Acima da média"
+23/05/2026,19:07:01,301,X-Salada (Artesanal 150g),28.9,Cartão de Crédito,Abaixo da média
+23/05/2026,19:10:27,621,Filé Completo,28.9,Pix,Abaixo da média
+23/05/2026,19:16:58,365,X-Completo (Padrão),24.9,Pix,Abaixo da média
+"23/05/2026,19:17:44,123,""X-Tudo (Artesanal 150g),Batata frita grande"",35.8,Dinheiro,Abaixo da média"
+23/05/2026,19:22:21,48,Molho da casa,1.9,Pix,Abaixo da média
+"23/05/2026,19:25:26,372,""Frango tudo,Frango salada,Molho da casa,Filé Completo"",65.6,Cartão de Crédito,Acima da média"
+"23/05/2026,19:27:26,875,""Batata frita pequena,Filé Completo,Filé bacon"",55.7,Cartão de Crédito,Acima da média"
+23/05/2026,19:32:59,624,X-Tudo (Artesanal 150g),22.9,Pix,Abaixo da média
+"23/05/2026,19:38:40,642,""Batata frita pequena,Batata frita grande,X-Salada (Artesanal 150g),X-Salada (Artesanal 150g)"",79.6,Pix,Acima da média"
+"23/05/2026,19:41:19,564,""2xX-Salada (Padrão),Batata frita grande,Refrigerante lata"",50.6,Pix,Acima da média"
+"23/05/2026,19:41:56,522,""2xX-Bacon (Padrão),Frango bacon,Molho da casa"",49.6,Cartão de Crédito,Abaixo da média"
+"23/05/2026,19:42:10,261,""Lombo bacon,Molho de alho"",17.8,Cartão de Débito,Abaixo da média"
+"23/05/2026,19:44:16,49,""Frango bacon,Lombo completo,X-Salada (Artesanal 150g)"",69.7,Dinheiro,Acima da média"
+"23/05/2026,20:14:57,242,""Filé Completo,Filé Completo,Frango completo"",82.7,Cartão de Débito,Acima da média"
+"23/05/2026,20:15:40,514,""X-Tudo (Padrão),Filé salada,X-Completo (Padrão)"",62.7,Cartão de Crédito,Acima da média"
+"23/05/2026,20:21:30,57,""X-Tudo (Artesanal 150g),Lombo completo,2xLombo completo,Lombo tudo"",115.5,Cartão de Crédito,Acima da média"
+"23/05/2026,20:27:22,468,""2xBatata frita pequena,Filé salada"",37.7,Cartão de Débito,Abaixo da média"
+"23/05/2026,20:39:55,701,""Lombo bacon,Filé bacon,2xLombo completo"",83.6,Cartão de Crédito,Acima da média"
+"23/05/2026,20:44:51,51,""Filé bacon,Filé Completo"",46.8,Cartão de Débito,Abaixo da média"
+23/05/2026,20:48:45,90,X-Salada (Artesanal 150g),28.9,Cartão de Crédito,Abaixo da média
+"23/05/2026,20:57:13,63,""X-Completo (Artesanal 150g),Filé bacon,2xLombo completo,Frango completo"",118.5,Cartão de Crédito,Acima da média"
+"23/05/2026,20:59:16,47,""Filé salada,Cerveja Lata,2xFrango completo"",76.6,Pix,Acima da média"
+23/05/2026,21:06:05,984,Refrigerante litro,7.9,Dinheiro,Abaixo da média
+23/05/2026,21:08:05,653,Cerveja Lata,6.9,Cartão de Débito,Abaixo da média
+"23/05/2026,21:08:59,908,""Filé Completo,Batata frita grande,Batata frita grande,X-Tudo (Artesanal 150g)"",77.6,Cartão de Crédito,Acima da média"
+23/05/2026,21:12:10,238,X-Tudo (Padrão),17.9,Cartão de Débito,Abaixo da média
+23/05/2026,21:17:16,313,Molho da casa,1.9,Pix,Abaixo da média
+23/05/2026,21:24:15,112,Frango bacon,15.9,Pix,Abaixo da média
+23/05/2026,21:30:14,414,X-Salada (Padrão),16.9,Cartão de Crédito,Abaixo da média
+"23/05/2026,21:31:34,507,""Batata frita pequena,Cerveja Lata,3xLombo completo,2xFilé tudo"",132.3,Cartão de Débito,Acima da média"
+"23/05/2026,21:36:24,217,""Lombo bacon,Batata frita grande,Filé bacon"",46.7,Pix,Abaixo da média"
+23/05/2026,21:45:38,134,2xX-Completo (Artesanal 150g),51.8,Pix,Acima da média
+23/05/2026,21:58:46,889,X-Bacon (Artesanal 150g),20.9,Cartão de Crédito,Abaixo da média
+"23/05/2026,22:01:52,124,""Frango salada,Filé tudo"",37.8,Dinheiro,Abaixo da média"
+"23/05/2026,22:02:57,382,""Filé tudo,Lombo bacon"",36.8,Pix,Abaixo da média"
+"23/05/2026,22:05:53,514,""2xFilé tudo,Molho da casa,X-Completo (Padrão)"",68.6,Pix,Acima da média"
+23/05/2026,22:06:34,258,Batata frita pequena,8.9,Dinheiro,Abaixo da média
+"23/05/2026,22:10:28,153,""Frango tudo,Frango completo"",42.8,Pix,Abaixo da média"
+23/05/2026,22:12:32,103,X-Completo (Padrão),24.9,Cartão de Crédito,Abaixo da média
+"23/05/2026,22:21:12,223,""Lombo completo,Filé Completo"",53.8,Cartão de Crédito,Acima da média"
+"23/05/2026,22:26:09,847,""X-Salada (Padrão),Molho de alho,Filé bacon,Batata frita grande"",49.6,Cartão de Crédito,Abaixo da média"
+23/05/2026,22:29:18,834,Cerveja Lata,6.9,Cartão de Débito,Abaixo da média
+"23/05/2026,22:31:18,781,""X-Salada (Artesanal 150g),Lombo tudo,X-Salada (Artesanal 150g),Batata frita pequena"",84.6,Cartão de Crédito,Acima da média"
+23/05/2026,22:41:59,244,Frango bacon,15.9,Dinheiro,Abaixo da média
+"23/05/2026,22:54:05,450,""X-Bacon (Padrão),Filé Completo"",44.8,Pix,Abaixo da média"
+"23/05/2026,22:57:21,888,""2xLombo tudo,Lombo tudo"",53.7,Cartão de Crédito,Acima da média"
+"23/05/2026,22:59:00,319,""X-Tudo (Artesanal 150g),Frango completo,Filé bacon"",65.7,Cartão de Crédito,Acima da média"
+23/05/2026,23:00:11,30,X-Completo (Padrão),24.9,Pix,Abaixo da média
+"23/05/2026,23:00:19,284,""X-Bacon (Artesanal 150g),X-Tudo (Padrão),Molho de alho,Lombo completo"",65.6,Cartão de Crédito,Acima da média"
+"23/05/2026,23:03:46,503,""X-Tudo (Artesanal 150g),Frango salada,Lombo bacon"",55.7,Cartão de Débito,Acima da média"
+"23/05/2026,23:05:03,27,""Frango completo,2xFilé Completo,2xRefrigerante litro,3xFrango tudo"",152.2,Cartão de Débito,Acima da média"
+"23/05/2026,23:09:24,903,""X-Salada (Padrão),Lombo completo,X-Tudo (Padrão),Cerveja Lata"",66.6,Dinheiro,Acima da média"
+"23/05/2026,23:11:23,646,""Frango tudo,Batata frita grande,Frango tudo,X-Completo (Padrão)"",73.6,Pix,Acima da média"
+23/05/2026,23:18:54,402,Frango completo,24.9,Cartão de Crédito,Abaixo da média
+"23/05/2026,23:23:12,118,""2xLombo tudo,Filé tudo"",56.7,Pix,Acima da média"
+"23/05/2026,23:30:11,784,""2xBatata frita grande,2xX-Completo (Padrão),X-Bacon (Artesanal 150g),Lombo salada"",113.4,Cartão de Débito,Acima da média"
+23/05/2026,23:32:21,347,X-Salada (Padrão),16.9,Cartão de Crédito,Abaixo da média
+23/05/2026,23:32:22,419,Filé tudo,20.9,Pix,Abaixo da média
+"23/05/2026,23:48:42,191,""X-Tudo (Padrão),X-Bacon (Padrão),Filé tudo"",54.7,Dinheiro,Acima da média"
+"23/05/2026,23:51:45,703,""X-Tudo (Artesanal 150g),Frango tudo"",40.8,Dinheiro,Abaixo da média"
+"23/05/2026,23:56:28,574,""X-Tudo (Artesanal 150g),X-Bacon (Artesanal 150g),X-Bacon (Artesanal 150g)"",64.7,Pix,Acima da média"
+24/05/2026,18:03:31,246,Frango completo,24.9,Cartão de Débito,Abaixo da média
+"24/05/2026,18:09:54,625,""Frango salada,X-Completo (Artesanal 150g)"",42.8,Cartão de Crédito,Abaixo da média"
+"24/05/2026,18:14:03,402,""2xX-Tudo (Padrão),2xLombo salada,X-Tudo (Padrão)"",87.5,Pix,Acima da média"
+"24/05/2026,18:18:25,907,""X-Salada (Artesanal 150g),Molho da casa,X-Tudo (Artesanal 150g)"",53.7,Cartão de Crédito,Acima da média"
+24/05/2026,18:40:33,103,Lombo bacon,15.9,Cartão de Crédito,Abaixo da média
+"24/05/2026,18:48:21,437,""Frango completo,Lombo bacon,Lombo completo,Refrigerante lata"",69.6,Cartão de Crédito,Acima da média"
+24/05/2026,18:50:52,428,3xFrango tudo,53.7,Cartão de Débito,Acima da média
+24/05/2026,18:50:54,608,2xFrango bacon,31.8,Pix,Abaixo da média
+"24/05/2026,19:02:31,62,""2xRefrigerante litro,Filé salada,Filé Completo,X-Salada (Padrão)"",81.5,Cartão de Débito,Acima da média"
+"24/05/2026,19:02:51,573,""Frango completo,2xX-Completo (Padrão),X-Bacon (Padrão)"",90.6,Cartão de Crédito,Acima da média"
+"24/05/2026,19:16:14,644,""X-Completo (Artesanal 150g),Filé tudo"",46.8,Cartão de Crédito,Abaixo da média"
+24/05/2026,19:17:42,883,Batata frita pequena,8.9,Pix,Abaixo da média
+"24/05/2026,19:21:42,791,""X-Tudo (Padrão),X-Tudo (Padrão),X-Tudo (Padrão)"",53.7,Cartão de Crédito,Acima da média"
+"24/05/2026,19:24:59,52,""Filé salada,Molho de alho"",21.8,Cartão de Crédito,Abaixo da média"
+24/05/2026,19:29:38,759,Filé salada,19.9,Cartão de Crédito,Abaixo da média
+24/05/2026,19:51:17,405,Filé bacon,17.9,Cartão de Débito,Abaixo da média
+24/05/2026,19:53:19,802,2xX-Bacon (Padrão),31.8,Cartão de Débito,Abaixo da média
+"24/05/2026,19:56:52,14,""2xRefrigerante litro,Lombo salada,Batata frita pequena"",41.6,Pix,Abaixo da média"
+"24/05/2026,20:03:56,682,""Frango bacon,Molho da casa,X-Completo (Padrão)"",42.7,Cartão de Crédito,Abaixo da média"
+"24/05/2026,20:05:08,753,""X-Tudo (Artesanal 150g),Filé Completo"",51.8,Dinheiro,Acima da média"
+"24/05/2026,20:12:48,670,""Molho de alho,Frango salada,Refrigerante litro,X-Tudo (Artesanal 150g)"",49.6,Pix,Abaixo da média"
+"24/05/2026,20:49:05,462,""Filé bacon,Batata frita pequena"",26.8,Pix,Abaixo da média"
+"24/05/2026,20:50:22,440,""Lombo bacon,X-Completo (Padrão)"",40.8,Cartão de Crédito,Abaixo da média"
+"24/05/2026,21:01:38,457,""Lombo bacon,Lombo bacon"",31.8,Pix,Abaixo da média"
+"24/05/2026,21:14:40,873,""2xX-Bacon (Padrão),Lombo completo"",56.7,Dinheiro,Acima da média"
+24/05/2026,21:16:57,881,Lombo tudo,17.9,Cartão de Crédito,Abaixo da média
+24/05/2026,21:29:27,1,Lombo completo,24.9,Cartão de Débito,Abaixo da média
+"24/05/2026,21:48:34,785,""X-Completo (Artesanal 150g),Lombo salada"",42.8,Pix,Abaixo da média"
+"24/05/2026,21:57:48,219,""2xFilé tudo,2xX-Salada (Artesanal 150g),Filé Completo"",128.5,Cartão de Débito,Acima da média"
+"24/05/2026,22:06:26,825,""X-Salada (Padrão),Refrigerante litro,Molho de alho,X-Tudo (Padrão)"",44.6,Pix,Abaixo da média"
+"24/05/2026,22:10:49,350,""2xX-Salada (Padrão),Molho de alho"",35.7,Cartão de Crédito,Abaixo da média"
+24/05/2026,22:12:13,496,2xRefrigerante litro,15.8,Pix,Abaixo da média
+24/05/2026,22:13:55,659,Frango tudo,17.9,Pix,Abaixo da média
+24/05/2026,22:15:57,966,3xLombo tudo,53.7,Pix,Acima da média
+"24/05/2026,22:23:09,274,""Lombo salada,2xCerveja Lata"",30.7,Pix,Abaixo da média"
+"24/05/2026,22:24:14,831,""Batata frita pequena,X-Bacon (Padrão)"",24.8,Pix,Abaixo da média"
+"24/05/2026,22:26:10,814,""Refrigerante lata,X-Bacon (Artesanal 150g),Lombo tudo"",42.7,Pix,Abaixo da média"
+"24/05/2026,22:37:05,533,""Cerveja Lata,X-Tudo (Padrão)"",24.8,Pix,Abaixo da média"
+"24/05/2026,22:46:56,750,""Batata frita pequena,Refrigerante litro,3xLombo completo,Molho de alho"",93.4,Cartão de Débito,Acima da média"
+"24/05/2026,23:01:03,852,""2xFilé salada,Frango salada,Lombo completo,3xMolho da casa"",87.3,Cartão de Débito,Acima da média"
+"24/05/2026,23:01:41,666,""2xBatata frita grande,X-Salada (Padrão),X-Bacon (Padrão)"",58.6,Cartão de Débito,Acima da média"
+24/05/2026,23:02:28,44,X-Completo (Artesanal 150g),25.9,Cartão de Crédito,Abaixo da média
+"24/05/2026,23:04:50,970,""Frango completo,2xRefrigerante lata"",32.7,Pix,Abaixo da média"
+"24/05/2026,23:08:13,19,""2xLombo salada,X-Tudo (Padrão),Filé Completo"",80.6,Cartão de Débito,Acima da média"
+"24/05/2026,23:19:27,500,""X-Tudo (Artesanal 150g),Batata frita pequena,2xFrango completo"",81.6,Cartão de Crédito,Acima da média"
+"24/05/2026,23:19:57,132,""X-Salada (Artesanal 150g),X-Completo (Padrão)"",53.8,Dinheiro,Acima da média"
+"24/05/2026,23:30:16,498,""Filé salada,Filé bacon"",37.8,Pix,Abaixo da média"
+"24/05/2026,23:43:26,467,""Lombo salada,X-Bacon (Padrão),Frango tudo,2xX-Tudo (Artesanal 150g)"",96.5,Dinheiro,Acima da média"
+24/05/2026,23:44:51,29,Filé salada,19.9,Cartão de Débito,Abaixo da média
+"24/05/2026,23:58:34,316,""Molho de alho,Frango tudo,3xBatata frita grande,Cerveja Lata"",65.4,Cartão de Crédito,Acima da média"
+"24/05/2026,23:59:07,481,""Cerveja Lata,Batata frita pequena"",15.8,Cartão de Débito,Abaixo da média"
+25/05/2026,18:03:56,34,Batata frita grande,12.9,Cartão de Crédito,Abaixo da média
+"25/05/2026,18:06:02,963,""Batata frita grande,Batata frita pequena,Lombo salada"",38.7,Dinheiro,Abaixo da média"
+25/05/2026,18:15:49,376,Frango bacon,15.9,Pix,Abaixo da média
+"25/05/2026,18:23:54,257,""Filé Completo,2xX-Completo (Padrão)"",78.7,Cartão de Crédito,Acima da média"
+"25/05/2026,18:27:55,636,""3xCerveja Lata,X-Salada (Padrão),Filé Completo"",66.5,Cartão de Débito,Acima da média"
+"25/05/2026,18:32:43,451,""Molho de alho,X-Salada (Artesanal 150g),X-Completo (Artesanal 150g),2xFilé tudo"",98.5,Cartão de Crédito,Acima da média"
+"25/05/2026,18:35:16,237,""Batata frita grande,2xFrango completo"",62.7,Cartão de Crédito,Acima da média"
+"25/05/2026,18:38:10,314,""2xMolho de alho,X-Completo (Artesanal 150g),2xFilé salada,Frango tudo"",87.4,Cartão de Crédito,Acima da média"
+"25/05/2026,18:43:22,651,""2xX-Bacon (Padrão),X-Completo (Artesanal 150g),Filé Completo,Frango completo"",111.5,Cartão de Crédito,Acima da média"
+"25/05/2026,18:47:32,750,""2xX-Bacon (Artesanal 150g),X-Completo (Padrão),Batata frita grande,X-Bacon (Artesanal 150g)"",100.5,Cartão de Débito,Acima da média"
+25/05/2026,18:47:51,262,Batata frita grande,12.9,Cartão de Crédito,Abaixo da média
+"25/05/2026,19:01:56,493,""X-Completo (Padrão),2xFilé tudo"",66.7,Pix,Acima da média"
+"25/05/2026,19:08:20,222,""Molho de alho,X-Salada (Artesanal 150g)"",30.8,Cartão de Débito,Abaixo da média"
+"25/05/2026,19:14:48,469,""Filé salada,2xBatata frita grande,Molho da casa,Filé tudo"",68.5,Cartão de Débito,Acima da média"
+"25/05/2026,19:16:26,829,""X-Tudo (Artesanal 150g),X-Completo (Artesanal 150g)"",48.8,Cartão de Débito,Abaixo da média"
+"25/05/2026,19:23:22,673,""X-Bacon (Padrão),X-Completo (Padrão)"",40.8,Pix,Abaixo da média"
+"25/05/2026,19:27:40,867,""X-Bacon (Artesanal 150g),X-Tudo (Padrão)"",38.8,Pix,Abaixo da média"
+"25/05/2026,19:33:17,800,""X-Salada (Artesanal 150g),3xX-Completo (Artesanal 150g),Filé Completo,X-Tudo (Artesanal 150g)"",158.4,Cartão de Débito,Acima da média"
+"25/05/2026,19:34:07,356,""Filé salada,Molho da casa"",21.8,Cartão de Crédito,Abaixo da média"
+"25/05/2026,19:35:44,518,""Frango salada,Molho de alho"",18.8,Cartão de Crédito,Abaixo da média"
+25/05/2026,19:44:33,309,2xX-Completo (Padrão),49.8,Cartão de Débito,Acima da média
+25/05/2026,19:44:52,484,Frango bacon,15.9,Pix,Abaixo da média
+"25/05/2026,19:47:39,863,""2xLombo salada,Lombo bacon,Lombo bacon"",65.6,Cartão de Crédito,Acima da média"
+"25/05/2026,20:00:12,583,""Filé salada,X-Bacon (Artesanal 150g)"",40.8,Cartão de Débito,Abaixo da média"
+"25/05/2026,20:01:45,281,""Frango completo,Filé tudo"",45.8,Pix,Abaixo da média"
+25/05/2026,20:06:30,694,Frango salada,16.9,Dinheiro,Abaixo da média
+"25/05/2026,20:26:29,876,""Lombo bacon,Lombo tudo,Molho da casa,Lombo bacon"",51.6,Pix,Acima da média"
+"25/05/2026,20:29:28,529,""Molho de alho,2xFilé salada,Batata frita pequena,Molho da casa"",52.5,Cartão de Débito,Acima da média"
+"25/05/2026,20:33:01,305,""Lombo salada,X-Completo (Artesanal 150g),Lombo salada"",59.7,Cartão de Débito,Acima da média"
+"25/05/2026,20:35:39,409,""Filé tudo,2xLombo tudo,Molho de alho,Frango salada"",75.5,Cartão de Débito,Acima da média"
+"25/05/2026,20:39:16,346,""Molho de alho,Batata frita grande"",14.8,Cartão de Débito,Abaixo da média"
+"25/05/2026,20:44:27,620,""Frango bacon,Batata frita grande,X-Bacon (Artesanal 150g),X-Bacon (Padrão)"",65.6,Pix,Acima da média"
+"25/05/2026,20:50:05,203,""Frango bacon,Frango salada,Lombo salada"",49.7,Pix,Abaixo da média"
+"25/05/2026,21:01:40,546,""X-Completo (Artesanal 150g),X-Bacon (Padrão)"",41.8,Pix,Abaixo da média"
+"25/05/2026,21:08:56,733,""X-Salada (Padrão),Lombo completo,Filé bacon,3xLombo completo"",134.4,Cartão de Débito,Acima da média"
+"25/05/2026,21:19:19,288,""X-Salada (Artesanal 150g),Cerveja Lata"",35.8,Cartão de Débito,Abaixo da média"
+25/05/2026,21:26:46,340,X-Bacon (Artesanal 150g),20.9,Cartão de Débito,Abaixo da média
+"25/05/2026,21:33:21,633,""2xMolho da casa,X-Bacon (Padrão),Refrigerante litro,Batata frita grande"",40.5,Cartão de Débito,Abaixo da média"
+25/05/2026,21:33:56,561,2xLombo bacon,31.8,Dinheiro,Abaixo da média
+"25/05/2026,21:37:26,657,""X-Tudo (Artesanal 150g),Frango completo,Frango completo"",72.7,Cartão de Crédito,Acima da média"
+"25/05/2026,21:48:29,187,""Lombo completo,2xFrango tudo,Refrigerante lata,2xFrango salada"",98.4,Cartão de Débito,Acima da média"
+"25/05/2026,22:06:16,488,""Filé tudo,Filé bacon,Cerveja Lata"",45.7,Cartão de Crédito,Abaixo da média"
+"25/05/2026,22:10:22,21,""2xFrango completo,Cerveja Lata"",56.7,Pix,Acima da média"
+"25/05/2026,22:10:45,502,""X-Salada (Artesanal 150g),Frango salada,X-Tudo (Artesanal 150g),Lombo salada"",85.6,Pix,Acima da média"
+25/05/2026,22:18:59,143,X-Completo (Artesanal 150g),25.9,Cartão de Débito,Abaixo da média
+"25/05/2026,22:19:32,674,""Frango bacon,Cerveja Lata,Lombo completo,Filé Completo"",76.6,Cartão de Crédito,Acima da média"
+25/05/2026,22:26:58,329,2xX-Tudo (Artesanal 150g),45.8,Pix,Abaixo da média
+"25/05/2026,22:32:31,597,""Batata frita pequena,X-Bacon (Artesanal 150g),2xX-Salada (Artesanal 150g),X-Bacon (Artesanal 150g)"",108.5,Cartão de Débito,Acima da média"
+"25/05/2026,22:32:35,998,""2xFilé salada,Frango tudo,X-Completo (Artesanal 150g),Filé bacon"",101.5,Pix,Acima da média"
+25/05/2026,22:35:17,356,Cerveja Lata,6.9,Pix,Abaixo da média
+"25/05/2026,23:10:09,692,""Batata frita grande,2xBatata frita pequena,X-Completo (Artesanal 150g),Refrigerante litro"",64.5,Pix,Acima da média"
+"25/05/2026,23:10:34,872,""Filé tudo,Refrigerante litro,Refrigerante lata,Molho da casa"",34.6,Cartão de Débito,Abaixo da média"
+"25/05/2026,23:11:47,366,""Cerveja Lata,Refrigerante litro,Molho de alho,Frango salada"",33.6,Dinheiro,Abaixo da média"
+25/05/2026,23:26:58,578,X-Bacon (Artesanal 150g),20.9,Pix,Abaixo da média
+"25/05/2026,23:30:49,708,""Lombo bacon,2xFrango tudo,Filé tudo"",72.6,Pix,Acima da média"
+"25/05/2026,23:37:24,20,""2xBatata frita grande,Frango completo"",50.7,Cartão de Crédito,Acima da média"
+"25/05/2026,23:39:06,209,""Lombo bacon,Filé bacon"",33.8,Cartão de Crédito,Abaixo da média"
+"25/05/2026,23:41:16,776,""Lombo completo,Molho da casa,Molho de alho"",28.7,Cartão de Crédito,Abaixo da média"
+"25/05/2026,23:47:21,836,""Refrigerante lata,X-Bacon (Artesanal 150g)"",24.8,Cartão de Crédito,Abaixo da média"
+"26/05/2026,18:01:18,145,""2xLombo bacon,X-Completo (Padrão),Filé bacon,Refrigerante litro"",82.5,Cartão de Crédito,Acima da média"
+"26/05/2026,18:19:16,955,""X-Salada (Padrão),3xX-Tudo (Padrão),Lombo salada,2xX-Completo (Artesanal 150g)"",139.3,Dinheiro,Acima da média"
+"26/05/2026,18:27:30,499,""Molho de alho,Batata frita pequena,Molho de alho"",12.7,Cartão de Débito,Abaixo da média"
+"26/05/2026,18:28:17,382,""Cerveja Lata,Frango bacon"",22.8,Cartão de Débito,Abaixo da média"
+"26/05/2026,18:32:20,813,""Molho da casa,Lombo completo"",26.8,Cartão de Débito,Abaixo da média"
+26/05/2026,18:32:47,853,2xFilé tudo,41.8,Dinheiro,Abaixo da média
+"26/05/2026,18:36:38,15,""Frango bacon,Batata frita pequena,X-Bacon (Artesanal 150g),X-Bacon (Padrão)"",61.6,Cartão de Crédito,Acima da média"
+"26/05/2026,18:38:17,729,""Batata frita pequena,2xX-Salada (Artesanal 150g)"",66.7,Cartão de Crédito,Acima da média"
+"26/05/2026,18:40:11,428,""Refrigerante lata,2xX-Completo (Artesanal 150g)"",55.7,Cartão de Débito,Acima da média"
+"26/05/2026,18:40:28,967,""Refrigerante lata,Frango completo"",28.8,Cartão de Crédito,Abaixo da média"
+"26/05/2026,18:42:39,4,""2xBatata frita pequena,Cerveja Lata,Batata frita pequena"",33.6,Pix,Abaixo da média"
+"26/05/2026,18:42:41,658,""3xX-Completo (Padrão),Cerveja Lata,X-Tudo (Artesanal 150g)"",104.5,Cartão de Débito,Acima da média"
+"26/05/2026,18:47:38,775,""Refrigerante lata,Lombo completo,X-Tudo (Artesanal 150g)"",51.7,Pix,Acima da média"
+"26/05/2026,18:55:31,837,""Lombo salada,Frango tudo,Cerveja Lata,Lombo tudo"",59.6,Pix,Acima da média"
+"26/05/2026,18:55:34,291,""Filé bacon,Frango completo,X-Tudo (Artesanal 150g),X-Bacon (Artesanal 150g)"",86.6,Cartão de Crédito,Acima da média"
+"26/05/2026,18:56:56,728,""Molho de alho,Frango tudo,Molho de alho"",21.7,Cartão de Débito,Abaixo da média"
+"26/05/2026,19:08:36,478,""2xX-Completo (Artesanal 150g),Frango bacon"",67.7,Cartão de Crédito,Acima da média"
+"26/05/2026,19:09:40,744,""Filé salada,2xFrango bacon"",51.7,Cartão de Crédito,Acima da média"
+26/05/2026,19:10:34,461,2xLombo salada,33.8,Pix,Abaixo da média
+"26/05/2026,19:13:52,285,""Cerveja Lata,Frango bacon,X-Salada (Padrão),2xX-Completo (Artesanal 150g)"",91.5,Cartão de Crédito,Acima da média"
+26/05/2026,19:15:49,397,Lombo bacon,15.9,Pix,Abaixo da média
+"26/05/2026,19:17:39,8,""Lombo salada,Refrigerante litro"",24.8,Pix,Abaixo da média"
+26/05/2026,19:18:48,709,Frango bacon,15.9,Dinheiro,Abaixo da média
+"26/05/2026,19:19:43,626,""2xMolho da casa,2xX-Salada (Artesanal 150g)"",61.6,Cartão de Débito,Acima da média"
+"26/05/2026,19:32:37,501,""Refrigerante lata,Frango bacon"",19.8,Pix,Abaixo da média"
+"26/05/2026,19:32:40,448,""Batata frita grande,Filé tudo,Lombo salada,Refrigerante lata"",54.6,Cartão de Débito,Acima da média"
+"26/05/2026,19:41:47,7,""Filé salada,X-Bacon (Padrão),Filé bacon"",53.7,Pix,Acima da média"
+"26/05/2026,19:44:14,343,""X-Salada (Padrão),2xLombo bacon"",48.7,Dinheiro,Abaixo da média"
+"26/05/2026,19:45:52,104,""X-Bacon (Artesanal 150g),Frango salada,Molho de alho"",39.7,Cartão de Crédito,Abaixo da média"
+"26/05/2026,19:50:20,92,""Frango salada,Filé tudo,Batata frita pequena,X-Salada (Padrão)"",63.6,Pix,Acima da média"
+"26/05/2026,20:00:22,132,""X-Tudo (Artesanal 150g),Lombo tudo,X-Salada (Padrão),X-Completo (Artesanal 150g)"",83.6,Pix,Acima da média"
+"26/05/2026,20:01:19,665,""Lombo bacon,Molho de alho,2xFrango tudo,X-Completo (Padrão)"",78.5,Cartão de Débito,Acima da média"
+"26/05/2026,20:11:19,371,""Refrigerante litro,2xCerveja Lata,Lombo bacon"",37.6,Pix,Abaixo da média"
+26/05/2026,20:13:56,512,Frango tudo,17.9,Dinheiro,Abaixo da média
+26/05/2026,20:14:50,738,Filé tudo,20.9,Cartão de Crédito,Abaixo da média
+26/05/2026,20:16:55,104,2xFrango bacon,31.8,Dinheiro,Abaixo da média
+"26/05/2026,20:18:58,570,""Frango bacon,Frango tudo,Molho da casa,Filé tudo"",56.6,Pix,Acima da média"
+26/05/2026,20:25:16,638,Frango completo,24.9,Pix,Abaixo da média
+26/05/2026,20:27:37,695,Cerveja Lata,6.9,Pix,Abaixo da média
+"26/05/2026,20:28:27,277,""2xX-Bacon (Artesanal 150g),Lombo salada,2xLombo salada"",92.5,Pix,Acima da média"
+26/05/2026,21:10:48,488,X-Tudo (Artesanal 150g),22.9,Cartão de Crédito,Abaixo da média
+"26/05/2026,21:15:58,891,""Lombo completo,X-Salada (Padrão),Frango completo"",66.7,Cartão de Crédito,Acima da média"
+26/05/2026,21:33:13,608,Frango bacon,15.9,Pix,Abaixo da média
+"26/05/2026,21:35:26,8,""X-Tudo (Padrão),X-Salada (Padrão),Refrigerante lata,X-Completo (Padrão)"",63.6,Pix,Acima da média"
+"26/05/2026,21:36:32,25,""Lombo completo,2xBatata frita pequena,Cerveja Lata,2xX-Bacon (Padrão)"",81.4,Cartão de Débito,Acima da média"
+"26/05/2026,21:44:45,588,""Batata frita grande,Batata frita grande,X-Completo (Padrão),Lombo completo"",75.6,Pix,Acima da média"
+"26/05/2026,22:00:53,184,""X-Completo (Padrão),Lombo salada,X-Completo (Padrão)"",66.7,Pix,Acima da média"
+"26/05/2026,22:11:48,297,""Cerveja Lata,Filé bacon,Lombo tudo,Filé salada"",62.6,Cartão de Crédito,Acima da média"
+"26/05/2026,22:12:42,208,""Frango completo,X-Completo (Artesanal 150g)"",50.8,Pix,Acima da média"
+26/05/2026,22:15:06,383,2xLombo salada,33.8,Cartão de Crédito,Abaixo da média
+"26/05/2026,22:33:27,280,""Frango bacon,Frango salada,Molho de alho"",34.7,Pix,Abaixo da média"
+"26/05/2026,22:39:07,684,""Filé tudo,Filé tudo,X-Salada (Artesanal 150g)"",70.7,Cartão de Débito,Acima da média"
+"26/05/2026,22:42:59,549,""Filé tudo,Refrigerante litro,Batata frita grande,2xBatata frita grande"",67.5,Cartão de Crédito,Acima da média"
+"26/05/2026,23:12:58,614,""X-Completo (Artesanal 150g),X-Salada (Padrão),X-Completo (Artesanal 150g)"",68.7,Pix,Acima da média"
+"26/05/2026,23:13:14,916,""3xLombo bacon,Frango completo,Filé salada"",92.5,Cartão de Crédito,Acima da média"
+"26/05/2026,23:23:59,39,""X-Bacon (Artesanal 150g),Refrigerante litro"",28.8,Pix,Abaixo da média"
+"26/05/2026,23:43:55,34,""Filé tudo,Frango bacon,2xFrango tudo,Frango tudo"",90.5,Cartão de Débito,Acima da média"
+"26/05/2026,23:48:27,889,""2xX-Salada (Padrão),2xX-Completo (Padrão),Lombo tudo"",101.5,Cartão de Crédito,Acima da média"
+"26/05/2026,23:49:40,333,""X-Tudo (Padrão),2xX-Salada (Padrão),Cerveja Lata,Frango tudo"",76.5,Cartão de Débito,Acima da média"
+"26/05/2026,23:50:02,904,""Lombo bacon,2xCerveja Lata,Filé bacon,X-Tudo (Artesanal 150g)"",70.5,Pix,Acima da média"
+27/05/2026,18:03:51,11,X-Completo (Padrão),24.9,Cartão de Crédito,Abaixo da média
+"27/05/2026,18:19:17,630,""Frango tudo,2xFrango completo,2xFilé salada"",107.5,Dinheiro,Acima da média"
+27/05/2026,18:20:05,591,Batata frita pequena,8.9,Pix,Abaixo da média
+27/05/2026,18:20:50,40,X-Bacon (Artesanal 150g),20.9,Dinheiro,Abaixo da média
+27/05/2026,18:26:23,243,Filé Completo,28.9,Pix,Abaixo da média
+"27/05/2026,18:29:28,100,""X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g),Frango bacon"",67.7,Cartão de Crédito,Acima da média"
+27/05/2026,18:33:42,595,Frango salada,16.9,Cartão de Débito,Abaixo da média
+"27/05/2026,18:35:31,55,""Frango bacon,Frango completo,X-Bacon (Padrão)"",56.7,Pix,Acima da média"
+"27/05/2026,18:36:00,123,""Frango tudo,X-Salada (Artesanal 150g),2xFilé bacon,X-Tudo (Artesanal 150g)"",105.5,Cartão de Crédito,Acima da média"
+"27/05/2026,18:39:15,275,""Filé tudo,Filé salada"",40.8,Dinheiro,Abaixo da média"
+27/05/2026,18:42:07,183,Frango tudo,17.9,Pix,Abaixo da média
+"27/05/2026,18:49:27,229,""Lombo completo,2xFrango bacon,Batata frita grande,Molho de alho"",71.5,Cartão de Crédito,Acima da média"
+27/05/2026,18:59:31,276,Molho da casa,1.9,Pix,Abaixo da média
+27/05/2026,19:05:17,245,2xX-Salada (Artesanal 150g),57.8,Cartão de Crédito,Acima da média
+27/05/2026,19:22:39,734,X-Salada (Artesanal 150g),28.9,Dinheiro,Abaixo da média
+"27/05/2026,19:36:55,475,""X-Tudo (Artesanal 150g),Lombo tudo,X-Completo (Artesanal 150g),X-Completo (Artesanal 150g)"",92.6,Pix,Acima da média"
+"27/05/2026,19:48:06,461,""X-Salada (Padrão),X-Completo (Padrão),Molho da casa"",43.7,Pix,Abaixo da média"
+"27/05/2026,19:49:21,994,""Molho da casa,Filé Completo,Lombo bacon"",46.7,Cartão de Crédito,Abaixo da média"
+"27/05/2026,19:50:21,579,""Frango bacon,Lombo salada"",32.8,Pix,Abaixo da média"
+"27/05/2026,19:51:11,465,""X-Completo (Artesanal 150g),X-Bacon (Padrão),Filé salada"",61.7,Dinheiro,Acima da média"
+"27/05/2026,20:00:25,915,""Lombo completo,X-Bacon (Artesanal 150g)"",45.8,Cartão de Crédito,Abaixo da média"
+27/05/2026,20:05:45,350,Refrigerante lata,3.9,Pix,Abaixo da média
+"27/05/2026,20:07:36,243,""Frango completo,Frango bacon,Frango salada"",57.7,Pix,Acima da média"
+"27/05/2026,20:10:46,716,""Molho de alho,X-Bacon (Padrão),Cerveja Lata"",24.7,Pix,Abaixo da média"
+"27/05/2026,20:16:17,820,""Frango tudo,X-Completo (Artesanal 150g)"",43.8,Cartão de Crédito,Abaixo da média"
+"27/05/2026,20:17:55,801,""Batata frita pequena,X-Completo (Padrão),Filé salada,Lombo completo"",78.6,Pix,Acima da média"
+"27/05/2026,20:27:23,943,""Filé Completo,Frango completo,2xBatata frita grande"",79.6,Cartão de Crédito,Acima da média"
+"27/05/2026,20:32:46,972,""Frango bacon,X-Salada (Padrão),X-Tudo (Artesanal 150g)"",55.7,Cartão de Débito,Acima da média"
+27/05/2026,20:33:58,842,X-Bacon (Artesanal 150g),20.9,Cartão de Crédito,Abaixo da média
+"27/05/2026,20:52:19,567,""X-Bacon (Padrão),X-Salada (Padrão),Filé bacon"",50.7,Cartão de Crédito,Acima da média"
+"27/05/2026,20:56:34,403,""X-Completo (Artesanal 150g),Refrigerante litro"",33.8,Cartão de Crédito,Abaixo da média"
+"27/05/2026,21:00:11,720,""Filé tudo,X-Bacon (Artesanal 150g)"",41.8,Cartão de Crédito,Abaixo da média"
+"27/05/2026,21:09:29,371,""Frango bacon,Molho da casa,Frango tudo,Filé bacon"",53.6,Pix,Acima da média"
+"27/05/2026,21:13:14,748,""Frango completo,Frango tudo,Filé Completo,3xX-Salada (Padrão)"",122.4,Pix,Acima da média"
+"27/05/2026,21:20:13,178,""Lombo completo,Molho da casa,Filé bacon"",44.7,Cartão de Crédito,Abaixo da média"
+"27/05/2026,21:29:38,543,""Frango tudo,X-Tudo (Artesanal 150g),Filé bacon"",58.7,Pix,Acima da média"
+"27/05/2026,21:39:54,261,""2xX-Salada (Padrão),Batata frita grande"",46.7,Cartão de Débito,Abaixo da média"
+27/05/2026,21:41:26,556,Batata frita grande,12.9,Pix,Abaixo da média
+"27/05/2026,21:42:07,42,""2xX-Bacon (Artesanal 150g),Cerveja Lata"",48.7,Cartão de Crédito,Abaixo da média"
+"27/05/2026,21:43:36,660,""Lombo salada,Frango completo,Lombo tudo,Lombo bacon"",75.6,Cartão de Débito,Acima da média"
+"27/05/2026,21:54:32,427,""Frango tudo,Refrigerante litro,Molho da casa,Refrigerante litro"",35.6,Pix,Abaixo da média"
+"27/05/2026,21:58:44,293,""Lombo bacon,2xFrango bacon"",47.7,Pix,Abaixo da média"
+"27/05/2026,21:59:14,573,""Lombo salada,X-Bacon (Artesanal 150g),3xFrango bacon,Frango bacon"",101.4,Dinheiro,Acima da média"
+"27/05/2026,22:03:57,857,""Lombo salada,Batata frita grande,2xFrango completo"",79.6,Dinheiro,Acima da média"
+"27/05/2026,22:14:07,445,""2xMolho da casa,Filé Completo,Refrigerante litro,2xLombo tudo"",76.4,Pix,Acima da média"
+"27/05/2026,22:22:41,376,""Refrigerante litro,Molho da casa,X-Bacon (Padrão)"",25.7,Cartão de Débito,Abaixo da média"
+27/05/2026,22:27:15,15,Filé salada,19.9,Dinheiro,Abaixo da média
+"27/05/2026,22:38:59,438,""Refrigerante litro,Frango tudo,Lombo tudo"",43.7,Cartão de Crédito,Abaixo da média"
+27/05/2026,22:39:06,818,X-Salada (Artesanal 150g),28.9,Cartão de Débito,Abaixo da média
+"27/05/2026,22:40:55,45,""Cerveja Lata,Frango bacon,Molho de alho,Refrigerante lata"",28.6,Pix,Abaixo da média"
+"27/05/2026,22:52:24,79,""Frango tudo,Filé Completo,2xCerveja Lata"",60.6,Pix,Acima da média"
+"27/05/2026,23:02:32,240,""Lombo completo,X-Tudo (Padrão)"",42.8,Cartão de Crédito,Abaixo da média"
+"27/05/2026,23:04:25,374,""Batata frita grande,Lombo completo"",37.8,Pix,Abaixo da média"
+"27/05/2026,23:05:01,767,""2xX-Tudo (Artesanal 150g),Cerveja Lata"",52.7,Cartão de Crédito,Acima da média"
+27/05/2026,23:09:30,705,Refrigerante litro,7.9,Cartão de Crédito,Abaixo da média
+27/05/2026,23:11:15,854,2xFilé bacon,35.8,Pix,Abaixo da média
+"27/05/2026,23:11:37,899,""Lombo bacon,2xX-Bacon (Padrão),Frango completo"",72.6,Pix,Acima da média"
+"27/05/2026,23:19:21,964,""X-Completo (Artesanal 150g),Frango bacon"",41.8,Cartão de Crédito,Abaixo da média"
+27/05/2026,23:21:47,389,3xRefrigerante lata,11.7,Pix,Abaixo da média
+27/05/2026,23:21:58,159,Frango bacon,15.9,Dinheiro,Abaixo da média
+"27/05/2026,23:31:51,368,""Refrigerante lata,Frango tudo,2xLombo completo,X-Bacon (Artesanal 150g)"",92.5,Pix,Acima da média"
+"27/05/2026,23:38:55,93,""X-Bacon (Padrão),Frango salada"",32.8,Cartão de Crédito,Abaixo da média"
+27/05/2026,23:41:27,621,Lombo salada,16.9,Pix,Abaixo da média
+"27/05/2026,23:47:12,732,""Batata frita pequena,Lombo salada,2xX-Salada (Artesanal 150g),X-Salada (Artesanal 150g)"",112.5,Cartão de Débito,Acima da média"
+"27/05/2026,23:48:10,950,""2xFrango tudo,Filé Completo,Frango tudo"",82.6,Pix,Acima da média"
+"27/05/2026,23:50:12,666,""2xRefrigerante lata,Filé Completo"",36.7,Cartão de Débito,Abaixo da média"
+"27/05/2026,23:52:59,583,""Lombo salada,X-Bacon (Artesanal 150g)"",37.8,Cartão de Débito,Abaixo da média"
+27/05/2026,23:53:30,36,Cerveja Lata,6.9,Cartão de Crédito,Abaixo da média
+"27/05/2026,23:53:51,642,""X-Bacon (Artesanal 150g),2xX-Salada (Padrão),Filé bacon,X-Bacon (Padrão)"",88.5,Cartão de Crédito,Acima da média"
+"27/05/2026,23:59:45,250,""Lombo salada,Frango tudo,Cerveja Lata,X-Completo (Artesanal 150g)"",67.6,Cartão de Crédito,Acima da média"
+28/05/2026,18:20:38,446,Filé tudo,20.9,Cartão de Débito,Abaixo da média
+"28/05/2026,18:21:27,902,""X-Bacon (Padrão),Filé bacon"",33.8,Pix,Abaixo da média"
+"28/05/2026,18:26:54,830,""X-Bacon (Artesanal 150g),3xMolho de alho,Filé bacon"",44.5,Pix,Abaixo da média"
+"28/05/2026,18:27:17,253,""3xX-Bacon (Artesanal 150g),Frango salada,X-Salada (Padrão)"",96.5,Cartão de Crédito,Acima da média"
+28/05/2026,18:28:48,720,Lombo tudo,17.9,Cartão de Crédito,Abaixo da média
+"28/05/2026,19:03:09,879,""Refrigerante litro,Molho da casa"",9.8,Cartão de Crédito,Abaixo da média"
+28/05/2026,19:06:51,269,X-Salada (Artesanal 150g),28.9,Pix,Abaixo da média
+"28/05/2026,19:09:15,310,""2xBatata frita grande,Lombo completo,Filé bacon"",68.6,Pix,Acima da média"
+28/05/2026,19:13:31,760,Filé Completo,28.9,Dinheiro,Abaixo da média
+"28/05/2026,19:19:33,755,""2xFilé tudo,X-Completo (Padrão),Refrigerante lata,2xFilé bacon"",106.4,Pix,Acima da média"
+28/05/2026,19:21:30,782,Filé tudo,20.9,Cartão de Débito,Abaixo da média
+"28/05/2026,19:25:11,830,""Molho de alho,X-Salada (Artesanal 150g),2xLombo bacon"",62.6,Cartão de Débito,Acima da média"
+"28/05/2026,19:37:14,599,""2xX-Salada (Padrão),X-Bacon (Padrão),X-Tudo (Padrão),X-Tudo (Padrão)"",85.5,Cartão de Débito,Acima da média"
+"28/05/2026,19:46:57,485,""Frango completo,2xX-Salada (Artesanal 150g)"",82.7,Cartão de Crédito,Acima da média"
+"28/05/2026,19:47:42,656,""X-Salada (Padrão),Cerveja Lata,X-Tudo (Artesanal 150g),Filé salada"",66.6,Cartão de Crédito,Acima da média"
+"28/05/2026,19:52:33,52,""Filé Completo,Filé bacon"",46.8,Cartão de Crédito,Abaixo da média"
+"28/05/2026,20:09:48,192,""Refrigerante lata,2xFilé salada,Cerveja Lata"",50.6,Cartão de Crédito,Acima da média"
+28/05/2026,20:22:20,509,Lombo tudo,17.9,Pix,Abaixo da média
+"28/05/2026,20:27:51,283,""X-Completo (Padrão),X-Completo (Padrão),X-Tudo (Artesanal 150g),Batata frita grande"",85.6,Pix,Acima da média"
+28/05/2026,20:30:02,89,X-Salada (Padrão),16.9,Cartão de Crédito,Abaixo da média
+28/05/2026,20:34:15,802,2xLombo tudo,35.8,Cartão de Crédito,Abaixo da média
+"28/05/2026,20:35:10,990,""X-Tudo (Padrão),Frango bacon"",33.8,Cartão de Débito,Abaixo da média"
+28/05/2026,20:40:07,742,Molho da casa,1.9,Cartão de Crédito,Abaixo da média
+"28/05/2026,20:40:20,198,""X-Bacon (Padrão),Lombo bacon,X-Tudo (Padrão),Molho da casa"",51.6,Cartão de Débito,Acima da média"
+28/05/2026,20:54:13,85,Batata frita grande,12.9,Cartão de Débito,Abaixo da média
+"28/05/2026,20:55:09,484,""X-Salada (Padrão),Batata frita pequena"",25.8,Cartão de Crédito,Abaixo da média"
+"28/05/2026,20:57:12,752,""Frango bacon,Frango completo,X-Tudo (Artesanal 150g),2xX-Tudo (Artesanal 150g)"",109.5,Cartão de Débito,Acima da média"
+"28/05/2026,20:57:17,60,""Lombo completo,2xFilé Completo"",82.7,Cartão de Débito,Acima da média"
+"28/05/2026,21:08:01,822,""Lombo bacon,X-Tudo (Artesanal 150g)"",38.8,Cartão de Débito,Abaixo da média"
+"28/05/2026,21:13:44,358,""X-Bacon (Padrão),Batata frita pequena,3xX-Salada (Padrão)"",75.5,Cartão de Débito,Acima da média"
+"28/05/2026,21:35:59,353,""Filé bacon,Frango completo"",42.8,Pix,Abaixo da média"
+"28/05/2026,21:40:09,911,""2xFilé salada,Frango salada"",56.7,Cartão de Crédito,Acima da média"
+"28/05/2026,21:43:01,739,""X-Salada (Padrão),X-Bacon (Artesanal 150g)"",37.8,Cartão de Crédito,Abaixo da média"
+"28/05/2026,21:48:01,83,""Frango bacon,Cerveja Lata,X-Bacon (Padrão),Lombo completo"",63.6,Pix,Acima da média"
+"28/05/2026,21:55:19,100,""Molho de alho,X-Completo (Padrão),Filé tudo,X-Completo (Padrão)"",72.6,Pix,Acima da média"
+"28/05/2026,22:02:55,791,""X-Bacon (Artesanal 150g),Molho da casa"",22.8,Cartão de Débito,Abaixo da média"
+"28/05/2026,22:05:32,322,""X-Bacon (Padrão),Filé tudo,X-Completo (Padrão),Filé salada"",81.6,Cartão de Crédito,Acima da média"
+"28/05/2026,22:10:38,352,""Lombo bacon,X-Salada (Artesanal 150g),Lombo tudo,Frango completo"",87.6,Cartão de Crédito,Acima da média"
+"28/05/2026,22:14:17,517,""Batata frita grande,Frango salada,Filé bacon,Filé bacon"",65.6,Cartão de Crédito,Acima da média"
+"28/05/2026,22:15:29,106,""Filé tudo,X-Tudo (Artesanal 150g)"",43.8,Cartão de Débito,Abaixo da média"
+28/05/2026,22:40:36,948,Lombo salada,16.9,Pix,Abaixo da média
+28/05/2026,22:41:47,310,2xLombo bacon,31.8,Cartão de Débito,Abaixo da média
+"28/05/2026,22:59:08,483,""Refrigerante lata,Lombo completo,Frango tudo,2xFrango completo"",96.5,Pix,Acima da média"
+"28/05/2026,23:02:01,558,""2xFilé Completo,Batata frita grande,Filé Completo"",99.6,Pix,Acima da média"
+"28/05/2026,23:03:07,912,""Filé Completo,Filé tudo,X-Salada (Artesanal 150g)"",78.7,Cartão de Débito,Acima da média"
+"28/05/2026,23:03:58,377,""X-Salada (Artesanal 150g),Frango tudo"",46.8,Pix,Abaixo da média"
+"28/05/2026,23:18:41,969,""X-Salada (Padrão),Molho de alho,X-Completo (Artesanal 150g),2xLombo tudo"",80.5,Cartão de Débito,Acima da média"
+"28/05/2026,23:20:40,167,""Filé tudo,2xX-Completo (Artesanal 150g),X-Completo (Padrão),Cerveja Lata"",104.5,Cartão de Débito,Acima da média"
+28/05/2026,23:30:35,742,Lombo completo,24.9,Cartão de Crédito,Abaixo da média
+"28/05/2026,23:39:58,992,""X-Salada (Padrão),Lombo completo"",41.8,Pix,Abaixo da média"
+"28/05/2026,23:40:32,553,""X-Tudo (Artesanal 150g),Filé bacon,3xFilé salada"",100.5,Cartão de Crédito,Acima da média"
+"28/05/2026,23:43:12,599,""Batata frita pequena,Lombo completo"",33.8,Dinheiro,Abaixo da média"
+"28/05/2026,23:46:35,778,""X-Completo (Padrão),X-Bacon (Padrão)"",40.8,Pix,Abaixo da média"
+"28/05/2026,23:48:27,571,""Lombo salada,Filé tudo"",37.8,Cartão de Crédito,Abaixo da média"
+28/05/2026,23:55:26,77,X-Completo (Padrão),24.9,Cartão de Crédito,Abaixo da média
+28/05/2026,23:59:44,836,Frango bacon,15.9,Pix,Abaixo da média
+29/05/2026,18:06:10,470,X-Tudo (Padrão),17.9,Dinheiro,Abaixo da média
+29/05/2026,18:10:41,78,X-Salada (Padrão),16.9,Cartão de Débito,Abaixo da média
+"29/05/2026,18:13:54,51,""X-Salada (Padrão),2xFrango tudo,Frango salada,Filé bacon"",87.5,Cartão de Crédito,Acima da média"
+"29/05/2026,18:24:46,699,""X-Salada (Padrão),Lombo bacon"",32.8,Cartão de Crédito,Abaixo da média"
+"29/05/2026,18:28:04,809,""Lombo salada,Frango bacon,Batata frita pequena"",41.7,Dinheiro,Abaixo da média"
+29/05/2026,18:32:47,130,Filé Completo,28.9,Cartão de Crédito,Abaixo da média
+"29/05/2026,18:34:30,565,""Filé Completo,Filé salada"",48.8,Pix,Abaixo da média"
+29/05/2026,18:38:42,413,Lombo tudo,17.9,Pix,Abaixo da média
+"29/05/2026,18:42:57,594,""Filé salada,Frango bacon,Molho de alho,X-Salada (Artesanal 150g)"",66.6,Cartão de Débito,Acima da média"
+"29/05/2026,18:46:42,169,""X-Tudo (Padrão),Filé salada,X-Completo (Padrão),X-Bacon (Artesanal 150g)"",83.6,Dinheiro,Acima da média"
+"29/05/2026,19:10:12,718,""3xFrango tudo,Batata frita pequena,X-Tudo (Artesanal 150g),Filé bacon"",103.4,Cartão de Débito,Acima da média"
+"29/05/2026,19:18:20,149,""Lombo salada,Lombo tudo,Batata frita pequena"",43.7,Pix,Abaixo da média"
+"29/05/2026,19:19:24,66,""Frango salada,X-Tudo (Padrão),Refrigerante litro"",42.7,Pix,Abaixo da média"
+29/05/2026,19:46:42,479,Frango completo,24.9,Cartão de Crédito,Abaixo da média
+"29/05/2026,19:48:19,86,""Filé tudo,Batata frita pequena,Refrigerante lata"",33.7,Dinheiro,Abaixo da média"
+"29/05/2026,19:56:20,486,""X-Completo (Padrão),Filé bacon"",42.8,Cartão de Crédito,Abaixo da média"
+29/05/2026,19:57:29,332,Lombo tudo,17.9,Pix,Abaixo da média
+"29/05/2026,20:01:35,273,""Molho de alho,X-Bacon (Artesanal 150g)"",22.8,Dinheiro,Abaixo da média"
+"29/05/2026,20:01:54,53,""Lombo bacon,X-Salada (Artesanal 150g)"",44.8,Cartão de Crédito,Abaixo da média"
+"29/05/2026,20:08:41,710,""2xRefrigerante litro,Frango bacon,Molho de alho"",33.6,Pix,Abaixo da média"
+"29/05/2026,20:10:07,613,""2xFrango salada,Batata frita pequena,Frango tudo"",60.6,Cartão de Débito,Acima da média"
+"29/05/2026,20:17:25,223,""Batata frita grande,Molho de alho"",14.8,Cartão de Débito,Abaixo da média"
+"29/05/2026,20:19:19,554,""Filé tudo,Filé tudo,Filé salada,Lombo completo"",86.6,Cartão de Débito,Acima da média"
+29/05/2026,20:24:46,489,Lombo completo,24.9,Cartão de Débito,Abaixo da média
+"29/05/2026,20:26:18,207,""Lombo bacon,X-Completo (Artesanal 150g)"",41.8,Cartão de Débito,Abaixo da média"
+"29/05/2026,20:28:38,547,""Frango completo,Frango bacon,X-Salada (Artesanal 150g)"",69.7,Pix,Acima da média"
+"29/05/2026,20:30:09,440,""Filé tudo,2xFrango salada"",54.7,Pix,Acima da média"
+"29/05/2026,20:31:05,88,""Batata frita grande,X-Completo (Padrão)"",37.8,Cartão de Crédito,Abaixo da média"
+"29/05/2026,20:39:25,451,""Lombo completo,Filé Completo,2xFilé salada,X-Bacon (Padrão)"",109.5,Cartão de Crédito,Acima da média"
+"29/05/2026,20:45:16,56,""Refrigerante lata,Cerveja Lata,2xBatata frita pequena"",28.6,Cartão de Débito,Abaixo da média"
+29/05/2026,20:54:24,149,Refrigerante litro,7.9,Cartão de Crédito,Abaixo da média
+29/05/2026,21:00:42,773,X-Bacon (Artesanal 150g),20.9,Cartão de Crédito,Abaixo da média
+"29/05/2026,21:01:28,768,""X-Completo (Padrão),2xMolho da casa"",28.7,Cartão de Crédito,Abaixo da média"
+"29/05/2026,21:06:10,108,""Lombo tudo,Filé tudo,Frango bacon,Molho da casa"",56.6,Pix,Acima da média"
+"29/05/2026,21:12:50,512,""2xFilé Completo,Lombo salada,Filé tudo"",95.6,Cartão de Débito,Acima da média"
+"29/05/2026,21:14:27,16,""Frango completo,Lombo bacon,X-Completo (Padrão)"",65.7,Cartão de Crédito,Acima da média"
+"29/05/2026,21:20:53,60,""Filé tudo,Lombo tudo,Refrigerante lata,2xX-Completo (Padrão)"",92.5,Cartão de Crédito,Acima da média"
+"29/05/2026,21:34:13,202,""X-Tudo (Artesanal 150g),X-Tudo (Padrão)"",40.8,Cartão de Crédito,Abaixo da média"
+"29/05/2026,21:37:54,645,""X-Bacon (Padrão),Frango completo"",40.8,Cartão de Débito,Abaixo da média"
+"29/05/2026,21:42:03,826,""Filé tudo,Refrigerante litro"",28.8,Cartão de Crédito,Abaixo da média"
+29/05/2026,21:42:58,175,Lombo tudo,17.9,Cartão de Crédito,Abaixo da média
+"29/05/2026,21:44:04,991,""2xX-Completo (Padrão),Filé bacon,Batata frita grande,3xX-Bacon (Padrão)"",128.3,Pix,Acima da média"
+"29/05/2026,21:56:10,707,""X-Completo (Artesanal 150g),Lombo completo,Frango tudo,Frango bacon"",84.6,Pix,Acima da média"
+"29/05/2026,22:01:54,257,""X-Tudo (Padrão),X-Tudo (Padrão),Filé bacon"",53.7,Pix,Acima da média"
+29/05/2026,22:04:01,463,Molho da casa,1.9,Cartão de Crédito,Abaixo da média
+"29/05/2026,22:11:54,611,""3xMolho da casa,X-Bacon (Padrão),Frango completo,Frango completo"",71.4,Cartão de Débito,Acima da média"
+29/05/2026,22:20:52,813,2xRefrigerante litro,15.8,Cartão de Débito,Abaixo da média
+"29/05/2026,22:23:53,54,""Filé salada,Batata frita grande,X-Salada (Artesanal 150g),X-Bacon (Artesanal 150g)"",82.6,Pix,Acima da média"
+"29/05/2026,22:27:30,50,""Lombo salada,2xX-Bacon (Padrão),3xFrango tudo"",102.4,Pix,Acima da média"
+"29/05/2026,22:30:19,210,""Lombo completo,3xX-Completo (Artesanal 150g),Filé tudo"",123.5,Pix,Acima da média"
+"29/05/2026,22:31:36,41,""X-Salada (Artesanal 150g),Molho de alho,Frango bacon,Batata frita pequena"",55.6,Cartão de Crédito,Acima da média"
+29/05/2026,22:36:30,226,X-Completo (Artesanal 150g),25.9,Dinheiro,Abaixo da média
+"29/05/2026,22:41:00,517,""2xBatata frita grande,Frango salada,Filé Completo,Molho da casa"",73.5,Dinheiro,Acima da média"
+"29/05/2026,22:44:58,270,""Frango salada,X-Tudo (Artesanal 150g),Filé salada"",59.7,Pix,Acima da média"
+"29/05/2026,22:50:14,148,""X-Bacon (Padrão),Filé salada,2xLombo tudo"",71.6,Pix,Acima da média"
+"29/05/2026,22:53:10,717,""Batata frita grande,Refrigerante litro,Lombo salada"",37.7,Dinheiro,Abaixo da média"
+29/05/2026,22:53:51,498,3xFilé Completo,86.7,Cartão de Crédito,Acima da média
+29/05/2026,22:55:34,433,Refrigerante litro,7.9,Pix,Abaixo da média
+29/05/2026,22:56:07,2,X-Tudo (Padrão),17.9,Cartão de Débito,Abaixo da média
+"29/05/2026,22:57:00,619,""Cerveja Lata,X-Bacon (Artesanal 150g)"",27.8,Dinheiro,Abaixo da média"
+"29/05/2026,22:57:43,90,""Lombo bacon,2xRefrigerante lata,Filé Completo,Refrigerante litro"",60.5,Cartão de Débito,Acima da média"
+"29/05/2026,23:01:10,345,""X-Completo (Padrão),X-Bacon (Padrão),2xBatata frita pequena,Cerveja Lata"",65.5,Pix,Acima da média"
+"29/05/2026,23:01:30,176,""Lombo tudo,2xRefrigerante litro,2xX-Completo (Artesanal 150g),X-Tudo (Artesanal 150g)"",108.4,Cartão de Débito,Acima da média"
+"29/05/2026,23:12:33,362,""X-Salada (Padrão),Batata frita pequena"",25.8,Cartão de Débito,Abaixo da média"
+"29/05/2026,23:14:04,600,""2xLombo salada,Cerveja Lata,Lombo bacon,3xX-Salada (Artesanal 150g)"",143.3,Cartão de Débito,Acima da média"
+"29/05/2026,23:18:29,84,""2xLombo tudo,X-Bacon (Artesanal 150g),Filé salada,Lombo completo"",101.5,Cartão de Crédito,Acima da média"
+29/05/2026,23:19:17,592,Lombo tudo,17.9,Cartão de Débito,Abaixo da média
+29/05/2026,23:23:57,884,Filé Completo,28.9,Cartão de Débito,Abaixo da média
+"29/05/2026,23:26:13,63,""X-Completo (Padrão),Molho de alho,Filé tudo,2xFrango bacon"",79.5,Cartão de Débito,Acima da média"
+29/05/2026,23:30:55,115,X-Tudo (Padrão),17.9,Dinheiro,Abaixo da média
+"29/05/2026,23:31:49,166,""2xFilé bacon,Lombo tudo"",53.7,Dinheiro,Acima da média"
+"29/05/2026,23:34:58,584,""X-Salada (Padrão),2xFrango salada,2xX-Tudo (Artesanal 150g)"",96.5,Pix,Acima da média"
+"29/05/2026,23:40:21,344,""Lombo tudo,2xX-Completo (Padrão)"",67.7,Pix,Acima da média"
+"29/05/2026,23:51:04,846,""X-Salada (Padrão),Frango tudo,Lombo salada"",51.7,Cartão de Débito,Acima da média"
+29/05/2026,23:56:40,605,X-Completo (Padrão),24.9,Cartão de Débito,Abaixo da média
+"30/05/2026,18:04:34,312,""Batata frita pequena,X-Salada (Artesanal 150g),X-Completo (Padrão)"",62.7,Cartão de Débito,Acima da média"
+30/05/2026,18:06:07,328,2xFilé Completo,57.8,Pix,Acima da média
+"30/05/2026,18:18:15,136,""Refrigerante litro,Lombo tudo,Filé tudo,2xMolho de alho"",50.5,Pix,Acima da média"
+30/05/2026,18:23:02,869,Frango completo,24.9,Cartão de Crédito,Abaixo da média
+"30/05/2026,18:36:00,582,""X-Completo (Artesanal 150g),X-Completo (Artesanal 150g),2xX-Completo (Artesanal 150g)"",103.6,Cartão de Crédito,Acima da média"
+"30/05/2026,18:39:06,206,""Frango bacon,Filé salada"",35.8,Cartão de Débito,Abaixo da média"
+30/05/2026,18:41:13,816,X-Tudo (Artesanal 150g),22.9,Pix,Abaixo da média
+"30/05/2026,18:41:56,333,""Filé bacon,2xBatata frita grande,Cerveja Lata,Molho de alho"",52.5,Pix,Acima da média"
+"30/05/2026,18:46:29,441,""Molho da casa,X-Bacon (Artesanal 150g),X-Completo (Padrão)"",47.7,Pix,Abaixo da média"
+"30/05/2026,18:47:31,699,""Lombo completo,X-Salada (Padrão),Frango bacon"",57.7,Cartão de Débito,Acima da média"
+30/05/2026,18:48:36,70,2xFilé bacon,35.8,Pix,Abaixo da média
+"30/05/2026,18:48:52,643,""Refrigerante lata,Frango tudo,Batata frita pequena,Batata frita pequena"",39.6,Cartão de Crédito,Abaixo da média"
+"30/05/2026,18:52:41,265,""X-Bacon (Artesanal 150g),Molho da casa"",22.8,Cartão de Crédito,Abaixo da média"
+"30/05/2026,19:01:18,822,""Batata frita grande,X-Salada (Padrão),Lombo tudo"",47.7,Cartão de Crédito,Abaixo da média"
+"30/05/2026,19:08:42,810,""2xCerveja Lata,Batata frita grande,2xLombo salada,X-Tudo (Artesanal 150g)"",83.4,Pix,Acima da média"
+"30/05/2026,19:09:48,388,""X-Tudo (Padrão),Frango salada,Frango bacon,Filé salada"",70.6,Pix,Acima da média"
+"30/05/2026,19:18:21,881,""Lombo completo,2xFilé bacon,Molho de alho,3xLombo salada"",113.3,Cartão de Débito,Acima da média"
+30/05/2026,19:31:00,205,Batata frita grande,12.9,Pix,Abaixo da média
+"30/05/2026,19:40:05,728,""Molho de alho,Frango completo,X-Bacon (Artesanal 150g),Cerveja Lata"",54.6,Pix,Acima da média"
+"30/05/2026,19:40:25,194,""X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g),X-Tudo (Artesanal 150g),X-Completo (Artesanal 150g)"",100.6,Pix,Acima da média"
+"30/05/2026,19:43:19,432,""X-Tudo (Padrão),X-Bacon (Artesanal 150g),Batata frita pequena"",47.7,Cartão de Débito,Abaixo da média"
+"30/05/2026,19:44:23,769,""Frango completo,Frango tudo"",42.8,Cartão de Crédito,Abaixo da média"
+30/05/2026,19:46:53,910,Frango salada,16.9,Cartão de Crédito,Abaixo da média
+"30/05/2026,19:53:51,566,""X-Completo (Artesanal 150g),X-Completo (Artesanal 150g),Filé Completo,Frango completo"",105.6,Cartão de Crédito,Acima da média"
+"30/05/2026,19:56:12,22,""Filé Completo,Frango tudo,Cerveja Lata,Molho da casa"",55.6,Pix,Acima da média"
+"30/05/2026,20:06:03,686,""Molho da casa,X-Completo (Artesanal 150g),2xBatata frita pequena,X-Salada (Artesanal 150g)"",74.5,Cartão de Crédito,Acima da média"
+"30/05/2026,20:06:59,962,""Filé bacon,Molho de alho"",19.8,Cartão de Crédito,Abaixo da média"
+"30/05/2026,20:07:42,411,""Frango tudo,Frango bacon"",33.8,Cartão de Débito,Abaixo da média"
+"30/05/2026,20:10:32,176,""X-Tudo (Padrão),Frango completo"",42.8,Pix,Abaixo da média"
+"30/05/2026,20:10:43,249,""Filé bacon,Refrigerante litro"",25.8,Cartão de Débito,Abaixo da média"
+"30/05/2026,20:19:23,375,""Filé Completo,Molho de alho,Frango bacon"",46.7,Cartão de Crédito,Abaixo da média"
+"30/05/2026,20:28:30,845,""Frango salada,2xX-Bacon (Padrão)"",48.7,Pix,Abaixo da média"
+"30/05/2026,20:38:01,982,""X-Completo (Padrão),Refrigerante lata"",28.8,Dinheiro,Abaixo da média"
+"30/05/2026,20:41:46,654,""Lombo completo,2xMolho de alho"",28.7,Cartão de Débito,Abaixo da média"
+"30/05/2026,20:47:18,862,""X-Completo (Padrão),3xFilé tudo,Frango tudo"",105.5,Dinheiro,Acima da média"
+30/05/2026,20:47:34,116,X-Tudo (Padrão),17.9,Cartão de Crédito,Abaixo da média
+"30/05/2026,21:06:26,141,""Filé Completo,X-Bacon (Padrão),Lombo salada,X-Salada (Padrão)"",78.6,Cartão de Débito,Acima da média"
+"30/05/2026,21:19:58,343,""Lombo completo,Lombo completo"",49.8,Dinheiro,Acima da média"
+"30/05/2026,21:20:34,601,""Molho da casa,Molho de alho,X-Bacon (Artesanal 150g)"",24.7,Pix,Abaixo da média"
+"30/05/2026,21:24:33,957,""Frango completo,2xLombo salada,X-Salada (Padrão),Lombo salada"",92.5,Pix,Acima da média"
+30/05/2026,21:31:54,25,Refrigerante lata,3.9,Cartão de Crédito,Abaixo da média
+"30/05/2026,21:32:11,388,""Filé bacon,Filé salada"",37.8,Pix,Abaixo da média"
+30/05/2026,21:39:15,72,X-Bacon (Padrão),15.9,Cartão de Débito,Abaixo da média
+"30/05/2026,21:43:28,676,""Frango completo,2xX-Tudo (Padrão),X-Bacon (Padrão)"",76.6,Dinheiro,Acima da média"
+"30/05/2026,21:47:39,286,""2xFilé bacon,Filé salada,X-Bacon (Padrão)"",71.6,Cartão de Débito,Acima da média"
+"30/05/2026,22:08:25,210,""X-Tudo (Artesanal 150g),Frango bacon"",38.8,Cartão de Crédito,Abaixo da média"
+"30/05/2026,22:17:08,704,""Filé bacon,Refrigerante lata"",21.8,Cartão de Débito,Abaixo da média"
+30/05/2026,22:21:15,618,Filé tudo,20.9,Cartão de Débito,Abaixo da média
+"30/05/2026,22:21:46,39,""Molho de alho,Lombo completo,Lombo bacon"",42.7,Cartão de Débito,Abaixo da média"
+"30/05/2026,22:28:51,504,""X-Salada (Artesanal 150g),Filé tudo,Filé tudo"",70.7,Cartão de Crédito,Acima da média"
+"30/05/2026,22:32:51,190,""Molho de alho,Lombo bacon"",17.8,Pix,Abaixo da média"
+"30/05/2026,22:44:25,508,""2xFilé Completo,2xFilé salada,2xFilé bacon,X-Salada (Artesanal 150g)"",162.3,Cartão de Crédito,Acima da média"
+"30/05/2026,22:52:02,49,""Cerveja Lata,Filé bacon,X-Tudo (Artesanal 150g),Filé salada"",67.6,Cartão de Crédito,Acima da média"
+30/05/2026,22:56:24,322,Filé salada,19.9,Pix,Abaixo da média
+30/05/2026,23:03:00,290,X-Tudo (Padrão),17.9,Dinheiro,Abaixo da média
+"30/05/2026,23:23:44,68,""Lombo bacon,Lombo completo"",40.8,Dinheiro,Abaixo da média"
+"30/05/2026,23:26:23,584,""Lombo completo,Refrigerante litro"",32.8,Cartão de Crédito,Abaixo da média"
+"30/05/2026,23:31:28,918,""Batata frita grande,X-Bacon (Padrão),2xCerveja Lata"",42.6,Pix,Abaixo da média"
+"30/05/2026,23:44:26,657,""Filé salada,Batata frita pequena,X-Bacon (Artesanal 150g)"",49.7,Cartão de Débito,Abaixo da média"
+"30/05/2026,23:54:12,715,""Frango salada,Frango bacon,X-Salada (Artesanal 150g),X-Bacon (Artesanal 150g)"",82.6,Cartão de Débito,Acima da média"
+"30/05/2026,23:55:25,182,""Lombo completo,Lombo bacon,Filé Completo"",69.7,Pix,Acima da média"
+"31/05/2026,18:10:34,142,""Lombo tudo,Lombo completo,X-Completo (Artesanal 150g)"",68.7,Dinheiro,Acima da média"
+"31/05/2026,18:11:54,302,""Frango bacon,X-Completo (Padrão),Filé salada,Molho de alho"",62.6,Cartão de Débito,Acima da média"
+"31/05/2026,18:13:12,927,""2xMolho de alho,X-Bacon (Artesanal 150g)"",24.7,Pix,Abaixo da média"
+"31/05/2026,18:17:29,452,""X-Bacon (Artesanal 150g),Frango completo,X-Tudo (Artesanal 150g),Molho da casa"",70.6,Cartão de Crédito,Acima da média"
+"31/05/2026,18:19:31,21,""Lombo completo,Lombo bacon,Filé salada,Cerveja Lata"",67.6,Cartão de Débito,Acima da média"
+"31/05/2026,18:31:56,557,""Lombo salada,Cerveja Lata,Cerveja Lata,Frango tudo"",48.6,Cartão de Crédito,Abaixo da média"
+31/05/2026,18:37:55,672,Cerveja Lata,6.9,Pix,Abaixo da média
+"31/05/2026,18:44:15,539,""X-Tudo (Artesanal 150g),Lombo completo,Refrigerante litro"",55.7,Cartão de Crédito,Acima da média"
+"31/05/2026,18:50:18,108,""Molho da casa,Frango salada"",18.8,Pix,Abaixo da média"
+"31/05/2026,18:52:42,55,""Lombo tudo,X-Salada (Padrão)"",34.8,Cartão de Débito,Abaixo da média"
+"31/05/2026,18:54:46,77,""X-Bacon (Artesanal 150g),Batata frita pequena,Refrigerante lata,Lombo bacon"",49.6,Cartão de Débito,Abaixo da média"
+"31/05/2026,18:59:47,385,""X-Completo (Artesanal 150g),2xX-Tudo (Padrão)"",61.7,Cartão de Crédito,Acima da média"
+"31/05/2026,19:12:48,263,""2xX-Tudo (Padrão),Filé salada,X-Bacon (Artesanal 150g)"",76.6,Pix,Acima da média"
+"31/05/2026,19:31:52,391,""Filé tudo,X-Tudo (Artesanal 150g),Refrigerante lata"",47.7,Pix,Abaixo da média"
+"31/05/2026,19:54:30,255,""Cerveja Lata,Frango tudo,Lombo tudo"",42.7,Dinheiro,Abaixo da média"
+"31/05/2026,20:28:47,749,""3xLombo bacon,X-Completo (Padrão),X-Completo (Padrão)"",97.5,Cartão de Crédito,Acima da média"
+"31/05/2026,20:32:45,864,""Molho da casa,X-Completo (Padrão),2xX-Salada (Artesanal 150g)"",84.6,Cartão de Débito,Acima da média"
+31/05/2026,20:38:12,576,2xRefrigerante lata,7.8,Cartão de Crédito,Abaixo da média
+"31/05/2026,20:41:13,739,""X-Tudo (Artesanal 150g),Filé salada,Frango bacon,Lombo salada"",75.6,Pix,Acima da média"
+"31/05/2026,20:46:33,288,""Frango completo,Batata frita pequena,Filé salada"",53.7,Dinheiro,Acima da média"
+31/05/2026,20:50:34,26,X-Tudo (Artesanal 150g),22.9,Pix,Abaixo da média
+"31/05/2026,20:53:29,979,""Frango tudo,Molho de alho,3xMolho de alho,X-Bacon (Artesanal 150g)"",46.4,Pix,Abaixo da média"
+"31/05/2026,20:54:38,637,""Refrigerante litro,Frango bacon,Batata frita pequena,Filé Completo"",61.6,Cartão de Crédito,Acima da média"
+"31/05/2026,21:11:05,696,""X-Tudo (Artesanal 150g),3xRefrigerante litro"",46.6,Pix,Abaixo da média"
+31/05/2026,21:11:32,325,Lombo completo,24.9,Cartão de Débito,Abaixo da média
+"31/05/2026,21:27:47,20,""Lombo tudo,Filé bacon,Molho da casa"",37.7,Cartão de Débito,Abaixo da média"
+"31/05/2026,21:30:49,640,""Frango bacon,X-Bacon (Padrão)"",31.8,Pix,Abaixo da média"
+31/05/2026,21:44:54,735,Frango tudo,17.9,Cartão de Crédito,Abaixo da média
+"31/05/2026,21:47:55,609,""Frango bacon,X-Completo (Padrão)"",40.8,Cartão de Crédito,Abaixo da média"
+"31/05/2026,21:48:36,247,""2xX-Tudo (Artesanal 150g),X-Bacon (Artesanal 150g),Lombo tudo"",84.6,Cartão de Crédito,Acima da média"
+"31/05/2026,21:50:26,401,""Frango completo,Lombo tudo"",42.8,Dinheiro,Abaixo da média"
+"31/05/2026,21:53:19,114,""Frango tudo,Lombo salada,X-Tudo (Artesanal 150g),2xBatata frita pequena"",75.5,Cartão de Crédito,Acima da média"
+"31/05/2026,22:02:17,661,""2xX-Salada (Artesanal 150g),Cerveja Lata,Frango completo"",89.6,Cartão de Crédito,Acima da média"
+31/05/2026,22:03:54,306,Refrigerante litro,7.9,Dinheiro,Abaixo da média
+"31/05/2026,22:07:40,622,""3xFrango salada,Refrigerante litro"",58.6,Pix,Acima da média"
+31/05/2026,22:15:50,475,Lombo completo,24.9,Pix,Abaixo da média
+"31/05/2026,22:18:23,311,""Frango salada,Refrigerante litro"",24.8,Cartão de Crédito,Abaixo da média"
+"31/05/2026,22:18:23,844,""X-Completo (Padrão),Frango bacon"",40.8,Cartão de Crédito,Abaixo da média"
+31/05/2026,22:20:55,698,Frango bacon,15.9,Cartão de Crédito,Abaixo da média
+31/05/2026,22:30:46,133,Filé salada,19.9,Cartão de Crédito,Abaixo da média
+"31/05/2026,22:32:42,118,""X-Bacon (Artesanal 150g),Refrigerante lata,X-Completo (Artesanal 150g),3xFilé salada"",110.4,Dinheiro,Acima da média"
+"31/05/2026,22:36:09,610,""Batata frita grande,Filé bacon,Filé bacon"",48.7,Cartão de Débito,Abaixo da média"
+31/05/2026,22:45:28,839,X-Bacon (Artesanal 150g),20.9,Pix,Abaixo da média
+"31/05/2026,22:51:50,386,""Filé tudo,X-Bacon (Artesanal 150g),2xRefrigerante lata,3xLombo tudo"",103.3,Cartão de Crédito,Acima da média"
+"31/05/2026,22:55:24,264,""Lombo tudo,Cerveja Lata"",24.8,Cartão de Crédito,Abaixo da média"
+31/05/2026,22:59:59,650,X-Tudo (Artesanal 150g),22.9,Pix,Abaixo da média
+"31/05/2026,23:01:11,1,""2xX-Tudo (Padrão),2xX-Bacon (Padrão),Lombo tudo,2xFrango completo"",135.3,Cartão de Débito,Acima da média"
+"31/05/2026,23:05:53,340,""X-Tudo (Padrão),2xFrango completo"",67.7,Cartão de Crédito,Acima da média"
+"31/05/2026,23:16:55,349,""3xLombo tudo,Frango completo,Lombo completo"",103.5,Pix,Acima da média"
+"31/05/2026,23:17:57,295,""Filé tudo,2xX-Completo (Padrão),Molho de alho"",72.6,Cartão de Crédito,Acima da média"
+31/05/2026,23:43:59,532,Batata frita pequena,8.9,Cartão de Crédito,Abaixo da média
+"31/05/2026,23:49:55,12,""Filé tudo,Filé salada,3xFilé bacon"",94.5,Dinheiro,Acima da média"
+"31/05/2026,23:51:07,491,""Frango completo,2xX-Completo (Artesanal 150g)"",76.7,Cartão de Débito,Acima da média"
+"31/05/2026,23:51:40,231,""2xX-Salada (Padrão),Molho da casa,X-Tudo (Padrão)"",53.6,Pix,Acima da média"
+31/05/2026,23:53:12,781,Frango bacon,15.9,Pix,Abaixo da média

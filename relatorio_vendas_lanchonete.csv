@@ -1,0 +1,1891 @@
+﻿data;hora;Número do pedido;Produto;Valor total de itens;forma de pagamento
+01/05/2026;18:02:02;0745;X-Tudo (Artesanal 150g),2xX-Tudo (Artesanal 150g),X-Tudo (Padrão);86,60;Cartão de Crédito
+01/05/2026;18:08:23;0241;X-Completo (Padrão),Filé bacon;42,80;Cartão de Crédito
+01/05/2026;18:13:20;0067;X-Tudo (Artesanal 150g),Frango completo,Molho de alho;49,70;Dinheiro
+01/05/2026;18:14:53;0770;X-Tudo (Artesanal 150g),Frango salada;39,80;Cartão de Débito
+01/05/2026;18:20:03;0618;X-Completo (Artesanal 150g),Lombo completo;50,80;Cartão de Crédito
+01/05/2026;18:29:53;0013;Molho da casa;1,90;Cartão de Débito
+01/05/2026;18:33:05;0863;2xMolho da casa,Filé Completo,Frango salada;49,60;Cartão de Débito
+01/05/2026;18:46:26;0028;Lombo bacon;15,90;Cartão de Débito
+01/05/2026;18:47:39;0418;Filé salada,X-Bacon (Padrão),Lombo bacon,Cerveja Lata;58,60;Cartão de Débito
+01/05/2026;19:03:57;0534;Lombo bacon,Batata frita grande,3xFrango completo;103,50;Cartão de Débito
+01/05/2026;19:04:15;0835;3xFrango salada;50,70;Pix
+01/05/2026;19:09:33;0521;X-Salada (Artesanal 150g),2xFrango completo;78,70;Cartão de Débito
+01/05/2026;19:21:12;0637;Batata frita grande,X-Completo (Padrão),Lombo salada;54,70;Cartão de Débito
+01/05/2026;19:23:11;0122;Lombo tudo;17,90;Cartão de Crédito
+01/05/2026;19:23:32;0013;X-Bacon (Padrão),2xLombo salada,Filé bacon,Molho de alho;69,50;Dinheiro
+01/05/2026;19:28:46;0505;Refrigerante lata,X-Salada (Artesanal 150g),Lombo completo;57,70;Cartão de Crédito
+01/05/2026;19:30:43;0112;Frango tudo,Lombo completo;42,80;Pix
+01/05/2026;19:41:59;0861;X-Completo (Artesanal 150g),Filé Completo,Molho de alho,Frango completo;81,60;Pix
+01/05/2026;19:47:30;0423;X-Salada (Artesanal 150g),X-Salada (Padrão);45,80;Pix
+01/05/2026;20:03:14;0431;X-Bacon (Padrão),Filé tudo,X-Salada (Artesanal 150g),Batata frita pequena;74,60;Cartão de Crédito
+01/05/2026;20:04:37;0762;Filé Completo,X-Tudo (Padrão);46,80;Cartão de Débito
+01/05/2026;20:11:03;0973;Frango bacon,Lombo tudo,Molho da casa,Molho da casa;37,60;Pix
+01/05/2026;20:11:33;0344;2xX-Bacon (Artesanal 150g);41,80;Pix
+01/05/2026;20:15:18;0518;Filé salada,X-Completo (Padrão),Molho da casa;46,70;Cartão de Débito
+01/05/2026;20:18:10;0010;Filé tudo,Batata frita pequena;29,80;Pix
+01/05/2026;20:19:40;0856;X-Tudo (Artesanal 150g),Frango salada;39,80;Pix
+01/05/2026;20:21:32;0128;Frango salada,Lombo bacon,Refrigerante lata;36,70;Cartão de Crédito
+01/05/2026;20:22:12;0335;Lombo bacon,Molho da casa;17,80;Cartão de Débito
+01/05/2026;20:24:51;0841;Batata frita pequena,X-Completo (Artesanal 150g),X-Bacon (Padrão);50,70;Cartão de Débito
+01/05/2026;20:27:51;0276;Lombo tudo,X-Tudo (Artesanal 150g),Molho de alho,Frango completo;67,60;Pix
+01/05/2026;20:29:39;0274;Molho da casa,X-Bacon (Artesanal 150g);22,80;Pix
+01/05/2026;20:31:34;0819;Lombo bacon,Cerveja Lata,X-Completo (Padrão);47,70;Pix
+01/05/2026;20:33:32;0208;Lombo bacon;15,90;Dinheiro
+01/05/2026;20:35:02;0747;Refrigerante lata,Frango bacon;19,80;Cartão de Crédito
+01/05/2026;20:40:30;0527;Lombo bacon;15,90;Cartão de Débito
+01/05/2026;20:42:30;0125;2xRefrigerante litro;15,80;Pix
+01/05/2026;20:44:28;0859;X-Bacon (Artesanal 150g);20,90;Cartão de Débito
+01/05/2026;20:46:53;0590;Filé bacon;17,90;Dinheiro
+01/05/2026;20:51:18;0669;Batata frita grande,Frango tudo,Filé bacon,X-Tudo (Artesanal 150g);71,60;Pix
+01/05/2026;20:51:20;0839;X-Salada (Artesanal 150g),Frango completo,3xFilé Completo;140,50;Cartão de Débito
+01/05/2026;20:53:51;0602;Lombo tudo,X-Completo (Padrão),Lombo salada,Lombo bacon;75,60;Cartão de Crédito
+01/05/2026;21:05:38;0032;Cerveja Lata;6,90;Pix
+01/05/2026;21:05:43;0193;Filé Completo;28,90;Cartão de Débito
+01/05/2026;21:12:58;0203;Batata frita pequena;8,90;Cartão de Débito
+01/05/2026;21:18:30;0043;X-Bacon (Padrão),Cerveja Lata,X-Salada (Padrão),Filé bacon;57,60;Pix
+01/05/2026;21:20:13;0271;X-Bacon (Artesanal 150g),2xRefrigerante litro;36,70;Cartão de Crédito
+01/05/2026;21:29:58;0137;Molho da casa,2xX-Tudo (Artesanal 150g);47,70;Dinheiro
+01/05/2026;21:44:07;0418;Lombo salada,Lombo tudo;34,80;Pix
+01/05/2026;21:44:11;0931;2xFrango completo;49,80;Cartão de Crédito
+01/05/2026;22:02:03;0455;X-Salada (Padrão),Filé tudo,Frango completo;62,70;Dinheiro
+01/05/2026;22:09:25;0649;Lombo completo,X-Tudo (Artesanal 150g);47,80;Dinheiro
+01/05/2026;22:22:37;0596;2xFrango salada,Lombo bacon;49,70;Cartão de Crédito
+01/05/2026;22:28:46;0391;X-Tudo (Padrão);17,90;Cartão de Débito
+01/05/2026;22:34:38;0389;Batata frita pequena;8,90;Pix
+01/05/2026;22:40:26;0772;X-Tudo (Artesanal 150g),Cerveja Lata;29,80;Cartão de Crédito
+01/05/2026;22:43:55;0525;X-Salada (Artesanal 150g),Lombo tudo;46,80;Cartão de Crédito
+01/05/2026;22:44:43;0308;Batata frita pequena;8,90;Pix
+01/05/2026;22:55:53;0627;Filé bacon,Frango completo,Filé tudo;63,70;Dinheiro
+01/05/2026;22:56:42;0882;2xRefrigerante litro,X-Bacon (Artesanal 150g);36,70;Dinheiro
+01/05/2026;22:58:52;0812;X-Tudo (Padrão);17,90;Cartão de Crédito
+01/05/2026;23:07:05;0312;X-Completo (Artesanal 150g),X-Tudo (Artesanal 150g),Frango salada;65,70;Cartão de Crédito
+01/05/2026;23:16:49;0331;Filé Completo,Refrigerante litro,2xBatata frita grande,3xFrango bacon;110,30;Pix
+01/05/2026;23:22:51;0810;X-Bacon (Artesanal 150g),Batata frita grande;33,80;Pix
+01/05/2026;23:24:30;0119;3xX-Bacon (Padrão),X-Salada (Padrão),Lombo tudo;82,50;Pix
+01/05/2026;23:44:27;0416;Batata frita pequena,Frango completo,X-Tudo (Artesanal 150g);56,70;Cartão de Crédito
+01/05/2026;23:49:17;0038;Lombo completo,X-Salada (Artesanal 150g),Refrigerante lata,Filé Completo;86,60;Cartão de Crédito
+01/05/2026;23:51:49;0620;Refrigerante lata;3,90;Pix
+01/05/2026;23:52:55;0602;X-Tudo (Artesanal 150g),Frango tudo,X-Tudo (Padrão),X-Tudo (Artesanal 150g);81,60;Cartão de Débito
+01/05/2026;23:55:10;0017;Lombo salada,X-Tudo (Padrão);34,80;Cartão de Crédito
+01/05/2026;23:55:52;0107;X-Tudo (Padrão),2xX-Tudo (Artesanal 150g),2xX-Completo (Artesanal 150g);115,50;Cartão de Crédito
+02/05/2026;18:03:23;0647;Lombo tudo,Filé Completo,Molho de alho;48,70;Cartão de Débito
+02/05/2026;18:04:35;0569;Refrigerante litro,Molho da casa;9,80;Cartão de Débito
+02/05/2026;18:06:10;0601;2xFilé salada;39,80;Cartão de Débito
+02/05/2026;18:08:30;0843;Refrigerante lata,Lombo salada;20,80;Pix
+02/05/2026;18:21:25;0677;2xFrango completo,2xMolho de alho,2xX-Salada (Padrão);87,40;Dinheiro
+02/05/2026;18:24:11;0442;X-Salada (Padrão),Frango salada;33,80;Cartão de Débito
+02/05/2026;18:29:20;0180;Refrigerante lata,Lombo tudo;21,80;Cartão de Débito
+02/05/2026;19:03:20;0183;Lombo salada;16,90;Cartão de Crédito
+02/05/2026;19:06:42;0975;X-Completo (Padrão),Lombo salada,2xLombo completo,Frango tudo;109,50;Cartão de Crédito
+02/05/2026;19:08:02;0099;X-Salada (Padrão),Batata frita grande,Filé tudo;50,70;Cartão de Crédito
+02/05/2026;19:17:02;0557;Batata frita grande,2xRefrigerante litro;28,70;Pix
+02/05/2026;19:29:55;0384;Lombo salada,Cerveja Lata,Frango salada;40,70;Pix
+02/05/2026;19:31:17;0098;X-Tudo (Artesanal 150g),Molho da casa,Filé bacon;42,70;Cartão de Crédito
+02/05/2026;19:34:34;0463;X-Salada (Padrão),Lombo tudo,Filé Completo;63,70;Cartão de Débito
+02/05/2026;19:43:01;0018;X-Completo (Artesanal 150g),X-Tudo (Padrão);43,80;Cartão de Débito
+02/05/2026;19:47:08;0539;Frango tudo,2xBatata frita grande,2xX-Bacon (Artesanal 150g);85,50;Cartão de Crédito
+02/05/2026;19:55:28;0430;X-Salada (Artesanal 150g),2xFilé tudo;70,70;Pix
+02/05/2026;19:56:03;0570;Molho de alho,Refrigerante litro,Batata frita pequena;18,70;Cartão de Débito
+02/05/2026;20:08:21;0111;Lombo tudo;17,90;Cartão de Débito
+02/05/2026;20:09:06;0414;Refrigerante litro;7,90;Pix
+02/05/2026;20:12:25;0847;Cerveja Lata,2xRefrigerante lata,2xRefrigerante litro,3xFrango tudo;84,20;Pix
+02/05/2026;20:17:55;0375;Lombo tudo,X-Completo (Padrão),Frango salada;59,70;Cartão de Crédito
+02/05/2026;20:18:57;0177;Lombo salada,Molho de alho,X-Completo (Padrão),Lombo tudo;61,60;Cartão de Crédito
+02/05/2026;20:21:04;0757;Refrigerante litro,X-Salada (Padrão),X-Salada (Artesanal 150g),X-Salada (Artesanal 150g);82,60;Pix
+02/05/2026;20:23:43;0875;Lombo bacon,2xLombo bacon,Filé Completo,Refrigerante litro;84,50;Pix
+02/05/2026;20:31:49;0426;X-Salada (Artesanal 150g);28,90;Pix
+02/05/2026;20:39:31;0675;Lombo completo,X-Bacon (Artesanal 150g);45,80;Pix
+02/05/2026;20:58:28;0056;Lombo completo,Molho de alho;26,80;Cartão de Crédito
+02/05/2026;21:11:10;0166;Frango bacon;15,90;Dinheiro
+02/05/2026;21:29:38;0560;Lombo bacon,Frango tudo;33,80;Pix
+02/05/2026;21:51:17;0653;X-Tudo (Artesanal 150g),Filé Completo,Frango tudo;69,70;Cartão de Crédito
+02/05/2026;21:54:38;0562;Batata frita grande,Filé bacon,Lombo tudo;48,70;Pix
+02/05/2026;21:57:16;0429;Molho de alho;1,90;Cartão de Crédito
+02/05/2026;22:09:11;0193;X-Tudo (Padrão),2xFrango tudo;53,70;Cartão de Débito
+02/05/2026;22:12:27;0044;Frango bacon;15,90;Cartão de Débito
+02/05/2026;22:17:06;0242;X-Salada (Padrão),2xLombo salada,3xX-Bacon (Artesanal 150g),Frango bacon;129,30;Cartão de Débito
+02/05/2026;22:29:37;0865;Frango salada,Molho de alho,X-Completo (Artesanal 150g),Molho de alho;46,60;Pix
+02/05/2026;22:33:58;0115;X-Tudo (Padrão),Frango bacon,Frango salada;50,70;Cartão de Débito
+02/05/2026;22:43:58;0447;Refrigerante lata;3,90;Cartão de Crédito
+02/05/2026;23:01:17;0138;X-Tudo (Padrão),Refrigerante litro;25,80;Cartão de Crédito
+02/05/2026;23:03:38;0729;Molho de alho;1,90;Pix
+02/05/2026;23:07:49;0383;X-Completo (Padrão);24,90;Dinheiro
+02/05/2026;23:10:09;0420;Lombo salada;16,90;Dinheiro
+02/05/2026;23:12:41;0811;Lombo completo,Lombo salada,Lombo completo,X-Tudo (Padrão);84,60;Cartão de Crédito
+02/05/2026;23:19:08;0853;Cerveja Lata,X-Tudo (Artesanal 150g),X-Completo (Padrão),Lombo tudo;72,60;Cartão de Crédito
+02/05/2026;23:20:43;0168;Molho de alho,2xX-Salada (Artesanal 150g),Refrigerante litro;67,60;Pix
+02/05/2026;23:22:08;0526;Refrigerante lata,Frango tudo,Frango tudo,3xFilé Completo;126,40;Pix
+02/05/2026;23:26:22;0761;2xRefrigerante litro,Filé salada;35,70;Pix
+02/05/2026;23:37:06;0213;Batata frita pequena,Lombo salada;25,80;Cartão de Débito
+02/05/2026;23:49:51;0231;Refrigerante lata,X-Tudo (Artesanal 150g),Frango salada;43,70;Cartão de Débito
+02/05/2026;23:50:59;0427;Filé bacon,Batata frita grande,X-Salada (Artesanal 150g);59,70;Pix
+02/05/2026;23:52:28;0466;Frango completo,Lombo salada;41,80;Pix
+03/05/2026;18:06:14;0883;X-Bacon (Artesanal 150g);20,90;Pix
+03/05/2026;18:09:01;0097;Batata frita pequena,Lombo completo,X-Bacon (Padrão),X-Salada (Padrão);66,60;Pix
+03/05/2026;18:19:33;0224;2xX-Salada (Padrão),X-Tudo (Padrão),2xBatata frita pequena,X-Completo (Padrão);94,40;Cartão de Débito
+03/05/2026;18:20:33;0251;Refrigerante litro,Filé Completo,Lombo bacon;52,70;Cartão de Débito
+03/05/2026;18:33:07;0245;3xMolho de alho,X-Salada (Artesanal 150g);34,60;Cartão de Débito
+03/05/2026;18:36:14;0949;Frango tudo;17,90;Cartão de Crédito
+03/05/2026;18:39:09;0163;Filé Completo,X-Bacon (Artesanal 150g),Refrigerante litro;57,70;Dinheiro
+03/05/2026;18:39:28;0298;Lombo bacon,Filé tudo;36,80;Dinheiro
+03/05/2026;18:42:03;0850;Frango completo,Frango tudo,Filé bacon,2xX-Bacon (Padrão);92,50;Cartão de Crédito
+03/05/2026;18:51:49;0835;2xX-Completo (Artesanal 150g),Filé bacon,Batata frita grande,2xBatata frita pequena;100,40;Cartão de Crédito
+03/05/2026;18:54:08;0406;Filé salada;19,90;Dinheiro
+03/05/2026;19:05:20;0147;X-Tudo (Padrão),X-Tudo (Padrão),X-Tudo (Padrão),Filé tudo;74,60;Pix
+03/05/2026;19:05:45;0806;X-Tudo (Artesanal 150g);22,90;Cartão de Crédito
+03/05/2026;19:12:12;0174;2xFilé salada,Filé tudo;60,70;Cartão de Crédito
+03/05/2026;19:14:00;0612;Frango completo;24,90;Pix
+03/05/2026;19:18:11;0110;X-Tudo (Padrão);17,90;Cartão de Crédito
+03/05/2026;19:44:05;0944;3xFilé Completo,Refrigerante litro,Frango salada;111,50;Cartão de Débito
+03/05/2026;19:47:05;0410;X-Bacon (Padrão),Lombo completo,X-Bacon (Artesanal 150g);61,70;Cartão de Crédito
+03/05/2026;19:47:44;0572;Molho da casa;1,90;Cartão de Crédito
+03/05/2026;19:50:47;0492;Batata frita pequena;8,90;Cartão de Débito
+03/05/2026;19:56:57;0805;Molho da casa,2xFrango completo,Molho da casa;53,60;Cartão de Débito
+03/05/2026;20:07:30;0823;X-Tudo (Padrão);17,90;Pix
+03/05/2026;20:07:32;0228;Refrigerante litro,Frango bacon;23,80;Cartão de Débito
+03/05/2026;20:10:35;0387;Frango salada,2xMolho da casa,X-Salada (Artesanal 150g),Refrigerante lata;53,50;Cartão de Débito
+03/05/2026;20:12:01;0556;Refrigerante lata;3,90;Dinheiro
+03/05/2026;20:21:48;0974;X-Salada (Padrão);16,90;Cartão de Crédito
+03/05/2026;20:53:14;0763;Molho de alho,Lombo completo,Lombo salada;43,70;Pix
+03/05/2026;20:55:20;0655;Lombo bacon,Molho de alho;17,80;Pix
+03/05/2026;21:01:35;0218;2xBatata frita grande;25,80;Cartão de Crédito
+03/05/2026;21:04:16;0184;Refrigerante lata,Filé salada,X-Bacon (Artesanal 150g);44,70;Pix
+03/05/2026;21:04:55;0272;Lombo completo,Lombo salada,Frango completo;66,70;Cartão de Crédito
+03/05/2026;21:05:05;0895;Refrigerante litro,Lombo completo;32,80;Pix
+03/05/2026;21:06:33;0869;Frango salada,Filé Completo,Filé tudo,Filé bacon;84,60;Cartão de Débito
+03/05/2026;21:08:19;0314;Filé salada,X-Salada (Artesanal 150g),Lombo tudo,2xLombo tudo;102,50;Dinheiro
+03/05/2026;21:08:39;0321;Lombo salada,Molho da casa,X-Salada (Padrão);35,70;Cartão de Crédito
+03/05/2026;21:12:04;0707;2xFilé bacon,Lombo bacon,Frango tudo;69,60;Cartão de Crédito
+03/05/2026;21:16:58;0788;Filé tudo,X-Tudo (Padrão),X-Tudo (Artesanal 150g);61,70;Cartão de Débito
+03/05/2026;21:20:58;0587;Refrigerante lata,Frango tudo;21,80;Dinheiro
+03/05/2026;21:37:32;0023;Frango bacon,3xLombo salada,Frango bacon,2xFrango bacon;114,30;Pix
+03/05/2026;21:39:26;0726;Lombo completo,X-Bacon (Padrão),Refrigerante lata;44,70;Cartão de Débito
+03/05/2026;21:41:30;0832;X-Salada (Padrão),Refrigerante lata,Refrigerante litro;28,70;Pix
+03/05/2026;21:52:24;0769;Frango completo;24,90;Cartão de Crédito
+03/05/2026;22:11:38;0151;3xFilé bacon;53,70;Pix
+03/05/2026;22:13:49;0094;Refrigerante lata,Lombo salada,Filé Completo;49,70;Cartão de Crédito
+03/05/2026;22:18:54;0731;Molho da casa,Filé tudo,Molho da casa;24,70;Cartão de Crédito
+03/05/2026;22:23:35;0335;Refrigerante lata,Frango tudo;21,80;Dinheiro
+03/05/2026;22:29:33;0401;X-Tudo (Padrão),X-Tudo (Padrão);35,80;Pix
+03/05/2026;22:29:50;0275;X-Salada (Padrão);16,90;Dinheiro
+03/05/2026;22:40:03;0277;2xBatata frita grande,Batata frita grande,Filé tudo;59,60;Pix
+03/05/2026;22:45:01;0935;Refrigerante litro,Molho da casa;9,80;Pix
+03/05/2026;22:47:51;0035;Lombo bacon,2xRefrigerante litro;31,70;Cartão de Crédito
+03/05/2026;22:54:08;0390;2xLombo bacon,2xX-Salada (Artesanal 150g),X-Bacon (Padrão);105,50;Pix
+03/05/2026;22:58:28;0468;X-Completo (Padrão);24,90;Dinheiro
+03/05/2026;23:07:44;0385;X-Bacon (Padrão);15,90;Cartão de Débito
+03/05/2026;23:08:49;0199;Filé salada,Frango tudo;37,80;Cartão de Débito
+03/05/2026;23:13:35;0246;Molho da casa;1,90;Cartão de Débito
+03/05/2026;23:18:24;0848;X-Tudo (Padrão),Batata frita grande,Lombo tudo,Molho da casa;50,60;Cartão de Débito
+03/05/2026;23:23:27;0395;X-Completo (Artesanal 150g);25,90;Pix
+03/05/2026;23:25:40;0046;Molho de alho,Batata frita grande,Cerveja Lata,Cerveja Lata;28,60;Cartão de Crédito
+03/05/2026;23:33:42;0499;Filé tudo;20,90;Cartão de Débito
+04/05/2026;18:07:57;0074;2xLombo tudo,Frango completo,2xX-Tudo (Artesanal 150g);106,50;Cartão de Débito
+04/05/2026;18:12:01;0785;Cerveja Lata,Lombo bacon;22,80;Cartão de Crédito
+04/05/2026;18:26:19;0186;X-Salada (Artesanal 150g),Cerveja Lata;35,80;Cartão de Crédito
+04/05/2026;18:30:30;0543;Lombo bacon,Frango salada,X-Completo (Padrão),Refrigerante lata;61,60;Pix
+04/05/2026;18:32:22;0617;2xFilé tudo;41,80;Pix
+04/05/2026;18:59:00;0220;Filé tudo;20,90;Cartão de Débito
+04/05/2026;18:59:19;0420;Molho da casa,Filé Completo,Lombo salada;47,70;Cartão de Débito
+04/05/2026;19:00:19;0654;Molho de alho,Frango tudo,Lombo tudo;37,70;Pix
+04/05/2026;19:00:25;0544;Cerveja Lata,Frango bacon,Frango tudo;40,70;Pix
+04/05/2026;19:03:56;0171;Frango tudo,Filé salada;37,80;Pix
+04/05/2026;19:18:24;0226;X-Salada (Artesanal 150g),2xX-Bacon (Padrão);60,70;Pix
+04/05/2026;19:19:35;0241;Refrigerante lata;3,90;Pix
+04/05/2026;19:20:07;0141;Frango bacon,Frango tudo;33,80;Cartão de Crédito
+04/05/2026;19:23:57;0282;Frango completo,2xLombo completo;74,70;Cartão de Débito
+04/05/2026;19:26:24;0341;Frango tudo,Frango salada,Cerveja Lata,Refrigerante litro;49,60;Cartão de Crédito
+04/05/2026;19:27:59;0757;3xFrango salada;50,70;Cartão de Débito
+04/05/2026;19:32:30;0787;Filé bacon,Frango salada,Filé Completo;63,70;Cartão de Crédito
+04/05/2026;19:38:45;0190;Refrigerante litro,Lombo completo,X-Completo (Artesanal 150g),Refrigerante litro;66,60;Pix
+04/05/2026;19:46:38;0792;Batata frita pequena,2xCerveja Lata,Frango bacon;38,60;Cartão de Crédito
+04/05/2026;19:53:02;0940;Refrigerante litro,2xFrango salada;41,70;Cartão de Crédito
+04/05/2026;19:55:15;0768;Molho da casa,Refrigerante lata,Lombo bacon;21,70;Cartão de Débito
+04/05/2026;19:57:24;0178;X-Bacon (Artesanal 150g),Batata frita grande,X-Completo (Artesanal 150g);59,70;Pix
+04/05/2026;20:01:29;0417;Frango bacon,Refrigerante lata,X-Completo (Padrão);44,70;Pix
+04/05/2026;20:03:54;0381;Refrigerante litro,Filé tudo,X-Tudo (Artesanal 150g),Batata frita grande;64,60;Pix
+04/05/2026;20:06:43;0085;X-Completo (Padrão);24,90;Cartão de Débito
+04/05/2026;20:08:29;0058;Refrigerante litro;7,90;Cartão de Crédito
+04/05/2026;20:33:42;0673;Refrigerante lata,X-Completo (Padrão),X-Completo (Artesanal 150g);54,70;Cartão de Débito
+04/05/2026;20:34:52;0018;Filé salada,Frango salada;36,80;Cartão de Débito
+04/05/2026;20:37:41;0932;Cerveja Lata,X-Tudo (Padrão),Cerveja Lata;31,70;Cartão de Crédito
+04/05/2026;20:45:52;0647;Cerveja Lata,X-Salada (Padrão);23,80;Cartão de Crédito
+04/05/2026;20:51:59;0530;3xX-Completo (Artesanal 150g),Molho da casa;79,60;Cartão de Crédito
+04/05/2026;20:56:58;0400;X-Completo (Padrão),2xMolho da casa;28,70;Cartão de Débito
+04/05/2026;20:57:11;0404;Molho de alho,Frango salada,2xCerveja Lata,Frango bacon;48,50;Cartão de Crédito
+04/05/2026;20:58:33;0805;3xX-Bacon (Artesanal 150g),X-Tudo (Artesanal 150g),Lombo salada,Lombo salada;119,40;Cartão de Crédito
+04/05/2026;21:01:22;0945;2xRefrigerante litro;15,80;Cartão de Débito
+04/05/2026;21:29:12;0751;X-Salada (Artesanal 150g),Frango bacon,X-Salada (Artesanal 150g);73,70;Cartão de Crédito
+04/05/2026;21:54:19;0221;2xFrango bacon;31,80;Dinheiro
+04/05/2026;22:03:52;0160;X-Completo (Artesanal 150g),Molho da casa,Filé tudo,Filé bacon;66,60;Pix
+04/05/2026;22:04:51;0292;2xBatata frita grande,X-Bacon (Artesanal 150g);46,70;Pix
+04/05/2026;22:14:04;0122;Filé tudo;20,90;Cartão de Débito
+04/05/2026;22:27:20;0266;Lombo completo,Lombo salada;41,80;Cartão de Crédito
+04/05/2026;22:39:39;0430;X-Salada (Artesanal 150g),Frango bacon,Filé salada,Lombo completo;89,60;Cartão de Débito
+04/05/2026;22:41:48;0442;Refrigerante litro,Frango salada,2xX-Salada (Padrão),Frango bacon;74,50;Cartão de Débito
+04/05/2026;22:43:06;0296;Cerveja Lata;6,90;Cartão de Débito
+04/05/2026;23:03:42;0662;Refrigerante lata,Batata frita grande,Frango salada;33,70;Pix
+04/05/2026;23:05:46;0212;X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g),2xX-Completo (Padrão);101,60;Cartão de Crédito
+04/05/2026;23:14:35;0586;Lombo tudo,Batata frita grande,3xBatata frita pequena;57,50;Pix
+04/05/2026;23:20:14;0229;Lombo salada;16,90;Cartão de Crédito
+04/05/2026;23:24:59;0819;Frango salada,Cerveja Lata;23,80;Cartão de Débito
+04/05/2026;23:34:09;0575;X-Bacon (Artesanal 150g),X-Completo (Artesanal 150g),2xFilé Completo,2xX-Tudo (Padrão);140,40;Dinheiro
+04/05/2026;23:57:45;0870;X-Tudo (Padrão),2xFrango salada,Molho de alho,Lombo completo;78,50;Cartão de Crédito
+05/05/2026;18:05:21;0678;X-Tudo (Padrão),X-Salada (Padrão),X-Salada (Artesanal 150g);63,70;Dinheiro
+05/05/2026;18:06:43;0216;2xX-Completo (Padrão),X-Tudo (Artesanal 150g),Filé Completo,Lombo completo;126,50;Pix
+05/05/2026;18:13:10;0181;X-Tudo (Padrão);17,90;Cartão de Crédito
+05/05/2026;18:20:05;0200;Molho da casa,Refrigerante litro;9,80;Cartão de Crédito
+05/05/2026;18:30:03;0207;Frango bacon;15,90;Pix
+05/05/2026;18:38:02;0987;Frango bacon,Lombo salada,Frango tudo,Frango salada;67,60;Pix
+05/05/2026;18:55:21;0531;X-Completo (Artesanal 150g),Frango bacon,Filé bacon,3xX-Tudo (Artesanal 150g);128,40;Cartão de Crédito
+05/05/2026;19:07:17;0546;Filé salada,Batata frita pequena,Frango salada,Batata frita pequena;54,60;Pix
+05/05/2026;19:07:33;0081;Molho da casa;1,90;Cartão de Crédito
+05/05/2026;19:10:46;0225;Frango tudo,3xLombo tudo;71,60;Pix
+05/05/2026;19:11:09;0095;Molho da casa;1,90;Cartão de Crédito
+05/05/2026;19:22:11;0865;Cerveja Lata;6,90;Pix
+05/05/2026;19:24:45;0652;Frango salada,X-Salada (Padrão),X-Salada (Padrão),Refrigerante litro;58,60;Dinheiro
+05/05/2026;19:29:14;0139;Lombo tudo;17,90;Cartão de Crédito
+05/05/2026;19:49:26;0320;2xFrango tudo,Batata frita grande;48,70;Pix
+05/05/2026;19:53:13;0292;X-Completo (Artesanal 150g),Batata frita grande,2xX-Completo (Padrão);88,60;Pix
+05/05/2026;19:53:47;0031;X-Completo (Padrão),Filé bacon,Filé salada,2xMolho de alho;66,50;Pix
+05/05/2026;19:53:49;0258;Filé salada;19,90;Cartão de Crédito
+05/05/2026;20:04:35;0441;Cerveja Lata;6,90;Cartão de Débito
+05/05/2026;20:28:11;0923;X-Salada (Artesanal 150g),X-Completo (Padrão),Frango completo,2xX-Tudo (Padrão);114,50;Cartão de Débito
+05/05/2026;20:28:34;0113;2xX-Bacon (Artesanal 150g),Filé Completo,Frango tudo,Lombo tudo;106,50;Cartão de Débito
+05/05/2026;20:41:30;0495;X-Completo (Artesanal 150g),Refrigerante litro;33,80;Pix
+05/05/2026;20:43:50;0485;X-Bacon (Padrão),Frango bacon,Lombo completo;56,70;Cartão de Débito
+05/05/2026;20:45:02;0075;Frango tudo;17,90;Cartão de Crédito
+05/05/2026;20:48:51;0325;X-Completo (Artesanal 150g);25,90;Cartão de Crédito
+05/05/2026;20:48:56;0361;2xFilé Completo,2xFrango bacon;89,60;Pix
+05/05/2026;20:49:26;0017;X-Salada (Padrão),Molho da casa;18,80;Cartão de Débito
+05/05/2026;21:00:18;0048;X-Tudo (Padrão),X-Completo (Artesanal 150g),3xBatata frita grande,Lombo salada;99,40;Pix
+05/05/2026;21:00:32;0153;Lombo bacon;15,90;Pix
+05/05/2026;21:09:45;0577;Refrigerante litro;7,90;Cartão de Débito
+05/05/2026;21:17:31;0283;Filé salada,X-Tudo (Artesanal 150g),Molho da casa,Molho de alho;46,60;Dinheiro
+05/05/2026;21:20:27;0234;Frango completo,X-Tudo (Padrão),Refrigerante lata;46,70;Pix
+05/05/2026;21:31:07;0525;X-Salada (Artesanal 150g),Batata frita grande,Lombo completo,X-Completo (Artesanal 150g);92,60;Dinheiro
+05/05/2026;21:38:41;0069;2xFilé tudo,Lombo tudo,Filé bacon,Cerveja Lata;84,50;Dinheiro
+05/05/2026;21:48:00;0571;Refrigerante litro,Refrigerante lata,X-Bacon (Padrão),Frango salada;44,60;Pix
+05/05/2026;21:49:21;0817;Refrigerante lata,2xBatata frita grande,Molho da casa,Batata frita pequena;40,50;Cartão de Débito
+05/05/2026;21:49:27;0951;Molho de alho,Filé tudo,X-Tudo (Padrão),Frango completo;65,60;Cartão de Débito
+05/05/2026;21:54:41;0121;Lombo salada,Molho da casa;18,80;Cartão de Crédito
+05/05/2026;21:54:55;0638;X-Tudo (Padrão),2xX-Tudo (Artesanal 150g),Batata frita pequena,X-Bacon (Artesanal 150g);93,50;Pix
+05/05/2026;21:55:21;0351;Frango completo,2xX-Salada (Artesanal 150g),X-Salada (Artesanal 150g);111,60;Pix
+05/05/2026;21:56:17;0251;Batata frita pequena;8,90;Pix
+05/05/2026;22:07:02;0435;Lombo salada,Molho da casa;18,80;Cartão de Crédito
+05/05/2026;22:10:29;0398;Filé bacon,Frango completo,Frango salada;59,70;Pix
+05/05/2026;22:11:57;0009;Frango tudo,Molho de alho,X-Salada (Padrão);36,70;Cartão de Crédito
+05/05/2026;22:12:22;0679;Lombo bacon,Filé Completo,2xFilé bacon,2xBatata frita pequena;98,40;Cartão de Crédito
+05/05/2026;22:28:46;0230;X-Completo (Padrão),Filé salada;44,80;Cartão de Débito
+05/05/2026;22:40:29;0067;Lombo bacon,X-Tudo (Artesanal 150g);38,80;Cartão de Débito
+05/05/2026;22:42:59;0659;Frango completo;24,90;Dinheiro
+05/05/2026;22:54:17;0359;2xX-Completo (Padrão),Filé salada,Lombo salada,Batata frita pequena;95,50;Pix
+05/05/2026;22:57:13;0198;X-Bacon (Artesanal 150g);20,90;Cartão de Débito
+05/05/2026;22:58:54;0106;X-Tudo (Padrão),X-Bacon (Padrão),Lombo salada;50,70;Cartão de Débito
+05/05/2026;23:04:20;0530;X-Salada (Artesanal 150g),X-Completo (Artesanal 150g),Filé Completo;83,70;Cartão de Crédito
+05/05/2026;23:06:51;0709;X-Completo (Artesanal 150g),Molho da casa;27,80;Cartão de Débito
+05/05/2026;23:09:29;0308;Frango tudo;17,90;Pix
+05/05/2026;23:16:52;0593;Filé salada;19,90;Cartão de Crédito
+05/05/2026;23:26:25;0597;X-Tudo (Artesanal 150g);22,90;Cartão de Débito
+05/05/2026;23:26:29;0323;X-Tudo (Artesanal 150g),2xFilé tudo,Frango tudo;82,60;Cartão de Crédito
+05/05/2026;23:35:20;0702;Cerveja Lata,Lombo bacon,Filé Completo;51,70;Pix
+05/05/2026;23:42:57;0481;Lombo tudo;17,90;Pix
+05/05/2026;23:57:56;0933;3xX-Salada (Artesanal 150g),X-Salada (Padrão),Cerveja Lata,Filé bacon;128,40;Dinheiro
+06/05/2026;18:20:09;0450;Cerveja Lata;6,90;Pix
+06/05/2026;18:22:44;0783;Molho da casa,X-Tudo (Padrão);19,80;Pix
+06/05/2026;18:22:44;0690;Refrigerante lata,Filé salada,Lombo salada;40,70;Pix
+06/05/2026;18:30:15;0986;Batata frita pequena,Lombo completo,2xX-Completo (Artesanal 150g);85,60;Pix
+06/05/2026;18:40:08;0003;Lombo completo,X-Completo (Padrão),X-Completo (Artesanal 150g);75,70;Cartão de Débito
+06/05/2026;18:44:01;0022;Cerveja Lata,X-Salada (Padrão),X-Tudo (Artesanal 150g);46,70;Pix
+06/05/2026;18:47:19;0711;Filé Completo,X-Completo (Artesanal 150g),Refrigerante litro,Refrigerante litro;70,60;Cartão de Crédito
+06/05/2026;18:54:05;0373;X-Bacon (Padrão),Lombo tudo,2xFrango bacon,Batata frita pequena;74,50;Pix
+06/05/2026;19:05:26;0097;Refrigerante litro,Molho da casa;9,80;Cartão de Débito
+06/05/2026;19:09:06;0336;Frango bacon;15,90;Cartão de Débito
+06/05/2026;19:09:29;0804;Frango tudo,Frango tudo;35,80;Pix
+06/05/2026;19:23:01;0460;Lombo bacon,Lombo salada;32,80;Pix
+06/05/2026;19:37:33;0453;2xFilé tudo,Filé tudo,Refrigerante litro;70,60;Pix
+06/05/2026;19:40:23;0866;Filé Completo;28,90;Cartão de Débito
+06/05/2026;19:55:21;0533;2xX-Bacon (Artesanal 150g),X-Salada (Padrão);58,70;Dinheiro
+06/05/2026;19:59:21;0551;2xFrango salada,Batata frita grande,Cerveja Lata;53,60;Cartão de Débito
+06/05/2026;20:01:23;0827;X-Tudo (Artesanal 150g);22,90;Pix
+06/05/2026;20:02:19;0958;X-Completo (Padrão),Frango completo;49,80;Pix
+06/05/2026;20:14:25;0351;2xX-Completo (Artesanal 150g);51,80;Cartão de Débito
+06/05/2026;20:24:17;0627;Lombo tudo,Cerveja Lata,X-Bacon (Artesanal 150g);45,70;Pix
+06/05/2026;20:44:57;0400;2xX-Tudo (Artesanal 150g),Filé Completo,Filé salada;94,60;Cartão de Crédito
+06/05/2026;20:49:26;0152;X-Salada (Artesanal 150g),Frango completo;53,80;Cartão de Crédito
+06/05/2026;21:01:49;0758;Lombo tudo;17,90;Cartão de Crédito
+06/05/2026;21:13:09;0005;Frango bacon;15,90;Dinheiro
+06/05/2026;21:21:04;0038;3xX-Tudo (Artesanal 150g),Frango completo;93,60;Cartão de Crédito
+06/05/2026;21:34:22;0313;Frango bacon;15,90;Cartão de Crédito
+06/05/2026;21:43:17;0280;Frango bacon;15,90;Cartão de Débito
+06/05/2026;21:43:47;0580;Frango salada,Molho de alho;18,80;Pix
+06/05/2026;22:07:59;0144;Lombo tudo;17,90;Dinheiro
+06/05/2026;22:17:49;0971;Batata frita pequena;8,90;Pix
+06/05/2026;22:20:25;0331;Batata frita pequena,Lombo bacon;24,80;Dinheiro
+06/05/2026;22:26:11;0622;Cerveja Lata,2xFilé tudo,X-Bacon (Padrão);64,60;Cartão de Débito
+06/05/2026;22:30:56;0880;X-Bacon (Padrão),X-Bacon (Padrão),2xX-Salada (Padrão);65,60;Cartão de Débito
+06/05/2026;22:31:21;0734;X-Salada (Padrão),X-Tudo (Artesanal 150g);39,80;Cartão de Débito
+06/05/2026;22:42:00;0555;Lombo bacon,X-Tudo (Padrão),Molho de alho,Refrigerante lata;39,60;Cartão de Crédito
+06/05/2026;22:42:32;0574;2xFrango salada,Lombo completo;58,70;Pix
+06/05/2026;22:49:17;0061;Refrigerante lata,X-Salada (Artesanal 150g);32,80;Cartão de Crédito
+06/05/2026;23:06:20;0605;X-Tudo (Artesanal 150g),Refrigerante litro,2xLombo bacon,Filé Completo;91,50;Cartão de Débito
+06/05/2026;23:08:59;0119;2xBatata frita grande,Filé salada,2xFrango salada;79,50;Cartão de Débito
+06/05/2026;23:12:27;0454;2xBatata frita grande;25,80;Cartão de Crédito
+06/05/2026;23:13:17;0688;Lombo salada,2xX-Completo (Artesanal 150g);68,70;Cartão de Débito
+06/05/2026;23:19:34;0041;Refrigerante lata,Lombo salada,X-Bacon (Artesanal 150g),Filé tudo;62,60;Cartão de Crédito
+06/05/2026;23:22:21;0357;Filé tudo;20,90;Cartão de Crédito
+06/05/2026;23:27:15;0417;Frango salada,Batata frita pequena,X-Completo (Padrão),Molho da casa;52,60;Pix
+06/05/2026;23:28:09;0297;X-Completo (Padrão),Molho de alho;26,80;Pix
+06/05/2026;23:38:05;0866;2xBatata frita pequena,Molho de alho,X-Tudo (Artesanal 150g);42,60;Cartão de Crédito
+06/05/2026;23:41:23;0445;2xFilé bacon,Lombo bacon,2xMolho da casa;55,50;Cartão de Débito
+07/05/2026;18:08:58;0254;Lombo salada,Frango completo;41,80;Cartão de Crédito
+07/05/2026;18:12:04;0408;Lombo tudo,Frango salada,Batata frita grande;47,70;Cartão de Débito
+07/05/2026;18:15:53;0851;X-Bacon (Artesanal 150g),Molho de alho;22,80;Cartão de Débito
+07/05/2026;18:19:18;0326;3xFilé bacon,Filé tudo;74,60;Cartão de Crédito
+07/05/2026;18:22:23;0712;Lombo tudo,2xFrango bacon,2xMolho da casa;53,50;Pix
+07/05/2026;18:29:11;0491;Lombo salada,2xLombo completo;66,70;Pix
+07/05/2026;18:29:17;0291;Frango completo;24,90;Pix
+07/05/2026;18:38:32;0868;2xMolho de alho,3xBatata frita grande,X-Salada (Padrão);59,40;Dinheiro
+07/05/2026;18:38:41;0360;Molho da casa,X-Tudo (Artesanal 150g),Refrigerante litro;32,70;Cartão de Crédito
+07/05/2026;18:40:30;0816;2xCerveja Lata,Filé bacon,Batata frita grande,X-Tudo (Artesanal 150g);67,50;Cartão de Débito
+07/05/2026;18:50:45;0202;Lombo completo,Lombo salada,Frango salada,Refrigerante lata;62,60;Cartão de Crédito
+07/05/2026;18:58:50;0201;Filé Completo,X-Tudo (Padrão),Refrigerante lata,2xX-Completo (Padrão);100,50;Pix
+07/05/2026;19:09:20;0084;Lombo bacon,Lombo tudo,X-Completo (Padrão),Frango completo;83,60;Cartão de Débito
+07/05/2026;19:19:52;0718;X-Tudo (Artesanal 150g),Filé bacon,Filé tudo,Lombo salada;78,60;Cartão de Crédito
+07/05/2026;19:22:22;0268;Refrigerante litro,Lombo salada;24,80;Pix
+07/05/2026;19:25:47;0900;Frango bacon,3xX-Salada (Padrão),Batata frita pequena,Filé Completo;104,40;Cartão de Débito
+07/05/2026;19:32:17;0367;2xFrango completo,X-Completo (Padrão),X-Salada (Padrão),X-Bacon (Artesanal 150g);112,50;Pix
+07/05/2026;19:34:33;0155;2xFrango tudo,2xMolho da casa;39,60;Pix
+07/05/2026;19:35:53;0558;Frango salada;16,90;Cartão de Débito
+07/05/2026;19:39:53;0886;Lombo bacon,X-Completo (Artesanal 150g),Filé Completo,Batata frita grande;83,60;Cartão de Crédito
+07/05/2026;19:40:13;0214;2xFilé tudo,Refrigerante litro,Lombo completo;74,60;Pix
+07/05/2026;19:47:04;0477;Filé tudo,Molho de alho;22,80;Pix
+07/05/2026;19:55:15;0397;X-Tudo (Artesanal 150g),Batata frita pequena,Frango bacon,Lombo tudo;65,60;Cartão de Crédito
+07/05/2026;20:04:28;0837;Lombo salada,X-Completo (Padrão),Lombo tudo,Batata frita grande;72,60;Cartão de Débito
+07/05/2026;20:06:33;0764;Frango salada,X-Completo (Padrão);41,80;Cartão de Débito
+07/05/2026;20:23:02;0328;Frango bacon;15,90;Dinheiro
+07/05/2026;20:25:42;0639;Refrigerante lata,Molho da casa;5,80;Cartão de Débito
+07/05/2026;20:30:07;0073;Lombo completo,Refrigerante litro,X-Bacon (Padrão),Filé salada;68,60;Pix
+07/05/2026;20:40:18;0061;X-Bacon (Artesanal 150g),Molho de alho,Frango tudo;40,70;Cartão de Débito
+07/05/2026;20:44:35;0746;3xX-Completo (Padrão),Refrigerante lata;78,60;Cartão de Débito
+07/05/2026;20:53:22;0565;Frango salada;16,90;Cartão de Crédito
+07/05/2026;21:01:44;0681;X-Bacon (Artesanal 150g),Molho de alho;22,80;Cartão de Débito
+07/05/2026;21:10:34;0045;X-Salada (Padrão),Filé tudo;37,80;Pix
+07/05/2026;21:18:39;0547;2xFrango salada,X-Salada (Artesanal 150g);62,70;Cartão de Crédito
+07/05/2026;21:20:00;0838;Batata frita pequena,3xLombo bacon,X-Completo (Artesanal 150g),Filé salada;102,40;Pix
+07/05/2026;21:20:10;0877;Molho de alho,Molho da casa,Filé Completo;32,70;Cartão de Crédito
+07/05/2026;21:27:49;0474;Batata frita grande;12,90;Pix
+07/05/2026;21:30:47;0535;2xLombo salada,Frango salada,Frango completo,Batata frita pequena;84,50;Dinheiro
+07/05/2026;21:38:25;0722;2xLombo bacon,Filé tudo,Lombo salada,X-Completo (Padrão);94,50;Cartão de Crédito
+07/05/2026;21:44:08;0770;2xX-Tudo (Padrão),Molho de alho,Lombo tudo,Lombo completo;80,50;Dinheiro
+07/05/2026;21:44:29;0290;Filé salada,Filé tudo;40,80;Cartão de Crédito
+07/05/2026;21:47:24;0878;Refrigerante litro,Refrigerante litro,X-Tudo (Padrão),Molho de alho;35,60;Pix
+07/05/2026;21:51:41;0087;2xBatata frita pequena,Filé Completo,Batata frita pequena,X-Salada (Artesanal 150g);84,50;Pix
+07/05/2026;21:51:46;0771;Refrigerante lata,Refrigerante lata,Frango tudo;25,70;Cartão de Débito
+07/05/2026;21:52:50;0043;Frango bacon,Cerveja Lata;22,80;Dinheiro
+07/05/2026;22:00:08;0926;Lombo completo,Frango tudo;42,80;Pix
+07/05/2026;22:02:54;0615;Molho da casa,2xX-Completo (Padrão),X-Tudo (Artesanal 150g),Refrigerante lata;78,50;Cartão de Débito
+07/05/2026;22:09:41;0942;Molho da casa,2xFilé salada,3xX-Bacon (Artesanal 150g);104,40;Pix
+07/05/2026;22:13:12;0133;Lombo completo,Cerveja Lata,Frango bacon,3xFrango bacon;95,40;Pix
+07/05/2026;22:17:14;0363;Frango tudo;17,90;Cartão de Crédito
+07/05/2026;22:33:24;0559;Molho de alho,Batata frita pequena,2xRefrigerante litro;26,60;Cartão de Débito
+07/05/2026;22:33:26;0456;X-Tudo (Padrão);17,90;Pix
+07/05/2026;22:37:05;0516;2xFilé tudo,Filé Completo;70,70;Cartão de Crédito
+07/05/2026;22:44:32;0934;X-Bacon (Artesanal 150g),Refrigerante lata,Lombo completo,Refrigerante lata;53,60;Cartão de Débito
+07/05/2026;22:53:31;0790;Cerveja Lata;6,90;Cartão de Crédito
+07/05/2026;23:03:29;0614;X-Completo (Padrão),2xBatata frita grande,Lombo tudo;68,60;Cartão de Débito
+07/05/2026;23:05:07;0756;Batata frita pequena,Batata frita grande,2xX-Salada (Artesanal 150g),2xFilé tudo;121,40;Pix
+07/05/2026;23:24:13;0421;Lombo tudo,2xBatata frita grande,Lombo tudo;61,60;Dinheiro
+07/05/2026;23:32:15;0165;Molho de alho,Lombo bacon,X-Completo (Padrão),Refrigerante litro;50,60;Dinheiro
+07/05/2026;23:32:19;0631;2xX-Completo (Artesanal 150g),X-Bacon (Artesanal 150g);72,70;Pix
+07/05/2026;23:42:29;0882;2xMolho de alho;3,80;Pix
+07/05/2026;23:56:03;0568;Lombo salada,Frango tudo;34,80;Cartão de Crédito
+08/05/2026;18:04:15;0586;Molho da casa,Lombo bacon,X-Tudo (Artesanal 150g),3xX-Salada (Artesanal 150g);127,40;Pix
+08/05/2026;18:17:08;0264;Filé tudo,Frango salada,2xX-Bacon (Artesanal 150g),Batata frita pequena;88,50;Cartão de Débito
+08/05/2026;18:24:45;0070;Lombo completo,X-Salada (Padrão),2xFrango salada;75,60;Cartão de Crédito
+08/05/2026;18:28:22;0885;Refrigerante litro;7,90;Cartão de Débito
+08/05/2026;18:29:34;0818;Cerveja Lata,X-Salada (Artesanal 150g),Refrigerante litro,Filé salada;63,60;Pix
+08/05/2026;18:43:24;0797;Lombo tudo,Refrigerante lata;21,80;Cartão de Crédito
+08/05/2026;19:01:53;0809;Batata frita grande;12,90;Cartão de Débito
+08/05/2026;19:02:41;0379;Refrigerante litro,Frango bacon,Cerveja Lata;30,70;Pix
+08/05/2026;19:05:18;0259;Refrigerante lata,2xBatata frita grande;29,70;Pix
+08/05/2026;19:06:48;0472;Refrigerante lata;3,90;Cartão de Débito
+08/05/2026;19:08:16;0540;Lombo completo,X-Bacon (Artesanal 150g),Frango tudo;63,70;Cartão de Débito
+08/05/2026;19:12:45;0852;Filé salada,Frango completo,Frango bacon,X-Tudo (Artesanal 150g);83,60;Pix
+08/05/2026;19:16:12;0368;2xFrango salada,Lombo salada;50,70;Pix
+08/05/2026;19:16:51;0596;X-Tudo (Artesanal 150g),Lombo bacon;38,80;Cartão de Crédito
+08/05/2026;19:35:40;0436;Frango salada,Molho de alho,Filé tudo,Lombo completo;64,60;Pix
+08/05/2026;19:40:02;0626;Batata frita grande;12,90;Cartão de Crédito
+08/05/2026;19:42:57;0189;Batata frita grande,Molho da casa,2xFrango tudo,Frango completo;75,50;Cartão de Débito
+08/05/2026;19:43:23;0722;Filé bacon,Refrigerante lata,Refrigerante litro,Refrigerante lata;33,60;Cartão de Débito
+08/05/2026;19:49:38;0681;3xX-Salada (Artesanal 150g),X-Tudo (Artesanal 150g);109,60;Pix
+08/05/2026;19:50:36;0125;X-Completo (Padrão),2xX-Completo (Padrão);74,70;Pix
+08/05/2026;19:50:57;0135;Frango bacon,Refrigerante lata,Refrigerante lata;23,70;Cartão de Débito
+08/05/2026;19:53:24;0078;Lombo tudo,X-Bacon (Artesanal 150g),Molho da casa,Frango tudo;58,60;Pix
+08/05/2026;19:53:51;0748;Frango completo;24,90;Cartão de Crédito
+08/05/2026;19:55:16;0173;2xFrango bacon,Molho da casa;33,70;Cartão de Crédito
+08/05/2026;20:02:21;0641;Lombo bacon,Cerveja Lata,Molho da casa,Cerveja Lata;31,60;Pix
+08/05/2026;20:02:51;0524;Batata frita grande,Filé bacon,X-Completo (Padrão),X-Completo (Padrão);80,60;Cartão de Crédito
+08/05/2026;20:10:43;0066;2xX-Completo (Padrão),Frango bacon,Lombo tudo,X-Salada (Padrão);100,50;Cartão de Crédito
+08/05/2026;20:11:38;0306;2xFilé Completo,3xX-Bacon (Padrão),Batata frita pequena,Filé bacon;132,30;Pix
+08/05/2026;20:19:03;0783;Lombo salada,Cerveja Lata,2xMolho de alho;27,60;Dinheiro
+08/05/2026;20:34:36;0437;Refrigerante lata,Molho da casa;5,80;Cartão de Débito
+08/05/2026;20:46:26;0173;X-Bacon (Padrão),X-Salada (Artesanal 150g),Filé tudo,Filé salada;85,60;Cartão de Débito
+08/05/2026;20:47:34;0507;X-Salada (Artesanal 150g),X-Completo (Padrão),2xX-Tudo (Padrão);89,60;Pix
+08/05/2026;20:52:51;0503;2xLombo salada,X-Tudo (Padrão),X-Salada (Padrão),2xMolho da casa;72,40;Pix
+08/05/2026;20:58:19;0120;Frango bacon,Lombo bacon;31,80;Pix
+08/05/2026;20:59:28;0294;2xX-Bacon (Padrão),X-Tudo (Padrão);49,70;Pix
+08/05/2026;21:15:19;0326;Frango completo;24,90;Cartão de Débito
+08/05/2026;21:17:11;0778;2xLombo salada,X-Salada (Artesanal 150g),Frango tudo;80,60;Pix
+08/05/2026;21:21:38;0676;X-Bacon (Padrão);15,90;Pix
+08/05/2026;21:24:14;0111;Filé bacon,X-Salada (Artesanal 150g),2xRefrigerante litro,Frango tudo;80,50;Pix
+08/05/2026;21:33:33;0786;2xCerveja Lata;13,80;Dinheiro
+08/05/2026;21:36:16;0367;Batata frita pequena,2xX-Bacon (Padrão),Refrigerante litro,Cerveja Lata;55,50;Pix
+08/05/2026;21:41:51;0698;Molho de alho,Frango salada;18,80;Cartão de Crédito
+08/05/2026;21:48:36;0435;2xFrango salada,2xMolho da casa;37,60;Cartão de Débito
+08/05/2026;21:55:26;0725;Frango tudo;17,90;Cartão de Débito
+08/05/2026;21:55:46;0247;2xX-Salada (Artesanal 150g),X-Salada (Artesanal 150g),Batata frita grande,Filé Completo;128,50;Cartão de Débito
+08/05/2026;21:58:11;0914;Molho da casa,Batata frita grande,Lombo completo;39,70;Cartão de Débito
+08/05/2026;22:01:52;0116;Frango tudo;17,90;Dinheiro
+08/05/2026;22:04:13;0218;Frango bacon,Frango tudo,Molho da casa;35,70;Pix
+08/05/2026;22:18:27;0564;Lombo bacon,Batata frita pequena,Filé salada,Batata frita grande;57,60;Cartão de Crédito
+08/05/2026;22:24:28;0552;Lombo tudo;17,90;Cartão de Crédito
+08/05/2026;22:28:34;0152;X-Tudo (Padrão),Filé Completo,Lombo tudo,2xFrango completo;114,50;Pix
+08/05/2026;22:29:28;0181;Frango bacon,Lombo bacon,X-Salada (Padrão);48,70;Pix
+08/05/2026;22:33:36;0412;X-Bacon (Artesanal 150g),Filé bacon,Filé tudo,2xRefrigerante litro;75,50;Pix
+08/05/2026;22:41:02;0989;Lombo tudo;17,90;Pix
+08/05/2026;22:56:49;0424;Batata frita grande;12,90;Cartão de Crédito
+08/05/2026;22:58:19;0159;Frango bacon,X-Bacon (Padrão),Lombo tudo;49,70;Dinheiro
+08/05/2026;23:02:30;0526;Molho de alho,X-Tudo (Padrão),Filé salada,X-Bacon (Artesanal 150g);60,60;Dinheiro
+08/05/2026;23:03:13;0303;2xCerveja Lata;13,80;Cartão de Débito
+08/05/2026;23:07:13;0735;2xFrango bacon;31,80;Pix
+08/05/2026;23:08:22;0138;2xFilé Completo;57,80;Pix
+08/05/2026;23:15:36;0204;Batata frita pequena,X-Completo (Padrão);33,80;Cartão de Crédito
+08/05/2026;23:15:51;0456;Batata frita pequena,Filé tudo,X-Bacon (Artesanal 150g);50,70;Pix
+08/05/2026;23:18:00;0664;X-Completo (Padrão),Frango bacon,X-Tudo (Padrão),X-Bacon (Artesanal 150g);79,60;Pix
+08/05/2026;23:21:01;0848;X-Bacon (Padrão);15,90;Cartão de Crédito
+08/05/2026;23:29:16;0737;Batata frita pequena,Filé salada,X-Bacon (Artesanal 150g);49,70;Pix
+08/05/2026;23:35:03;0072;2xX-Completo (Artesanal 150g),X-Salada (Artesanal 150g);80,70;Pix
+09/05/2026;18:07:00;0040;Refrigerante litro,Filé Completo,2xRefrigerante litro;52,60;Pix
+09/05/2026;18:16:37;0687;Lombo salada;16,90;Pix
+09/05/2026;18:17:20;0959;3xFilé Completo,X-Completo (Padrão),Filé Completo,Lombo salada;157,40;Cartão de Débito
+09/05/2026;18:26:20;0432;Cerveja Lata,Refrigerante litro,Lombo bacon,Filé salada;50,60;Cartão de Crédito
+09/05/2026;18:33:42;0065;X-Salada (Padrão),Filé tudo;37,80;Dinheiro
+09/05/2026;18:38:23;0091;Batata frita grande,Frango completo;37,80;Pix
+09/05/2026;18:44:09;0301;Frango completo,Cerveja Lata;31,80;Cartão de Crédito
+09/05/2026;18:45:30;0287;3xX-Salada (Padrão),Frango tudo;68,60;Cartão de Crédito
+09/05/2026;18:47:49;0545;Frango bacon,Frango completo;40,80;Cartão de Crédito
+09/05/2026;18:52:07;0961;2xBatata frita pequena,Filé salada,Refrigerante lata;41,60;Pix
+09/05/2026;18:54:19;0054;2xBatata frita grande,X-Bacon (Padrão);41,70;Pix
+09/05/2026;18:57:51;0369;Molho de alho,Cerveja Lata;8,80;Dinheiro
+09/05/2026;19:04:41;0204;2xX-Salada (Padrão),2xLombo tudo;69,60;Dinheiro
+09/05/2026;19:07:42;0877;X-Completo (Padrão),X-Completo (Artesanal 150g),2xFrango salada,Lombo completo;109,50;Pix
+09/05/2026;19:19:36;0538;Lombo salada,Molho da casa;18,80;Dinheiro
+09/05/2026;19:24:20;0521;Filé tudo,X-Bacon (Artesanal 150g);41,80;Cartão de Crédito
+09/05/2026;19:26:41;0823;X-Bacon (Padrão),Molho da casa;17,80;Cartão de Débito
+09/05/2026;19:28:03;0337;Filé salada,Lombo bacon,X-Bacon (Artesanal 150g);56,70;Cartão de Débito
+09/05/2026;19:28:43;0232;Filé bacon,Batata frita grande,X-Salada (Padrão),Lombo tudo;65,60;Cartão de Crédito
+09/05/2026;19:29:59;0088;X-Completo (Padrão);24,90;Cartão de Débito
+09/05/2026;19:30:44;0453;X-Tudo (Padrão),X-Bacon (Artesanal 150g);38,80;Pix
+09/05/2026;19:50:16;0196;X-Bacon (Artesanal 150g),X-Completo (Artesanal 150g),Frango tudo;64,70;Cartão de Crédito
+09/05/2026;19:52:18;0772;X-Completo (Artesanal 150g),Batata frita pequena,2xFilé Completo,Batata frita grande;105,50;Pix
+09/05/2026;19:56:42;0753;3xCerveja Lata,Batata frita grande,Filé salada,X-Tudo (Artesanal 150g);76,40;Pix
+09/05/2026;19:58:13;0238;Frango salada,Molho da casa,X-Tudo (Artesanal 150g);41,70;Pix
+09/05/2026;20:02:18;0411;X-Bacon (Artesanal 150g),Lombo bacon,X-Salada (Padrão),X-Salada (Padrão);70,60;Cartão de Crédito
+09/05/2026;20:11:27;0366;Filé salada,2xCerveja Lata,Frango salada,X-Completo (Artesanal 150g);76,50;Pix
+09/05/2026;20:13:54;0711;Frango bacon,2xX-Completo (Padrão);65,70;Pix
+09/05/2026;20:23:21;0766;Lombo completo,Batata frita grande,Frango completo,Cerveja Lata;69,60;Pix
+09/05/2026;20:24:29;0370;Filé salada,Frango bacon;35,80;Cartão de Crédito
+09/05/2026;20:39:10;0393;2xRefrigerante lata,3xFrango tudo,Molho de alho;63,40;Dinheiro
+09/05/2026;20:40:14;0064;X-Bacon (Padrão),Frango tudo;33,80;Cartão de Débito
+09/05/2026;20:40:52;0616;Frango tudo;17,90;Pix
+09/05/2026;20:45:44;0140;X-Salada (Padrão),2xCerveja Lata;30,70;Cartão de Crédito
+09/05/2026;20:46:42;0680;X-Bacon (Padrão),Lombo completo,2xFilé tudo,Filé salada;102,50;Cartão de Crédito
+09/05/2026;21:11:58;0175;Filé bacon,Frango bacon;33,80;Cartão de Crédito
+09/05/2026;21:19:25;0812;X-Tudo (Padrão),2xX-Bacon (Artesanal 150g),Batata frita grande;72,60;Cartão de Débito
+09/05/2026;21:28:20;0073;Batata frita grande,X-Salada (Artesanal 150g),Refrigerante litro,X-Bacon (Artesanal 150g);70,60;Dinheiro
+09/05/2026;21:31:55;0956;Molho da casa,X-Bacon (Artesanal 150g),Lombo completo;47,70;Cartão de Crédito
+09/05/2026;21:41:40;0692;Refrigerante litro,Lombo completo,X-Tudo (Artesanal 150g);55,70;Cartão de Crédito
+09/05/2026;21:43:36;0595;2xBatata frita pequena,X-Tudo (Padrão);35,70;Cartão de Débito
+09/05/2026;21:46:14;0789;Filé tudo;20,90;Pix
+09/05/2026;22:04:09;0746;Batata frita grande,Lombo bacon,X-Completo (Artesanal 150g),Lombo bacon;70,60;Cartão de Débito
+09/05/2026;22:04:41;0228;Frango tudo,X-Salada (Artesanal 150g);46,80;Cartão de Débito
+09/05/2026;22:10:13;0658;Refrigerante lata,Lombo completo,2xFrango tudo;64,60;Cartão de Débito
+09/05/2026;22:12:40;0300;Cerveja Lata,2xBatata frita pequena,Frango completo,X-Tudo (Padrão);67,50;Pix
+09/05/2026;22:16:57;0240;X-Salada (Padrão),X-Completo (Padrão),Frango salada;58,70;Cartão de Crédito
+09/05/2026;22:17:42;0501;Batata frita pequena,Filé Completo;37,80;Cartão de Débito
+09/05/2026;22:19:21;0938;2xFilé salada,Filé tudo;60,70;Cartão de Crédito
+09/05/2026;22:25:54;0844;Filé Completo,Filé tudo;49,80;Cartão de Crédito
+09/05/2026;22:35:05;0796;Frango salada,Filé bacon;34,80;Pix
+09/05/2026;22:56:05;0359;Molho de alho;1,90;Pix
+09/05/2026;23:00:18;0338;Lombo salada,Frango completo,2xX-Tudo (Artesanal 150g),2xX-Salada (Padrão);121,40;Pix
+09/05/2026;23:01:21;0671;X-Tudo (Padrão),Refrigerante lata,2xX-Salada (Padrão),Batata frita grande;68,50;Cartão de Crédito
+09/05/2026;23:10:12;0542;X-Salada (Padrão);16,90;Cartão de Débito
+09/05/2026;23:22:18;0434;Filé tudo,3xLombo salada,Lombo bacon,Filé tudo;108,40;Pix
+09/05/2026;23:47:33;0342;Frango tudo,X-Completo (Padrão);42,80;Dinheiro
+09/05/2026;23:49:10;0774;Lombo salada,Frango salada,Lombo completo;58,70;Cartão de Crédito
+09/05/2026;23:49:25;0387;X-Completo (Padrão);24,90;Cartão de Crédito
+09/05/2026;23:51:42;0800;2xFrango completo,Filé bacon,Frango salada;84,60;Dinheiro
+09/05/2026;23:52:10;0777;Frango completo;24,90;Cartão de Crédito
+09/05/2026;23:53:28;0693;X-Salada (Padrão);16,90;Cartão de Crédito
+09/05/2026;23:54:49;0393;Molho da casa,2xX-Completo (Padrão),Molho da casa,Frango salada;70,50;Pix
+09/05/2026;23:56:33;0520;3xMolho da casa,3xFrango bacon,Refrigerante lata,2xMolho da casa;61,10;Cartão de Débito
+10/05/2026;18:10:16;0663;Molho da casa,X-Bacon (Artesanal 150g);22,80;Pix
+10/05/2026;18:22:28;0224;Lombo salada,X-Salada (Padrão),Frango tudo,3xX-Completo (Artesanal 150g);129,40;Cartão de Crédito
+10/05/2026;18:22:47;0147;X-Tudo (Padrão),Molho da casa;19,80;Cartão de Crédito
+10/05/2026;18:30:04;0715;Filé bacon,X-Bacon (Artesanal 150g);38,80;Cartão de Débito
+10/05/2026;18:37:11;0686;2xLombo bacon,Filé salada;51,70;Pix
+10/05/2026;18:43:44;0878;2xFrango bacon;31,80;Cartão de Crédito
+10/05/2026;18:47:13;0796;2xX-Tudo (Padrão),X-Salada (Padrão);52,70;Cartão de Crédito
+10/05/2026;19:05:49;0887;X-Bacon (Padrão),Filé Completo;44,80;Pix
+10/05/2026;19:10:42;0513;Molho de alho,Lombo salada,X-Completo (Padrão);43,70;Cartão de Crédito
+10/05/2026;19:11:06;0815;Batata frita pequena,X-Bacon (Padrão);24,80;Pix
+10/05/2026;19:12:04;0180;Molho da casa;1,90;Cartão de Débito
+10/05/2026;19:15:45;0211;Filé bacon;17,90;Cartão de Crédito
+10/05/2026;19:16:24;0338;Batata frita pequena,X-Salada (Padrão),X-Tudo (Artesanal 150g);48,70;Dinheiro
+10/05/2026;19:22:29;0706;Batata frita grande,Frango completo;37,80;Pix
+10/05/2026;19:23:06;0482;2xX-Completo (Artesanal 150g),2xX-Completo (Padrão),X-Bacon (Artesanal 150g),Lombo tudo;140,40;Pix
+10/05/2026;19:24:01;0807;Lombo salada;16,90;Pix
+10/05/2026;19:48:41;0504;2xLombo tudo,Lombo tudo;53,70;Pix
+10/05/2026;19:49:02;0508;Frango salada,Frango salada;33,80;Pix
+10/05/2026;19:50:30;0268;Molho de alho,X-Tudo (Padrão),Refrigerante litro,X-Tudo (Artesanal 150g);50,60;Cartão de Crédito
+10/05/2026;19:53:32;0239;Frango tudo,X-Bacon (Artesanal 150g);38,80;Cartão de Débito
+10/05/2026;19:56:34;0129;2xFrango bacon;31,80;Cartão de Débito
+10/05/2026;20:02:24;0398;Frango bacon,2xX-Bacon (Padrão),Filé salada,Filé salada;87,50;Cartão de Débito
+10/05/2026;20:07:12;0278;2xFrango tudo,Cerveja Lata,Cerveja Lata;49,60;Pix
+10/05/2026;20:08:08;0740;Lombo completo,Lombo bacon,Lombo tudo;58,70;Dinheiro
+10/05/2026;20:10:40;0101;X-Bacon (Padrão),Frango tudo,Filé salada;53,70;Cartão de Crédito
+10/05/2026;20:19:57;0725;Filé salada,Filé Completo,X-Bacon (Artesanal 150g),X-Bacon (Artesanal 150g);90,60;Cartão de Crédito
+10/05/2026;20:22:28;0522;X-Bacon (Artesanal 150g),Frango tudo,Filé Completo,Refrigerante lata;71,60;Pix
+10/05/2026;20:30:23;0422;3xFrango completo,Refrigerante lata;78,60;Cartão de Crédito
+10/05/2026;20:38:01;0960;Filé salada,X-Salada (Artesanal 150g),2xFilé bacon;84,60;Cartão de Crédito
+10/05/2026;20:39:34;0076;Lombo salada;16,90;Pix
+10/05/2026;20:40:05;0156;Molho da casa;1,90;Cartão de Débito
+10/05/2026;20:46:03;0808;Frango tudo,X-Tudo (Padrão),Refrigerante litro,Lombo completo;68,60;Cartão de Crédito
+10/05/2026;20:51:55;0965;Filé bacon,X-Completo (Artesanal 150g),Frango salada;60,70;Cartão de Crédito
+10/05/2026;20:54:19;0076;Lombo completo,Frango tudo,Lombo salada,Lombo bacon;75,60;Cartão de Débito
+10/05/2026;20:56:36;0135;X-Completo (Padrão);24,90;Cartão de Débito
+10/05/2026;20:57:22;0532;Lombo tudo;17,90;Cartão de Débito
+10/05/2026;20:58:29;0977;Refrigerante litro,Lombo bacon;23,80;Cartão de Crédito
+10/05/2026;21:11:05;0154;X-Salada (Artesanal 150g);28,90;Dinheiro
+10/05/2026;21:14:24;0838;Lombo tudo,2xFilé Completo;75,70;Dinheiro
+10/05/2026;21:17:14;0511;Lombo completo;24,90;Cartão de Crédito
+10/05/2026;21:17:37;0652;Frango salada,Frango completo,X-Tudo (Artesanal 150g);64,70;Cartão de Crédito
+10/05/2026;21:18:23;0406;Molho de alho,2xX-Salada (Artesanal 150g),X-Bacon (Artesanal 150g);80,60;Pix
+10/05/2026;21:36:33;0386;Frango salada,Filé Completo;45,80;Dinheiro
+10/05/2026;21:38:09;0606;Filé salada,2xX-Bacon (Padrão),3xLombo bacon;99,40;Pix
+10/05/2026;21:38:12;0921;X-Completo (Artesanal 150g),X-Completo (Artesanal 150g),X-Completo (Artesanal 150g);77,70;Dinheiro
+10/05/2026;21:40:54;0773;X-Bacon (Artesanal 150g),Frango completo;45,80;Cartão de Crédito
+10/05/2026;21:41:20;0609;X-Completo (Artesanal 150g),Filé Completo,Frango completo,X-Completo (Artesanal 150g);105,60;Cartão de Crédito
+10/05/2026;22:09:39;0372;2xFilé salada,X-Bacon (Artesanal 150g);60,70;Cartão de Crédito
+10/05/2026;22:29:10;0380;Filé tudo,X-Bacon (Padrão);36,80;Dinheiro
+10/05/2026;22:32:34;0579;Molho de alho,X-Completo (Padrão),Molho da casa,2xX-Completo (Padrão);78,50;Pix
+10/05/2026;22:38:02;0490;X-Salada (Padrão),Batata frita pequena,Batata frita grande,2xLombo tudo;74,50;Pix
+10/05/2026;22:45:21;0370;2xFrango completo,Lombo completo;74,70;Cartão de Débito
+10/05/2026;22:48:20;0795;X-Salada (Artesanal 150g),Lombo salada,Frango bacon;61,70;Cartão de Débito
+10/05/2026;22:56:13;0137;Molho de alho,2xBatata frita pequena,X-Tudo (Artesanal 150g);42,60;Pix
+10/05/2026;22:59:38;0708;Lombo completo;24,90;Cartão de Crédito
+10/05/2026;23:01:00;0289;X-Completo (Artesanal 150g),Refrigerante lata;29,80;Cartão de Crédito
+10/05/2026;23:07:50;0462;Lombo salada,2xMolho da casa,X-Bacon (Padrão),X-Salada (Artesanal 150g);65,50;Cartão de Crédito
+10/05/2026;23:12:01;0150;X-Salada (Padrão);16,90;Cartão de Crédito
+10/05/2026;23:12:47;0254;Filé bacon;17,90;Pix
+10/05/2026;23:16:35;0713;X-Tudo (Padrão);17,90;Cartão de Crédito
+10/05/2026;23:22:16;0624;X-Tudo (Artesanal 150g);22,90;Cartão de Débito
+10/05/2026;23:36:47;0188;Filé Completo;28,90;Dinheiro
+10/05/2026;23:37:16;0142;Lombo tudo,X-Tudo (Padrão),Filé Completo,2xX-Bacon (Artesanal 150g);106,50;Pix
+10/05/2026;23:41:00;0364;Filé bacon,X-Completo (Padrão);42,80;Pix
+10/05/2026;23:43:32;0896;Cerveja Lata,Frango bacon,Frango bacon,2xCerveja Lata;52,50;Cartão de Crédito
+10/05/2026;23:45:40;0249;Molho de alho,Lombo completo,X-Salada (Artesanal 150g);55,70;Dinheiro
+10/05/2026;23:49:31;0179;2xFilé bacon,X-Tudo (Artesanal 150g),Filé bacon,2xFilé salada;116,40;Dinheiro
+10/05/2026;23:53:03;0824;Refrigerante litro,Filé bacon,X-Bacon (Padrão);41,70;Cartão de Débito
+11/05/2026;18:01:40;0671;Frango completo,Refrigerante litro,X-Bacon (Padrão);48,70;Cartão de Crédito
+11/05/2026;18:07:43;0479;Frango bacon;15,90;Cartão de Crédito
+11/05/2026;18:12:38;0163;Frango completo,X-Completo (Artesanal 150g),X-Salada (Padrão);67,70;Pix
+11/05/2026;18:18:28;0357;X-Salada (Artesanal 150g),X-Salada (Artesanal 150g),Batata frita pequena,Molho da casa;68,60;Pix
+11/05/2026;18:20:50;0006;Refrigerante litro,Frango bacon;23,80;Dinheiro
+11/05/2026;18:28:13;0689;Lombo bacon;15,90;Pix
+11/05/2026;18:33:38;0109;Filé salada,Batata frita pequena,Refrigerante lata;32,70;Pix
+11/05/2026;18:35:37;0009;Filé tudo;20,90;Dinheiro
+11/05/2026;18:38:12;0529;Frango salada,Lombo bacon,X-Bacon (Artesanal 150g);53,70;Pix
+11/05/2026;18:39:22;0885;X-Salada (Artesanal 150g);28,90;Pix
+11/05/2026;18:41:10;0858;Batata frita pequena,Lombo completo;33,80;Pix
+11/05/2026;18:44:08;0266;Filé bacon,3xBatata frita pequena,X-Completo (Padrão),X-Salada (Artesanal 150g);98,40;Dinheiro
+11/05/2026;18:44:25;0099;Filé tudo;20,90;Cartão de Débito
+11/05/2026;18:50:06;0703;X-Bacon (Artesanal 150g),Molho de alho,Lombo salada;39,70;Cartão de Crédito
+11/05/2026;18:55:45;0058;Lombo completo,Lombo salada,Frango completo;66,70;Cartão de Débito
+11/05/2026;19:09:26;0617;X-Bacon (Padrão),Filé tudo;36,80;Cartão de Crédito
+11/05/2026;19:10:34;0487;Filé salada,Molho de alho;21,80;Cartão de Débito
+11/05/2026;19:11:19;0538;Lombo salada;16,90;Cartão de Crédito
+11/05/2026;19:13:54;0821;Molho de alho,Filé Completo;30,80;Pix
+11/05/2026;19:17:50;0849;Lombo salada,Filé bacon;34,80;Cartão de Débito
+11/05/2026;19:21:59;0641;X-Salada (Artesanal 150g);28,90;Cartão de Débito
+11/05/2026;19:24:47;0553;Frango tudo,X-Bacon (Artesanal 150g),Lombo completo,Cerveja Lata;70,60;Cartão de Débito
+11/05/2026;19:33:51;0392;Filé tudo,Lombo salada;37,80;Cartão de Crédito
+11/05/2026;19:34:33;0194;X-Salada (Padrão);16,90;Pix
+11/05/2026;19:46:40;0126;Refrigerante litro;7,90;Cartão de Crédito
+11/05/2026;20:01:59;0293;2xMolho da casa,2xX-Bacon (Artesanal 150g);45,60;Dinheiro
+11/05/2026;20:02:18;0094;X-Completo (Padrão);24,90;Pix
+11/05/2026;20:05:57;0693;Lombo tudo,Refrigerante lata,X-Salada (Padrão),2xMolho da casa;42,50;Pix
+11/05/2026;20:13:05;0635;Frango bacon;15,90;Cartão de Débito
+11/05/2026;20:17:39;0937;2xFilé tudo;41,80;Cartão de Crédito
+11/05/2026;20:25:29;0120;Batata frita grande,Cerveja Lata;19,80;Cartão de Débito
+11/05/2026;20:32:04;0629;Filé bacon;17,90;Pix
+11/05/2026;20:33:21;0071;Frango salada,X-Completo (Artesanal 150g),Refrigerante lata;46,70;Pix
+11/05/2026;20:44:03;0068;X-Bacon (Padrão);15,90;Dinheiro
+11/05/2026;20:44:55;0469;Batata frita grande,X-Bacon (Padrão),Refrigerante lata;32,70;Dinheiro
+11/05/2026;20:56:39;0702;2xMolho de alho,Frango salada,2xFrango bacon,Frango bacon;68,40;Cartão de Crédito
+11/05/2026;20:56:45;0724;Filé bacon,Batata frita grande,Refrigerante litro,Lombo bacon;54,60;Cartão de Débito
+11/05/2026;20:57:15;0890;X-Completo (Artesanal 150g),Cerveja Lata,X-Tudo (Padrão);50,70;Cartão de Débito
+11/05/2026;20:57:40;0803;Lombo bacon;15,90;Dinheiro
+11/05/2026;21:07:46;0101;Filé salada,Filé bacon;37,80;Pix
+11/05/2026;21:19:52;0232;Cerveja Lata,Cerveja Lata;13,80;Cartão de Débito
+11/05/2026;21:36:15;0656;Filé Completo,Batata frita grande;41,80;Pix
+11/05/2026;21:37:23;0457;X-Salada (Artesanal 150g),Molho de alho,Lombo salada;47,70;Dinheiro
+11/05/2026;21:38:09;0774;2xLombo completo,X-Completo (Artesanal 150g),2xX-Tudo (Padrão);111,50;Cartão de Crédito
+11/05/2026;21:39:29;0474;X-Salada (Padrão),X-Tudo (Padrão);34,80;Pix
+11/05/2026;21:44:06;0273;Refrigerante lata,2xFrango salada,X-Completo (Artesanal 150g);63,60;Pix
+11/05/2026;21:56:26;0988;X-Salada (Padrão),Filé Completo,3xX-Salada (Artesanal 150g);132,50;Pix
+11/05/2026;21:58:34;0150;X-Bacon (Artesanal 150g),X-Tudo (Padrão),Batata frita grande;51,70;Pix
+11/05/2026;22:00:38;0470;Filé bacon;17,90;Pix
+11/05/2026;22:00:58;0906;Filé Completo,3xFilé Completo;115,60;Pix
+11/05/2026;22:07:54;0683;X-Completo (Artesanal 150g),Cerveja Lata;32,80;Cartão de Débito
+11/05/2026;22:15:50;0037;Frango bacon,Molho da casa;17,80;Pix
+11/05/2026;22:20:14;0010;2xX-Completo (Padrão),Filé Completo;78,70;Cartão de Crédito
+11/05/2026;22:40:42;0550;3xX-Tudo (Padrão),X-Bacon (Artesanal 150g),Molho da casa;76,50;Pix
+11/05/2026;22:46:44;0867;X-Completo (Padrão),2xX-Bacon (Artesanal 150g);66,70;Cartão de Débito
+11/05/2026;22:56:27;0871;Lombo completo,Cerveja Lata,Frango bacon;47,70;Cartão de Crédito
+11/05/2026;23:01:35;0095;2xBatata frita grande,2xFrango salada,X-Completo (Padrão),Refrigerante litro;92,40;Cartão de Crédito
+11/05/2026;23:06:30;0678;X-Completo (Artesanal 150g),Filé bacon;43,80;Cartão de Débito
+11/05/2026;23:07:08;0798;X-Bacon (Artesanal 150g);20,90;Cartão de Crédito
+11/05/2026;23:11:12;0888;Filé bacon;17,90;Cartão de Débito
+11/05/2026;23:23:44;0619;X-Bacon (Artesanal 150g),Refrigerante lata,Refrigerante lata,Filé Completo;57,60;Cartão de Débito
+11/05/2026;23:27:56;0646;X-Tudo (Artesanal 150g),Frango completo,X-Bacon (Padrão),X-Completo (Padrão);88,60;Cartão de Débito
+11/05/2026;23:27:58;0444;Frango completo;24,90;Pix
+11/05/2026;23:38:11;0886;Batata frita grande;12,90;Cartão de Crédito
+11/05/2026;23:52:24;0160;Filé bacon,Lombo salada,Filé bacon,Refrigerante litro;60,60;Cartão de Débito
+12/05/2026;18:03:25;0379;Lombo bacon,X-Completo (Padrão),3xLombo completo,2xFrango tudo;151,30;Pix
+12/05/2026;18:04:59;0817;2xX-Tudo (Padrão),Batata frita grande;48,70;Cartão de Débito
+12/05/2026;18:12:45;0872;X-Salada (Padrão),X-Bacon (Padrão);32,80;Pix
+12/05/2026;18:15:33;0801;Batata frita pequena,Batata frita grande;21,80;Dinheiro
+12/05/2026;18:17:02;0978;Lombo completo;24,90;Cartão de Crédito
+12/05/2026;18:18:01;0519;Molho da casa,Filé Completo;30,80;Pix
+12/05/2026;18:22:19;0215;Lombo completo;24,90;Cartão de Crédito
+12/05/2026;18:28:31;0519;Frango salada;16,90;Pix
+12/05/2026;18:30:10;0552;Filé Completo,2xLombo salada,X-Bacon (Artesanal 150g);83,60;Pix
+12/05/2026;18:31:35;0443;Cerveja Lata,Frango bacon;22,80;Dinheiro
+12/05/2026;18:34:14;0307;2xFilé salada,Filé salada,X-Tudo (Padrão);77,60;Pix
+12/05/2026;18:34:19;0717;X-Salada (Artesanal 150g),Frango tudo,Refrigerante litro,Frango bacon;70,60;Cartão de Crédito
+12/05/2026;18:36:53;0577;X-Salada (Artesanal 150g),X-Salada (Artesanal 150g),Frango tudo,Filé tudo;96,60;Pix
+12/05/2026;18:41:29;0148;X-Bacon (Artesanal 150g),Refrigerante lata,Frango bacon;40,70;Cartão de Crédito
+12/05/2026;18:44:49;0339;Refrigerante lata;3,90;Pix
+12/05/2026;18:47:02;0087;Frango tudo,Frango tudo,X-Salada (Artesanal 150g),X-Salada (Artesanal 150g);93,60;Cartão de Débito
+12/05/2026;18:50:45;0046;Molho da casa,Batata frita grande;14,80;Pix
+12/05/2026;19:00:35;0884;Batata frita pequena,X-Tudo (Padrão),Filé salada;46,70;Cartão de Crédito
+12/05/2026;19:04:04;0697;X-Salada (Padrão),2xFilé salada,Frango salada,Filé bacon;91,50;Cartão de Débito
+12/05/2026;19:13:15;0419;Molho da casa,Refrigerante lata;5,80;Dinheiro
+12/05/2026;19:16:12;0315;X-Salada (Artesanal 150g),2xX-Completo (Padrão),Lombo bacon;94,60;Cartão de Débito
+12/05/2026;19:38:12;0033;Molho de alho,Lombo completo,Lombo salada;43,70;Dinheiro
+12/05/2026;19:47:34;0640;Batata frita pequena;8,90;Pix
+12/05/2026;19:48:46;0545;Lombo completo,Batata frita grande,X-Bacon (Padrão),Molho da casa;55,60;Cartão de Crédito
+12/05/2026;19:48:50;0761;X-Tudo (Artesanal 150g),Batata frita pequena,2xFilé bacon,2xLombo completo;117,40;Pix
+12/05/2026;19:54:11;0216;Frango bacon;15,90;Dinheiro
+12/05/2026;19:56:44;0919;X-Bacon (Padrão),Filé bacon;33,80;Cartão de Crédito
+12/05/2026;19:57:29;0795;2xX-Bacon (Artesanal 150g),Batata frita pequena,Batata frita grande;63,60;Cartão de Crédito
+12/05/2026;20:13:01;0449;2xFilé Completo,Molho de alho,Lombo tudo;77,60;Pix
+12/05/2026;20:15:38;0409;Lombo tudo,Frango bacon,Frango tudo,Refrigerante lata;55,60;Pix
+12/05/2026;20:20:33;0424;Lombo completo;24,90;Cartão de Crédito
+12/05/2026;20:30:17;0171;Lombo tudo,Batata frita pequena,Lombo bacon;42,70;Cartão de Crédito
+12/05/2026;20:33:24;0024;X-Tudo (Padrão),X-Bacon (Artesanal 150g),Lombo salada,Lombo tudo;73,60;Cartão de Crédito
+12/05/2026;20:35:17;0354;2xRefrigerante litro,Frango completo,Batata frita pequena,2xCerveja Lata;63,40;Cartão de Débito
+12/05/2026;20:39:35;0897;Frango tudo,Filé Completo,Lombo tudo,Refrigerante lata;68,60;Cartão de Débito
+12/05/2026;20:42:16;0685;Lombo tudo,Filé tudo;38,80;Pix
+12/05/2026;20:58:54;0237;Filé tudo;20,90;Cartão de Crédito
+12/05/2026;21:02:24;0110;2xFilé salada,3xX-Bacon (Artesanal 150g),Molho de alho;104,40;Pix
+12/05/2026;21:04:32;0713;Molho de alho,Refrigerante lata,Frango salada,X-Tudo (Padrão);40,60;Pix
+12/05/2026;21:10:40;0486;X-Salada (Artesanal 150g);28,90;Cartão de Crédito
+12/05/2026;21:12:39;0057;Filé salada,X-Completo (Artesanal 150g),3xX-Completo (Padrão),Frango completo;145,40;Pix
+12/05/2026;21:14:24;0042;Filé tudo,X-Bacon (Artesanal 150g),2xLombo salada;75,60;Pix
+12/05/2026;21:24:29;0179;Molho da casa;1,90;Pix
+12/05/2026;21:41:28;0394;Frango tudo,Molho de alho,Filé Completo,Refrigerante lata;52,60;Pix
+12/05/2026;21:49:13;0433;Frango salada,Filé salada;36,80;Cartão de Débito
+12/05/2026;21:49:34;0146;3xX-Completo (Artesanal 150g),Lombo salada,X-Bacon (Padrão),X-Salada (Artesanal 150g);139,40;Cartão de Crédito
+12/05/2026;21:51:25;0091;Frango completo;24,90;Cartão de Crédito
+12/05/2026;21:53:59;0252;3xFilé bacon;53,70;Cartão de Débito
+12/05/2026;21:58:42;0633;2xFilé salada,Filé salada,2xX-Completo (Artesanal 150g);111,50;Cartão de Débito
+12/05/2026;22:04:21;0793;Lombo tudo;17,90;Cartão de Débito
+12/05/2026;22:04:59;0035;X-Bacon (Padrão),Frango completo,Filé tudo;61,70;Pix
+12/05/2026;22:10:24;0632;2xFrango tudo,Filé Completo,X-Tudo (Artesanal 150g);87,60;Cartão de Crédito
+12/05/2026;22:16:55;0354;2xBatata frita grande,Lombo completo,X-Tudo (Padrão);68,60;Pix
+12/05/2026;22:27:21;0855;Cerveja Lata,Lombo completo,Frango completo,X-Tudo (Artesanal 150g);79,60;Pix
+12/05/2026;22:27:58;0455;X-Completo (Artesanal 150g),Frango salada,Frango tudo,2xMolho de alho;64,50;Pix
+12/05/2026;22:31:30;0860;X-Completo (Artesanal 150g),X-Salada (Artesanal 150g),Refrigerante litro;62,70;Pix
+12/05/2026;22:38:38;0075;Lombo salada;16,90;Dinheiro
+12/05/2026;22:43:50;0480;2xX-Tudo (Artesanal 150g),Lombo bacon,X-Salada (Padrão),X-Bacon (Artesanal 150g);99,50;Cartão de Crédito
+12/05/2026;22:53:34;0380;Molho da casa,Batata frita grande,Molho de alho;16,70;Pix
+12/05/2026;22:53:42;0361;2xX-Tudo (Padrão),2xFrango tudo;71,60;Cartão de Crédito
+12/05/2026;22:56:38;0744;Lombo bacon;15,90;Pix
+12/05/2026;23:10:19;0905;2xLombo salada;33,80;Pix
+12/05/2026;23:11:23;0629;X-Salada (Padrão),X-Salada (Artesanal 150g),Molho da casa;47,70;Pix
+12/05/2026;23:25:00;0797;Frango salada;16,90;Cartão de Crédito
+12/05/2026;23:44:40;0747;Lombo tudo,X-Salada (Artesanal 150g),Lombo bacon;62,70;Cartão de Crédito
+12/05/2026;23:45:51;0567;X-Completo (Padrão),Filé bacon,X-Bacon (Padrão),Frango bacon;74,60;Cartão de Débito
+12/05/2026;23:45:56;0996;X-Tudo (Artesanal 150g),X-Tudo (Padrão),Filé bacon;58,70;Pix
+12/05/2026;23:50:33;0082;Lombo bacon;15,90;Cartão de Débito
+12/05/2026;23:58:47;0832;Filé Completo,Frango completo;53,80;Pix
+13/05/2026;18:14:02;0492;Filé Completo,2xFilé tudo;70,70;Pix
+13/05/2026;18:14:36;0211;Batata frita pequena,Lombo bacon,Lombo completo,Filé Completo;78,60;Pix
+13/05/2026;18:16:20;0743;Filé Completo,Refrigerante litro,X-Salada (Artesanal 150g),X-Completo (Padrão);90,60;Cartão de Débito
+13/05/2026;18:20:53;0762;Refrigerante litro;7,90;Pix
+13/05/2026;18:23:41;0760;2xFilé tudo,Filé bacon,Filé tudo;80,60;Pix
+13/05/2026;18:41:00;0334;Cerveja Lata,Lombo completo,Molho da casa;33,70;Cartão de Crédito
+13/05/2026;18:42:54;0665;Filé Completo,X-Bacon (Artesanal 150g);49,80;Cartão de Crédito
+13/05/2026;18:43:02;0550;Filé bacon,Refrigerante lata,X-Tudo (Padrão),Filé Completo;68,60;Dinheiro
+13/05/2026;18:48:00;0126;2xFilé tudo,Lombo tudo,2xBatata frita grande,Lombo bacon;101,40;Cartão de Débito
+13/05/2026;19:00:48;0259;Cerveja Lata,2xX-Bacon (Artesanal 150g),Lombo completo,Frango completo;98,50;Cartão de Crédito
+13/05/2026;19:01:14;0395;Filé bacon,Batata frita pequena,Lombo completo;51,70;Cartão de Débito
+13/05/2026;19:07:55;0188;2xX-Bacon (Artesanal 150g),Lombo tudo;59,70;Cartão de Crédito
+13/05/2026;19:29:50;0894;3xRefrigerante litro,Batata frita pequena,Refrigerante lata;36,50;Pix
+13/05/2026;19:33:25;0098;Refrigerante litro;7,90;Pix
+13/05/2026;19:52:09;0071;2xX-Bacon (Artesanal 150g),X-Completo (Padrão),Frango salada;83,60;Cartão de Débito
+13/05/2026;19:53:22;0169;Lombo tudo;17,90;Pix
+13/05/2026;19:56:20;0765;Filé Completo,2xFilé tudo,2xFilé salada,Frango bacon;126,40;Cartão de Débito
+13/05/2026;19:58:40;0922;Filé bacon,2xFrango tudo,Filé Completo,Refrigerante lata;86,50;Pix
+13/05/2026;20:10:26;0612;Batata frita grande;12,90;Cartão de Crédito
+13/05/2026;20:17:27;0511;Filé salada,Frango bacon,Refrigerante lata;39,70;Pix
+13/05/2026;20:21:06;0660;Cerveja Lata,X-Completo (Padrão);31,80;Cartão de Débito
+13/05/2026;20:21:49;0304;Frango bacon,X-Completo (Artesanal 150g),X-Tudo (Artesanal 150g);64,70;Dinheiro
+13/05/2026;20:35:36;0924;2xBatata frita grande,X-Completo (Padrão);50,70;Pix
+13/05/2026;20:39:01;0611;Frango salada,X-Salada (Padrão);33,80;Pix
+13/05/2026;20:42:22;0603;Refrigerante lata,Refrigerante litro,Frango salada;28,70;Cartão de Débito
+13/05/2026;20:49:07;0262;X-Salada (Artesanal 150g),2xRefrigerante litro,Refrigerante lata;48,60;Dinheiro
+13/05/2026;21:01:22;0563;X-Bacon (Artesanal 150g),Frango salada;37,80;Pix
+13/05/2026;21:02:58;0348;Lombo bacon;15,90;Dinheiro
+13/05/2026;21:06:39;0976;Frango completo,Cerveja Lata,X-Tudo (Padrão);49,70;Pix
+13/05/2026;21:19:28;0426;Frango completo,Lombo completo,X-Completo (Artesanal 150g),X-Bacon (Artesanal 150g);96,60;Pix
+13/05/2026;21:22:17;0431;2xRefrigerante litro,Molho da casa;17,70;Dinheiro
+13/05/2026;21:22:46;0320;Lombo tudo,2xX-Tudo (Padrão),Frango salada;70,60;Cartão de Crédito
+13/05/2026;21:29:49;0600;Molho da casa;1,90;Pix
+13/05/2026;21:40:47;0454;3xMolho da casa,Frango completo;30,60;Dinheiro
+13/05/2026;21:41:31;0471;X-Completo (Artesanal 150g);25,90;Pix
+13/05/2026;21:41:39;0670;Molho da casa,3xFilé tudo,Lombo completo,Batata frita pequena;98,40;Cartão de Débito
+13/05/2026;21:41:50;0777;X-Salada (Artesanal 150g),Frango tudo;46,80;Pix
+13/05/2026;21:44:00;0220;X-Tudo (Padrão),Refrigerante litro;25,80;Cartão de Débito
+13/05/2026;21:45:32;0588;Lombo bacon,2xX-Salada (Padrão);49,70;Pix
+13/05/2026;21:46:21;0127;Filé salada,X-Completo (Padrão),X-Salada (Padrão);61,70;Cartão de Crédito
+13/05/2026;21:46:35;0007;Batata frita pequena,X-Salada (Artesanal 150g),X-Completo (Padrão),Molho de alho;64,60;Pix
+13/05/2026;21:46:55;0121;X-Salada (Artesanal 150g);28,90;Pix
+13/05/2026;22:01:22;0195;Refrigerante lata;3,90;Cartão de Crédito
+13/05/2026;22:07:10;0651;X-Completo (Padrão),X-Completo (Artesanal 150g),Frango completo,Batata frita grande;88,60;Dinheiro
+13/05/2026;22:20:01;0082;Lombo tudo,Batata frita pequena,Lombo bacon,X-Salada (Padrão);59,60;Cartão de Crédito
+13/05/2026;22:32:53;0083;Filé bacon,X-Salada (Padrão),3xCerveja Lata;55,50;Cartão de Débito
+13/05/2026;22:36:44;0733;Frango bacon,X-Bacon (Padrão),Filé salada,Frango tudo;69,60;Cartão de Crédito
+13/05/2026;22:38:34;0551;Cerveja Lata;6,90;Pix
+13/05/2026;22:52:34;0531;Frango tudo,X-Bacon (Padrão),3xFilé bacon,X-Tudo (Padrão);105,40;Cartão de Débito
+13/05/2026;23:03:25;0348;Filé tudo;20,90;Cartão de Crédito
+13/05/2026;23:05:29;0278;2xX-Completo (Padrão);49,80;Pix
+13/05/2026;23:10:28;0408;2xMolho da casa,Frango salada,Lombo tudo;38,60;Cartão de Crédito
+13/05/2026;23:17:37;0534;Frango salada,Refrigerante litro,X-Bacon (Padrão),X-Bacon (Padrão);56,60;Cartão de Crédito
+13/05/2026;23:20:39;0080;X-Tudo (Artesanal 150g);22,90;Cartão de Débito
+13/05/2026;23:23:42;0968;Frango completo,X-Bacon (Padrão),Cerveja Lata;47,70;Pix
+13/05/2026;23:26:47;0201;Lombo completo,X-Bacon (Artesanal 150g),Lombo completo,Molho de alho;72,60;Cartão de Crédito
+13/05/2026;23:29:03;0279;Frango tudo,Frango bacon;33,80;Cartão de Crédito
+13/05/2026;23:33:05;0311;X-Completo (Padrão);24,90;Cartão de Débito
+13/05/2026;23:38:04;0706;X-Bacon (Artesanal 150g),Filé tudo,X-Bacon (Artesanal 150g);62,70;Dinheiro
+13/05/2026;23:39:40;0117;Frango tudo,2xCerveja Lata,Refrigerante lata;35,60;Cartão de Crédito
+13/05/2026;23:40:12;0736;2xFilé bacon,2xRefrigerante lata,Lombo tudo,Batata frita pequena;70,40;Cartão de Débito
+13/05/2026;23:41:51;0787;X-Tudo (Artesanal 150g),Lombo tudo,Refrigerante litro,X-Tudo (Padrão);66,60;Dinheiro
+13/05/2026;23:57:40;0459;3xX-Completo (Padrão),Frango salada;91,60;Cartão de Débito
+14/05/2026;18:00:57;0363;Refrigerante litro,Frango bacon;23,80;Dinheiro
+14/05/2026;18:01:02;0225;2xX-Tudo (Artesanal 150g);45,80;Cartão de Débito
+14/05/2026;18:02:36;0300;X-Bacon (Padrão),Refrigerante lata,Frango completo,3xLombo bacon;92,40;Pix
+14/05/2026;18:09:17;0177;X-Completo (Padrão),X-Bacon (Artesanal 150g);45,80;Cartão de Crédito
+14/05/2026;18:09:22;0170;Frango completo,Molho da casa,Molho de alho;28,70;Cartão de Crédito
+14/05/2026;18:13:46;0113;X-Salada (Artesanal 150g),Refrigerante lata,Lombo bacon;48,70;Cartão de Crédito
+14/05/2026;18:17:49;0473;Filé bacon,Batata frita pequena;26,80;Cartão de Crédito
+14/05/2026;18:18:11;0936;Filé Completo,Batata frita grande,X-Bacon (Artesanal 150g);62,70;Pix
+14/05/2026;18:28:53;0187;Refrigerante lata;3,90;Cartão de Crédito
+14/05/2026;18:28:54;0548;Batata frita pequena,X-Bacon (Artesanal 150g),2xFilé salada,X-Bacon (Artesanal 150g);90,50;Pix
+14/05/2026;18:39:44;0731;Batata frita grande,2xLombo bacon,X-Completo (Padrão);69,60;Pix
+14/05/2026;18:40:49;0317;Refrigerante lata,Refrigerante lata,Frango tudo;25,70;Pix
+14/05/2026;18:42:26;0592;X-Salada (Padrão),Refrigerante lata,Filé tudo;41,70;Pix
+14/05/2026;18:42:31;0219;Batata frita pequena,Filé bacon;26,80;Dinheiro
+14/05/2026;18:43:02;0873;2xLombo bacon,Molho da casa;33,70;Dinheiro
+14/05/2026;18:51:09;0460;X-Salada (Artesanal 150g),X-Bacon (Artesanal 150g),X-Completo (Padrão);74,70;Dinheiro
+14/05/2026;19:08:26;0784;Cerveja Lata,Frango bacon,Batata frita grande;35,70;Cartão de Débito
+14/05/2026;19:28:31;1000;2xFilé bacon,X-Bacon (Artesanal 150g);56,70;Pix
+14/05/2026;19:34:10;0833;Cerveja Lata,Filé Completo;35,80;Cartão de Crédito
+14/05/2026;19:40:27;0589;Lombo salada,Batata frita grande;29,80;Pix
+14/05/2026;20:04:00;0578;X-Completo (Artesanal 150g),X-Completo (Padrão);50,80;Cartão de Crédito
+14/05/2026;20:10:58;0256;Batata frita pequena,Frango tudo;26,80;Cartão de Débito
+14/05/2026;20:15:54;0580;2xX-Salada (Padrão);33,80;Cartão de Crédito
+14/05/2026;20:22:25;0743;2xMolho da casa;3,80;Pix
+14/05/2026;20:43:25;0775;Filé Completo,Lombo completo,Lombo tudo,X-Bacon (Padrão);87,60;Cartão de Crédito
+14/05/2026;20:46:26;0825;Lombo completo,X-Tudo (Padrão);42,80;Cartão de Crédito
+14/05/2026;20:52:15;0834;2xFilé Completo,2xCerveja Lata,X-Bacon (Padrão),X-Salada (Artesanal 150g);116,40;Dinheiro
+14/05/2026;21:08:35;0893;Frango salada,X-Completo (Padrão),Lombo salada;58,70;Cartão de Débito
+14/05/2026;21:16:40;0303;Frango tudo,3xFilé bacon,Filé bacon;89,50;Pix
+14/05/2026;21:24:27;0793;Filé bacon;17,90;Pix
+14/05/2026;21:29:37;0369;X-Completo (Padrão),2xX-Tudo (Artesanal 150g);70,70;Cartão de Débito
+14/05/2026;21:41:49;0928;Filé salada,Filé tudo;40,80;Dinheiro
+14/05/2026;21:43:25;0012;X-Salada (Padrão);16,90;Cartão de Crédito
+14/05/2026;21:51:22;0465;Lombo salada,2xLombo salada,Frango tudo;68,60;Pix
+14/05/2026;22:03:45;0947;Frango bacon,Molho da casa;17,80;Pix
+14/05/2026;22:04:27;0898;X-Completo (Artesanal 150g),X-Bacon (Artesanal 150g),Filé salada;66,70;Cartão de Débito
+14/05/2026;22:05:52;0831;Refrigerante litro;7,90;Cartão de Débito
+14/05/2026;22:10:30;0165;X-Completo (Padrão),X-Completo (Padrão),X-Bacon (Artesanal 150g);70,70;Cartão de Débito
+14/05/2026;22:19:22;0415;Cerveja Lata,2xFilé salada;46,70;Dinheiro
+14/05/2026;22:20:42;0497;Refrigerante lata,Refrigerante lata,2xFrango salada,Filé salada;61,50;Pix
+14/05/2026;22:25:19;0298;Lombo bacon,Frango bacon,Lombo completo,X-Completo (Artesanal 150g);82,60;Pix
+14/05/2026;22:25:37;0494;Lombo bacon,Lombo completo;40,80;Pix
+14/05/2026;22:25:56;0102;Frango completo;24,90;Cartão de Débito
+14/05/2026;22:26:46;0929;X-Bacon (Artesanal 150g);20,90;Pix
+14/05/2026;22:38:27;0643;X-Completo (Padrão),Lombo salada;41,80;Cartão de Crédito
+14/05/2026;22:42:39;0214;X-Completo (Padrão),Lombo completo,Batata frita grande;62,70;Dinheiro
+14/05/2026;22:44:36;0050;3xFrango completo,Filé bacon,Lombo completo,Cerveja Lata;124,40;Cartão de Crédito
+14/05/2026;22:58:38;0650;Filé salada,Frango salada,Frango tudo,Batata frita grande;67,60;Dinheiro
+14/05/2026;23:01:42;0279;Batata frita pequena,Cerveja Lata,Filé salada,Frango bacon;51,60;Cartão de Débito
+14/05/2026;23:02:00;0806;Frango tudo,Filé tudo,X-Bacon (Padrão),Molho da casa;56,60;Cartão de Crédito
+14/05/2026;23:10:11;0407;X-Tudo (Artesanal 150g),Filé salada,Filé salada,2xFilé bacon;98,50;Pix
+14/05/2026;23:11:52;0318;Refrigerante lata;3,90;Pix
+14/05/2026;23:18:16;0920;X-Tudo (Padrão);17,90;Cartão de Crédito
+14/05/2026;23:21:08;0732;Molho de alho,Filé tudo;22,80;Cartão de Débito
+14/05/2026;23:33:18;0814;X-Completo (Artesanal 150g),Molho da casa;27,80;Pix
+14/05/2026;23:50:40;0803;X-Salada (Artesanal 150g),Frango salada;45,80;Cartão de Débito
+14/05/2026;23:55:02;0662;Frango tudo,Frango completo;42,80;Dinheiro
+15/05/2026;18:01:33;0634;X-Bacon (Artesanal 150g),Frango salada;37,80;Pix
+15/05/2026;18:16:09;0003;Refrigerante lata,Lombo bacon;19,80;Cartão de Crédito
+15/05/2026;18:19:39;0981;2xLombo salada,Molho da casa,Lombo tudo,X-Tudo (Padrão);71,50;Pix
+15/05/2026;18:26:38;0604;X-Tudo (Padrão),3xFrango salada;68,60;Cartão de Crédito
+15/05/2026;18:29:39;0281;X-Bacon (Padrão),X-Bacon (Padrão),X-Bacon (Padrão),Molho de alho;49,60;Cartão de Débito
+15/05/2026;18:42:48;0628;Frango completo,Refrigerante litro,X-Tudo (Padrão),Lombo completo;75,60;Cartão de Débito
+15/05/2026;18:51:10;0019;X-Bacon (Artesanal 150g);20,90;Cartão de Débito
+15/05/2026;18:57:34;0250;Lombo tudo,X-Bacon (Artesanal 150g),Frango tudo;56,70;Pix
+15/05/2026;18:59:44;0779;Molho de alho,Frango completo;26,80;Pix
+15/05/2026;19:03:19;0536;Lombo completo,X-Completo (Artesanal 150g),X-Tudo (Artesanal 150g);73,70;Pix
+15/05/2026;19:06:34;0756;X-Bacon (Padrão),Lombo completo,Lombo bacon;56,70;Pix
+15/05/2026;19:13:36;0024;2xFrango tudo,Lombo bacon;51,70;Pix
+15/05/2026;19:16:59;0723;Lombo tudo,2xFrango completo;67,70;Dinheiro
+15/05/2026;19:20:13;0299;Batata frita grande,X-Bacon (Artesanal 150g);33,80;Dinheiro
+15/05/2026;19:36:26;0821;3xRefrigerante litro,X-Tudo (Artesanal 150g);46,60;Pix
+15/05/2026;19:37:55;0745;Refrigerante lata,X-Tudo (Padrão),X-Salada (Padrão),Filé salada;58,60;Cartão de Débito
+15/05/2026;19:48:11;0520;X-Bacon (Artesanal 150g),Molho da casa;22,80;Pix
+15/05/2026;19:52:06;0074;Filé tudo,Frango tudo,Filé Completo;67,70;Pix
+15/05/2026;19:53:43;0854;X-Salada (Padrão),Filé tudo,Lombo completo;62,70;Pix
+15/05/2026;20:15:43;0840;2xX-Completo (Artesanal 150g),Lombo completo,X-Completo (Padrão);101,60;Cartão de Débito
+15/05/2026;21:07:59;0535;X-Completo (Artesanal 150g),X-Salada (Artesanal 150g),Filé salada,Filé tudo;95,60;Pix
+15/05/2026;21:12:29;0794;X-Completo (Artesanal 150g),Filé Completo,3xCerveja Lata;75,50;Cartão de Crédito
+15/05/2026;21:13:45;0079;Molho da casa,Lombo completo,X-Tudo (Padrão);44,70;Pix
+15/05/2026;21:19:17;0347;Filé tudo,Batata frita grande,Filé tudo;54,70;Cartão de Crédito
+15/05/2026;21:52:49;0874;Batata frita pequena;8,90;Pix
+15/05/2026;21:56:30;0271;Lombo salada,Lombo completo,X-Completo (Artesanal 150g),Frango tudo;85,60;Pix
+15/05/2026;21:57:52;0630;X-Tudo (Padrão);17,90;Pix
+15/05/2026;22:08:03;0377;Filé bacon,Batata frita grande,Refrigerante litro;38,70;Pix
+15/05/2026;22:14:57;0730;2xLombo tudo,Filé salada,X-Salada (Artesanal 150g);84,60;Pix
+15/05/2026;22:21:12;0466;2xLombo bacon;31,80;Cartão de Débito
+15/05/2026;22:22:17;0384;Lombo completo;24,90;Cartão de Débito
+15/05/2026;22:26:05;0515;Frango completo,X-Tudo (Padrão),Batata frita grande;55,70;Pix
+15/05/2026;22:41:40;0993;Batata frita pequena,3xFrango completo,X-Tudo (Padrão),Lombo salada;118,40;Cartão de Crédito
+15/05/2026;22:44:04;0941;Lombo tudo;17,90;Cartão de Débito
+15/05/2026;22:47:48;0755;2xX-Tudo (Padrão),X-Salada (Artesanal 150g),Lombo completo,Lombo completo;114,50;Pix
+15/05/2026;22:56:57;0712;Filé tudo,Lombo completo,X-Bacon (Padrão),2xFrango bacon;93,50;Cartão de Crédito
+15/05/2026;22:58:00;0523;Filé salada,X-Completo (Padrão),X-Salada (Padrão);61,70;Pix
+15/05/2026;22:58:15;0081;X-Salada (Artesanal 150g),X-Completo (Artesanal 150g);54,80;Cartão de Crédito
+15/05/2026;23:16:25;0358;2xLombo salada,Cerveja Lata;40,70;Pix
+15/05/2026;23:17:07;0871;Refrigerante lata,Molho de alho;5,80;Pix
+15/05/2026;23:19:37;0131;X-Bacon (Padrão),Filé salada;35,80;Cartão de Crédito
+15/05/2026;23:28:52;0089;X-Bacon (Artesanal 150g),3xMolho de alho,Filé bacon,Refrigerante litro;52,40;Dinheiro
+15/05/2026;23:35:55;0827;Molho da casa;1,90;Cartão de Débito
+15/05/2026;23:38:36;0607;Frango tudo;17,90;Cartão de Crédito
+15/05/2026;23:42:41;0727;Lombo tudo,Batata frita grande,Refrigerante lata,Lombo completo;59,60;Cartão de Crédito
+15/05/2026;23:43:21;0392;Frango completo,X-Bacon (Padrão),X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g);92,60;Cartão de Crédito
+15/05/2026;23:43:37;0613;Lombo salada,Lombo bacon,X-Bacon (Artesanal 150g),X-Completo (Artesanal 150g);79,60;Cartão de Crédito
+15/05/2026;23:45:56;0324;Frango salada,Refrigerante litro,Filé Completo,Filé salada;73,60;Dinheiro
+15/05/2026;23:49:40;0140;Refrigerante lata,Filé salada,Lombo salada,Cerveja Lata;47,60;Dinheiro
+15/05/2026;23:57:12;0828;Batata frita pequena,X-Completo (Padrão);33,80;Pix
+16/05/2026;18:00:03;0139;Frango bacon,X-Completo (Artesanal 150g);41,80;Cartão de Débito
+16/05/2026;18:05:56;0285;Refrigerante litro;7,90;Pix
+16/05/2026;18:06:07;0458;Filé salada;19,90;Pix
+16/05/2026;18:09:08;0682;Frango completo,X-Completo (Padrão),Frango tudo,Filé Completo;96,60;Pix
+16/05/2026;18:10:01;0378;Refrigerante litro,Molho de alho,X-Bacon (Artesanal 150g);30,70;Cartão de Débito
+16/05/2026;18:16:20;0256;X-Completo (Padrão);24,90;Cartão de Débito
+16/05/2026;18:29:45;0374;Batata frita pequena,X-Completo (Artesanal 150g);34,80;Cartão de Crédito
+16/05/2026;18:37:08;0295;Molho de alho,3xX-Bacon (Artesanal 150g),Molho da casa;66,50;Cartão de Crédito
+16/05/2026;18:42:36;0870;2xRefrigerante lata;7,80;Pix
+16/05/2026;18:45:32;0390;Frango salada;16,90;Cartão de Crédito
+16/05/2026;18:51:42;0364;X-Salada (Artesanal 150g),2xLombo tudo,X-Tudo (Artesanal 150g),Batata frita grande;100,50;Cartão de Débito
+16/05/2026;18:53:29;0779;Filé Completo,X-Bacon (Padrão);44,80;Pix
+16/05/2026;18:53:50;0425;X-Bacon (Padrão);15,90;Dinheiro
+16/05/2026;19:06:59;0506;Lombo tudo;17,90;Pix
+16/05/2026;19:13:53;0694;X-Tudo (Artesanal 150g),Cerveja Lata,X-Completo (Artesanal 150g);55,70;Pix
+16/05/2026;19:14:38;0131;Refrigerante litro,Cerveja Lata;14,80;Cartão de Crédito
+16/05/2026;19:18:23;0233;Lombo bacon,X-Completo (Padrão),Batata frita grande,Frango completo;78,60;Pix
+16/05/2026;19:22:23;0726;X-Salada (Artesanal 150g);28,90;Cartão de Crédito
+16/05/2026;19:26:29;0028;X-Salada (Artesanal 150g),Batata frita pequena,Lombo bacon;53,70;Cartão de Débito
+16/05/2026;19:42:52;0006;X-Bacon (Padrão),X-Completo (Padrão),Frango bacon;56,70;Cartão de Débito
+16/05/2026;19:44:22;0804;X-Tudo (Padrão),Lombo bacon,X-Tudo (Artesanal 150g);56,70;Cartão de Crédito
+16/05/2026;19:52:07;0664;Molho da casa,X-Bacon (Padrão);17,80;Cartão de Débito
+16/05/2026;19:59:02;0684;Filé Completo,Lombo bacon,Frango tudo;62,70;Dinheiro
+16/05/2026;20:07:13;0065;Filé tudo,2xX-Bacon (Artesanal 150g);62,70;Cartão de Débito
+16/05/2026;20:14:16;0026;Filé bacon;17,90;Cartão de Débito
+16/05/2026;20:16:51;0117;2xX-Bacon (Padrão),3xMolho de alho,X-Completo (Artesanal 150g),2xX-Completo (Padrão);113,20;Cartão de Crédito
+16/05/2026;20:17:13;0410;Frango salada,X-Bacon (Artesanal 150g);37,80;Cartão de Débito
+16/05/2026;20:17:51;0799;Frango completo,Frango completo;49,80;Dinheiro
+16/05/2026;20:18:25;0606;Filé tudo;20,90;Dinheiro
+16/05/2026;20:19:18;0868;2xX-Completo (Artesanal 150g);51,80;Pix
+16/05/2026;20:47:16;0789;X-Bacon (Padrão);15,90;Pix
+16/05/2026;20:50:49;0324;Batata frita pequena;8,90;Pix
+16/05/2026;20:56:07;0738;Frango completo,Lombo tudo,Lombo salada;59,70;Cartão de Crédito
+16/05/2026;21:02:51;0443;Batata frita grande,Refrigerante litro,Lombo completo;45,70;Cartão de Débito
+16/05/2026;21:06:47;0353;2xLombo tudo,Lombo bacon;51,70;Cartão de Débito
+16/05/2026;21:07:05;0127;2xLombo completo,Filé salada,Lombo completo;94,60;Pix
+16/05/2026;21:14:17;0011;X-Salada (Padrão);16,90;Cartão de Crédito
+16/05/2026;21:14:19;0337;Cerveja Lata,Refrigerante lata;10,80;Cartão de Débito
+16/05/2026;21:18:37;0349;X-Tudo (Artesanal 150g),Refrigerante lata,Frango tudo,Lombo salada;61,60;Cartão de Débito
+16/05/2026;21:20:44;0304;X-Salada (Padrão),Molho da casa,Refrigerante lata;22,70;Pix
+16/05/2026;21:26:22;0541;X-Tudo (Artesanal 150g),2xX-Salada (Padrão),Lombo bacon;72,60;Cartão de Débito
+16/05/2026;21:29:29;0524;Molho de alho;1,90;Pix
+16/05/2026;21:33:38;0172;Molho de alho,Frango bacon,X-Salada (Artesanal 150g),Frango tudo;64,60;Dinheiro
+16/05/2026;21:36:30;0341;Lombo tudo,Cerveja Lata,Molho de alho,Molho de alho;28,60;Dinheiro
+16/05/2026;21:46:53;0541;Molho da casa,Frango completo;26,80;Pix
+16/05/2026;21:55:50;0394;Filé tudo,Lombo completo;45,80;Cartão de Débito
+16/05/2026;22:06:29;0189;Molho de alho;1,90;Cartão de Crédito
+16/05/2026;22:07:48;0645;Lombo salada;16,90;Cartão de Débito
+16/05/2026;22:10:10;0700;Filé salada,Frango salada,Batata frita pequena,Batata frita grande;58,60;Pix
+16/05/2026;22:14:38;0766;2xBatata frita pequena;17,80;Pix
+16/05/2026;22:14:53;0016;Filé Completo,Batata frita grande,Filé bacon,Lombo tudo;77,60;Cartão de Crédito
+16/05/2026;22:19:31;0299;Cerveja Lata,X-Completo (Artesanal 150g),Batata frita grande,Batata frita grande;58,60;Pix
+16/05/2026;22:23:40;0697;Batata frita grande,X-Completo (Padrão),Molho de alho;39,70;Cartão de Crédito
+16/05/2026;22:25:46;0059;2xBatata frita pequena,2xX-Bacon (Padrão),Lombo bacon,Frango bacon;81,40;Cartão de Crédito
+16/05/2026;22:36:41;0339;X-Tudo (Artesanal 150g);22,90;Cartão de Crédito
+16/05/2026;22:42:20;0327;Refrigerante lata,2xLombo completo,Frango salada;70,60;Cartão de Débito
+16/05/2026;22:50:35;0464;Lombo tudo,X-Completo (Artesanal 150g),Batata frita pequena,2xX-Completo (Artesanal 150g);104,50;Cartão de Crédito
+16/05/2026;23:00:38;0307;Batata frita pequena,Frango bacon,Filé Completo,Frango bacon;69,60;Cartão de Débito
+16/05/2026;23:01:01;0562;2xLombo tudo;35,80;Cartão de Débito
+16/05/2026;23:13:18;0846;2xX-Completo (Artesanal 150g),Refrigerante lata,2xX-Completo (Artesanal 150g),Molho da casa;109,40;Pix
+16/05/2026;23:15:27;0710;Lombo salada,2xFilé salada;56,70;Pix
+16/05/2026;23:23:37;0999;Molho da casa;1,90;Pix
+16/05/2026;23:25:31;0675;2xMolho da casa,2xRefrigerante litro;19,60;Pix
+16/05/2026;23:29:26;0282;Frango completo,Frango completo;49,80;Cartão de Débito
+16/05/2026;23:30:11;0222;Batata frita grande;12,90;Pix
+16/05/2026;23:37:05;0587;X-Salada (Padrão);16,90;Cartão de Crédito
+16/05/2026;23:45:42;0864;Frango tudo,Lombo completo;42,80;Cartão de Crédito
+16/05/2026;23:45:50;0272;Lombo completo,X-Bacon (Padrão);40,80;Pix
+16/05/2026;23:51:05;0234;Lombo salada,2xX-Completo (Padrão),Lombo tudo,Cerveja Lata;91,50;Pix
+16/05/2026;23:57:31;0554;X-Completo (Padrão),Molho de alho;26,80;Pix
+17/05/2026;18:04:03;0680;X-Salada (Artesanal 150g);28,90;Cartão de Crédito
+17/05/2026;18:04:30;0901;Refrigerante lata,Lombo bacon,Filé salada,Lombo salada;56,60;Pix
+17/05/2026;18:16:13;0727;Batata frita grande,X-Completo (Artesanal 150g),X-Tudo (Padrão),Lombo bacon;72,60;Cartão de Crédito
+17/05/2026;18:27:42;0874;X-Tudo (Padrão),2xFilé salada;57,70;Pix
+17/05/2026;18:28:07;0496;Frango salada,Lombo tudo;34,80;Pix
+17/05/2026;18:31:27;0528;Frango tudo;17,90;Pix
+17/05/2026;18:40:27;0294;X-Salada (Padrão),Refrigerante lata,3xLombo salada,Frango completo;96,40;Pix
+17/05/2026;19:08:33;0815;Molho da casa,Refrigerante litro,Batata frita pequena,3xFilé salada;78,40;Pix
+17/05/2026;19:17:43;0151;Filé bacon,2xBatata frita grande,X-Completo (Artesanal 150g),Lombo bacon;85,50;Cartão de Débito
+17/05/2026;19:20:34;0167;2xFrango salada,Refrigerante litro,2xBatata frita pequena,Molho da casa;61,40;Cartão de Débito
+17/05/2026;19:23:35;0413;X-Salada (Padrão),Frango tudo,Refrigerante litro,Lombo salada;59,60;Cartão de Crédito
+17/05/2026;19:25:59;0355;Frango bacon,Batata frita grande,Batata frita pequena;37,70;Cartão de Crédito
+17/05/2026;19:29:37;0892;Filé Completo,2xRefrigerante litro;44,70;Cartão de Débito
+17/05/2026;19:31:31;0473;2xFilé Completo;57,80;Cartão de Crédito
+17/05/2026;19:35:18;0639;Lombo completo,2xFrango completo;74,70;Cartão de Crédito
+17/05/2026;19:37:56;0105;2xMolho de alho,Molho de alho,X-Bacon (Padrão),Molho da casa;23,50;Pix
+17/05/2026;19:42:37;0032;Filé tudo,2xFrango tudo;56,70;Pix
+17/05/2026;19:52:58;0109;Filé tudo,Frango tudo,Lombo bacon,Lombo completo;79,60;Cartão de Crédito
+17/05/2026;20:25:13;0069;X-Tudo (Artesanal 150g);22,90;Pix
+17/05/2026;20:34:06;0855;Lombo bacon;15,90;Cartão de Débito
+17/05/2026;20:46:21;0840;Refrigerante lata,Frango completo,Batata frita pequena;37,70;Pix
+17/05/2026;20:50:58;0668;2xRefrigerante litro;15,80;Cartão de Débito
+17/05/2026;20:51:52;0192;Lombo salada,2xFilé salada,3xFrango salada,X-Tudo (Padrão);125,30;Pix
+17/05/2026;20:53:37;0482;2xX-Bacon (Artesanal 150g),X-Salada (Padrão),Batata frita grande;71,60;Cartão de Crédito
+17/05/2026;21:04:11;0661;Lombo bacon,Frango bacon;31,80;Cartão de Crédito
+17/05/2026;21:08:42;0161;Frango completo,Frango salada;41,80;Cartão de Débito
+17/05/2026;21:10:24;0316;Filé salada,Lombo bacon;35,80;Cartão de Débito
+17/05/2026;21:20:34;0284;X-Salada (Artesanal 150g),3xRefrigerante litro,Frango completo;77,50;Pix
+17/05/2026;21:21:59;0555;Cerveja Lata,Refrigerante lata,Frango salada,X-Completo (Artesanal 150g);53,60;Cartão de Débito
+17/05/2026;21:52:51;0737;X-Salada (Artesanal 150g),3xFrango completo;103,60;Pix
+17/05/2026;21:56:08;0332;Lombo salada,2xX-Bacon (Padrão);48,70;Cartão de Crédito
+17/05/2026;22:03:10;0014;X-Bacon (Padrão),Filé tudo;36,80;Pix
+17/05/2026;22:15:25;0705;2xBatata frita grande,X-Salada (Artesanal 150g),X-Completo (Artesanal 150g),X-Salada (Artesanal 150g);109,50;Cartão de Crédito
+17/05/2026;22:15:44;0212;Frango salada,Molho de alho,Batata frita pequena;27,70;Pix
+17/05/2026;22:17:16;0635;Batata frita pequena;8,90;Pix
+17/05/2026;22:24:39;0362;X-Completo (Padrão);24,90;Cartão de Crédito
+17/05/2026;22:29:11;0561;Refrigerante lata;3,90;Cartão de Débito
+17/05/2026;22:29:32;0134;Lombo salada,X-Completo (Artesanal 150g),Batata frita pequena;51,70;Cartão de Débito
+17/05/2026;22:36:24;0205;Molho de alho;1,90;Cartão de Crédito
+17/05/2026;22:36:39;0788;Cerveja Lata,Filé tudo,X-Salada (Artesanal 150g);56,70;Cartão de Crédito
+17/05/2026;22:39:43;0623;Lombo salada,Frango salada;33,80;Cartão de Débito
+17/05/2026;22:45:42;0185;2xLombo tudo,Filé bacon,2xBatata frita grande;79,50;Cartão de Débito
+17/05/2026;22:51:16;0415;Refrigerante lata;3,90;Cartão de Débito
+17/05/2026;22:53:13;0467;X-Completo (Padrão);24,90;Pix
+17/05/2026;22:58:51;0114;3xX-Bacon (Padrão),Filé Completo,Refrigerante lata,2xX-Completo (Padrão);130,30;Pix
+17/05/2026;23:00:10;0319;X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g);51,80;Cartão de Débito
+17/05/2026;23:02:27;0527;2xX-Salada (Padrão);33,80;Cartão de Crédito
+17/05/2026;23:02:41;0227;X-Salada (Artesanal 150g);28,90;Cartão de Débito
+17/05/2026;23:02:59;0672;Filé tudo,Frango completo,X-Tudo (Artesanal 150g),Refrigerante litro;76,60;Cartão de Crédito
+17/05/2026;23:11:41;0594;3xCerveja Lata,Cerveja Lata,Molho da casa;29,50;Cartão de Crédito
+17/05/2026;23:14:39;0980;Filé tudo,Cerveja Lata,Lombo tudo;45,70;Pix
+17/05/2026;23:17:30;0144;Lombo bacon;15,90;Pix
+17/05/2026;23:23:26;0828;2xX-Salada (Padrão);33,80;Pix
+17/05/2026;23:36:18;0559;X-Salada (Padrão),X-Completo (Padrão);41,80;Cartão de Débito
+17/05/2026;23:42:17;0842;X-Salada (Padrão),Batata frita pequena,X-Salada (Artesanal 150g);54,70;Pix
+17/05/2026;23:42:54;0146;Cerveja Lata;6,90;Cartão de Débito
+17/05/2026;23:53:16;0714;Frango bacon;15,90;Pix
+17/05/2026;23:55:11;0860;Filé Completo,Lombo tudo,Batata frita grande;59,70;Cartão de Débito
+17/05/2026;23:55:11;0267;3xX-Salada (Artesanal 150g),Filé bacon,Frango tudo,X-Salada (Artesanal 150g);151,40;Cartão de Crédito
+17/05/2026;23:55:47;0634;Filé salada,3xFrango bacon;67,60;Pix
+17/05/2026;23:56:44;0515;X-Bacon (Padrão),X-Completo (Padrão),Refrigerante litro;48,70;Dinheiro
+18/05/2026;18:08:34;0995;2xFilé Completo,X-Tudo (Artesanal 150g);80,70;Cartão de Crédito
+18/05/2026;18:22:57;0449;X-Salada (Artesanal 150g),X-Bacon (Padrão),Molho da casa;46,70;Cartão de Crédito
+18/05/2026;18:24:11;0172;3xFrango completo;74,70;Dinheiro
+18/05/2026;18:30:04;0244;X-Bacon (Padrão);15,90;Cartão de Crédito
+18/05/2026;18:34:51;0858;Molho da casa,X-Bacon (Padrão),X-Completo (Padrão);42,70;Pix
+18/05/2026;18:41:25;0230;X-Tudo (Padrão),X-Salada (Artesanal 150g);46,80;Pix
+18/05/2026;18:50:46;0436;X-Bacon (Artesanal 150g),Filé Completo;49,80;Cartão de Débito
+18/05/2026;18:51:50;0480;Filé salada,2xMolho de alho;23,70;Cartão de Débito
+18/05/2026;18:52:58;0236;X-Bacon (Padrão),Molho de alho,Lombo tudo,2xX-Salada (Padrão);69,50;Cartão de Crédito
+18/05/2026;19:21:29;0002;Filé bacon;17,90;Dinheiro
+18/05/2026;19:24:13;0136;Refrigerante lata,X-Tudo (Artesanal 150g),Frango salada,Lombo tudo;61,60;Cartão de Crédito
+18/05/2026;19:24:46;0209;X-Salada (Artesanal 150g),Molho de alho,Refrigerante litro;38,70;Pix
+18/05/2026;19:25:44;0047;Lombo bacon,Frango tudo,2xLombo tudo;69,60;Cartão de Crédito
+18/05/2026;19:30:53;0302;Cerveja Lata,Filé bacon,Lombo bacon;40,70;Pix
+18/05/2026;19:42:01;0632;Frango tudo;17,90;Cartão de Débito
+18/05/2026;19:47:11;0655;Cerveja Lata;6,90;Pix
+18/05/2026;19:59:00;0200;Lombo salada,Lombo bacon,Frango completo,X-Tudo (Padrão);75,60;Cartão de Débito
+18/05/2026;19:59:47;0429;Lombo completo,Filé bacon;42,80;Cartão de Crédito
+18/05/2026;20:06:12;0404;Lombo salada,X-Completo (Artesanal 150g),Frango completo;67,70;Pix
+18/05/2026;20:09:00;0033;Batata frita pequena,Molho de alho,2xMolho da casa;14,60;Cartão de Crédito
+18/05/2026;20:14:23;0575;3xCerveja Lata;20,70;Cartão de Débito
+18/05/2026;20:22:58;0582;Filé bacon,X-Bacon (Artesanal 150g),Lombo completo;63,70;Cartão de Débito
+18/05/2026;20:31:28;0459;Cerveja Lata,Molho de alho,Refrigerante litro;16,70;Pix
+18/05/2026;20:52:46;0168;Lombo bacon,Frango completo,Molho da casa;42,70;Cartão de Crédito
+18/05/2026;20:54:23;0155;2xLombo bacon,Frango bacon,Batata frita pequena,X-Bacon (Padrão);72,50;Cartão de Crédito
+18/05/2026;21:02:14;0566;Refrigerante litro,Frango bacon,Molho da casa;25,70;Cartão de Débito
+18/05/2026;21:10:24;0342;Batata frita grande,Lombo bacon,Batata frita pequena,2xX-Tudo (Artesanal 150g);83,50;Pix
+18/05/2026;21:12:05;0560;Lombo tudo,Frango tudo,Batata frita pequena;44,70;Cartão de Crédito
+18/05/2026;21:29:37;0221;X-Tudo (Padrão),2xX-Bacon (Artesanal 150g),X-Tudo (Artesanal 150g);82,60;Pix
+18/05/2026;21:31:06;0396;X-Salada (Padrão),Cerveja Lata,Lombo bacon,Frango tudo;57,60;Pix
+18/05/2026;21:38:09;0701;Frango tudo,Filé salada,2xX-Bacon (Artesanal 150g);79,60;Pix
+18/05/2026;21:43:08;0027;Molho de alho,2xMolho da casa,Lombo salada,X-Bacon (Artesanal 150g);43,50;Pix
+18/05/2026;21:45:28;0537;Filé salada,X-Tudo (Artesanal 150g);42,80;Cartão de Débito
+18/05/2026;22:14:15;0497;Frango bacon,Lombo tudo;33,80;Cartão de Débito
+18/05/2026;22:15:26;0590;Lombo salada,Lombo completo,Frango salada,X-Completo (Padrão);83,60;Pix
+18/05/2026;22:27:21;0845;Lombo salada,X-Completo (Artesanal 150g),Batata frita grande,Molho de alho;57,60;Cartão de Débito
+18/05/2026;22:31:39;0563;Molho da casa;1,90;Cartão de Débito
+18/05/2026;22:38:01;0616;Refrigerante lata,Frango tudo;21,80;Pix
+18/05/2026;22:40:20;0528;Lombo bacon,X-Tudo (Padrão),Frango completo,X-Completo (Artesanal 150g);84,60;Pix
+18/05/2026;22:46:17;0826;X-Tudo (Padrão);17,90;Cartão de Débito
+18/05/2026;22:48:58;0513;Lombo bacon,X-Salada (Artesanal 150g),X-Bacon (Padrão),Filé salada;80,60;Cartão de Crédito
+18/05/2026;23:04:50;0636;Filé Completo,Lombo salada,Lombo tudo,X-Salada (Artesanal 150g);92,60;Pix
+18/05/2026;23:05:06;0799;2xFrango tudo,Refrigerante litro;43,70;Pix
+18/05/2026;23:20:55;0336;Lombo completo;24,90;Cartão de Crédito
+18/05/2026;23:30:01;0267;Lombo tudo,2xFilé Completo;75,70;Cartão de Débito
+18/05/2026;23:30:39;0489;Frango salada,2xRefrigerante litro,X-Tudo (Artesanal 150g),Lombo salada;72,50;Pix
+18/05/2026;23:37:29;0080;Filé Completo,Frango bacon,Frango bacon,Molho de alho;62,60;Cartão de Débito
+18/05/2026;23:45:31;0128;Lombo salada;16,90;Pix
+18/05/2026;23:47:00;0215;X-Tudo (Artesanal 150g);22,90;Pix
+18/05/2026;23:49:09;0568;X-Tudo (Padrão);17,90;Dinheiro
+18/05/2026;23:52:40;0683;Batata frita grande,2xLombo bacon,Refrigerante litro;52,60;Cartão de Débito
+18/05/2026;23:57:59;0004;Molho da casa,Lombo tudo,Filé Completo,Refrigerante litro;56,60;Pix
+19/05/2026;18:02:33;0197;X-Completo (Padrão),Filé bacon;42,80;Pix
+19/05/2026;18:03:49;0688;Molho da casa,Lombo bacon,Lombo bacon,Frango completo;58,60;Pix
+19/05/2026;18:09:11;0841;Lombo salada,Filé tudo,X-Salada (Padrão),Filé tudo;75,60;Cartão de Débito
+19/05/2026;18:12:04;0452;2xRefrigerante lata,Lombo bacon;23,70;Pix
+19/05/2026;18:14:10;0700;Molho de alho,Lombo bacon,X-Tudo (Artesanal 150g);40,70;Cartão de Crédito
+19/05/2026;18:16:03;0248;3xCerveja Lata;20,70;Dinheiro
+19/05/2026;18:17:43;0029;2xRefrigerante lata;7,80;Dinheiro
+19/05/2026;18:20:38;0161;X-Salada (Artesanal 150g),X-Salada (Padrão),Lombo bacon,Filé salada;81,60;Pix
+19/05/2026;18:23:59;0997;Molho da casa,Lombo completo;26,80;Dinheiro
+19/05/2026;18:36:30;0197;Lombo completo;24,90;Cartão de Débito
+19/05/2026;18:49:09;0792;Refrigerante lata;3,90;Pix
+19/05/2026;19:12:01;0537;Molho da casa;1,90;Pix
+19/05/2026;19:17:38;0483;Refrigerante lata;3,90;Cartão de Crédito
+19/05/2026;19:19:17;0105;Frango bacon,X-Tudo (Padrão),Frango tudo;51,70;Pix
+19/05/2026;19:23:30;0696;Refrigerante lata,3xLombo salada;54,60;Cartão de Débito
+19/05/2026;19:34:00;0365;Filé salada;19,90;Cartão de Crédito
+19/05/2026;19:38:40;0500;2xFrango salada,Filé salada,X-Salada (Artesanal 150g),Filé bacon;100,50;Dinheiro
+19/05/2026;19:54:09;0721;Lombo bacon,Lombo completo;40,80;Cartão de Crédito
+19/05/2026;20:18:11;0446;Lombo tudo;17,90;Cartão de Crédito
+19/05/2026;20:22:09;0628;Frango bacon,Molho da casa,Molho da casa;19,70;Cartão de Débito
+19/05/2026;20:28:25;0859;Lombo completo;24,90;Pix
+19/05/2026;20:32:44;0767;Frango tudo,2xCerveja Lata,Batata frita pequena,Batata frita grande;53,50;Cartão de Crédito
+19/05/2026;20:32:52;0059;X-Completo (Padrão);24,90;Cartão de Crédito
+19/05/2026;20:43:44;0649;Molho da casa;1,90;Dinheiro
+19/05/2026;20:51:01;0434;3xBatata frita pequena,Frango tudo;44,60;Cartão de Crédito
+19/05/2026;20:52:11;0494;Filé tudo,3xMolho de alho,X-Salada (Artesanal 150g);55,50;Cartão de Crédito
+19/05/2026;20:59:20;0716;X-Salada (Padrão);16,90;Pix
+19/05/2026;21:00:22;0569;2xFilé bacon,Lombo bacon,Lombo tudo;69,60;Pix
+19/05/2026;21:06:57;0206;2xX-Completo (Artesanal 150g),X-Tudo (Artesanal 150g),Refrigerante lata;78,60;Cartão de Crédito
+19/05/2026;21:15:27;0857;Batata frita grande,2xX-Bacon (Artesanal 150g),Frango completo;79,60;Cartão de Crédito
+19/05/2026;21:20:38;0495;X-Bacon (Padrão),X-Bacon (Padrão);31,80;Cartão de Crédito
+19/05/2026;21:24:07;0741;Frango bacon;15,90;Dinheiro
+19/05/2026;21:25:02;0093;Batata frita pequena,Refrigerante lata;12,80;Pix
+19/05/2026;21:27:51;0669;X-Salada (Artesanal 150g),X-Salada (Padrão),Molho de alho;47,70;Cartão de Débito
+19/05/2026;21:38:47;0164;Batata frita grande,Molho da casa;14,80;Pix
+19/05/2026;21:38:59;0439;Lombo salada,X-Completo (Artesanal 150g);42,80;Cartão de Crédito
+19/05/2026;21:53:06;0444;Batata frita pequena,Filé salada;28,80;Cartão de Débito
+19/05/2026;21:53:40;0423;X-Tudo (Artesanal 150g),2xX-Tudo (Artesanal 150g);68,70;Dinheiro
+19/05/2026;22:00:11;0953;Refrigerante litro,Frango completo,Molho de alho,Frango completo;59,60;Cartão de Débito
+19/05/2026;22:06:59;0585;Lombo completo,2xRefrigerante litro;40,70;Cartão de Crédito
+19/05/2026;22:08:27;0648;Lombo completo,Molho de alho;26,80;Cartão de Crédito
+19/05/2026;22:12:41;0689;X-Salada (Padrão),Lombo bacon,2xLombo completo,Lombo salada;99,50;Cartão de Débito
+19/05/2026;22:14:42;0405;X-Salada (Artesanal 150g),Refrigerante litro;36,80;Dinheiro
+19/05/2026;22:14:46;0776;X-Bacon (Artesanal 150g);20,90;Cartão de Débito
+19/05/2026;22:18:50;0355;X-Salada (Padrão);16,90;Pix
+19/05/2026;22:25:44;0591;Lombo salada,Refrigerante lata;20,80;Cartão de Crédito
+19/05/2026;22:26:13;0478;X-Bacon (Artesanal 150g),2xX-Tudo (Artesanal 150g),Molho de alho;68,60;Pix
+19/05/2026;22:40:35;0092;X-Salada (Padrão),Batata frita pequena,2xFilé Completo;83,60;Pix
+19/05/2026;22:42:13;0542;X-Tudo (Padrão);17,90;Cartão de Débito
+19/05/2026;22:42:19;0695;Batata frita pequena,Lombo tudo;26,80;Pix
+19/05/2026;22:50:50;0648;2xFilé salada,Molho da casa,X-Bacon (Padrão);57,60;Pix
+19/05/2026;22:51:02;0679;Filé salada,X-Completo (Artesanal 150g),Cerveja Lata,Frango salada;69,60;Cartão de Débito
+19/05/2026;22:51:13;0850;Batata frita pequena,X-Bacon (Padrão);24,80;Pix
+19/05/2026;22:56:12;0721;Cerveja Lata,Refrigerante litro,X-Bacon (Padrão),Frango tudo;48,60;Pix
+19/05/2026;22:56:44;0062;Filé salada,X-Completo (Padrão);44,80;Pix
+19/05/2026;22:59:23;0381;Lombo completo,3xX-Tudo (Artesanal 150g),X-Completo (Padrão);118,50;Cartão de Débito
+19/05/2026;23:06:24;0667;2xX-Bacon (Artesanal 150g),X-Bacon (Artesanal 150g),Lombo tudo,Molho de alho;82,50;Cartão de Crédito
+19/05/2026;23:07:15;0644;Batata frita pequena,Refrigerante lata;12,80;Cartão de Débito
+19/05/2026;23:11:08;0157;Frango completo,Cerveja Lata,X-Salada (Padrão),Frango tudo;66,60;Pix
+19/05/2026;23:16:45;0289;Frango completo,Frango bacon,Cerveja Lata;47,70;Pix
+19/05/2026;23:29:28;0329;Lombo completo,Lombo salada,Filé Completo,2xFrango bacon;102,50;Pix
+19/05/2026;23:31:09;0360;Filé bacon,Frango bacon;33,80;Dinheiro
+19/05/2026;23:33:30;0227;Refrigerante lata,Filé salada,3xLombo salada,Filé salada;94,40;Dinheiro
+19/05/2026;23:37:01;0820;Molho da casa,X-Salada (Artesanal 150g),Refrigerante litro,X-Completo (Artesanal 150g);64,60;Cartão de Débito
+19/05/2026;23:50:21;0439;Molho da casa;1,90;Pix
+19/05/2026;23:50:55;0581;X-Tudo (Artesanal 150g),Filé salada,Batata frita grande;55,70;Cartão de Débito
+19/05/2026;23:53:32;0253;X-Tudo (Artesanal 150g),X-Completo (Artesanal 150g),Frango tudo;66,70;Cartão de Crédito
+20/05/2026;18:06:01;0544;Molho de alho,Lombo bacon,Frango salada;34,70;Cartão de Crédito
+20/05/2026;18:09:19;0023;Refrigerante litro,Molho da casa;9,80;Dinheiro
+20/05/2026;18:27:59;0780;Filé bacon,2xLombo completo;67,70;Cartão de Crédito
+20/05/2026;18:35:00;0162;Filé tudo,Filé salada;40,80;Pix
+20/05/2026;18:59:35;0506;Refrigerante lata;3,90;Pix
+20/05/2026;19:02:34;0674;Filé bacon,Filé Completo,Batata frita grande,Lombo salada;76,60;Cartão de Crédito
+20/05/2026;19:13:46;0096;X-Salada (Padrão),Refrigerante litro,Filé bacon,Batata frita pequena;51,60;Cartão de Crédito
+20/05/2026;19:14:55;0603;X-Completo (Padrão),X-Bacon (Artesanal 150g);45,80;Cartão de Crédito
+20/05/2026;19:15:31;0598;X-Completo (Artesanal 150g),X-Completo (Artesanal 150g),Frango tudo,X-Salada (Padrão);86,60;Cartão de Crédito
+20/05/2026;19:24:00;0807;X-Completo (Artesanal 150g),Filé salada,Refrigerante litro;53,70;Dinheiro
+20/05/2026;19:39:41;0086;Filé bacon,Lombo bacon;33,80;Cartão de Crédito
+20/05/2026;19:48:12;0623;X-Salada (Artesanal 150g);28,90;Cartão de Crédito
+20/05/2026;19:57:46;0704;X-Tudo (Padrão),Frango bacon;33,80;Pix
+20/05/2026;20:03:20;0305;Batata frita grande,Frango salada,Filé bacon;47,70;Pix
+20/05/2026;20:04:06;0191;X-Bacon (Padrão),Frango tudo,2xX-Bacon (Padrão),Refrigerante lata;69,50;Cartão de Crédito
+20/05/2026;20:07:33;0235;Frango completo;24,90;Cartão de Crédito
+20/05/2026;20:36:02;0330;Lombo salada,Lombo bacon,Batata frita pequena;41,70;Cartão de Débito
+20/05/2026;20:36:52;0829;Lombo salada,Lombo salada,Filé Completo;62,70;Cartão de Débito
+20/05/2026;20:44:05;0759;Frango completo,2xFilé salada;64,70;Pix
+20/05/2026;20:47:13;0471;Filé tudo;20,90;Cartão de Débito
+20/05/2026;20:47:51;0581;Refrigerante lata;3,90;Pix
+20/05/2026;20:58:43;0185;Frango completo,X-Tudo (Padrão);42,80;Cartão de Crédito
+20/05/2026;21:03:05;0862;X-Tudo (Padrão),Lombo bacon;33,80;Cartão de Débito
+20/05/2026;21:05:38;0472;X-Salada (Artesanal 150g),Filé salada;48,80;Cartão de Crédito
+20/05/2026;21:06:37;0248;Molho de alho;1,90;Cartão de Débito
+20/05/2026;21:08:59;0399;Frango salada,3xLombo tudo,X-Bacon (Artesanal 150g);91,50;Cartão de Crédito
+20/05/2026;21:10:10;0107;Filé Completo;28,90;Pix
+20/05/2026;21:12:46;0523;Frango completo,Filé salada,Lombo tudo;62,70;Pix
+20/05/2026;21:17:15;0345;Frango bacon,Lombo tudo,Filé bacon,X-Bacon (Padrão);67,60;Cartão de Crédito
+20/05/2026;21:19:41;0255;X-Completo (Artesanal 150g),X-Salada (Padrão),Frango salada,Cerveja Lata;66,60;Cartão de Crédito
+20/05/2026;21:20:07;0890;2xLombo completo,Cerveja Lata,Filé salada,X-Tudo (Artesanal 150g);99,50;Cartão de Crédito
+20/05/2026;21:23:10;0464;2xX-Salada (Padrão);33,80;Cartão de Débito
+20/05/2026;21:23:41;0438;2xFilé tudo;41,80;Cartão de Crédito
+20/05/2026;21:25:30;0740;Filé salada,Refrigerante litro;27,80;Cartão de Débito
+20/05/2026;21:28:27;0736;X-Salada (Artesanal 150g),2xFrango bacon,Filé salada;80,60;Cartão de Crédito
+20/05/2026;21:29:46;0576;Filé bacon,Molho da casa,Filé bacon;37,70;Pix
+20/05/2026;21:32:18;0786;X-Bacon (Padrão),3xCerveja Lata,Frango completo;61,50;Cartão de Crédito
+20/05/2026;21:42:55;0516;X-Bacon (Artesanal 150g),Frango bacon;36,80;Cartão de Débito
+20/05/2026;21:43:09;0477;Frango salada,X-Salada (Padrão);33,80;Cartão de Crédito
+20/05/2026;21:45:43;0939;Filé bacon,X-Tudo (Padrão),Filé salada,2xFrango salada;89,50;Cartão de Débito
+20/05/2026;21:55:47;0668;X-Tudo (Padrão);17,90;Cartão de Crédito
+20/05/2026;21:58:06;0741;2xX-Completo (Padrão),Lombo tudo;67,70;Pix
+20/05/2026;22:08:56;0510;Frango salada;16,90;Cartão de Crédito
+20/05/2026;22:18:01;0158;3xX-Bacon (Padrão),X-Bacon (Artesanal 150g),Frango tudo,Refrigerante litro;94,40;Cartão de Débito
+20/05/2026;22:20:23;0604;Lombo tudo,X-Tudo (Artesanal 150g),X-Tudo (Padrão),X-Bacon (Padrão);74,60;Cartão de Débito
+20/05/2026;22:22:24;0236;Lombo completo,Molho de alho,Cerveja Lata,X-Tudo (Artesanal 150g);56,60;Pix
+20/05/2026;22:22:25;0824;2xFilé Completo;57,80;Dinheiro
+20/05/2026;22:32:35;0758;X-Completo (Artesanal 150g),Filé salada,Cerveja Lata,Frango tudo;70,60;Cartão de Crédito
+20/05/2026;22:33:47;0186;Batata frita grande;12,90;Cartão de Débito
+20/05/2026;22:42:06;0317;X-Bacon (Padrão);15,90;Cartão de Débito
+20/05/2026;22:46:19;0037;Filé bacon,3xFilé tudo;80,60;Pix
+20/05/2026;22:53:53;0260;Molho da casa,Frango completo,Lombo completo,Lombo bacon;67,60;Pix
+20/05/2026;23:09:41;0447;Filé bacon,Filé salada,X-Salada (Artesanal 150g),X-Completo (Padrão);91,60;Cartão de Crédito
+20/05/2026;23:14:12;0252;X-Salada (Artesanal 150g);28,90;Cartão de Crédito
+20/05/2026;23:23:05;0808;Lombo completo,Lombo bacon,X-Completo (Artesanal 150g),Molho da casa;68,60;Cartão de Débito
+20/05/2026;23:32:40;0572;Molho da casa,X-Salada (Padrão),X-Salada (Padrão),X-Completo (Artesanal 150g);61,60;Cartão de Crédito
+20/05/2026;23:32:58;0983;Cerveja Lata,Frango tudo,Frango salada,X-Completo (Artesanal 150g);67,60;Cartão de Crédito
+21/05/2026;18:16:46;0849;X-Salada (Padrão),Cerveja Lata,X-Tudo (Artesanal 150g);46,70;Cartão de Débito
+21/05/2026;18:23:55;0421;Cerveja Lata;6,90;Cartão de Crédito
+21/05/2026;18:34:28;0448;Filé tudo;20,90;Cartão de Débito
+21/05/2026;18:42:36;0239;Lombo bacon,Frango tudo,X-Bacon (Padrão);49,70;Pix
+21/05/2026;18:58:30;0764;Lombo salada;16,90;Pix
+21/05/2026;19:05:46;0719;X-Salada (Artesanal 150g);28,90;Cartão de Débito
+21/05/2026;19:16:48;0309;Lombo salada,Batata frita pequena,Cerveja Lata,Molho de alho;34,60;Cartão de Débito
+21/05/2026;19:16:56;0334;X-Salada (Artesanal 150g),Frango completo,Filé salada,2xMolho da casa;77,50;Cartão de Débito
+21/05/2026;19:17:30;0585;Molho de alho,2xX-Completo (Artesanal 150g),2xX-Completo (Artesanal 150g);105,50;Cartão de Débito
+21/05/2026;19:21:14;0490;Refrigerante litro,2xFilé salada;47,70;Pix
+21/05/2026;19:21:54;0985;Lombo salada,Frango tudo,Refrigerante lata;38,70;Dinheiro
+21/05/2026;19:24:42;0096;Frango salada,Molho da casa;18,80;Cartão de Crédito
+21/05/2026;19:27:36;0598;X-Completo (Padrão);24,90;Cartão de Débito
+21/05/2026;19:30:46;0422;Cerveja Lata,Lombo tudo,2xFrango salada;58,60;Pix
+21/05/2026;19:33:19;0917;2xFilé Completo,X-Completo (Padrão),2xX-Bacon (Artesanal 150g),X-Bacon (Padrão);140,40;Cartão de Crédito
+21/05/2026;19:39:00;0425;Frango bacon,X-Bacon (Padrão),2xLombo tudo;67,60;Cartão de Crédito
+21/05/2026;19:47:07;0723;X-Bacon (Artesanal 150g),X-Tudo (Artesanal 150g),X-Bacon (Padrão),X-Tudo (Artesanal 150g);82,60;Cartão de Crédito
+21/05/2026;19:55:05;0064;Batata frita pequena,Lombo salada,X-Bacon (Artesanal 150g);46,70;Cartão de Crédito
+21/05/2026;20:02:41;0754;2xX-Tudo (Padrão),Filé Completo;64,70;Dinheiro
+21/05/2026;20:05:14;0691;2xFilé salada,X-Tudo (Padrão),Cerveja Lata,Molho de alho;66,50;Dinheiro
+21/05/2026;20:07:30;0690;Lombo bacon;15,90;Dinheiro
+21/05/2026;20:23:42;0030;Lombo tudo;17,90;Dinheiro
+21/05/2026;20:24:07;0719;Frango completo,X-Salada (Artesanal 150g),2xX-Tudo (Padrão);89,60;Cartão de Crédito
+21/05/2026;20:27:34;0625;Molho da casa,Refrigerante lata,X-Bacon (Artesanal 150g);26,70;Pix
+21/05/2026;20:30:40;0667;Lombo tudo,3xLombo bacon,X-Tudo (Padrão),X-Completo (Artesanal 150g);109,40;Pix
+21/05/2026;20:37:09;0476;Batata frita grande,Frango salada,2xMolho de alho,X-Tudo (Padrão);51,50;Cartão de Crédito
+21/05/2026;20:44:53;0195;Refrigerante lata;3,90;Cartão de Crédito
+21/05/2026;20:47:20;0330;2xX-Salada (Padrão);33,80;Pix
+21/05/2026;20:48:44;0663;Refrigerante lata,X-Completo (Artesanal 150g),X-Salada (Padrão);46,70;Cartão de Débito
+21/05/2026;20:49:28;0031;Refrigerante litro,Refrigerante litro;15,80;Pix
+21/05/2026;21:00:33;0589;3xX-Completo (Artesanal 150g),Filé salada,Filé tudo,X-Tudo (Padrão);136,40;Cartão de Crédito
+21/05/2026;21:01:25;0615;2xFilé tudo,Frango salada,Filé salada,2xFrango bacon;110,40;Cartão de Débito
+21/05/2026;21:02:29;0913;2xRefrigerante litro,Frango completo;40,70;Cartão de Crédito
+21/05/2026;21:12:22;0005;X-Salada (Artesanal 150g),Batata frita grande;41,80;Pix
+21/05/2026;21:21:36;0887;X-Completo (Artesanal 150g),Cerveja Lata,2xRefrigerante litro,Frango salada;65,50;Dinheiro
+21/05/2026;21:32:38;0954;2xX-Bacon (Padrão);31,80;Pix
+21/05/2026;22:04:29;0213;X-Tudo (Artesanal 150g);22,90;Dinheiro
+21/05/2026;22:05:02;0687;Filé tudo;20,90;Cartão de Débito
+21/05/2026;22:25:55;0260;Batata frita pequena,2xBatata frita pequena,X-Bacon (Artesanal 150g),2xX-Bacon (Artesanal 150g);89,40;Pix
+21/05/2026;22:47:45;0749;2xBatata frita pequena,X-Bacon (Artesanal 150g),3xBatata frita pequena;65,40;Cartão de Débito
+21/05/2026;22:48:28;0843;Lombo salada;16,90;Pix
+21/05/2026;22:52:12;0780;Frango salada,2xX-Salada (Artesanal 150g),Molho da casa,X-Bacon (Padrão);92,50;Dinheiro
+21/05/2026;22:52:40;0286;X-Tudo (Artesanal 150g),Frango tudo,2xBatata frita pequena;58,60;Cartão de Débito
+21/05/2026;22:53:42;0502;Filé bacon;17,90;Cartão de Crédito
+21/05/2026;22:56:20;0631;2xFilé tudo,Frango salada,Molho de alho;60,60;Cartão de Crédito
+21/05/2026;23:00:45;0174;Frango tudo,Lombo completo;42,80;Pix
+21/05/2026;23:02:29;0157;2xFrango completo;49,80;Cartão de Crédito
+21/05/2026;23:06:54;0158;Lombo tudo,X-Completo (Artesanal 150g),Filé bacon,3xFilé tudo;124,40;Cartão de Débito
+21/05/2026;23:09:39;0129;Refrigerante lata;3,90;Pix
+21/05/2026;23:13:54;0730;Lombo bacon,Refrigerante litro;23,80;Pix
+21/05/2026;23:22:10;0416;Filé tudo,X-Bacon (Padrão);36,80;Cartão de Crédito
+21/05/2026;23:23:58;0164;2xMolho de alho,Molho de alho;5,70;Cartão de Débito
+21/05/2026;23:25:17;0124;X-Bacon (Padrão),2xRefrigerante litro,Molho de alho,X-Completo (Artesanal 150g);59,50;Pix
+21/05/2026;23:30:23;0880;X-Salada (Artesanal 150g),X-Salada (Padrão);45,80;Pix
+21/05/2026;23:37:52;0217;Filé tudo,Frango completo;45,80;Cartão de Débito
+21/05/2026;23:38:16;0199;Frango salada,Batata frita pequena;25,80;Pix
+21/05/2026;23:46:13;0771;Frango bacon,Molho de alho,Frango tudo;35,70;Cartão de Crédito
+22/05/2026;18:03:59;0403;Filé tudo,X-Tudo (Padrão),Filé bacon;56,70;Pix
+22/05/2026;18:06:15;0946;Molho de alho;1,90;Pix
+22/05/2026;18:09:35;0143;2xLombo tudo;35,80;Pix
+22/05/2026;18:21:51;0162;Lombo salada,Molho de alho,Cerveja Lata,X-Tudo (Artesanal 150g);48,60;Dinheiro
+22/05/2026;18:23:01;0352;X-Completo (Artesanal 150g),X-Salada (Artesanal 150g),Batata frita pequena;63,70;Cartão de Débito
+22/05/2026;18:28:52;0782;Cerveja Lata,Molho de alho,Refrigerante lata,X-Salada (Padrão);29,60;Pix
+22/05/2026;18:29:46;0856;Batata frita grande,2xLombo completo,Filé tudo,Lombo tudo;101,50;Cartão de Débito
+22/05/2026;19:00:05;0754;X-Tudo (Padrão),Frango completo,Frango completo,2xLombo bacon;99,50;Cartão de Crédito
+22/05/2026;19:00:39;0536;2xX-Bacon (Padrão),2xFrango bacon,2xFrango bacon,X-Tudo (Artesanal 150g);118,30;Cartão de Débito
+22/05/2026;19:06:20;0396;X-Tudo (Artesanal 150g);22,90;Cartão de Débito
+22/05/2026;19:06:52;0170;Filé Completo,X-Tudo (Artesanal 150g),Batata frita pequena;60,70;Pix
+22/05/2026;19:17:51;0925;Frango tudo;17,90;Pix
+22/05/2026;19:22:40;0510;X-Tudo (Padrão);17,90;Cartão de Crédito
+22/05/2026;19:28:30;0182;X-Bacon (Padrão),Filé salada,X-Completo (Padrão);60,70;Cartão de Crédito
+22/05/2026;19:31:59;0879;Cerveja Lata,Lombo tudo;24,80;Pix
+22/05/2026;19:33:21;0794;Filé bacon,Refrigerante litro,2xFrango completo,3xBatata frita grande;114,30;Cartão de Débito
+22/05/2026;19:45:00;0145;X-Bacon (Artesanal 150g);20,90;Pix
+22/05/2026;19:46:07;0593;X-Bacon (Artesanal 150g),Filé Completo,Lombo salada;66,70;Pix
+22/05/2026;19:46:34;0677;X-Salada (Artesanal 150g),Lombo tudo,3xFilé Completo,X-Tudo (Artesanal 150g);156,40;Cartão de Crédito
+22/05/2026;19:50:59;0548;Frango tudo,Frango tudo;35,80;Pix
+22/05/2026;19:54:44;0851;Molho da casa,Lombo completo,Refrigerante litro;34,70;Cartão de Débito
+22/05/2026;20:05:59;0315;Cerveja Lata;6,90;Dinheiro
+22/05/2026;20:17:02;0607;X-Completo (Padrão),Molho da casa,Cerveja Lata,X-Completo (Artesanal 150g);59,60;Cartão de Crédito
+22/05/2026;20:28:21;0323;Filé bacon;17,90;Pix
+22/05/2026;20:28:36;0399;Lombo bacon,3xCerveja Lata,Frango tudo,Batata frita grande;67,40;Pix
+22/05/2026;20:30:19;0265;X-Salada (Padrão);16,90;Pix
+22/05/2026;20:37:10;0752;Filé tudo,X-Tudo (Padrão),Molho da casa;40,70;Pix
+22/05/2026;20:42:42;0346;Frango completo;24,90;Dinheiro
+22/05/2026;20:44:21;0318;Filé salada,Filé tudo,Cerveja Lata;47,70;Pix
+22/05/2026;20:53:00;0196;Refrigerante lata,Filé Completo,Frango salada,Batata frita grande;62,60;Cartão de Crédito
+22/05/2026;20:55:14;0407;X-Completo (Artesanal 150g),2xRefrigerante litro,X-Bacon (Artesanal 150g),Frango salada;79,50;Cartão de Débito
+22/05/2026;21:05:48;0487;Frango bacon,2xBatata frita grande;41,70;Cartão de Crédito
+22/05/2026;21:06:27;0798;Lombo tudo;17,90;Pix
+22/05/2026;21:07:13;0751;2xLombo completo,Lombo salada,Batata frita pequena,X-Completo (Artesanal 150g);101,50;Cartão de Crédito
+22/05/2026;21:08:53;0263;X-Salada (Padrão);16,90;Cartão de Crédito
+22/05/2026;21:10:23;0287;2xFrango salada,X-Bacon (Padrão);49,70;Pix
+22/05/2026;21:16:18;0233;Frango salada,Frango tudo,2xX-Completo (Padrão),Lombo tudo;102,50;Cartão de Débito
+22/05/2026;21:21:11;0327;Lombo salada,Filé salada;36,80;Cartão de Débito
+22/05/2026;21:23:14;0269;Frango bacon;15,90;Pix
+22/05/2026;21:25:25;0156;X-Completo (Padrão),Filé salada,X-Tudo (Padrão),Frango tudo;80,60;Pix
+22/05/2026;21:27:47;0685;Molho de alho,Refrigerante litro,Molho da casa;11,70;Dinheiro
+22/05/2026;21:32:51;0610;3xX-Tudo (Padrão);53,70;Cartão de Débito
+22/05/2026;21:34:49;0540;Lombo salada,Filé Completo,Frango bacon,Lombo tudo;79,60;Dinheiro
+22/05/2026;21:52:27;0861;Lombo tudo,X-Tudo (Artesanal 150g);40,80;Cartão de Débito
+22/05/2026;21:54:16;0505;Refrigerante lata;3,90;Pix
+22/05/2026;21:55:05;0714;X-Tudo (Padrão),X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g),X-Completo (Padrão);94,60;Pix
+22/05/2026;21:56:08;0373;Batata frita grande,X-Completo (Artesanal 150g),X-Salada (Artesanal 150g),X-Bacon (Artesanal 150g);88,60;Cartão de Crédito
+22/05/2026;21:58:09;0321;Molho da casa,X-Bacon (Padrão),2xFilé bacon;53,60;Cartão de Crédito
+22/05/2026;22:04:20;0476;Batata frita grande;12,90;Cartão de Débito
+22/05/2026;22:06:35;0765;Lombo salada;16,90;Cartão de Débito
+22/05/2026;22:15:14;0549;Frango salada,X-Completo (Padrão);41,80;Cartão de Débito
+22/05/2026;22:16:56;0952;Frango salada,X-Tudo (Artesanal 150g),Batata frita pequena;48,70;Pix
+22/05/2026;22:42:50;0102;Molho da casa,Filé tudo,Frango completo,Filé salada;67,60;Pix
+22/05/2026;22:48:34;0296;Filé Completo,Filé salada,Molho de alho,2xBatata frita grande;76,50;Pix
+22/05/2026;22:50:06;0378;Molho de alho,X-Salada (Padrão);18,80;Pix
+22/05/2026;23:03:10;0412;2xFilé Completo,Filé Completo,2xFilé Completo;144,50;Pix
+22/05/2026;23:09:37;0691;Frango salada;16,90;Cartão de Crédito
+22/05/2026;23:12:29;0811;Filé bacon,X-Bacon (Padrão),Lombo bacon;49,70;Pix
+22/05/2026;23:15:13;0930;Batata frita grande;12,90;Pix
+22/05/2026;23:30:40;0509;Frango bacon,Refrigerante litro,Refrigerante lata,Filé bacon;45,60;Cartão de Débito
+22/05/2026;23:35:15;0876;X-Tudo (Padrão),X-Tudo (Padrão),Filé tudo;56,70;Cartão de Débito
+22/05/2026;23:39:38;0790;X-Completo (Artesanal 150g),Filé salada,2xFilé tudo,Filé tudo;108,50;Pix
+22/05/2026;23:48:43;0270;Frango bacon,Cerveja Lata,Lombo bacon;38,70;Dinheiro
+22/05/2026;23:50:35;0763;Frango salada,Filé salada,X-Completo (Artesanal 150g);62,70;Cartão de Crédito
+22/05/2026;23:51:14;0053;X-Bacon (Padrão),Lombo salada;32,80;Cartão de Débito
+23/05/2026;18:00:53;0458;2xBatata frita pequena,X-Completo (Padrão),Frango completo,3xX-Tudo (Padrão);121,30;Cartão de Crédito
+23/05/2026;18:05:01;0130;Filé bacon,Lombo salada,Molho de alho;36,70;Cartão de Crédito
+23/05/2026;18:16:47;0235;Frango bacon,Filé salada,X-Salada (Artesanal 150g);64,70;Pix
+23/05/2026;18:30:45;0036;Lombo bacon,Frango completo,Lombo tudo,X-Salada (Artesanal 150g);87,60;Dinheiro
+23/05/2026;18:36:10;0493;Molho de alho,X-Completo (Artesanal 150g),2xX-Tudo (Padrão),X-Completo (Padrão);88,50;Cartão de Crédito
+23/05/2026;18:44:11;0833;X-Tudo (Padrão),Molho da casa;19,80;Cartão de Crédito
+23/05/2026;18:45:29;0909;2xLombo tudo,X-Salada (Padrão),Frango tudo,X-Completo (Padrão);95,50;Cartão de Débito
+23/05/2026;18:52:19;0724;Filé bacon;17,90;Pix
+23/05/2026;18:57:44;0154;X-Bacon (Padrão),Frango bacon,3xLombo tudo,X-Tudo (Artesanal 150g);108,40;Pix
+23/05/2026;19:07:01;0301;X-Salada (Artesanal 150g);28,90;Cartão de Crédito
+23/05/2026;19:10:27;0621;Filé Completo;28,90;Pix
+23/05/2026;19:16:58;0365;X-Completo (Padrão);24,90;Pix
+23/05/2026;19:17:44;0123;X-Tudo (Artesanal 150g),Batata frita grande;35,80;Dinheiro
+23/05/2026;19:22:21;0048;Molho da casa;1,90;Pix
+23/05/2026;19:25:26;0372;Frango tudo,Frango salada,Molho da casa,Filé Completo;65,60;Cartão de Crédito
+23/05/2026;19:27:26;0875;Batata frita pequena,Filé Completo,Filé bacon;55,70;Cartão de Crédito
+23/05/2026;19:32:59;0624;X-Tudo (Artesanal 150g);22,90;Pix
+23/05/2026;19:38:40;0642;Batata frita pequena,Batata frita grande,X-Salada (Artesanal 150g),X-Salada (Artesanal 150g);79,60;Pix
+23/05/2026;19:41:19;0564;2xX-Salada (Padrão),Batata frita grande,Refrigerante lata;50,60;Pix
+23/05/2026;19:41:56;0522;2xX-Bacon (Padrão),Frango bacon,Molho da casa;49,60;Cartão de Crédito
+23/05/2026;19:42:10;0261;Lombo bacon,Molho de alho;17,80;Cartão de Débito
+23/05/2026;19:44:16;0049;Frango bacon,Lombo completo,X-Salada (Artesanal 150g);69,70;Dinheiro
+23/05/2026;20:14:57;0242;Filé Completo,Filé Completo,Frango completo;82,70;Cartão de Débito
+23/05/2026;20:15:40;0514;X-Tudo (Padrão),Filé salada,X-Completo (Padrão);62,70;Cartão de Crédito
+23/05/2026;20:21:30;0057;X-Tudo (Artesanal 150g),Lombo completo,2xLombo completo,Lombo tudo;115,50;Cartão de Crédito
+23/05/2026;20:27:22;0468;2xBatata frita pequena,Filé salada;37,70;Cartão de Débito
+23/05/2026;20:39:55;0701;Lombo bacon,Filé bacon,2xLombo completo;83,60;Cartão de Crédito
+23/05/2026;20:44:51;0051;Filé bacon,Filé Completo;46,80;Cartão de Débito
+23/05/2026;20:48:45;0090;X-Salada (Artesanal 150g);28,90;Cartão de Crédito
+23/05/2026;20:57:13;0063;X-Completo (Artesanal 150g),Filé bacon,2xLombo completo,Frango completo;118,50;Cartão de Crédito
+23/05/2026;20:59:16;0047;Filé salada,Cerveja Lata,2xFrango completo;76,60;Pix
+23/05/2026;21:06:05;0984;Refrigerante litro;7,90;Dinheiro
+23/05/2026;21:08:05;0653;Cerveja Lata;6,90;Cartão de Débito
+23/05/2026;21:08:59;0908;Filé Completo,Batata frita grande,Batata frita grande,X-Tudo (Artesanal 150g);77,60;Cartão de Crédito
+23/05/2026;21:12:10;0238;X-Tudo (Padrão);17,90;Cartão de Débito
+23/05/2026;21:17:16;0313;Molho da casa;1,90;Pix
+23/05/2026;21:24:15;0112;Frango bacon;15,90;Pix
+23/05/2026;21:30:14;0414;X-Salada (Padrão);16,90;Cartão de Crédito
+23/05/2026;21:31:34;0507;Batata frita pequena,Cerveja Lata,3xLombo completo,2xFilé tudo;132,30;Cartão de Débito
+23/05/2026;21:36:24;0217;Lombo bacon,Batata frita grande,Filé bacon;46,70;Pix
+23/05/2026;21:45:38;0134;2xX-Completo (Artesanal 150g);51,80;Pix
+23/05/2026;21:58:46;0889;X-Bacon (Artesanal 150g);20,90;Cartão de Crédito
+23/05/2026;22:01:52;0124;Frango salada,Filé tudo;37,80;Dinheiro
+23/05/2026;22:02:57;0382;Filé tudo,Lombo bacon;36,80;Pix
+23/05/2026;22:05:53;0514;2xFilé tudo,Molho da casa,X-Completo (Padrão);68,60;Pix
+23/05/2026;22:06:34;0258;Batata frita pequena;8,90;Dinheiro
+23/05/2026;22:10:28;0153;Frango tudo,Frango completo;42,80;Pix
+23/05/2026;22:12:32;0103;X-Completo (Padrão);24,90;Cartão de Crédito
+23/05/2026;22:21:12;0223;Lombo completo,Filé Completo;53,80;Cartão de Crédito
+23/05/2026;22:26:09;0847;X-Salada (Padrão),Molho de alho,Filé bacon,Batata frita grande;49,60;Cartão de Crédito
+23/05/2026;22:29:18;0834;Cerveja Lata;6,90;Cartão de Débito
+23/05/2026;22:31:18;0781;X-Salada (Artesanal 150g),Lombo tudo,X-Salada (Artesanal 150g),Batata frita pequena;84,60;Cartão de Crédito
+23/05/2026;22:41:59;0244;Frango bacon;15,90;Dinheiro
+23/05/2026;22:54:05;0450;X-Bacon (Padrão),Filé Completo;44,80;Pix
+23/05/2026;22:57:21;0888;2xLombo tudo,Lombo tudo;53,70;Cartão de Crédito
+23/05/2026;22:59:00;0319;X-Tudo (Artesanal 150g),Frango completo,Filé bacon;65,70;Cartão de Crédito
+23/05/2026;23:00:11;0030;X-Completo (Padrão);24,90;Pix
+23/05/2026;23:00:19;0284;X-Bacon (Artesanal 150g),X-Tudo (Padrão),Molho de alho,Lombo completo;65,60;Cartão de Crédito
+23/05/2026;23:03:46;0503;X-Tudo (Artesanal 150g),Frango salada,Lombo bacon;55,70;Cartão de Débito
+23/05/2026;23:05:03;0027;Frango completo,2xFilé Completo,2xRefrigerante litro,3xFrango tudo;152,20;Cartão de Débito
+23/05/2026;23:09:24;0903;X-Salada (Padrão),Lombo completo,X-Tudo (Padrão),Cerveja Lata;66,60;Dinheiro
+23/05/2026;23:11:23;0646;Frango tudo,Batata frita grande,Frango tudo,X-Completo (Padrão);73,60;Pix
+23/05/2026;23:18:54;0402;Frango completo;24,90;Cartão de Crédito
+23/05/2026;23:23:12;0118;2xLombo tudo,Filé tudo;56,70;Pix
+23/05/2026;23:30:11;0784;2xBatata frita grande,2xX-Completo (Padrão),X-Bacon (Artesanal 150g),Lombo salada;113,40;Cartão de Débito
+23/05/2026;23:32:21;0347;X-Salada (Padrão);16,90;Cartão de Crédito
+23/05/2026;23:32:22;0419;Filé tudo;20,90;Pix
+23/05/2026;23:48:42;0191;X-Tudo (Padrão),X-Bacon (Padrão),Filé tudo;54,70;Dinheiro
+23/05/2026;23:51:45;0703;X-Tudo (Artesanal 150g),Frango tudo;40,80;Dinheiro
+23/05/2026;23:56:28;0574;X-Tudo (Artesanal 150g),X-Bacon (Artesanal 150g),X-Bacon (Artesanal 150g);64,70;Pix
+24/05/2026;18:03:31;0246;Frango completo;24,90;Cartão de Débito
+24/05/2026;18:09:54;0625;Frango salada,X-Completo (Artesanal 150g);42,80;Cartão de Crédito
+24/05/2026;18:14:03;0402;2xX-Tudo (Padrão),2xLombo salada,X-Tudo (Padrão);87,50;Pix
+24/05/2026;18:18:25;0907;X-Salada (Artesanal 150g),Molho da casa,X-Tudo (Artesanal 150g);53,70;Cartão de Crédito
+24/05/2026;18:40:33;0103;Lombo bacon;15,90;Cartão de Crédito
+24/05/2026;18:48:21;0437;Frango completo,Lombo bacon,Lombo completo,Refrigerante lata;69,60;Cartão de Crédito
+24/05/2026;18:50:52;0428;3xFrango tudo;53,70;Cartão de Débito
+24/05/2026;18:50:54;0608;2xFrango bacon;31,80;Pix
+24/05/2026;19:02:31;0062;2xRefrigerante litro,Filé salada,Filé Completo,X-Salada (Padrão);81,50;Cartão de Débito
+24/05/2026;19:02:51;0573;Frango completo,2xX-Completo (Padrão),X-Bacon (Padrão);90,60;Cartão de Crédito
+24/05/2026;19:16:14;0644;X-Completo (Artesanal 150g),Filé tudo;46,80;Cartão de Crédito
+24/05/2026;19:17:42;0883;Batata frita pequena;8,90;Pix
+24/05/2026;19:21:42;0791;X-Tudo (Padrão),X-Tudo (Padrão),X-Tudo (Padrão);53,70;Cartão de Crédito
+24/05/2026;19:24:59;0052;Filé salada,Molho de alho;21,80;Cartão de Crédito
+24/05/2026;19:29:38;0759;Filé salada;19,90;Cartão de Crédito
+24/05/2026;19:51:17;0405;Filé bacon;17,90;Cartão de Débito
+24/05/2026;19:53:19;0802;2xX-Bacon (Padrão);31,80;Cartão de Débito
+24/05/2026;19:56:52;0014;2xRefrigerante litro,Lombo salada,Batata frita pequena;41,60;Pix
+24/05/2026;20:03:56;0682;Frango bacon,Molho da casa,X-Completo (Padrão);42,70;Cartão de Crédito
+24/05/2026;20:05:08;0753;X-Tudo (Artesanal 150g),Filé Completo;51,80;Dinheiro
+24/05/2026;20:12:48;0670;Molho de alho,Frango salada,Refrigerante litro,X-Tudo (Artesanal 150g);49,60;Pix
+24/05/2026;20:49:05;0462;Filé bacon,Batata frita pequena;26,80;Pix
+24/05/2026;20:50:22;0440;Lombo bacon,X-Completo (Padrão);40,80;Cartão de Crédito
+24/05/2026;21:01:38;0457;Lombo bacon,Lombo bacon;31,80;Pix
+24/05/2026;21:14:40;0873;2xX-Bacon (Padrão),Lombo completo;56,70;Dinheiro
+24/05/2026;21:16:57;0881;Lombo tudo;17,90;Cartão de Crédito
+24/05/2026;21:29:27;0001;Lombo completo;24,90;Cartão de Débito
+24/05/2026;21:48:34;0785;X-Completo (Artesanal 150g),Lombo salada;42,80;Pix
+24/05/2026;21:57:48;0219;2xFilé tudo,2xX-Salada (Artesanal 150g),Filé Completo;128,50;Cartão de Débito
+24/05/2026;22:06:26;0825;X-Salada (Padrão),Refrigerante litro,Molho de alho,X-Tudo (Padrão);44,60;Pix
+24/05/2026;22:10:49;0350;2xX-Salada (Padrão),Molho de alho;35,70;Cartão de Crédito
+24/05/2026;22:12:13;0496;2xRefrigerante litro;15,80;Pix
+24/05/2026;22:13:55;0659;Frango tudo;17,90;Pix
+24/05/2026;22:15:57;0966;3xLombo tudo;53,70;Pix
+24/05/2026;22:23:09;0274;Lombo salada,2xCerveja Lata;30,70;Pix
+24/05/2026;22:24:14;0831;Batata frita pequena,X-Bacon (Padrão);24,80;Pix
+24/05/2026;22:26:10;0814;Refrigerante lata,X-Bacon (Artesanal 150g),Lombo tudo;42,70;Pix
+24/05/2026;22:37:05;0533;Cerveja Lata,X-Tudo (Padrão);24,80;Pix
+24/05/2026;22:46:56;0750;Batata frita pequena,Refrigerante litro,3xLombo completo,Molho de alho;93,40;Cartão de Débito
+24/05/2026;23:01:03;0852;2xFilé salada,Frango salada,Lombo completo,3xMolho da casa;87,30;Cartão de Débito
+24/05/2026;23:01:41;0666;2xBatata frita grande,X-Salada (Padrão),X-Bacon (Padrão);58,60;Cartão de Débito
+24/05/2026;23:02:28;0044;X-Completo (Artesanal 150g);25,90;Cartão de Crédito
+24/05/2026;23:04:50;0970;Frango completo,2xRefrigerante lata;32,70;Pix
+24/05/2026;23:08:13;0019;2xLombo salada,X-Tudo (Padrão),Filé Completo;80,60;Cartão de Débito
+24/05/2026;23:19:27;0500;X-Tudo (Artesanal 150g),Batata frita pequena,2xFrango completo;81,60;Cartão de Crédito
+24/05/2026;23:19:57;0132;X-Salada (Artesanal 150g),X-Completo (Padrão);53,80;Dinheiro
+24/05/2026;23:30:16;0498;Filé salada,Filé bacon;37,80;Pix
+24/05/2026;23:43:26;0467;Lombo salada,X-Bacon (Padrão),Frango tudo,2xX-Tudo (Artesanal 150g);96,50;Dinheiro
+24/05/2026;23:44:51;0029;Filé salada;19,90;Cartão de Débito
+24/05/2026;23:58:34;0316;Molho de alho,Frango tudo,3xBatata frita grande,Cerveja Lata;65,40;Cartão de Crédito
+24/05/2026;23:59:07;0481;Cerveja Lata,Batata frita pequena;15,80;Cartão de Débito
+25/05/2026;18:03:56;0034;Batata frita grande;12,90;Cartão de Crédito
+25/05/2026;18:06:02;0963;Batata frita grande,Batata frita pequena,Lombo salada;38,70;Dinheiro
+25/05/2026;18:15:49;0376;Frango bacon;15,90;Pix
+25/05/2026;18:23:54;0257;Filé Completo,2xX-Completo (Padrão);78,70;Cartão de Crédito
+25/05/2026;18:27:55;0636;3xCerveja Lata,X-Salada (Padrão),Filé Completo;66,50;Cartão de Débito
+25/05/2026;18:32:43;0451;Molho de alho,X-Salada (Artesanal 150g),X-Completo (Artesanal 150g),2xFilé tudo;98,50;Cartão de Crédito
+25/05/2026;18:35:16;0237;Batata frita grande,2xFrango completo;62,70;Cartão de Crédito
+25/05/2026;18:38:10;0314;2xMolho de alho,X-Completo (Artesanal 150g),2xFilé salada,Frango tudo;87,40;Cartão de Crédito
+25/05/2026;18:43:22;0651;2xX-Bacon (Padrão),X-Completo (Artesanal 150g),Filé Completo,Frango completo;111,50;Cartão de Crédito
+25/05/2026;18:47:32;0750;2xX-Bacon (Artesanal 150g),X-Completo (Padrão),Batata frita grande,X-Bacon (Artesanal 150g);100,50;Cartão de Débito
+25/05/2026;18:47:51;0262;Batata frita grande;12,90;Cartão de Crédito
+25/05/2026;19:01:56;0493;X-Completo (Padrão),2xFilé tudo;66,70;Pix
+25/05/2026;19:08:20;0222;Molho de alho,X-Salada (Artesanal 150g);30,80;Cartão de Débito
+25/05/2026;19:14:48;0469;Filé salada,2xBatata frita grande,Molho da casa,Filé tudo;68,50;Cartão de Débito
+25/05/2026;19:16:26;0829;X-Tudo (Artesanal 150g),X-Completo (Artesanal 150g);48,80;Cartão de Débito
+25/05/2026;19:23:22;0673;X-Bacon (Padrão),X-Completo (Padrão);40,80;Pix
+25/05/2026;19:27:40;0867;X-Bacon (Artesanal 150g),X-Tudo (Padrão);38,80;Pix
+25/05/2026;19:33:17;0800;X-Salada (Artesanal 150g),3xX-Completo (Artesanal 150g),Filé Completo,X-Tudo (Artesanal 150g);158,40;Cartão de Débito
+25/05/2026;19:34:07;0356;Filé salada,Molho da casa;21,80;Cartão de Crédito
+25/05/2026;19:35:44;0518;Frango salada,Molho de alho;18,80;Cartão de Crédito
+25/05/2026;19:44:33;0309;2xX-Completo (Padrão);49,80;Cartão de Débito
+25/05/2026;19:44:52;0484;Frango bacon;15,90;Pix
+25/05/2026;19:47:39;0863;2xLombo salada,Lombo bacon,Lombo bacon;65,60;Cartão de Crédito
+25/05/2026;20:00:12;0583;Filé salada,X-Bacon (Artesanal 150g);40,80;Cartão de Débito
+25/05/2026;20:01:45;0281;Frango completo,Filé tudo;45,80;Pix
+25/05/2026;20:06:30;0694;Frango salada;16,90;Dinheiro
+25/05/2026;20:26:29;0876;Lombo bacon,Lombo tudo,Molho da casa,Lombo bacon;51,60;Pix
+25/05/2026;20:29:28;0529;Molho de alho,2xFilé salada,Batata frita pequena,Molho da casa;52,50;Cartão de Débito
+25/05/2026;20:33:01;0305;Lombo salada,X-Completo (Artesanal 150g),Lombo salada;59,70;Cartão de Débito
+25/05/2026;20:35:39;0409;Filé tudo,2xLombo tudo,Molho de alho,Frango salada;75,50;Cartão de Débito
+25/05/2026;20:39:16;0346;Molho de alho,Batata frita grande;14,80;Cartão de Débito
+25/05/2026;20:44:27;0620;Frango bacon,Batata frita grande,X-Bacon (Artesanal 150g),X-Bacon (Padrão);65,60;Pix
+25/05/2026;20:50:05;0203;Frango bacon,Frango salada,Lombo salada;49,70;Pix
+25/05/2026;21:01:40;0546;X-Completo (Artesanal 150g),X-Bacon (Padrão);41,80;Pix
+25/05/2026;21:08:56;0733;X-Salada (Padrão),Lombo completo,Filé bacon,3xLombo completo;134,40;Cartão de Débito
+25/05/2026;21:19:19;0288;X-Salada (Artesanal 150g),Cerveja Lata;35,80;Cartão de Débito
+25/05/2026;21:26:46;0340;X-Bacon (Artesanal 150g);20,90;Cartão de Débito
+25/05/2026;21:33:21;0633;2xMolho da casa,X-Bacon (Padrão),Refrigerante litro,Batata frita grande;40,50;Cartão de Débito
+25/05/2026;21:33:56;0561;2xLombo bacon;31,80;Dinheiro
+25/05/2026;21:37:26;0657;X-Tudo (Artesanal 150g),Frango completo,Frango completo;72,70;Cartão de Crédito
+25/05/2026;21:48:29;0187;Lombo completo,2xFrango tudo,Refrigerante lata,2xFrango salada;98,40;Cartão de Débito
+25/05/2026;22:06:16;0488;Filé tudo,Filé bacon,Cerveja Lata;45,70;Cartão de Crédito
+25/05/2026;22:10:22;0021;2xFrango completo,Cerveja Lata;56,70;Pix
+25/05/2026;22:10:45;0502;X-Salada (Artesanal 150g),Frango salada,X-Tudo (Artesanal 150g),Lombo salada;85,60;Pix
+25/05/2026;22:18:59;0143;X-Completo (Artesanal 150g);25,90;Cartão de Débito
+25/05/2026;22:19:32;0674;Frango bacon,Cerveja Lata,Lombo completo,Filé Completo;76,60;Cartão de Crédito
+25/05/2026;22:26:58;0329;2xX-Tudo (Artesanal 150g);45,80;Pix
+25/05/2026;22:32:31;0597;Batata frita pequena,X-Bacon (Artesanal 150g),2xX-Salada (Artesanal 150g),X-Bacon (Artesanal 150g);108,50;Cartão de Débito
+25/05/2026;22:32:35;0998;2xFilé salada,Frango tudo,X-Completo (Artesanal 150g),Filé bacon;101,50;Pix
+25/05/2026;22:35:17;0356;Cerveja Lata;6,90;Pix
+25/05/2026;23:10:09;0692;Batata frita grande,2xBatata frita pequena,X-Completo (Artesanal 150g),Refrigerante litro;64,50;Pix
+25/05/2026;23:10:34;0872;Filé tudo,Refrigerante litro,Refrigerante lata,Molho da casa;34,60;Cartão de Débito
+25/05/2026;23:11:47;0366;Cerveja Lata,Refrigerante litro,Molho de alho,Frango salada;33,60;Dinheiro
+25/05/2026;23:26:58;0578;X-Bacon (Artesanal 150g);20,90;Pix
+25/05/2026;23:30:49;0708;Lombo bacon,2xFrango tudo,Filé tudo;72,60;Pix
+25/05/2026;23:37:24;0020;2xBatata frita grande,Frango completo;50,70;Cartão de Crédito
+25/05/2026;23:39:06;0209;Lombo bacon,Filé bacon;33,80;Cartão de Crédito
+25/05/2026;23:41:16;0776;Lombo completo,Molho da casa,Molho de alho;28,70;Cartão de Crédito
+25/05/2026;23:47:21;0836;Refrigerante lata,X-Bacon (Artesanal 150g);24,80;Cartão de Crédito
+26/05/2026;18:01:18;0145;2xLombo bacon,X-Completo (Padrão),Filé bacon,Refrigerante litro;82,50;Cartão de Crédito
+26/05/2026;18:19:16;0955;X-Salada (Padrão),3xX-Tudo (Padrão),Lombo salada,2xX-Completo (Artesanal 150g);139,30;Dinheiro
+26/05/2026;18:27:30;0499;Molho de alho,Batata frita pequena,Molho de alho;12,70;Cartão de Débito
+26/05/2026;18:28:17;0382;Cerveja Lata,Frango bacon;22,80;Cartão de Débito
+26/05/2026;18:32:20;0813;Molho da casa,Lombo completo;26,80;Cartão de Débito
+26/05/2026;18:32:47;0853;2xFilé tudo;41,80;Dinheiro
+26/05/2026;18:36:38;0015;Frango bacon,Batata frita pequena,X-Bacon (Artesanal 150g),X-Bacon (Padrão);61,60;Cartão de Crédito
+26/05/2026;18:38:17;0729;Batata frita pequena,2xX-Salada (Artesanal 150g);66,70;Cartão de Crédito
+26/05/2026;18:40:11;0428;Refrigerante lata,2xX-Completo (Artesanal 150g);55,70;Cartão de Débito
+26/05/2026;18:40:28;0967;Refrigerante lata,Frango completo;28,80;Cartão de Crédito
+26/05/2026;18:42:39;0004;2xBatata frita pequena,Cerveja Lata,Batata frita pequena;33,60;Pix
+26/05/2026;18:42:41;0658;3xX-Completo (Padrão),Cerveja Lata,X-Tudo (Artesanal 150g);104,50;Cartão de Débito
+26/05/2026;18:47:38;0775;Refrigerante lata,Lombo completo,X-Tudo (Artesanal 150g);51,70;Pix
+26/05/2026;18:55:31;0837;Lombo salada,Frango tudo,Cerveja Lata,Lombo tudo;59,60;Pix
+26/05/2026;18:55:34;0291;Filé bacon,Frango completo,X-Tudo (Artesanal 150g),X-Bacon (Artesanal 150g);86,60;Cartão de Crédito
+26/05/2026;18:56:56;0728;Molho de alho,Frango tudo,Molho de alho;21,70;Cartão de Débito
+26/05/2026;19:08:36;0478;2xX-Completo (Artesanal 150g),Frango bacon;67,70;Cartão de Crédito
+26/05/2026;19:09:40;0744;Filé salada,2xFrango bacon;51,70;Cartão de Crédito
+26/05/2026;19:10:34;0461;2xLombo salada;33,80;Pix
+26/05/2026;19:13:52;0285;Cerveja Lata,Frango bacon,X-Salada (Padrão),2xX-Completo (Artesanal 150g);91,50;Cartão de Crédito
+26/05/2026;19:15:49;0397;Lombo bacon;15,90;Pix
+26/05/2026;19:17:39;0008;Lombo salada,Refrigerante litro;24,80;Pix
+26/05/2026;19:18:48;0709;Frango bacon;15,90;Dinheiro
+26/05/2026;19:19:43;0626;2xMolho da casa,2xX-Salada (Artesanal 150g);61,60;Cartão de Débito
+26/05/2026;19:32:37;0501;Refrigerante lata,Frango bacon;19,80;Pix
+26/05/2026;19:32:40;0448;Batata frita grande,Filé tudo,Lombo salada,Refrigerante lata;54,60;Cartão de Débito
+26/05/2026;19:41:47;0007;Filé salada,X-Bacon (Padrão),Filé bacon;53,70;Pix
+26/05/2026;19:44:14;0343;X-Salada (Padrão),2xLombo bacon;48,70;Dinheiro
+26/05/2026;19:45:52;0104;X-Bacon (Artesanal 150g),Frango salada,Molho de alho;39,70;Cartão de Crédito
+26/05/2026;19:50:20;0092;Frango salada,Filé tudo,Batata frita pequena,X-Salada (Padrão);63,60;Pix
+26/05/2026;20:00:22;0132;X-Tudo (Artesanal 150g),Lombo tudo,X-Salada (Padrão),X-Completo (Artesanal 150g);83,60;Pix
+26/05/2026;20:01:19;0665;Lombo bacon,Molho de alho,2xFrango tudo,X-Completo (Padrão);78,50;Cartão de Débito
+26/05/2026;20:11:19;0371;Refrigerante litro,2xCerveja Lata,Lombo bacon;37,60;Pix
+26/05/2026;20:13:56;0512;Frango tudo;17,90;Dinheiro
+26/05/2026;20:14:50;0738;Filé tudo;20,90;Cartão de Crédito
+26/05/2026;20:16:55;0104;2xFrango bacon;31,80;Dinheiro
+26/05/2026;20:18:58;0570;Frango bacon,Frango tudo,Molho da casa,Filé tudo;56,60;Pix
+26/05/2026;20:25:16;0638;Frango completo;24,90;Pix
+26/05/2026;20:27:37;0695;Cerveja Lata;6,90;Pix
+26/05/2026;20:28:27;0277;2xX-Bacon (Artesanal 150g),Lombo salada,2xLombo salada;92,50;Pix
+26/05/2026;21:10:48;0488;X-Tudo (Artesanal 150g);22,90;Cartão de Crédito
+26/05/2026;21:15:58;0891;Lombo completo,X-Salada (Padrão),Frango completo;66,70;Cartão de Crédito
+26/05/2026;21:33:13;0608;Frango bacon;15,90;Pix
+26/05/2026;21:35:26;0008;X-Tudo (Padrão),X-Salada (Padrão),Refrigerante lata,X-Completo (Padrão);63,60;Pix
+26/05/2026;21:36:32;0025;Lombo completo,2xBatata frita pequena,Cerveja Lata,2xX-Bacon (Padrão);81,40;Cartão de Débito
+26/05/2026;21:44:45;0588;Batata frita grande,Batata frita grande,X-Completo (Padrão),Lombo completo;75,60;Pix
+26/05/2026;22:00:53;0184;X-Completo (Padrão),Lombo salada,X-Completo (Padrão);66,70;Pix
+26/05/2026;22:11:48;0297;Cerveja Lata,Filé bacon,Lombo tudo,Filé salada;62,60;Cartão de Crédito
+26/05/2026;22:12:42;0208;Frango completo,X-Completo (Artesanal 150g);50,80;Pix
+26/05/2026;22:15:06;0383;2xLombo salada;33,80;Cartão de Crédito
+26/05/2026;22:33:27;0280;Frango bacon,Frango salada,Molho de alho;34,70;Pix
+26/05/2026;22:39:07;0684;Filé tudo,Filé tudo,X-Salada (Artesanal 150g);70,70;Cartão de Débito
+26/05/2026;22:42:59;0549;Filé tudo,Refrigerante litro,Batata frita grande,2xBatata frita grande;67,50;Cartão de Crédito
+26/05/2026;23:12:58;0614;X-Completo (Artesanal 150g),X-Salada (Padrão),X-Completo (Artesanal 150g);68,70;Pix
+26/05/2026;23:13:14;0916;3xLombo bacon,Frango completo,Filé salada;92,50;Cartão de Crédito
+26/05/2026;23:23:59;0039;X-Bacon (Artesanal 150g),Refrigerante litro;28,80;Pix
+26/05/2026;23:43:55;0034;Filé tudo,Frango bacon,2xFrango tudo,Frango tudo;90,50;Cartão de Débito
+26/05/2026;23:48:27;0889;2xX-Salada (Padrão),2xX-Completo (Padrão),Lombo tudo;101,50;Cartão de Crédito
+26/05/2026;23:49:40;0333;X-Tudo (Padrão),2xX-Salada (Padrão),Cerveja Lata,Frango tudo;76,50;Cartão de Débito
+26/05/2026;23:50:02;0904;Lombo bacon,2xCerveja Lata,Filé bacon,X-Tudo (Artesanal 150g);70,50;Pix
+27/05/2026;18:03:51;0011;X-Completo (Padrão);24,90;Cartão de Crédito
+27/05/2026;18:19:17;0630;Frango tudo,2xFrango completo,2xFilé salada;107,50;Dinheiro
+27/05/2026;18:20:05;0591;Batata frita pequena;8,90;Pix
+27/05/2026;18:20:50;0040;X-Bacon (Artesanal 150g);20,90;Dinheiro
+27/05/2026;18:26:23;0243;Filé Completo;28,90;Pix
+27/05/2026;18:29:28;0100;X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g),Frango bacon;67,70;Cartão de Crédito
+27/05/2026;18:33:42;0595;Frango salada;16,90;Cartão de Débito
+27/05/2026;18:35:31;0055;Frango bacon,Frango completo,X-Bacon (Padrão);56,70;Pix
+27/05/2026;18:36:00;0123;Frango tudo,X-Salada (Artesanal 150g),2xFilé bacon,X-Tudo (Artesanal 150g);105,50;Cartão de Crédito
+27/05/2026;18:39:15;0275;Filé tudo,Filé salada;40,80;Dinheiro
+27/05/2026;18:42:07;0183;Frango tudo;17,90;Pix
+27/05/2026;18:49:27;0229;Lombo completo,2xFrango bacon,Batata frita grande,Molho de alho;71,50;Cartão de Crédito
+27/05/2026;18:59:31;0276;Molho da casa;1,90;Pix
+27/05/2026;19:05:17;0245;2xX-Salada (Artesanal 150g);57,80;Cartão de Crédito
+27/05/2026;19:22:39;0734;X-Salada (Artesanal 150g);28,90;Dinheiro
+27/05/2026;19:36:55;0475;X-Tudo (Artesanal 150g),Lombo tudo,X-Completo (Artesanal 150g),X-Completo (Artesanal 150g);92,60;Pix
+27/05/2026;19:48:06;0461;X-Salada (Padrão),X-Completo (Padrão),Molho da casa;43,70;Pix
+27/05/2026;19:49:21;0994;Molho da casa,Filé Completo,Lombo bacon;46,70;Cartão de Crédito
+27/05/2026;19:50:21;0579;Frango bacon,Lombo salada;32,80;Pix
+27/05/2026;19:51:11;0465;X-Completo (Artesanal 150g),X-Bacon (Padrão),Filé salada;61,70;Dinheiro
+27/05/2026;20:00:25;0915;Lombo completo,X-Bacon (Artesanal 150g);45,80;Cartão de Crédito
+27/05/2026;20:05:45;0350;Refrigerante lata;3,90;Pix
+27/05/2026;20:07:36;0243;Frango completo,Frango bacon,Frango salada;57,70;Pix
+27/05/2026;20:10:46;0716;Molho de alho,X-Bacon (Padrão),Cerveja Lata;24,70;Pix
+27/05/2026;20:16:17;0820;Frango tudo,X-Completo (Artesanal 150g);43,80;Cartão de Crédito
+27/05/2026;20:17:55;0801;Batata frita pequena,X-Completo (Padrão),Filé salada,Lombo completo;78,60;Pix
+27/05/2026;20:27:23;0943;Filé Completo,Frango completo,2xBatata frita grande;79,60;Cartão de Crédito
+27/05/2026;20:32:46;0972;Frango bacon,X-Salada (Padrão),X-Tudo (Artesanal 150g);55,70;Cartão de Débito
+27/05/2026;20:33:58;0842;X-Bacon (Artesanal 150g);20,90;Cartão de Crédito
+27/05/2026;20:52:19;0567;X-Bacon (Padrão),X-Salada (Padrão),Filé bacon;50,70;Cartão de Crédito
+27/05/2026;20:56:34;0403;X-Completo (Artesanal 150g),Refrigerante litro;33,80;Cartão de Crédito
+27/05/2026;21:00:11;0720;Filé tudo,X-Bacon (Artesanal 150g);41,80;Cartão de Crédito
+27/05/2026;21:09:29;0371;Frango bacon,Molho da casa,Frango tudo,Filé bacon;53,60;Pix
+27/05/2026;21:13:14;0748;Frango completo,Frango tudo,Filé Completo,3xX-Salada (Padrão);122,40;Pix
+27/05/2026;21:20:13;0178;Lombo completo,Molho da casa,Filé bacon;44,70;Cartão de Crédito
+27/05/2026;21:29:38;0543;Frango tudo,X-Tudo (Artesanal 150g),Filé bacon;58,70;Pix
+27/05/2026;21:39:54;0261;2xX-Salada (Padrão),Batata frita grande;46,70;Cartão de Débito
+27/05/2026;21:41:26;0556;Batata frita grande;12,90;Pix
+27/05/2026;21:42:07;0042;2xX-Bacon (Artesanal 150g),Cerveja Lata;48,70;Cartão de Crédito
+27/05/2026;21:43:36;0660;Lombo salada,Frango completo,Lombo tudo,Lombo bacon;75,60;Cartão de Débito
+27/05/2026;21:54:32;0427;Frango tudo,Refrigerante litro,Molho da casa,Refrigerante litro;35,60;Pix
+27/05/2026;21:58:44;0293;Lombo bacon,2xFrango bacon;47,70;Pix
+27/05/2026;21:59:14;0573;Lombo salada,X-Bacon (Artesanal 150g),3xFrango bacon,Frango bacon;101,40;Dinheiro
+27/05/2026;22:03:57;0857;Lombo salada,Batata frita grande,2xFrango completo;79,60;Dinheiro
+27/05/2026;22:14:07;0445;2xMolho da casa,Filé Completo,Refrigerante litro,2xLombo tudo;76,40;Pix
+27/05/2026;22:22:41;0376;Refrigerante litro,Molho da casa,X-Bacon (Padrão);25,70;Cartão de Débito
+27/05/2026;22:27:15;0015;Filé salada;19,90;Dinheiro
+27/05/2026;22:38:59;0438;Refrigerante litro,Frango tudo,Lombo tudo;43,70;Cartão de Crédito
+27/05/2026;22:39:06;0818;X-Salada (Artesanal 150g);28,90;Cartão de Débito
+27/05/2026;22:40:55;0045;Cerveja Lata,Frango bacon,Molho de alho,Refrigerante lata;28,60;Pix
+27/05/2026;22:52:24;0079;Frango tudo,Filé Completo,2xCerveja Lata;60,60;Pix
+27/05/2026;23:02:32;0240;Lombo completo,X-Tudo (Padrão);42,80;Cartão de Crédito
+27/05/2026;23:04:25;0374;Batata frita grande,Lombo completo;37,80;Pix
+27/05/2026;23:05:01;0767;2xX-Tudo (Artesanal 150g),Cerveja Lata;52,70;Cartão de Crédito
+27/05/2026;23:09:30;0705;Refrigerante litro;7,90;Cartão de Crédito
+27/05/2026;23:11:15;0854;2xFilé bacon;35,80;Pix
+27/05/2026;23:11:37;0899;Lombo bacon,2xX-Bacon (Padrão),Frango completo;72,60;Pix
+27/05/2026;23:19:21;0964;X-Completo (Artesanal 150g),Frango bacon;41,80;Cartão de Crédito
+27/05/2026;23:21:47;0389;3xRefrigerante lata;11,70;Pix
+27/05/2026;23:21:58;0159;Frango bacon;15,90;Dinheiro
+27/05/2026;23:31:51;0368;Refrigerante lata,Frango tudo,2xLombo completo,X-Bacon (Artesanal 150g);92,50;Pix
+27/05/2026;23:38:55;0093;X-Bacon (Padrão),Frango salada;32,80;Cartão de Crédito
+27/05/2026;23:41:27;0621;Lombo salada;16,90;Pix
+27/05/2026;23:47:12;0732;Batata frita pequena,Lombo salada,2xX-Salada (Artesanal 150g),X-Salada (Artesanal 150g);112,50;Cartão de Débito
+27/05/2026;23:48:10;0950;2xFrango tudo,Filé Completo,Frango tudo;82,60;Pix
+27/05/2026;23:50:12;0666;2xRefrigerante lata,Filé Completo;36,70;Cartão de Débito
+27/05/2026;23:52:59;0583;Lombo salada,X-Bacon (Artesanal 150g);37,80;Cartão de Débito
+27/05/2026;23:53:30;0036;Cerveja Lata;6,90;Cartão de Crédito
+27/05/2026;23:53:51;0642;X-Bacon (Artesanal 150g),2xX-Salada (Padrão),Filé bacon,X-Bacon (Padrão);88,50;Cartão de Crédito
+27/05/2026;23:59:45;0250;Lombo salada,Frango tudo,Cerveja Lata,X-Completo (Artesanal 150g);67,60;Cartão de Crédito
+28/05/2026;18:20:38;0446;Filé tudo;20,90;Cartão de Débito
+28/05/2026;18:21:27;0902;X-Bacon (Padrão),Filé bacon;33,80;Pix
+28/05/2026;18:26:54;0830;X-Bacon (Artesanal 150g),3xMolho de alho,Filé bacon;44,50;Pix
+28/05/2026;18:27:17;0253;3xX-Bacon (Artesanal 150g),Frango salada,X-Salada (Padrão);96,50;Cartão de Crédito
+28/05/2026;18:28:48;0720;Lombo tudo;17,90;Cartão de Crédito
+28/05/2026;19:03:09;0879;Refrigerante litro,Molho da casa;9,80;Cartão de Crédito
+28/05/2026;19:06:51;0269;X-Salada (Artesanal 150g);28,90;Pix
+28/05/2026;19:09:15;0310;2xBatata frita grande,Lombo completo,Filé bacon;68,60;Pix
+28/05/2026;19:13:31;0760;Filé Completo;28,90;Dinheiro
+28/05/2026;19:19:33;0755;2xFilé tudo,X-Completo (Padrão),Refrigerante lata,2xFilé bacon;106,40;Pix
+28/05/2026;19:21:30;0782;Filé tudo;20,90;Cartão de Débito
+28/05/2026;19:25:11;0830;Molho de alho,X-Salada (Artesanal 150g),2xLombo bacon;62,60;Cartão de Débito
+28/05/2026;19:37:14;0599;2xX-Salada (Padrão),X-Bacon (Padrão),X-Tudo (Padrão),X-Tudo (Padrão);85,50;Cartão de Débito
+28/05/2026;19:46:57;0485;Frango completo,2xX-Salada (Artesanal 150g);82,70;Cartão de Crédito
+28/05/2026;19:47:42;0656;X-Salada (Padrão),Cerveja Lata,X-Tudo (Artesanal 150g),Filé salada;66,60;Cartão de Crédito
+28/05/2026;19:52:33;0052;Filé Completo,Filé bacon;46,80;Cartão de Crédito
+28/05/2026;20:09:48;0192;Refrigerante lata,2xFilé salada,Cerveja Lata;50,60;Cartão de Crédito
+28/05/2026;20:22:20;0509;Lombo tudo;17,90;Pix
+28/05/2026;20:27:51;0283;X-Completo (Padrão),X-Completo (Padrão),X-Tudo (Artesanal 150g),Batata frita grande;85,60;Pix
+28/05/2026;20:30:02;0089;X-Salada (Padrão);16,90;Cartão de Crédito
+28/05/2026;20:34:15;0802;2xLombo tudo;35,80;Cartão de Crédito
+28/05/2026;20:35:10;0990;X-Tudo (Padrão),Frango bacon;33,80;Cartão de Débito
+28/05/2026;20:40:07;0742;Molho da casa;1,90;Cartão de Crédito
+28/05/2026;20:40:20;0198;X-Bacon (Padrão),Lombo bacon,X-Tudo (Padrão),Molho da casa;51,60;Cartão de Débito
+28/05/2026;20:54:13;0085;Batata frita grande;12,90;Cartão de Débito
+28/05/2026;20:55:09;0484;X-Salada (Padrão),Batata frita pequena;25,80;Cartão de Crédito
+28/05/2026;20:57:12;0752;Frango bacon,Frango completo,X-Tudo (Artesanal 150g),2xX-Tudo (Artesanal 150g);109,50;Cartão de Débito
+28/05/2026;20:57:17;0060;Lombo completo,2xFilé Completo;82,70;Cartão de Débito
+28/05/2026;21:08:01;0822;Lombo bacon,X-Tudo (Artesanal 150g);38,80;Cartão de Débito
+28/05/2026;21:13:44;0358;X-Bacon (Padrão),Batata frita pequena,3xX-Salada (Padrão);75,50;Cartão de Débito
+28/05/2026;21:35:59;0353;Filé bacon,Frango completo;42,80;Pix
+28/05/2026;21:40:09;0911;2xFilé salada,Frango salada;56,70;Cartão de Crédito
+28/05/2026;21:43:01;0739;X-Salada (Padrão),X-Bacon (Artesanal 150g);37,80;Cartão de Crédito
+28/05/2026;21:48:01;0083;Frango bacon,Cerveja Lata,X-Bacon (Padrão),Lombo completo;63,60;Pix
+28/05/2026;21:55:19;0100;Molho de alho,X-Completo (Padrão),Filé tudo,X-Completo (Padrão);72,60;Pix
+28/05/2026;22:02:55;0791;X-Bacon (Artesanal 150g),Molho da casa;22,80;Cartão de Débito
+28/05/2026;22:05:32;0322;X-Bacon (Padrão),Filé tudo,X-Completo (Padrão),Filé salada;81,60;Cartão de Crédito
+28/05/2026;22:10:38;0352;Lombo bacon,X-Salada (Artesanal 150g),Lombo tudo,Frango completo;87,60;Cartão de Crédito
+28/05/2026;22:14:17;0517;Batata frita grande,Frango salada,Filé bacon,Filé bacon;65,60;Cartão de Crédito
+28/05/2026;22:15:29;0106;Filé tudo,X-Tudo (Artesanal 150g);43,80;Cartão de Débito
+28/05/2026;22:40:36;0948;Lombo salada;16,90;Pix
+28/05/2026;22:41:47;0310;2xLombo bacon;31,80;Cartão de Débito
+28/05/2026;22:59:08;0483;Refrigerante lata,Lombo completo,Frango tudo,2xFrango completo;96,50;Pix
+28/05/2026;23:02:01;0558;2xFilé Completo,Batata frita grande,Filé Completo;99,60;Pix
+28/05/2026;23:03:07;0912;Filé Completo,Filé tudo,X-Salada (Artesanal 150g);78,70;Cartão de Débito
+28/05/2026;23:03:58;0377;X-Salada (Artesanal 150g),Frango tudo;46,80;Pix
+28/05/2026;23:18:41;0969;X-Salada (Padrão),Molho de alho,X-Completo (Artesanal 150g),2xLombo tudo;80,50;Cartão de Débito
+28/05/2026;23:20:40;0167;Filé tudo,2xX-Completo (Artesanal 150g),X-Completo (Padrão),Cerveja Lata;104,50;Cartão de Débito
+28/05/2026;23:30:35;0742;Lombo completo;24,90;Cartão de Crédito
+28/05/2026;23:39:58;0992;X-Salada (Padrão),Lombo completo;41,80;Pix
+28/05/2026;23:40:32;0553;X-Tudo (Artesanal 150g),Filé bacon,3xFilé salada;100,50;Cartão de Crédito
+28/05/2026;23:43:12;0599;Batata frita pequena,Lombo completo;33,80;Dinheiro
+28/05/2026;23:46:35;0778;X-Completo (Padrão),X-Bacon (Padrão);40,80;Pix
+28/05/2026;23:48:27;0571;Lombo salada,Filé tudo;37,80;Cartão de Crédito
+28/05/2026;23:55:26;0077;X-Completo (Padrão);24,90;Cartão de Crédito
+28/05/2026;23:59:44;0836;Frango bacon;15,90;Pix
+29/05/2026;18:06:10;0470;X-Tudo (Padrão);17,90;Dinheiro
+29/05/2026;18:10:41;0078;X-Salada (Padrão);16,90;Cartão de Débito
+29/05/2026;18:13:54;0051;X-Salada (Padrão),2xFrango tudo,Frango salada,Filé bacon;87,50;Cartão de Crédito
+29/05/2026;18:24:46;0699;X-Salada (Padrão),Lombo bacon;32,80;Cartão de Crédito
+29/05/2026;18:28:04;0809;Lombo salada,Frango bacon,Batata frita pequena;41,70;Dinheiro
+29/05/2026;18:32:47;0130;Filé Completo;28,90;Cartão de Crédito
+29/05/2026;18:34:30;0565;Filé Completo,Filé salada;48,80;Pix
+29/05/2026;18:38:42;0413;Lombo tudo;17,90;Pix
+29/05/2026;18:42:57;0594;Filé salada,Frango bacon,Molho de alho,X-Salada (Artesanal 150g);66,60;Cartão de Débito
+29/05/2026;18:46:42;0169;X-Tudo (Padrão),Filé salada,X-Completo (Padrão),X-Bacon (Artesanal 150g);83,60;Dinheiro
+29/05/2026;19:10:12;0718;3xFrango tudo,Batata frita pequena,X-Tudo (Artesanal 150g),Filé bacon;103,40;Cartão de Débito
+29/05/2026;19:18:20;0149;Lombo salada,Lombo tudo,Batata frita pequena;43,70;Pix
+29/05/2026;19:19:24;0066;Frango salada,X-Tudo (Padrão),Refrigerante litro;42,70;Pix
+29/05/2026;19:46:42;0479;Frango completo;24,90;Cartão de Crédito
+29/05/2026;19:48:19;0086;Filé tudo,Batata frita pequena,Refrigerante lata;33,70;Dinheiro
+29/05/2026;19:56:20;0486;X-Completo (Padrão),Filé bacon;42,80;Cartão de Crédito
+29/05/2026;19:57:29;0332;Lombo tudo;17,90;Pix
+29/05/2026;20:01:35;0273;Molho de alho,X-Bacon (Artesanal 150g);22,80;Dinheiro
+29/05/2026;20:01:54;0053;Lombo bacon,X-Salada (Artesanal 150g);44,80;Cartão de Crédito
+29/05/2026;20:08:41;0710;2xRefrigerante litro,Frango bacon,Molho de alho;33,60;Pix
+29/05/2026;20:10:07;0613;2xFrango salada,Batata frita pequena,Frango tudo;60,60;Cartão de Débito
+29/05/2026;20:17:25;0223;Batata frita grande,Molho de alho;14,80;Cartão de Débito
+29/05/2026;20:19:19;0554;Filé tudo,Filé tudo,Filé salada,Lombo completo;86,60;Cartão de Débito
+29/05/2026;20:24:46;0489;Lombo completo;24,90;Cartão de Débito
+29/05/2026;20:26:18;0207;Lombo bacon,X-Completo (Artesanal 150g);41,80;Cartão de Débito
+29/05/2026;20:28:38;0547;Frango completo,Frango bacon,X-Salada (Artesanal 150g);69,70;Pix
+29/05/2026;20:30:09;0440;Filé tudo,2xFrango salada;54,70;Pix
+29/05/2026;20:31:05;0088;Batata frita grande,X-Completo (Padrão);37,80;Cartão de Crédito
+29/05/2026;20:39:25;0451;Lombo completo,Filé Completo,2xFilé salada,X-Bacon (Padrão);109,50;Cartão de Crédito
+29/05/2026;20:45:16;0056;Refrigerante lata,Cerveja Lata,2xBatata frita pequena;28,60;Cartão de Débito
+29/05/2026;20:54:24;0149;Refrigerante litro;7,90;Cartão de Crédito
+29/05/2026;21:00:42;0773;X-Bacon (Artesanal 150g);20,90;Cartão de Crédito
+29/05/2026;21:01:28;0768;X-Completo (Padrão),2xMolho da casa;28,70;Cartão de Crédito
+29/05/2026;21:06:10;0108;Lombo tudo,Filé tudo,Frango bacon,Molho da casa;56,60;Pix
+29/05/2026;21:12:50;0512;2xFilé Completo,Lombo salada,Filé tudo;95,60;Cartão de Débito
+29/05/2026;21:14:27;0016;Frango completo,Lombo bacon,X-Completo (Padrão);65,70;Cartão de Crédito
+29/05/2026;21:20:53;0060;Filé tudo,Lombo tudo,Refrigerante lata,2xX-Completo (Padrão);92,50;Cartão de Crédito
+29/05/2026;21:34:13;0202;X-Tudo (Artesanal 150g),X-Tudo (Padrão);40,80;Cartão de Crédito
+29/05/2026;21:37:54;0645;X-Bacon (Padrão),Frango completo;40,80;Cartão de Débito
+29/05/2026;21:42:03;0826;Filé tudo,Refrigerante litro;28,80;Cartão de Crédito
+29/05/2026;21:42:58;0175;Lombo tudo;17,90;Cartão de Crédito
+29/05/2026;21:44:04;0991;2xX-Completo (Padrão),Filé bacon,Batata frita grande,3xX-Bacon (Padrão);128,30;Pix
+29/05/2026;21:56:10;0707;X-Completo (Artesanal 150g),Lombo completo,Frango tudo,Frango bacon;84,60;Pix
+29/05/2026;22:01:54;0257;X-Tudo (Padrão),X-Tudo (Padrão),Filé bacon;53,70;Pix
+29/05/2026;22:04:01;0463;Molho da casa;1,90;Cartão de Crédito
+29/05/2026;22:11:54;0611;3xMolho da casa,X-Bacon (Padrão),Frango completo,Frango completo;71,40;Cartão de Débito
+29/05/2026;22:20:52;0813;2xRefrigerante litro;15,80;Cartão de Débito
+29/05/2026;22:23:53;0054;Filé salada,Batata frita grande,X-Salada (Artesanal 150g),X-Bacon (Artesanal 150g);82,60;Pix
+29/05/2026;22:27:30;0050;Lombo salada,2xX-Bacon (Padrão),3xFrango tudo;102,40;Pix
+29/05/2026;22:30:19;0210;Lombo completo,3xX-Completo (Artesanal 150g),Filé tudo;123,50;Pix
+29/05/2026;22:31:36;0041;X-Salada (Artesanal 150g),Molho de alho,Frango bacon,Batata frita pequena;55,60;Cartão de Crédito
+29/05/2026;22:36:30;0226;X-Completo (Artesanal 150g);25,90;Dinheiro
+29/05/2026;22:41:00;0517;2xBatata frita grande,Frango salada,Filé Completo,Molho da casa;73,50;Dinheiro
+29/05/2026;22:44:58;0270;Frango salada,X-Tudo (Artesanal 150g),Filé salada;59,70;Pix
+29/05/2026;22:50:14;0148;X-Bacon (Padrão),Filé salada,2xLombo tudo;71,60;Pix
+29/05/2026;22:53:10;0717;Batata frita grande,Refrigerante litro,Lombo salada;37,70;Dinheiro
+29/05/2026;22:53:51;0498;3xFilé Completo;86,70;Cartão de Crédito
+29/05/2026;22:55:34;0433;Refrigerante litro;7,90;Pix
+29/05/2026;22:56:07;0002;X-Tudo (Padrão);17,90;Cartão de Débito
+29/05/2026;22:57:00;0619;Cerveja Lata,X-Bacon (Artesanal 150g);27,80;Dinheiro
+29/05/2026;22:57:43;0090;Lombo bacon,2xRefrigerante lata,Filé Completo,Refrigerante litro;60,50;Cartão de Débito
+29/05/2026;23:01:10;0345;X-Completo (Padrão),X-Bacon (Padrão),2xBatata frita pequena,Cerveja Lata;65,50;Pix
+29/05/2026;23:01:30;0176;Lombo tudo,2xRefrigerante litro,2xX-Completo (Artesanal 150g),X-Tudo (Artesanal 150g);108,40;Cartão de Débito
+29/05/2026;23:12:33;0362;X-Salada (Padrão),Batata frita pequena;25,80;Cartão de Débito
+29/05/2026;23:14:04;0600;2xLombo salada,Cerveja Lata,Lombo bacon,3xX-Salada (Artesanal 150g);143,30;Cartão de Débito
+29/05/2026;23:18:29;0084;2xLombo tudo,X-Bacon (Artesanal 150g),Filé salada,Lombo completo;101,50;Cartão de Crédito
+29/05/2026;23:19:17;0592;Lombo tudo;17,90;Cartão de Débito
+29/05/2026;23:23:57;0884;Filé Completo;28,90;Cartão de Débito
+29/05/2026;23:26:13;0063;X-Completo (Padrão),Molho de alho,Filé tudo,2xFrango bacon;79,50;Cartão de Débito
+29/05/2026;23:30:55;0115;X-Tudo (Padrão);17,90;Dinheiro
+29/05/2026;23:31:49;0166;2xFilé bacon,Lombo tudo;53,70;Dinheiro
+29/05/2026;23:34:58;0584;X-Salada (Padrão),2xFrango salada,2xX-Tudo (Artesanal 150g);96,50;Pix
+29/05/2026;23:40:21;0344;Lombo tudo,2xX-Completo (Padrão);67,70;Pix
+29/05/2026;23:51:04;0846;X-Salada (Padrão),Frango tudo,Lombo salada;51,70;Cartão de Débito
+29/05/2026;23:56:40;0605;X-Completo (Padrão);24,90;Cartão de Débito
+30/05/2026;18:04:34;0312;Batata frita pequena,X-Salada (Artesanal 150g),X-Completo (Padrão);62,70;Cartão de Débito
+30/05/2026;18:06:07;0328;2xFilé Completo;57,80;Pix
+30/05/2026;18:18:15;0136;Refrigerante litro,Lombo tudo,Filé tudo,2xMolho de alho;50,50;Pix
+30/05/2026;18:23:02;0869;Frango completo;24,90;Cartão de Crédito
+30/05/2026;18:36:00;0582;X-Completo (Artesanal 150g),X-Completo (Artesanal 150g),2xX-Completo (Artesanal 150g);103,60;Cartão de Crédito
+30/05/2026;18:39:06;0206;Frango bacon,Filé salada;35,80;Cartão de Débito
+30/05/2026;18:41:13;0816;X-Tudo (Artesanal 150g);22,90;Pix
+30/05/2026;18:41:56;0333;Filé bacon,2xBatata frita grande,Cerveja Lata,Molho de alho;52,50;Pix
+30/05/2026;18:46:29;0441;Molho da casa,X-Bacon (Artesanal 150g),X-Completo (Padrão);47,70;Pix
+30/05/2026;18:47:31;0699;Lombo completo,X-Salada (Padrão),Frango bacon;57,70;Cartão de Débito
+30/05/2026;18:48:36;0070;2xFilé bacon;35,80;Pix
+30/05/2026;18:48:52;0643;Refrigerante lata,Frango tudo,Batata frita pequena,Batata frita pequena;39,60;Cartão de Crédito
+30/05/2026;18:52:41;0265;X-Bacon (Artesanal 150g),Molho da casa;22,80;Cartão de Crédito
+30/05/2026;19:01:18;0822;Batata frita grande,X-Salada (Padrão),Lombo tudo;47,70;Cartão de Crédito
+30/05/2026;19:08:42;0810;2xCerveja Lata,Batata frita grande,2xLombo salada,X-Tudo (Artesanal 150g);83,40;Pix
+30/05/2026;19:09:48;0388;X-Tudo (Padrão),Frango salada,Frango bacon,Filé salada;70,60;Pix
+30/05/2026;19:18:21;0881;Lombo completo,2xFilé bacon,Molho de alho,3xLombo salada;113,30;Cartão de Débito
+30/05/2026;19:31:00;0205;Batata frita grande;12,90;Pix
+30/05/2026;19:40:05;0728;Molho de alho,Frango completo,X-Bacon (Artesanal 150g),Cerveja Lata;54,60;Pix
+30/05/2026;19:40:25;0194;X-Tudo (Artesanal 150g),X-Salada (Artesanal 150g),X-Tudo (Artesanal 150g),X-Completo (Artesanal 150g);100,60;Pix
+30/05/2026;19:43:19;0432;X-Tudo (Padrão),X-Bacon (Artesanal 150g),Batata frita pequena;47,70;Cartão de Débito
+30/05/2026;19:44:23;0769;Frango completo,Frango tudo;42,80;Cartão de Crédito
+30/05/2026;19:46:53;0910;Frango salada;16,90;Cartão de Crédito
+30/05/2026;19:53:51;0566;X-Completo (Artesanal 150g),X-Completo (Artesanal 150g),Filé Completo,Frango completo;105,60;Cartão de Crédito
+30/05/2026;19:56:12;0022;Filé Completo,Frango tudo,Cerveja Lata,Molho da casa;55,60;Pix
+30/05/2026;20:06:03;0686;Molho da casa,X-Completo (Artesanal 150g),2xBatata frita pequena,X-Salada (Artesanal 150g);74,50;Cartão de Crédito
+30/05/2026;20:06:59;0962;Filé bacon,Molho de alho;19,80;Cartão de Crédito
+30/05/2026;20:07:42;0411;Frango tudo,Frango bacon;33,80;Cartão de Débito
+30/05/2026;20:10:32;0176;X-Tudo (Padrão),Frango completo;42,80;Pix
+30/05/2026;20:10:43;0249;Filé bacon,Refrigerante litro;25,80;Cartão de Débito
+30/05/2026;20:19:23;0375;Filé Completo,Molho de alho,Frango bacon;46,70;Cartão de Crédito
+30/05/2026;20:28:30;0845;Frango salada,2xX-Bacon (Padrão);48,70;Pix
+30/05/2026;20:38:01;0982;X-Completo (Padrão),Refrigerante lata;28,80;Dinheiro
+30/05/2026;20:41:46;0654;Lombo completo,2xMolho de alho;28,70;Cartão de Débito
+30/05/2026;20:47:18;0862;X-Completo (Padrão),3xFilé tudo,Frango tudo;105,50;Dinheiro
+30/05/2026;20:47:34;0116;X-Tudo (Padrão);17,90;Cartão de Crédito
+30/05/2026;21:06:26;0141;Filé Completo,X-Bacon (Padrão),Lombo salada,X-Salada (Padrão);78,60;Cartão de Débito
+30/05/2026;21:19:58;0343;Lombo completo,Lombo completo;49,80;Dinheiro
+30/05/2026;21:20:34;0601;Molho da casa,Molho de alho,X-Bacon (Artesanal 150g);24,70;Pix
+30/05/2026;21:24:33;0957;Frango completo,2xLombo salada,X-Salada (Padrão),Lombo salada;92,50;Pix
+30/05/2026;21:31:54;0025;Refrigerante lata;3,90;Cartão de Crédito
+30/05/2026;21:32:11;0388;Filé bacon,Filé salada;37,80;Pix
+30/05/2026;21:39:15;0072;X-Bacon (Padrão);15,90;Cartão de Débito
+30/05/2026;21:43:28;0676;Frango completo,2xX-Tudo (Padrão),X-Bacon (Padrão);76,60;Dinheiro
+30/05/2026;21:47:39;0286;2xFilé bacon,Filé salada,X-Bacon (Padrão);71,60;Cartão de Débito
+30/05/2026;22:08:25;0210;X-Tudo (Artesanal 150g),Frango bacon;38,80;Cartão de Crédito
+30/05/2026;22:17:08;0704;Filé bacon,Refrigerante lata;21,80;Cartão de Débito
+30/05/2026;22:21:15;0618;Filé tudo;20,90;Cartão de Débito
+30/05/2026;22:21:46;0039;Molho de alho,Lombo completo,Lombo bacon;42,70;Cartão de Débito
+30/05/2026;22:28:51;0504;X-Salada (Artesanal 150g),Filé tudo,Filé tudo;70,70;Cartão de Crédito
+30/05/2026;22:32:51;0190;Molho de alho,Lombo bacon;17,80;Pix
+30/05/2026;22:44:25;0508;2xFilé Completo,2xFilé salada,2xFilé bacon,X-Salada (Artesanal 150g);162,30;Cartão de Crédito
+30/05/2026;22:52:02;0049;Cerveja Lata,Filé bacon,X-Tudo (Artesanal 150g),Filé salada;67,60;Cartão de Crédito
+30/05/2026;22:56:24;0322;Filé salada;19,90;Pix
+30/05/2026;23:03:00;0290;X-Tudo (Padrão);17,90;Dinheiro
+30/05/2026;23:23:44;0068;Lombo bacon,Lombo completo;40,80;Dinheiro
+30/05/2026;23:26:23;0584;Lombo completo,Refrigerante litro;32,80;Cartão de Crédito
+30/05/2026;23:31:28;0918;Batata frita grande,X-Bacon (Padrão),2xCerveja Lata;42,60;Pix
+30/05/2026;23:44:26;0657;Filé salada,Batata frita pequena,X-Bacon (Artesanal 150g);49,70;Cartão de Débito
+30/05/2026;23:54:12;0715;Frango salada,Frango bacon,X-Salada (Artesanal 150g),X-Bacon (Artesanal 150g);82,60;Cartão de Débito
+30/05/2026;23:55:25;0182;Lombo completo,Lombo bacon,Filé Completo;69,70;Pix
+31/05/2026;18:10:34;0142;Lombo tudo,Lombo completo,X-Completo (Artesanal 150g);68,70;Dinheiro
+31/05/2026;18:11:54;0302;Frango bacon,X-Completo (Padrão),Filé salada,Molho de alho;62,60;Cartão de Débito
+31/05/2026;18:13:12;0927;2xMolho de alho,X-Bacon (Artesanal 150g);24,70;Pix
+31/05/2026;18:17:29;0452;X-Bacon (Artesanal 150g),Frango completo,X-Tudo (Artesanal 150g),Molho da casa;70,60;Cartão de Crédito
+31/05/2026;18:19:31;0021;Lombo completo,Lombo bacon,Filé salada,Cerveja Lata;67,60;Cartão de Débito
+31/05/2026;18:31:56;0557;Lombo salada,Cerveja Lata,Cerveja Lata,Frango tudo;48,60;Cartão de Crédito
+31/05/2026;18:37:55;0672;Cerveja Lata;6,90;Pix
+31/05/2026;18:44:15;0539;X-Tudo (Artesanal 150g),Lombo completo,Refrigerante litro;55,70;Cartão de Crédito
+31/05/2026;18:50:18;0108;Molho da casa,Frango salada;18,80;Pix
+31/05/2026;18:52:42;0055;Lombo tudo,X-Salada (Padrão);34,80;Cartão de Débito
+31/05/2026;18:54:46;0077;X-Bacon (Artesanal 150g),Batata frita pequena,Refrigerante lata,Lombo bacon;49,60;Cartão de Débito
+31/05/2026;18:59:47;0385;X-Completo (Artesanal 150g),2xX-Tudo (Padrão);61,70;Cartão de Crédito
+31/05/2026;19:12:48;0263;2xX-Tudo (Padrão),Filé salada,X-Bacon (Artesanal 150g);76,60;Pix
+31/05/2026;19:31:52;0391;Filé tudo,X-Tudo (Artesanal 150g),Refrigerante lata;47,70;Pix
+31/05/2026;19:54:30;0255;Cerveja Lata,Frango tudo,Lombo tudo;42,70;Dinheiro
+31/05/2026;20:28:47;0749;3xLombo bacon,X-Completo (Padrão),X-Completo (Padrão);97,50;Cartão de Crédito
+31/05/2026;20:32:45;0864;Molho da casa,X-Completo (Padrão),2xX-Salada (Artesanal 150g);84,60;Cartão de Débito
+31/05/2026;20:38:12;0576;2xRefrigerante lata;7,80;Cartão de Crédito
+31/05/2026;20:41:13;0739;X-Tudo (Artesanal 150g),Filé salada,Frango bacon,Lombo salada;75,60;Pix
+31/05/2026;20:46:33;0288;Frango completo,Batata frita pequena,Filé salada;53,70;Dinheiro
+31/05/2026;20:50:34;0026;X-Tudo (Artesanal 150g);22,90;Pix
+31/05/2026;20:53:29;0979;Frango tudo,Molho de alho,3xMolho de alho,X-Bacon (Artesanal 150g);46,40;Pix
+31/05/2026;20:54:38;0637;Refrigerante litro,Frango bacon,Batata frita pequena,Filé Completo;61,60;Cartão de Crédito
+31/05/2026;21:11:05;0696;X-Tudo (Artesanal 150g),3xRefrigerante litro;46,60;Pix
+31/05/2026;21:11:32;0325;Lombo completo;24,90;Cartão de Débito
+31/05/2026;21:27:47;0020;Lombo tudo,Filé bacon,Molho da casa;37,70;Cartão de Débito
+31/05/2026;21:30:49;0640;Frango bacon,X-Bacon (Padrão);31,80;Pix
+31/05/2026;21:44:54;0735;Frango tudo;17,90;Cartão de Crédito
+31/05/2026;21:47:55;0609;Frango bacon,X-Completo (Padrão);40,80;Cartão de Crédito
+31/05/2026;21:48:36;0247;2xX-Tudo (Artesanal 150g),X-Bacon (Artesanal 150g),Lombo tudo;84,60;Cartão de Crédito
+31/05/2026;21:50:26;0401;Frango completo,Lombo tudo;42,80;Dinheiro
+31/05/2026;21:53:19;0114;Frango tudo,Lombo salada,X-Tudo (Artesanal 150g),2xBatata frita pequena;75,50;Cartão de Crédito
+31/05/2026;22:02:17;0661;2xX-Salada (Artesanal 150g),Cerveja Lata,Frango completo;89,60;Cartão de Crédito
+31/05/2026;22:03:54;0306;Refrigerante litro;7,90;Dinheiro
+31/05/2026;22:07:40;0622;3xFrango salada,Refrigerante litro;58,60;Pix
+31/05/2026;22:15:50;0475;Lombo completo;24,90;Pix
+31/05/2026;22:18:23;0311;Frango salada,Refrigerante litro;24,80;Cartão de Crédito
+31/05/2026;22:18:23;0844;X-Completo (Padrão),Frango bacon;40,80;Cartão de Crédito
+31/05/2026;22:20:55;0698;Frango bacon;15,90;Cartão de Crédito
+31/05/2026;22:30:46;0133;Filé salada;19,90;Cartão de Crédito
+31/05/2026;22:32:42;0118;X-Bacon (Artesanal 150g),Refrigerante lata,X-Completo (Artesanal 150g),3xFilé salada;110,40;Dinheiro
+31/05/2026;22:36:09;0610;Batata frita grande,Filé bacon,Filé bacon;48,70;Cartão de Débito
+31/05/2026;22:45:28;0839;X-Bacon (Artesanal 150g);20,90;Pix
+31/05/2026;22:51:50;0386;Filé tudo,X-Bacon (Artesanal 150g),2xRefrigerante lata,3xLombo tudo;103,30;Cartão de Crédito
+31/05/2026;22:55:24;0264;Lombo tudo,Cerveja Lata;24,80;Cartão de Crédito
+31/05/2026;22:59:59;0650;X-Tudo (Artesanal 150g);22,90;Pix
+31/05/2026;23:01:11;0001;2xX-Tudo (Padrão),2xX-Bacon (Padrão),Lombo tudo,2xFrango completo;135,30;Cartão de Débito
+31/05/2026;23:05:53;0340;X-Tudo (Padrão),2xFrango completo;67,70;Cartão de Crédito
+31/05/2026;23:16:55;0349;3xLombo tudo,Frango completo,Lombo completo;103,50;Pix
+31/05/2026;23:17:57;0295;Filé tudo,2xX-Completo (Padrão),Molho de alho;72,60;Cartão de Crédito
+31/05/2026;23:43:59;0532;Batata frita pequena;8,90;Cartão de Crédito
+31/05/2026;23:49:55;0012;Filé tudo,Filé salada,3xFilé bacon;94,50;Dinheiro
+31/05/2026;23:51:07;0491;Frango completo,2xX-Completo (Artesanal 150g);76,70;Cartão de Débito
+31/05/2026;23:51:40;0231;2xX-Salada (Padrão),Molho da casa,X-Tudo (Padrão);53,60;Pix
+31/05/2026;23:53:12;0781;Frango bacon;15,90;Pix
